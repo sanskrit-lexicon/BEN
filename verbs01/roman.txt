@@ -1,0 +1,34 @@
+E ai AI
+O au AU
+K kh KH
+G gh GH
+C ch CH
+J jh JH
+T th TH
+D dh DH
+P ph PH
+B bh BH
+W ṭh ṬH
+Q ḍh ḌH
+f ṛ Ṛ
+x ḷ Ḷ
+A ā Ā
+I ī Ī
+U ū Ū
+F ṝ Ṝ
+X ḹ Ḹ
+N ṅ Ṅ
+Y ñ Ñ
+w ṭ Ṭ
+q ḍ Ḍ
+R ṇ Ṇ
+S ś Ś
+z ṣ Ṣ
+H ḥ Ḥ
+M ṃ Ṃ
+' ' '
+L ḷ Ḷ
+| ḷh ḶH
+~ ̃ ̃
+lowerslp='abcdghijkptuñāīśū̃ḍḥḷḹṃṅṇṛṝṣṭ
+upperslp='ABCDGHIJKPTUÑĀĪŚŪ̃ḌḤḶḸṂṄṆṚṜṢṬ

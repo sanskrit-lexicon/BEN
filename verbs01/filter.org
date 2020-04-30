@@ -1,0 +1,1171 @@
+* <L>477<pc>007-2<k1>ada<k2>ada (not cae)
+; {#ada#}¦ {#a/kti#} essen, verzehren, genießen,
+; weiden (pasci). {%Inf.%} {#a/ktum#} {%u.%} {#a/ktave#}
+; {%Caus.%} {#Ada/yati#} {%u.%} {#°te#} essen lassen,
+; füttern.
+;
+* <L>626<pc>010-1<k1>aDogata<k2>aDogata (not cae)
+; {#aDogata#}¦ untergegangen  .{#aDogati#} f. das
+; Sinken.
+;
+* <L>1327<pc>020-2<k1>apasya<k2>apasya (not cae)
+; {#apasya#}¦ {#°sya/ti#} thätig sein.
+;
+* <L>1738<pc>027-1<k1>ar<k2>ar (not cae)
+; {#ar#}¦ {#i/yartim fRo/ti, fRva/ti, a/rti#} bewegen,
+; erregen, erheben {%(die Stimme),%} darbringen, <lbinfo n="8"/>
+; verschaffen; sich regen, eilen,
+; gelangen zu, erreichen. {%Caus.%} {#arpa/yati#}
+; schleudern, werfen, richten auf, anbringen, <lbinfo n="8"/>
+; hineinlegen, auflegen; übergeben, <lbinfo n="6"/>
+; zurückgeben. {#ud#} erregen, emporschicken. <lbinfo n="12"/>
+; {%Caus.,%} emporbringen, fördern. <lbinfo n="5"/>
+; {#pra#} {%Caus.%} anregen, beleben. {#prati#}
+; {%Caus.%} entgegenwerfen, zurückgeben. {#vi#}
+; (sich) erschließen. {#sam#} zusammenfügen;
+; zusammeneilen zu {%(Acc. o. Loc). Caus.%}
+; auflegen, übertragen auf, übergeben.
+;
+* <L>1793<pc>027-2<k1>arGa<k2>arGa (not cae)
+; {#arGa#}¦ , {#arGati#} wert sein.
+;
+* <L>1797<pc>028-1<k1>arc<k2>arc (not cae)
+; {#arc#}¦ {#a/rcati#} strahlen, singen, preisen, verehren, <lbinfo n="6"/>
+; schmücken. {%Caus.%} {#arcayati#} strahlen
+; machen, verehren. {#aBi#} singen, preisen,
+; verehren. {#pra#} anstimmen, preisen.
+;
+* <L>1802<pc>028-1<k1>arC<k2>arC (not cae)
+; {#arC#}¦ , {#fcCa/ti#} {%(nur Praes.)%} treffen, erreichen,
+; verletzen.
+;
+* <L>1803<pc>028-1<k1>arj<k2>arj (not cae)
+; {#arj#}¦ , {#arjati#} sich verschaffen, erwerben,
+; erlangen. {%Caus. Act. u. Med. dass.%} {#upa#}
+; {%Caus. dass.%}
+;
+* <L>1836<pc>028-2<k1>arda<k2>arda, (not cae)
+; {#arda,#}¦ {#a/rdati#} {%(ved. auch%} {#fdati)#} zerstieben, aufregen, <lbinfo n="6"/>
+; quälen, beunruhigen. {%Caus.%}
+; beunruhigen, quälen, beunruhigen. {%Caus.%}
+; beunruhigen, quälen, vernichten.
+;
+* <L>1838<pc>028-2<k1>arD<k2>arD, (not cae)
+; {#arD,#}¦ {#fDno/ti, fRa/dDi fDyati, °te#} gedeihen,fördern. <lbinfo n="15"/>
+; {%Pass.%} zu Standekommen.
+; {#fdDa#} reich, wohlhabend, voll. {#anu#} fördern,
+; ausführen. {#sam#} gedeihen; {%p.p.%} {#sa/mfdDa#}
+; erfüllt, vollkommen, reich, wohlhabend;
+; reichlich, viel. {%Caus.%} erfüllen, ausführen. <lbinfo n="7"/>
+;
+* <L>1877<pc>029-2<k1>arz<k2>arz,<h>1 (not cae)
+; 1. {#arz,#}¦ {#a/rzati#} dahinschießen, strömen.
+; {#aBi#} hinströmen zu {%(Acc.).%}
+;
+* <L>1878<pc>029-2<k1>arz<k2>arz,<h>2 (not cae)
+; 2. {#arz,#}¦ {#fza/ti#} stechen, stecken, stoßen.
+; {#ni#} hineinstecken: {%p.p.%} {#nyfzwa#} erfüllt.
+; strotzend von {%(Instr.).%}
+;
+* <L>2391<pc>037-1<k1>astamita<k2>a/stamita (not cae)
+; {#a/stamita#}¦ untergegangen. {#°mite#} {%(scil.%} {#sUrte)#}
+; nach Sonnenuntergang.
+;
+* <L>2903<pc>045-2<k1>Avilay<k2>Avilay, (not cae)
+; {#Avilay,#}¦ {#°yati#} trüben, beflecken.
+;
+* <L>3106<pc>050-2<k1>inv<k2>inv, (not cae)
+; {#inv,#}¦ {#in, i/nvati, ivo/ti#} in Bewegung
+; setzen, treiben, fördern, bewäkltigen.
+;
+* <L>3131<pc>050-2<k1>il<k2>il, (not cae)
+; {#il,#}¦ {#ilati,#} {%Caus.%} {#ila/yati#} stillstehen.
+;
+* <L>3279<pc>054-1<k1>ujJa<k2>ujJa (not cae)
+; {#ujJa#}¦ {#ujjYati#} verlassen, aufgeben, fahren
+; lassen, entsenden. {%p.p.%} {#ujjYita#} verlassen,
+; frei von {%(Instr. o.%} {#—°).#}
+;
+* <L>3293<pc>054-2<k1>utkaRWa<k2>utkaRWa (not cae)
+; {#utkaRWa#}¦ {#°eWate#} (den Hals ausrecken) sich
+; sehnen. {#°eWayati#} {%Caus.%}
+;
+* <L>3678<pc>060-2<k1>ubja<k2>ubja, (not cae)
+; {#ubja,#}¦ {#ubja/ti#} niederhalten, bändigen.
+;
+* <L>4393<pc>074-2<k1>kar<k2>kar<h>3 (not cae)
+; 3. {#kar#}¦ {#(skar) kira/ti, °te#} ausstreuen, ergießen; <lbinfo n="7"/>
+; {%p.p.%} {#kIrRa#} ausgestreut, bestreut.
+; bedeckt, erfüllt. {#ava#} hinstreune, bestreuen, <lbinfo n="8"/>
+; bedecken, besäen,m {%p.p.%} bestreut,
+; überschüttet, bedeckt, besät; zerronnen,
+; aufgelöst. {#A#} hinstreune, bedecken,
+; erfüllen; {%p.p.%} hingestreut, bedeckt, erfüllt <lbinfo n="5"/>
+; von ({#—°#}) {#samA#} {%dass.%} {#uda#} aufwirbeln <lbinfo n="7"/>
+; {%(Staub),%} ausgraben, aushöhlen;
+; {%p.p.%} ausgeschnitten, gegossen, gebildet
+; aus {%(Abl)%} {#pari#} umherstreuen, bestreuen;
+; {%p.p.%} ergossen, ausgebreitet. {#pra#} ausstreuen, <lbinfo n="8"/>
+; aussäen; {%p.p.%} ausgestreut, zerstreut, <lbinfo n="7"/>
+; verworren, mannigfach. {#vi#}
+; ausstreuen, werfen, schleudern. {#sam#}
+; ausgießen, überschütten, erfüllen; {%p.p.%}
+; {%erfüllt, verbunden,%} gemischt, verschiedenartig, <lbinfo n="6"/>
+; mannigfaltig.
+;
+* <L>4460<pc>075-2<k1>kart<k2>kart<h>1 (not cae)
+; 1. {#kart#}¦ {#krnta/ti (kfntati#} {%u.%} {#kartati)#} schneiden,
+; zerschneiden, spalten, abreißen, abhauen; <lbinfo n="6"/>
+; {%p.p.%} {#kftta/#} {%Caus.%} {#kartayati#} {%dass.%}
+; {#ava#} abschneiden, ablösen. {#ud#} ausschneiden, <lbinfo n="10"/>
+; ausweiden. {#ni#} niedermetzeln, <lbinfo n="8"/>
+; abschneiden; {%Med.%} sich abschneiden <lbinfo n="9"/>
+; {%(Nägel).%} {#sam#} zerschneiden.
+;
+* <L>4461<pc>075-2<k1>kart<k2>kart<h>2 (not cae)
+; 2. {#kart#}¦ {#kfRa/tti#} spinnen.
+;
+* <L>4509<pc>076-2<k1>karS<k2>karS (not cae)
+; {#karS#}¦ {#kf/Syati#} abmagern. {%Caus.%} {#karSayati#}
+; mager halten, quäten; {%p.p.%} {#karSita#} {%Oft%}
+; {%verw. mit%} 1. {#karz#}
+;
+* <L>4512<pc>076-2<k1>karz<k2>karz<h>2 (not cae)
+; 2. {#karz#}¦ {#kfza/ti, °te#} pflügen, beackern.
+;
+* <L>4557<pc>077-2<k1>kalp<k2>kalp (not cae)
+; {#kalp#}¦ {#kalpate#} passend sein, fähig sein,
+; taugen, dienen, sich eignen zu, günstig
+; sein für, gereichen, verhelfen zu {%(Dat.);%}
+; {%p.p.%} {#klapta/#} in Ordnung gebracht, zurechtgemacht, <lbinfo n="8"/>
+; hergestellt, vorhanden. {%Caus.%}
+; {#kalpa/yati, °te#} in Ordnung bringen, einrichten, <lbinfo n="8"/>
+; zurichten zerteilen; hervorbringen, <lbinfo n="8"/>
+; erzeugen, zur Anwendung
+; bringen, schaffen, bilden, verfertigen,
+; sich verschaffen; wozu machen, wofür
+; halten, bestimmen, erklären {%(2 Acc.);%}
+; einsetzen in {%(Loc.).%} {#ava#} in Ordnung
+; sein, nützlich sein, taugen zu {%(Dat.).%}
+; {%Caus.%} zurüsten, anwenden. {#upa#} {%dass.,%}
+; {%Caus.%} zurechtmachen, bereiten, erschaffen, <lbinfo n="9"/>
+; herbeischaffen, herbeiholen.
+; {#pari#} {%Caus.%} festsetzen, auswählen, erfinden, <lbinfo n="7"/>
+; bestimmen, ausführen, machen,
+; erschaffen. {#pra#} vor sich gehen, gelingen;
+; {%Caus.%} voranstellen, hinstellen, einrichten,
+; veranstalten, machen. {#vi#} sich ändern,
+; wechseln, zweifelhaft sein. {%Caus.%} verfertigen, <lbinfo n="9"/>
+; bilden; in Zweifel ziehen,
+; überlegen, nach Belieben wählen; für
+; fakultativ erklären {%(g.).%} {#sam#} {%p.p.%} {#sa/klapta#}
+; in Ordnung, bereitet. {%Caus.%} zusammenfügen, <lbinfo n="6"/>
+; anweisen, beschließen, beabsichtigen, <lbinfo n="10"/>
+; im Sinne haben, wollen.
+;
+* <L>4582<pc>078-1<k1>kavalay<k2>kavalay (not cae)
+; {#kavalay#}¦ {#°yati#} verschlucken; {%p.p.%} {#kavalita.#}
+;
+* <L>5509<pc>094-1<k1>knUy<k2>knUy (not cae)
+; {#knUy#}¦ {%nur Caus.%} {#knopayati#} durchnässen.
+; {%Mit%} {#aBi#} befeuchten.
+;
+* <L>5515<pc>094-1<k1>kraT<k2>kraT (not cae)
+; {#kraT#}¦ {%nur Caus.%} {#krATa/yati#} ausgelassen sein.
+;
+* <L>5524<pc>094-2<k1>krap<k2>krap (not cae)
+; {#krap#}¦ {#kf/pate#} jammern.
+;
+* <L>5596<pc>096-1<k1>krUqa<k2>krUqa (not cae)
+; {#krUqa#}¦ {#krUqayati#} dick machen.
+;
+* <L>5713<pc>098-2<k1>kzitipa<k2>kzitipa (not cae)
+; {#kzitipa#}¦ {#°pati#} {%u.%} {#°Buj#} {%u.%} Fürst, König.
+;
+* <L>5868<pc>101-1<k1>Karja<k2>Karja (not cae)
+; {#Karja#}¦ {#Karjati#} knarren.
+;
+* <L>6051<pc>105-2<k1>gar<k2>gar<h>2 (not cae)
+; 2. {#gar#}¦ {#gira/ti#} {%u.%} {#gi/rati, girate, gilati#} 
+; {#(gfRA/ti)#} verschlingen, verschlucken;
+; {%p.p.%} {#gIrRa#} — {#ud#} ausspeien; ausstoßen
+; {%(Rede).%} {#ni#} hinunterschlingen. {#sam#} =
+; {%Simpl.%}
+;
+* <L>6052<pc>105-2<k1>gar<k2>gar<h>3 (not cae)
+; 3. {#gar#}¦ {%Intens.%} {#jAgarti (jAgarati, jAgrati, °te#}
+; {%u.%} {#jAgfmi)#} wachen, erwachen, aufmerken,
+; bedacht sein; {%Partic.%} {#jAgfva/s#} munter,
+; eifrig. {%Caus.%} {#jAgara/yati#} {%(Aor.%} {#a/jIgar)#}
+; erwecken, ermuntern, erregen.
+;
+* <L>6074<pc>106-1<k1>garD<k2>garD (not cae)
+; {#garD#}¦ {#gf/Dyati#} rasch schreiten, gierig sein;
+; {%p.p.%} {#gudDa#} gierig, nach {%(Loc.)%}
+;
+* <L>6615<pc>116-2<k1>Garz<k2>Garz (not cae)
+; {#Garz#}¦ {#Garzti#} reiben; {%Med.%} sich reiben.
+; {%p.p.%} {#Gfzwa#} gerieben, wund. {#sam#} zerreiben;
+; {%Pass.%} sich an einander reiben, wetteifern. <lbinfo n="7"/>
+; {#(anyonyasaMGarzita#} mit einander in
+; Streit geraten*).
+;
+* <L>6669<pc>117-2<k1>GorAkAra<k2>GorAkAra (not cae)
+; {#GorAkAra#}¦ {%u.%} {#GorAkfti#} {%dass.%}
+;
+* <L>6903<pc>122-1<k1>carc<k2>carc (not cae)
+; {#carc#}¦ {%Caus.%} {#carcayati#} wiederholen {%(bei der%}
+; {%Recitation); p.p.%} {#carcita#} wiederholt;
+; überzogen, bedeckt mit (—°); {%n.%} Überzug <lbinfo n="3"/>
+; {%(von Salbe).%}
+;
+* <L>6906<pc>122-1<k1>carc<k2>carc (not cae)
+; {#carc#}¦ {#cfta/ti#} binden; {%p.p.%} {#cftta/#} {%Mit%} {#vi#} auflösen, <lbinfo n="6"/>
+; öffnen, stellen {%(Schlingen); p.p.%}
+; {#vi/cftta.#}
+;
+* <L>6917<pc>122-1<k1>carva<k2>carva (not cae)
+; {#carva#}¦ {%Caus.%} {#carvayati#} zerkauen, benagen;
+; {%p.p.%} {#carvita.#}
+;
+* <L>6996<pc>124-1<k1>cikit<k2>ciki/t (not cae)
+; {#ciki/t#}¦ {%u.%} {#ci/kiti#} wissend, kundig.
+;
+* <L>7143<pc>126-2<k1>cUrRaya<k2>cUrRaya (not cae)
+; {#cUrRaya#}¦ {#°yati#} zerreiben, pulverisieren,
+; zermalmen; {%p.p.%} {#cUrRita.#}
+;
+* <L>7148<pc>126-2<k1>cUz<k2>cUz (not cae)
+; {#cUz#}¦ sieden, wallen; {%Caus.%} {#cUzayati#} aufsaugen. <lbinfo n="7"/>
+; {#nis#} aussaugen.
+;
+* <L>7244<pc>128-2a<k1>Card<k2>Card (not cae)
+; {#Card#}¦ {#CfRatti#} ausspeien, ausbrechen. {%Caus.%}
+; {#Cardayati#} überlaufen lassen; ausbrechen,
+; vomieren.
+;
+* <L>7281<pc>129-2<k1>Cidraya<k2>Cidraya (not cae)
+; {#Cidraya#}¦ {#°yati#} durchlöchern; {%p.p.%} {#Cidrita.#}
+;
+* <L>7367<pc>131-1<k1>jaqabudDi<k2>jaqabudDi (not cae)
+; {#jaqabudDi#}¦ {%u.%} {#jaqamati#} von einfältigem Sinn,
+; dumm.
+;
+* <L>7833<pc>139-1<k1>jUrva<k2>jUrva (not cae)
+; {#jUrva#}¦ {#jU/rvati#} verbrennen, verzehren. {#ni#}
+; {%u.%} {#sam#} {%dass.%}
+;
+* <L>7989<pc>142-2b<k1>wasat<k2>wasat (not cae)
+; {#wasat#}¦ {#wasiti#} {%u.%} {#wAt#} {%(onomat.)%} krach!
+;
+* <L>8025<pc>143-2<k1>qval<k2>qval (not cae)
+; {#qval#}¦ {%mit%} {#A#} {%Caus.%} {#AqvAlayati#} mischen.
+;
+* <L>8059<pc>143-2c<k1>tada<k2>tada (not cae)
+; {#tada#}¦ {#tawati#} dröhnen.
+;
+* <L>8064<pc>143-2c<k1>taq<k2>taq (not cae)
+; {#taq#}¦ {%Caus%} {#taqayati#} schlagen, strafen,
+; treffen, verwunden.
+;
+* <L>8210<pc>147-1<k1>tandr<k2>tandr (not cae)
+; {#tandr#}¦ {#tandra/yate#} matt, müde werden.
+;
+* <L>8252<pc>147-2<k1>taporata<k2>taporata (not cae)
+; {#taporata#}¦ {%u.%} {#°rati#} sich an der Buße freuend,
+; fromm.
+;
+* <L>8298<pc>149-1<k1>taralikA<k2>taralikA, (not cae)
+; {#taralikA,#}¦ {#°yati#} (sich) hin- und herbewegen;
+; {%p.p.%} {#taralita#} wogend, schwankend.
+;
+* <L>8342<pc>149-2<k1>tard<k2>tard (not cae)
+; {#tard#}¦ {#tfRa/tti, tftte#} bohren, durchbohren,
+; erbohren, spalten, eröffnen, erschließen,
+; frei machen. {#anu#} eröffnen, außchließen.
+; {#aBi#} = {%Simpl.%}
+;
+* <L>8349<pc>150-1<k1>tarz<k2>tarz (not cae)
+; {#tarz#}¦ {#tf/zyati#} fürsten, lechzen {%(auch übertr.);%}
+; {#tfzARa/, tAtfzARa/ tfzita#} durstig, lechzend,
+; gierig. {%Caus.%} {#tarzayati#} fürsten lassen.
+;
+* <L>9419<pc>167-1<k1>dar<k2>dar<h>2 (not cae)
+; 2. {#dar#}¦ {#driya/te#} {%(nur—°), mit%} {#A = Adriyate#} 
+; {#(°ti)#} berücksichtigen, beachten, rücksichtsvoll <lbinfo n="10"/>
+; behandeln; {%oft mit Neg., vgl.%}
+; {#anAdftya.#} {%p.p.%} {#Adfta#} rücksichtsvoll,
+; bedacht auf {%(Loc. o. —°);%} beachtet,
+; geachtet, geehrt.
+;
+* <L>9440<pc>167-2<k1>darB<k2>darB (not cae)
+; {#darB#}¦ {#dfBa/ti#} verflechten, verketten, verknüpfen. <lbinfo n="8"/>
+; {#sam#} {%p.p.%} {#sa/dfbDa#} verflochten,
+; zusammengefügt, verfasst.
+;
+* <L>9464<pc>168-1<k1>darh<k2>darh (not cae)
+; {#darh#}¦ {#df/hati#} befestigen, feststellen; {%Med.%}
+; {#df/hate#} {%(auch%} {#df/hyati, °te)#} fest stehen {%o.%}
+; sein. {%p.p.%} {#dfQa/#} {%o.%} {#df|a#} {%(s. auch bes.)%} fest
+; [Page168-2]
+; stehend, fest, hart, stark, heftig; {%n.%}
+; {#dfQa/m#} {%dass. adv. — Caus.%} {#dfMhayati#} =
+; {%Simpl. trans.%}
+;
+* <L>9465<pc>168-2<k1>dala<k2>dala (not cae)
+; {#dala#}¦ {#dalati#} platzen, bersten, {%Caus.%} {#dalayati#} <lbinfo n="2"/>
+; {%u.%} {#dAlayati#} zersprengen. {%p.p.%} {#dalita#}
+; geplatzt, geborsten, aufgeblüht, eröffnet,
+; zersprengt, zerstreut, zerrieben. {#vi#} =
+; {%Simpl.%}
+;
+* <L>9814<pc>175-1<k1>dIp<k2>dIp (not cae)
+; {#dIp#}¦ {#dI/pyate#}  {%u.%} {#dIpyate (dIpyati)#} flammen,
+; strahlen, glänzen, brennen {%(auch übertr.);%}
+; {%p.p.%} {#dIpta#} flammend, strahlend, brennend,
+; heiß. {%Caus.%} {#dIpa/yati (°te)#} anzünden,
+; anfachen, erregen; hell mache, erleuchten. <lbinfo n="9"/>
+; {%Intens.%} {#dedIpyate#} stark flammen, <lbinfo n="4"/>
+; glänzen {%(auch übertr.).%} {#A#} {%p.p.%}
+; {#AdIpta#} flammend, strahlend. {#pra#} aufleuchten, <lbinfo n="9"/>
+; brennen; {%p.p.%} {#pradIpta#} angefacht,
+; strahlend, heiß, glühend. {%Caus%} anzünden, <lbinfo n="7"/>
+; anfachen. {#sam#} flammen, brennen;
+; {%p.p.%} {#sa/dIpta#} in Flammen stehend. {%Caus.%}
+; entzuunden, anfachen, anfeuern.
+;
+* <L>10520<pc>185-2<k1>dOzmanta<k2>dOzmanta (not cae)
+; {#dOzmanta#}¦ {%u.%} {#dOzmanti#} = {%folg.%}
+;
+* <L>10577<pc>186-2<k1>dram<k2>dram (not cae)
+; {#dram#}¦ {%Intens.%} {#dandramyate#} hinundher laufen.
+;
+* <L>10870<pc>191-1<k1>DanIy<k2>DanIy (not cae)
+; {#DanIy#}¦ {#°yati#} nach Reichtum verlangen.
+;
+* <L>10907<pc>192-1<k1>Dar<k2>Dar (not cae)
+; {#Dar#}¦ {#(Darati, °te),#} {%meist%} {#DAra/yati, °te#}
+; halten, tragen, festhalten, zurückhalten,
+; hemmen, unterdrücken, (verenthalten,
+; schuldig sein*); erhalten, bewahren,
+; behaupten, an sich tragen, besitzen,
+; hegen, nicht fahren lassen {%(bes. Geist,%}
+; {%Körper, Leben u. dgl.),%} fest gerichtet
+; halten {%(bes. Geist, Sinn, Gedanken,%} auf
+; {%Loc. o. Dat.);%} ertragen, aushalten; vorhalten, <lbinfo n="7"/>
+; bestehen, fortleben; festsetzen,
+; bestimmen, verhängen {%(Strafe),%} zuteilen.
+; {%Pass.%} {#Driya/te ( Driyati)#} gehalten, getragen <lbinfo n="6"/>
+; werden, standhalten, fortbestehen,
+; fortleben; sich anschicken, anfangen
+; zu {%(Dat., Acc. o. Inf.). p.p.%} {#Dfta/#} gehalten, <lbinfo n="7"/>
+; getragen, angehalten {%etc.; oft —°%}
+; mit gehaltenem—, {%d. i.%} — haltend,
+; tragend, hegend. {%Intens.%} {#da/rDarti#} {%u.%} {#dADarti#}
+; fest halten, befestigen. {#ava#} festsetzen,
+; sich vergewissern, erfahren, hören, begreifen; <lbinfo n="8"/>
+; annehmen, halten für {%(2 Acc.);%}
+; bedenken, betrachten, bemerken, überlegen. <lbinfo n="6"/>
+; {#A#} hinstellen, behalten, bewahren; <lbinfo n="7"/>
+; {%Pass.%} enthalten sein in {%(Loc.).%}
+; {#ud#} herausziehen, herausnehmen, in
+; die Höhe bringen, fördern {%(vgl. 1.%} {#har).#} 
+; {#nis#} herausheben, absondern. {#pra#} {%u.%} {#saMpra#}
+; erwägen, überlegen. {#vi#} auseinander
+; halten, scheinden, verteilen; halten,
+; tragen, zurückhalten, unterdrücken;
+; {%p.p.%} {#vi/Dfta#} getrennt, verteilt {%u. s. w.%}
+; {#sam#} zusammenhalten, halten, tragen,
+; behaupten, besitzen; ertragen, erleiden;
+; vorhalten, am Leben bleiben.
+;
+* <L>10957<pc>193-1<k1>Darmarata<k2>Darmarata (not cae)
+; {#Darmarata#}¦ {%u.%} {#°rati#} der Tugend ergeben.
+;
+* <L>11001<pc>193-2<k1>Darz<k2>Darz (not cae)
+; {#Darz#}¦ {#DfzRo/ti, Da/rzati#} dreist sein, wagen;
+; {%Partic.%} {#Dfza/nt, DfzARa/, Dfza/mARa, Dfzwa/#} {%u.%}
+; {#Dfzita/#} kühn, dreist, mutig, tapfer, Verwegen. <lbinfo n="6"/>
+; {%Caus.%} {#Darzayati#} vergewaltigen,
+; bezwingen, misshandeln, zu Grunde
+; richten; {%p.p.%} {#darzitA#} {%f.%} geschändet.
+; {#A#} jemd. antasten, etwas anhaben;
+; {%Caus.%} beleidigen, reizen. {#pra=A#}; {%Caus.%}
+; vergewaltigen, schänden {%(ein Weib)%} {#vi#}
+; {%u.%} {#sam#} {%Caus. = vor. Caus.%}
+;
+* <L>11150<pc>198-1<k1>Duni<k2>Du/ni (not cae)
+; {#Du/ni#}¦ {%u.%} {#Dune/ti#} rauschend, stürmend.
+;
+* <L>11181<pc>199-1<k1>DUmay<k2>DUmay (not cae)
+; {#DUmay#}¦ {%Pass.%} {#DUmyate#} umnebelt werden;
+; {%p.p.%} {#DUmita.#}
+;
+* <L>11210<pc>199-2<k1>DUlay<k2>DUlay (not cae)
+; {#DUlay#}¦ {#°yati#}; {%p.p.%} {#DUlita#} bestäubt, bestreut <lbinfo n="6"/>
+; mit {%(Instr.).%} {#udDUlay#} {%s. bes.%}
+;
+* <L>11295<pc>200-2<k1>Druvakzit<k2>Druvakzi/t (not cae)
+; {#Druvakzi/t#}¦ {#Druva/kziti#} {%u.%} {#Druva/kzema#} fest ruhend,
+; festgegründet, stark.
+;
+* <L>11320<pc>201-2<k1>Dvar<k2>Dvar (not cae)
+; {#Dvar#}¦ {#Dvarati#} beugen, fällen, verderben.
+;
+* <L>11655<pc>207-1<k1>naS<k2>naS<h>2 (not cae)
+; 2. {#naS#}¦ {#na/Sati, °te#} erreichen, erlangen,
+; treffen. {#aBi#} {%u.%} {#pra#} {%dass.%}
+;
+* <L>11960<pc>212-1<k1>nij<k2>nij (not cae)
+; {#nij#}¦ {%Intens.%} {#nenekti#} {%u.%} {#nenikte#} sich waschen;
+; {%p.p.%} {#nikta/#} gewaschen, besprengt, rein.
+; {#ava#} (sich) abwaschen, reinigen. {#nis#}
+; {%dass.; p.p.%} {#nirRikta#} gewaschen, rein
+; {%(auch übertr.)%} blank.
+;
+* <L>12161<pc>215-2<k1>nirahaMkAra<k2>nirahaMkAra (not cae)
+; {#nirahaMkAra#}¦ {%u.%} {#°kfti#} frei von Selbstsucht.
+;
+* <L>13319<pc>236-2<k1>par<k2>par<h>1 (not cae)
+; 1. {#par#}¦ {#pi/parti, pfRA/ti, pfRa/ti#} füllen,
+; sättigen, laben, spenden, erfüllen
+; {%(Wunsch). Part.%} {#pfRa/nt#} spendend, freigebig. <lbinfo n="6"/>
+; {%Med. u. Pass.%} {#pUrya/te#} {%(auch%} {#pU/ryate#}
+; {%u.%} {#pUryati)#} sich anfüllen mit, voll werden
+; von {%(Instr.); p.p.%} {#pUrta/#} {%u.%} {#pUrRa/#} {%(s. dies%}
+; {%bes.)%} gefüllt, voll {%Caus.%} {#pUra/yati, °te#}
+; voll machen, anfüllen, erfüllen mit
+; {%(Instr.)%} {#A#} füllen, anfüllen, erfüllen;
+; {%Med. Pass.%} sich füllen, sich sättigen an
+; {%(Instr. o. Gen.),%} zunehmen. {%p.p.%} {#A/pUrRa/#} <lbinfo n="6"/>
+; gefüllt, voll. {%Caus.%} {#ApUrayati#}
+; {%Simpl. trans.%} {#ni#} niedergießen, ausschütten <lbinfo n="8"/>
+; {%(r.); p.p.%} {#nipfta. — pati#} {%Med.%}
+; {%Pass.%} {#°pUryate#} sich füllen, voll werden;
+; {%p.p.%} {#paripUrRa#} gefüllt, voll, vollzählig,
+; vollständig, vollkommen. {#pra#} {%Med. Pass.%}
+; {#°pUryate#} = {%vor.%} {#prati,#} {%p.p.%} {#°pUrRa#} voll, angefüllt <lbinfo n="7"/>
+; mit {%(Instr.).%} {#sam#} {%p.p.%} {#saMpUrRa#} gefüllt, <lbinfo n="6"/>
+; voll, vollständig, vollendet. {%Caus.%}
+; {#saMpUrayati#} voll machen, vervollständigen,
+; erfüllen.
+;
+* <L>13320<pc>236-2<k1>par<k2>par<h>2 (not cae)
+; 2. {#par#}¦ {#pi/parti#} hinübersetzen, durchbringen,
+; hinausführen, erretten aus {%(Abl.),%} zu {%o.%}
+; nach {%(Acc.)%} geleiten, fördern. {%Caus.%}
+; {#pAra/yati(te)#} {%dass.,%} beschützen, erhalten;
+; etwas durchführen, überwinden; vermögen, <lbinfo n="6"/>
+; können {%(Inf.).%} {#ati#} hinüberführen <lbinfo n="6"/>
+; über, hindurchgeleiten durch
+; {%(Acc.). Caus. dass.%}
+;
+* <L>13321<pc>236-2<k1>par<k2>par<h>3 (not cae)
+; 3. {#par#}¦ {#pfRoti#} {%(nur —°), mit%} {#A#} sich beschäftigen, <lbinfo n="11"/>
+; {%p.p.%} {#Apfta#} beschäftigt. {#vyA,#} 
+; {#(priyate)#} {%u.%} {#pfRute)#} {%dass.; p.p.%} {#vyApfta#} beschäftigt <lbinfo n="9"/>
+; mit, um, bei {%(Loc. o.%} {#°—).#}
+; {%Caus.%} {#vyApArayati#} jemd. beschäftigen
+; mit {%o.%} bei {%(Loc o. Instr.)%}
+;
+* <L>13882<pc>246-1<k1>paS<k2>paS<h>1 (not cae)
+; 1. {#paS#}¦ {%nur Präs.%} {#pa/Syati, °te#} {%vgl.%} {#spaS#} {%u.%}
+; {#darS)#} sehen, erblicken, betrachten,
+; halten für, erkennen als {%(2 Acc. o. Acc.%}
+; {%u. Adv. auf%} {#vat#}); mit dem Geiste
+; schauen = ersinnen, erfinden; einsehen,
+; erwägen, prüfen. {#ati#} hinausschauen
+; über. {#anu#} hinblicken, wahrnehmen,
+; erwägen. {#ava#} hinblicken auf, beobachten. <lbinfo n="7"/>
+; {#ud#} aufblicken, voraussehen,
+; erwaten, erblicken, gewahren. {#pari#}
+; überblicken, erspähen, entdecken, bemerken, <lbinfo n="7"/>
+; erkennen. {#pra#} vor sich sehen,
+; voraussehen, schauen, betrachten, erkennen, <lbinfo n="7"/>
+; halten für {%(2 Acc.).%} {#vi#} sehen,
+; sichten, cernere, gewahr werden,
+; kennen lernen. {#aBivi#} erschauen, erblicken. <lbinfo n="8"/>
+; {#sam#} (zusammen) erblicken,
+; überschauen, besichtigen.
+;
+* <L>16359<pc>287-1a<k1>Pakka<k2>Pakka, (not cae)
+; {#Pakka,#}¦ {#Pakkati#} schwellen.
+;
+* <L>16499<pc>290-1<k1>barh<k2>barh<h>1 (not cae)
+; 1. {#barh#}¦ {#(varh) vfha/ti#} ausreißen; {%p. p.%} {#bfQa.#} —
+; {#A#} losreißen; {%p. p.%} {#A/bfQa.#} — {#ni#} hinwerfen, <lbinfo n="7"/>
+; {%Caus.%} {#nibarhayati#} {%dass.%} {#vi#} zerreißen, <lbinfo n="7"/>
+; zerbrechen.
+;
+* <L>16500<pc>290-1<k1>barh<k2>barh<h>2 (not cae)
+; 2. {#barh#}¦ {#bfha/ti#} {%(mur Partic.%} {#bfha/nt,#} {%w. s.) u.%}
+; {#bfhati, °te,#} {%Caus.%} {#bf/hayati#} kräftigen,
+; stärken. {%p. p.%} {#bfMhita#} (—°) vermehrt
+; durch, versehen mit. {#upa#} = {%Simpl.;%}
+; {%Intens.%} {#°barbfhi#} heftig andrücken. {#pari#}
+; umschließen, befestigen; {%p. p.%} {#pa/ribfQa#}
+; {%u.%} {#parivfQa#} {%(s. auch bes.) Caus.%} kräftigen,
+; stärken. {#sam#} zusammenfügen, verbinden. <lbinfo n="7"/>
+; {%Caus.%} {#saMbarhayati#} {%dass.,%} {#saMbfMhayati#} <lbinfo n="2"/>
+; kräftigen, stärken.
+;
+* <L>16501<pc>290-1<k1>barh<k2>barh,<h>3 (not cae)
+; 3. {#barh,#}¦ {#bfMhati#} brüllen, schreien.
+;
+* <L>17701<pc>313-1<k1>Brajj<k2>Brajj, (not cae)
+; {#Brajj,#}¦ {#Bfjja/ti#} rösten; {%p. p.%} {#Bfzwa#} geröstet,
+; gebraten.
+;
+* <L>18141<pc>321-1<k1>mandaga<k2>mandaga (not cae)
+; {#mandaga#}¦ {%u.%} {#°gati#} sich langsam bewegend.
+;
+* <L>18214<pc>322-1<k1>mar<k2>mar,<h>1 (not cae)
+; 1. {#mar,#}¦ {#marati, ma/rate,#} {%auch Pass.%} {#mriya/te#} 
+; {#(°ti)#} sterben. {%Partic.%} {#mamfva/s#} {%(f.%}  {#mamru/zI)#}
+; sterbend; {%p. p.%} {#mfta/#} verstorben, tot, geschwunden. <lbinfo n="10"/>
+; {%Caus.%} {#mAra/yati (°te)#} töten.
+; {%Desid.%} {#mumUrzati#} sterben wollen. {#anu#}
+; nach jemd. {%(Acc.)%} sterben. {#pari#} um
+; jemd. {%(Acc.)%} herum sterben.
+;
+* <L>18215<pc>322-1<k1>mar<k2>mar,<h>2 (not cae)
+; 2. {#mar,#}¦ {#mfRA/ti, mfRa/ti#} zermalmen, zerstören; <lbinfo n="7"/>
+; {%p. p.%} {#mUrRa/. pari, pra#} {%u.%} {#vi#} {%dass.%}
+;
+* <L>18246<pc>322-2<k1>marc<k2>marc, (not cae)
+; {#marc,#}¦ {#marca/yati#} gefährden, verletzen; {%p. p.%}
+; {#mfkta/.#}
+;
+* <L>18247<pc>322-2<k1>marj<k2>marj, (not cae)
+; {#marj,#}¦ {#mA/rzwi, mfzwe/, mfja/ti (°te), mArjati, °te#}
+; abwischen, reinigen, putzen {%(Med. refl.),%}
+; streicheln; wegnehmen, entfernen. {%Med.%}
+; einstreichen, davontragen. {%p. p.%} {#mfzwa/#} gereinigt, <lbinfo n="8"/>
+; geputzt, blank, rein {%(auch übertr.),%}
+; angenehm, lieblich; {#mfjita#} abgewischt,
+; entfernt. {%Caus.%} {#marja/yati, °te, mArjayati,#} 
+; {#°te#} = {%Simpl.; p. p.%} {#mArjita#} gereinigt, abgewischt, <lbinfo n="9"/>
+; entfernt. {#anu#} in die Länge,
+; glatt streichen. {#ud#} aufwärts streichen,
+; abwischen, ausputzen. {%Med. wie b. Simpl.%}
+; {#ni#} reiben zn {%(Loc.),%} abwischen, ausputzen. <lbinfo n="7"/>
+; {%Med. wie b. Simpl.%} {#nis#} abwischen, <lbinfo n="8"/>
+; austilgen. {#pari#} rings abwischen, <lbinfo n="8"/>
+; austilgen. {#pari#} rings abwischen, <lbinfo n="8"/>
+; putzen, reinigen, läutern; {%p. p.%}
+; {#parimfzwa#} geputzt, gereinigt, abgewischt,
+; entfernt. {#pra#} wischen, reinigen, streichen,
+; entfernen, vertilgen. {%p. p.%} {#pramfzwa#} geputzt,
+; rein, bestrichen mit {%(Instr.)%} weggewischt, <lbinfo n="9"/>
+; entfernt. {#vi#} putzen, reinigen,
+; wegwischen, bestreichen mit {%(Instr.).%}
+; [Page323-1]
+; reiben, abwasche, reinigen;
+; läutern {%(r.),%} wegkehren, entfernen. {%p. p.%}
+; {#saMmfzwa#} {%u.%} {#saMmArjita#} abgewaschen, gefegt,
+; gereinigt.
+;
+* <L>18263<pc>323-1<k1>marD<k2>marD, (not cae)
+; {#marD,#}¦ {#ma/rDati#} vernachlässigen, vergessen;
+; {%p. p.%} {#mfdDa/#} verlassen, hilflos. {#pari#} anchlassen, <lbinfo n="7"/>
+; aufhören.
+;
+* <L>19074<pc>338-1<k1>mUrcC<k2>mUrcC, (not cae)
+; {#mUrcC,#}¦ {#mUrCati#} gerinnen, fest {%o.%} stark werden,
+; erstarren, ohnmächtig werden. {%p. p.%}
+; {#mUrta/#} geronnen, fest, körperlich, real;
+; ohnmächtig, betäubt; {#mUrCata#} ohnmächtig
+; {%(n. auch impers.),%} stark, dicht, angewachsen; <lbinfo n="8"/>
+; erfüllt von (—°). {%Caus.%}
+; {#mUrCayati (°te)#} grinnen {%o.%} fest werden
+; lassen; gestalten, verstärken; betäuben.
+; {#vi,#} {%p. p.%} {#vimUrta#} geronnen, fest geworden;
+; {#vimUrCita#} {%dass.,%} erfüllt von (—°). {#sam#}
+; gerinnen, erstarken; {%p. p.%} {#saMmUrCita#} betäubt, <lbinfo n="6"/>
+; verstärkt, voll von (—°).
+;
+* <L>19148<pc>339-2<k1>mfgya<k2>mfgya, (not cae)
+; {#mfgya,#}¦ {#mfgyati#} jagen, suchen.
+;
+* <L>19390<pc>342-2<k1>mrakz<k2>mrakz, (not cae)
+; {#mrakz,#}¦ {#mfkza/ti, mrakzati#} striegeln, reiben;
+; {%p. p.%} {#mrakzita#} bestrichen.
+;
+* <L>19393<pc>342-2<k1>mrad<k2>mrad, (not cae)
+; {#mrad,#}¦ {#mradate#} reiben {%(nur —°); Caus.%} {#mradayati#} <lbinfo n="2"/>
+; glätten.
+;
+* <L>19405<pc>343-2<k1>mleC<k2>mleC, (not cae)
+; {#mleC,#}¦ {#mlecCati#} eine Sprache kauderwälschen.
+;
+* <L>19710<pc>349-2<k1>yAca<k2>yAca, (not cae)
+; {#yAca,#}¦ {#ya/cati, °te#} flehen, jemd. {%(Acc. o.%}
+; {%Abl.)%} bitten um {%(Acc.,)%} {#arTe#} {%o.%} {#arTam#});
+; werben um {%(Acc.). p. p.%} {#yAcita/#} gebeten,
+; erbeten, zur Ehe verlangt. {%Caus.%} {#yAca/yati#} <lbinfo n="7"/>
+; werben lassen, {%auch = Simpl.%}
+; {#aBi#} fleben, bitten um, zur Ehe verlangen <lbinfo n="6"/>
+; von {%(2 Acc.).%} {#nis#} etw. {%(Acc.)%}
+; von jend. {%(Acc. o. Abl.)%} erbitten. {#pra#}
+; flehen, bitten um (2 {%Acc.).%}
+;
+* <L>19844<pc>352-1<k1>yucC<k2>yucC, (not cae)
+; {#yucC,#}¦ {#yucCati#} weichen, sich entfernen von
+; {%(Abl.).%}
+;
+* <L>20013<pc>356-1<k1>raNG<k2>raNG, (not cae)
+; {#raNG,#}¦ {#raNGate#} eilen, rennen.
+;
+* <L>20038<pc>357-1<k1>raYj<k2>raYj, (not cae)
+; {#raYj,#}¦ {#fYja/ti, °te, trawa/Yyati, °te#} sich
+; strecken, verlangen nach {%(Acc.). Partic.%}
+; {#fYjasAna/#} herbeieilend, erstrebend. {#aBi#}
+; haschen nach {%(Acc.).%} {#ni#} erreichen, er-
+; wischen.
+;
+* <L>20042<pc>357-1<k1>rawa<k2>rawa, (not cae)
+; {#rawa,#}¦ {#rawati#} heulen, brüllen, krächezen,
+; schallen, rauschen, {%Intens.%} {#rArawIti#}
+; {%dass.%}
+;
+* <L>20455<pc>364-1<k1>riNK<k2>riNK, (not cae)
+; {#riNK,#}¦ {#riNKati#} {%u.%} {#riNg, riNgati#} kriechen,
+; sich langsam bewegen.
+;
+* <L>20746<pc>371-1<k1>laGay<k2>laGay, (not cae)
+; {#laGay,#}¦ {#°yati#} erleichtern, vermindern,
+; schwächen.
+;
+* <L>20864<pc>374-1<k1>lAYC<k2>lAYC, (not cae)
+; {#lAYC,#}¦ {%Caus.%} {#lAYCayati#} kennzeichnen;
+; {%p. p.%} {#lAYCina#} kenntlich an, versehen
+; mit {%(Instr. o.%} {#—°#}).
+;
+* <L>20897<pc>374-2<k1>liKApay<k2>liKApay, (not cae)
+; {#liKApay,#}¦ {#°yati#} schreiben lassen {%(2 Acc.).%}
+;
+* <L>20948<pc>376-1<k1>luq<k2>luq, (not cae)
+; {#luq,#}¦ {#loqayati#} aufrühren, beunruhigen.
+; {#A#} {%u.%} {#samA#} {%dass.,%} rühren, umrühren,
+; {%mengen.%} {%nis%} durchwühlen, durchforschen. <lbinfo n="9"/>
+; {#pari#} verwirren. {#vi#} umrühren,
+; umstürzen, verwirren. {#sam#} in Unordnung <lbinfo n="4"/>
+; bringen. {%Pass.%} zu Schaden
+; werden.
+;
+* <L>21039<pc>378-1<k1>loc<k2>loc (not cae)
+; {#loc#}¦ {%(nur%} {#—°), locate#} {%u. Caus.%} {#locayati#} 
+; {#(°te)#} {%mit%} {#A#} betrachten, erwägen. {%Caus.%}
+; {%dass. p. p.%} {#Alocita#} {%(n. auch ) impers.)%}
+; {#paryA#} {%u.%} {#samA#} {%Caus.%} sich vorstellen, bedenken, <lbinfo n="7"/>
+; überlegen.
+;
+* <L>21334<pc>383-2<k1>vapati<k2>va/pati,<h>2 (not cae)
+; 2. {#va/pati,#}¦ {#°te#} hinstreuen, säen, hinwerfen,
+; bestreuen, besäen. {%p. p.%} {#upta/#} hingeworfen,
+; zerstreut, gesät ({%auch%} {#upati#}); bestreut,
+; bedeckt, übergossen mit {%(Instr. 0.%}  {#—°).#}
+; {%Caus.%} {#vApayati#} säen, pflanzen; {%p. p.%} {#vApita#} <lbinfo n="4"/>
+; gesät. {#A#} einstregen, hineinwerfen,
+; -schütten, -legen; beifügen. {%Caus.%} bei-
+; mischen, beimengen; kämmen, ordnen
+; {%(das Haar).%} {#ud#} ausschütten, heraus-
+; schaffen, hervorziehen. {#ni#} hinschütten,
+; hin-, niederwerfen; {%p. p.%} {#nyupta#} {%u.%} {#nivapra#}
+; hingeschütte {%o.%} -geworfen {%(Würfel).%}
+; {#nis#} herausschütten, zuteilen, dar-
+; bringen {%(r.).%} {#pra#} ausstreuen, hinwerfen.
+; {#prati#} einstecken, einfügen; {%p. p.%} {#pratyupta#}
+; eingesteckt in ({%Loc. o.%} —°); besteckt,
+; belegt mit {#(—°).#} {#sam#} einschütten, hin-
+; einlegen, zusammenthun.
+;
+* <L>21381<pc>384-2<k1>var<k2>var<h>1 (not cae)
+; 1. {#var#}¦ {#vfRo/ti, vfRute/, va/rati, °te (URoti#}
+; {%s. bes.)%} verhüllen, bedecken, schließen,
+; versperren, zurückhalten, abwehren.
+; {%p. p.%} {#vfta/#} verhüllt, eingeschlossen, zurück-
+; gehalten; umringt, umgeben, bedeckt,
+; erfüllt, voll von {%(Instr. o.%} {#—°#}). {%Caus.%}
+; {#vAra/yati, °te#} zurück-, abhalten, wehren,
+; hemmen, unterdrücken, ausschließen.
+; {%p. p.%} {#varita#} zurückgehalten u. s. w. (versteck <lbinfo n="5"/>
+; in— {%Instr.*%} ), verwehrt, verboten.
+; {#apa#} aufdecken, enthüllen. {%Caus.%} verstecken; <lbinfo n="8"/>
+; {#apavAritam#} {%u.%} {#apavArya#} {%(d.)%}
+; {%s. bes.%} {#A#} bedecken, verhüllen, versperren, <lbinfo n="8"/>
+; besetzen, erfüllen. {%p. p.%} {#A/vfta#}
+; erfüllt, versteckt, verschlossen, verwehrt; <lbinfo n="6"/>
+; bedeckt, bezogen, erfüllt, voll
+; von, behaftet mit {%(Instr. o.%} {#—°).#} 
+; {#apA#}
+; öffnen, bloßlegen, offenbaren. {#prA#} be-
+; decken, verhüllen, umthun, anziehen,
+; erfüllen. {%p. p.%} {#prA/vfta#} bedeckt mit, er-
+; füllt von ({%Instr. o.%} —°); umgelegt, angethan. <lbinfo n="7"/>
+; {#samA#} bedecken, erfüllen, hem-
+; men. {%p. p.%} {#samAvfta#} bedeckt, erfüllt, erfüllt <lbinfo n="5"/>
+; von, bedeckt mit ({%Instr. 0.%}  —°);
+; verschlossen; vorethalten {%(Gen.).%} {#ni#}
+; abwehren; {%p. p.%} {#ni/vfta#} zurück-, fest-
+; gehalten. {%Caus. (auch%} {#vini)#} zurück-,
+; ab-, aufhalten, hemmen, verbieten,
+; unterdrücken, beseitigen, vertreiben; {%p. p.%}
+; {#nivArita. nis,#} {%p. p.%} {#nirvfta#} {%s. bes.%}
+; [Page385-1]
+; {#pari#} bedecken, verhüllen, umgeben;
+; {%p. p.%} {#pa/rIvfta#} {%u.%} {#pa/rivfta#} {%(s. auch bes.)%}
+; bedeckt, umgeben, erfüllt, begleitet von
+; {%(Instr. o.%} {#—°#}). {%Caus.%} umgeben, umringen; <lbinfo n="7"/>
+; {%p. p.%} {#parivArita#} umgeben von,
+; bedeckt mit {%(Instr. o.%} {#—°). pra#} abwehren
+; {%(auch Caus.).%} {#prati#} {%Caus.%} zurückhalten,
+; abwehren. {#vi#} aufdecken, öffnen, entfalten, <lbinfo n="7"/>
+; zeigen, offenbaren, kundthun;
+; {%p. p.%} {#vivfta#} aufgedeckt u. s. w. {#sam#} zu-
+; decken, verhüllen, verschließen, zu-
+; sammenlegen, in Ordnung bringen;
+; hemmen, abwehren, {%p. p.%} {#saMvfta#} zugedeckt,
+; verborgen, abwehren. {%p. p.%} {#samvfta#} zugedeckt,
+; verbrogen, verschlossen, versteckt; umgeben, <lbinfo n="6"/>
+; erfüllt, begleitet von {%(Instr. 0.%}
+; {#—°).#}
+;
+* <L>21382<pc>385-1<k1>var<k2>var, (not cae)
+; {#var,#}¦ {#bfRIte/, vfRAti, vfRoti, vfRute#}
+; wählen; werben um—bei—, jemd. um
+; etw. bitten {%(2 Acc.);%} vorzihen, lieber
+; wollen als {%(Abl.);%} erbitten, wünschen,
+; gern haben, lieben, annehmen; jemd.
+; {%(Dat.)%} etw. {%(Acc.)%} gewähren, zukommen
+; lassen; {%p. p.%} {#vfta/.#} {%Caus.%} {#varayati, °te#} erwählen, <lbinfo n="7"/>
+; jemd. um etw. bitten {%(2 Acc.),%}
+; werben um {%(Acc., auch mit)%} {#patim#} {%o.%}
+; {#patnIm). A#} erwählen, wünschen; ge-
+; währen, erfüllen {%(Wunsch).%} {#nis#} auswählen. <lbinfo n="7"/>
+; {#pari#} {%u.%} erwählen.
+;
+* <L>21481<pc>387-1<k1>vart<k2>vart, (not cae)
+; {#vart,#}¦ {#va/rtate, °ti, vavartti, vartti#} sich drehen,
+; rollen, ablaufen {%(Zeit),%} erfolgen, geschehen, <lbinfo n="8"/>
+; werden, sein {%(auch als Cop.),%}
+; da sein, existieren, leben, bestehen; fort-
+; gelten, zu ergänzen sein {%(g.);%} wohnen,
+; weilen; verfahren, zu Werke gehen,
+; sich benehmen {%o.%} verhalten, gereichen
+; zu {%(Dat. 0. Loc.)%}; stehen für {%o.%} im Sinne
+; von {%(Loc.)%} = bedeuten {%(g.).%} {#kiM vartate#} wie
+; steht es mit {%(Gen.)?%} {#manasi, hfdaye#} im
+; Sinn, im Herzen liegen. {#vfttima#} ver-
+; fahren, sich benehmen gegen {%(Loc.).%}
+; {#vartamAna#} lebend, gegenwärtig, sich aufhaltend, <lbinfo n="8"/>
+; vorschwebend, fortgeltend, zu
+; ergänzen; {%n.%} Gegenwart {%(g.). p. p.%} {#vftta/#}
+; gedreht, erfolgt, vergangen, verstrorben,
+; sich benommen habend gegen {%(Loc.),%}
+; {%s. auch bes. Caus.%} {#varta/yati (°te)#} drehen,
+; rollen lassen, vergießen {%(Thränen),%} hinbringen <lbinfo n="7"/>
+; {%(Zeit, Leben u. s. w.)%}, ohne
+; {%Obj.%} leben, bestehen von {%(Instr.);%}
+; beobachten, verrichten, äußern, vor-
+; führen, lehren. {%Intens.%} {#va/rvartti#} {%(Partic.%}
+; [Page387-2]
+; {#va/rvftAna), varIrtti, varIvftyate#} sich
+; drehen, rollen, sich befinden, dasein,
+; herrschen, walten. {#ati#} vorüberrollen,
+; verstreichen {%(Zeit); mit Acc.%} vorübergehen <lbinfo n="5"/>
+; lassen, hinwegkommen über,
+; sich entziehen, unterlassen, versäumen,
+; übertreten. {#samati#} vorüber-, davonlaufen. <lbinfo n="7"/>
+; {#aDi#} hinrollen, sich wenden.
+; {#anu#} nachrollen, verfolgen, nachgehen,
+; nachstreben, anhängen, beipflichten,
+; sich richten nach, geraton in; erfolgen,
+; fortdauern, weiter gelten {%d. i.%} zu ergänzen <lbinfo n="6"/>
+; sein {%(g.).%} {#apa#} sich abwenden,
+; entfernen, fortbegeben. {#aBi#} sich
+; hinwenden, hinfliegen nach {%(Adv.%}
+; {%auf%} {#tas),#} herankommen; sich erheben,
+; anbrechen, beginnen. {#A#} sich drehen,
+; sich wenden, {%mit%} {#punar#} zurückkehren
+; {%(auch =%} wiedergeboren werden); herrollen <lbinfo n="6"/>
+; lassen, herbeiführen, -wenden,
+; -lenken, -locken {%(meist Act.). Caus.%}
+; sich wenden lassen, um-, herwenden,
+; zurückführen, wiederholen. {%Intens.%}
+; {#(A/varIvar)#} sich schnell bewegen, sich
+; regen. {#anvA#} nachrollen, folgen; {%Intens.%}
+; {%dass.%} {#upA#} sich herwenden, sich wenden
+; an {%(Acc.),%} zurückkehren. {#°vyA#} sich trennen,
+; scheiden von {%(Instr. 0.Abl.),%} sich
+; teilen, auflösen, öffnen; umkehren, abziehen; <lbinfo n="7"/>
+; aufhören, zu Nichte werden.
+; {%p. p.%} {#vyA/vftta#} abgekehrt, abgewandt von,
+; unvereinbar mit {%(Abl. o.%} {#—°).#} {%Caus.%}
+; trennen, sondern, befreien von {%(Instr.%}
+; {%o. Abl.);%} umwenden, aufheben, beseiti-
+; gen. {#samA#} heimkehren, zurückkommen,
+; herantreten, sich wenden, vergehen;
+; {%p. p.%} {#samAvftta#} heimgekehrt {%(bes. aus der%}
+; {%Lehrzeil),%} hergekommen von ({#—°#}); be-
+; endigt. {%Caus.%} heimtreiben, entlassen
+; {%(bes. den Schüler).%} {#ud#} abspringen, aus-
+; treten, verschwinden. zerstören. {#upa#} darauf-
+; {%o.%} herantreten. {#ni#} zurückt-, umkehren,
+; wiedegeboren werden; zurückgehen,
+; [Page388-1]
+; sich abwenden, fliehen; sich losmachen,
+; lossagen, befreien von {%(Abl.);%} aufhören,
+; innehalten, weichen, schwinden, unter-
+; bleiben, fehlen. {%p. p.%} {#nivftta#} zurück-
+; gekehrt, angekehrt, abgewandt {%o.%} losgekommen <lbinfo n="8"/>
+; von ({%Abl. o.%} —°); gewichen,
+; aufgehört, verschwunden, unterblieben,
+; weggefallen, angethan; nicht mehr
+; geltend {%o.%} zu ergänzen {%(g.).%} {%Caus.%} nach
+; unten drehen, umkehren machen, zu-
+; rückführen {%o.%} -bringen, abwenden, abhalten <lbinfo n="6"/>
+; von {%(Abl.),%} entfernen, beseitigen,
+; rückgängig machen, negieren, abthun,
+; vollenden, vollbringen. {#pratini#} umkehren, <lbinfo n="7"/>
+; wiederkehren. {%Caus.%} zurückführen, <lbinfo n="7"/>
+; abwenden. {#vini#} zurückkehren,
+; weichen, schwinden; {%p. p.%} {#vinivftta#} zurückgekehrt, <lbinfo n="12"/>
+; abgewandt {%o.%} befreit von
+; {%(Abl. o.%} {#—°),#} gewichen, verschwunden.
+; {%Caus.%} zurückziehen, abwenden, ab-
+; halten von {%(Abl.),%} entfernen, beseitigen,
+; rückgängig machen, negieren, abthun,
+; vollenden, vollbringen. {#pratini#} umkehren, <lbinfo n="7"/>
+; wiederkehren. {%Caus.%} zurück-
+; führen, abwenden. {#vini#} zurückkehren,
+; weichen, schwinden; {%p. p.%} {#vinivftta#} zu-
+; rückgekehrt, abgewandt {%o.%} befreit von
+; {%(Abl. o.%} {#—°),#} gewichen, verschwunden.
+; {%Caus.%} zurückziehen, abwenden, ablenken, <lbinfo n="7"/>
+; aufgeben, beseitigen. {#saMni#} um-
+; kehren, aufgeben, beseitigen. {#saMni#} um-
+; kehren, abstehen von {%(Abl.). Caus.%}
+; zurückführen, ablenken, abbringen von
+; {%(Abl.),%} unterdrücken. {#nis#} hervorkom-
+; men, erfolgen, geschehen. {%p. p.%} {#nirvftta#}
+; hervorgekommen, entstanden, erfolgt,
+; vollbracht, vergang. {%Caus.%} herausbringen, <lbinfo n="8"/>
+; fortschaffen; hervorbringen,
+; vollziehen, bewirken. {#vinis,#} {%p. p.%}
+; {#vinirvftta#} hervorgetreten aus {%(Abl.),%}
+; abgemacht, beendigt. {#parA#} sich umkehren, <lbinfo n="7"/>
+; abwenden, abstehen von {%(Abl.)%};
+; {%p. p.%} {#parAvftta#} umgekehrt, abgewandt.
+; {#pari#} sich drehen, sich wälzen, sich
+; herumbewegen {%(im Kopfe, im Herzen etc.),%}
+; verweilen, sich befinden in {%(Loc.),%} um-
+; wandeln {%(Acc.);%} zurückkehren, wieder-
+; geboren werden, sich wenden, sich
+; anders gestalten {%(mit u. ohne%} {#anyaTA),#}
+; verfahren, sich benehmen. {%p. p.%} {#parivftta#}
+; rollend, ablaufend, dauernd, umgewandt,
+; abgelaufend, dauernd, umgewandt,
+; abgelaufen, verschwunden. {%Caus.%} umdrehen, <lbinfo n="7"/>
+; umwenden;vertauschen, umwechseln <lbinfo n="8"/>
+; gegen, umwandeln in {%(Instr.);%}
+; zu Grunde richten, vernichten. {#pra#} in
+; Gang {%o.%} in Lauf kommen, aufbrechen,
+; [Page388-2]
+; hervorkommen, entstehen, sich erheben,
+; vor sich gehen, beginnen, anfangen zu
+; {%(Infin.),%} sich machen an, legen auf {%(Dat.%}
+; {%o. Loc.),%} verweilen bei, sich richten,
+; sich beziehen auf {%(Loc.),%} verfahren, zu
+; Werke gehen, hantieren mit {%(Instr.;%}
+; vollbringen, ausfrühren; sich verhalten,
+; sein, vorhanden sein, dienen zu {%(Dat.),%}
+; bedeuten {%(Loc.), p. p.%} {#pravftta#} in Lauf
+; gekommen, aufgebrochen, entstanden,
+; erfolgt, begonnen, angefangen habend
+; zu {%(Inf.),%} sich legend auf, begriffen in,
+; beabsichtigend ({%Dat., Loc. o.%} —°); daseiend, <lbinfo n="7"/>
+; vorhanden. {%Caus.%} in Bewegung
+; setzen, in Gang bringen, vollführen,
+; bewirkemn, unternehmen; anwenden, ge-
+; brauchen. {#atipra,#} {%p. p.%} {#atipravftta#} {%s. bes.%}
+; {%abhipra%} hinrollen, sich in Gang setzen,
+; sich bewegen zu {%(Acc.).%} {#saMpra#} hervor-
+; gehen aus {%(Abl.),%} entstehen; herum-
+; gehen {%(im Sinn),%} anfangen, sich machen
+; an {%(Dat. 0. Loc.),%} verfahren,sich be-
+; nehmen gegen {%(Loc.). p. p.%} {#saMpravftta#} aufgebrochen, <lbinfo n="10"/>
+; entstanden, begonnen; be-
+; schaftigt mit, begriffen in {%(Loc. 0.%}  {#—°#}).
+; {%Caus.%} in Gang setzen, sich hinundher-
+; bewegen, hervorkommen aus {%(Abl.).%}
+; sich entfalten. {%p. p.%} {#vivftta#} sich rollend,
+; schlängelnd; umgewandt. {%Caus.%} umdrehen, <lbinfo n="7"/>
+; umwenden, drehen, drechseln,
+; verfrtigen aus {%(Instr.),%} ausführen, vollenden. <lbinfo n="6"/>
+; {%p. p.%} {#vivartita#} umgedreht, ver-
+; zogen {%(die Brauen).%} {#sam#} sich zuwenden,
+; einkehren, herankommen, sich nähern,
+; sich vereinigen, zusammengeraten
+; {%(freundl. u. feindl., auch =)%} coire), ent-
+; stehen, hervorgehen aus {%(Abl.),%} eintreten, <lbinfo n="7"/>
+; dasein {%(auch =%} esse {%mit Gen. 0.%}
+; {%Dat.). p. p.%} {#saMvftta#} angelangt, entstanden,
+; geworden. {%Caus.%} zusammenballen.
+; rollen, schleidern, werfen; vollführen,
+; vollenden, abthun,vernichten. {#aDisam#}
+; entspringen. entstehen.
+;
+* <L>21499<pc>389-1<k1>varD<k2>varD,<h>1 (not cae)
+; 1. {#varD,#}¦ {#va/rDati, °te#} {%trans. (Act.)%} stärken,
+; wachsen, {%o.%} gedeihem machen, ernähren,
+; erheben, erregen, begeistern, {%intr. (meist%}
+; {%Med.)%} wachsen, stark {%o.%} gedeihen, Erfolg
+; haben; erregt, ergötzt werden, sich
+; freuen an, sich begeistern durch {%(Instr.,%}
+; {%Loc. 0. Gen.);%} glücklich sein durch {%o.%}
+; über {%(Instr., bes.%} {#diTyA varDase#} Glück
+; auf!). {%p. p.%} {#vfdDa/#} gewachsein, groß, hoch,
+; stark, alt. hervorrangend durch {#(—°),#}
+; wichtig; ergötzt, freudig; doppelt gesteigert <lbinfo n="8"/>
+; {%o.%} vriddhirt {%(g.). Caus.%} {#varDa/yati#} <lbinfo n="2"/>
+; {#(°te)#} = {%Simpl. trans., auch%} großziehen, <lbinfo n="7"/>
+; in die Höhe bringen; {%Med.%} sich
+; erregen, sich erquicken an {%(Instr.). p. p.%}
+; {#varDita#} aufgewachsen, großgezogen, vermehrt, <lbinfo n="6"/>
+; gestärkt. {#ati#} hinanuswachsen
+; [Page389-2]
+; über {%(Acc.); p. p.%} {#ativfdDa#} sehr groß,
+; stark, alt. {#aBi#} heranwachsen, größer
+; {%o.%} stärker werden. {#pari#} {%dass.; Caus.%}
+; großziehen. {#pra#} stärken, erquicken {%(Act.);%}
+; heranwachsen, zunehmen, gedeihen.
+; {%p. p.%} {#pra/vfdDa#} aufgewachsen, ausgetragen.
+; reif geworden; stark, groß, hoch,
+; mächtig, alt. {%Caus.%} stärken, vergrößern,
+; erhöhen. {#vi#} wachsen, stärker werden,
+; gedeihen; {%p. p.%} {#vivfdDa#} groß geworden,
+; verstärkt, gesteigert, zahlreich, mächtig.
+; {%Caus.%} großziehen, erhöhen, stärken,
+; fördern, erfreuen. {#sam#} erfüllen, ge-
+; währen {%(Act.);%} heranwachsen. {%p. p.%} {#saMvfdDa#}
+; aufgewachsen, gediehen. {%Caus.%} aufziehen, <lbinfo n="7"/>
+; ernähren, pflegen, stärken, ver-
+; mehren, verschönern; erfüllen, ge-
+; währen.
+;
+* <L>21519<pc>389-2<k1>varmay<k2>varmay, (not cae)
+; {#varmay,#}¦ {#°yati#} panzer, Schutzwehr,
+; Schirm.
+;
+* <L>21520<pc>389-2<k1>varmi<k2>varmi, (not cae)
+; {#varmi,#}¦ {#°yati#} panzern; {%p. p.%} {#varmita.#}
+;
+* <L>21525<pc>390-1<k1>varz<k2>varz, (not cae)
+; {#varz,#}¦ {#va/rzati (°te), vfzate#} regnen, {%(pers. u.%}
+; {%impers.)%} beregnen, überschütten mit
+; {%(Instr.); p. p.%} {#vfzwa.#} {%Caus.%} {#varza/yati#} regnen
+; lassen, beregnen mit {%(Instr.).%} {#aBi#}
+; {%(auch Caus.)%} beregnen, überschütten,
+; segnen mit {%(Instr.); p. p.%} {#aBi/vfzwa#} beregnet, <lbinfo n="7"/>
+; überschüttet mit {%(Instr.).%} {#pra#}
+; (anfangen zu) regnen, ausschütten, be-
+; schütten. {#aBipra#} beregnen, regnen.
+;
+* <L>21600<pc>391-1<k1>valha<k2>valha, (not cae)
+; {#valha,#}¦ {#va/lhati, °te#} herausfordern.
+;
+* <L>22571<pc>408-2<k1>vipakzay<k2>vipakzay, (not cae)
+; {#vipakzay,#}¦ {#°yati#} verfeinden.
+;
+* <L>22997<pc>417-1<k1>viSvatur<k2>viSva/tur (not cae)
+; {#viSva/tur#}¦ {%u.%} {#°tUrti#} allsiegend.
+;
+* <L>23234<pc>420-2<k1>vItaBaya<k2>vItaBaya, (not cae)
+; {#vItaBaya,#}¦ {#°BI#} {%u.%} {#°BIti#} furchtlos.
+;
+* <L>23387<pc>423-1<k1>vfzasya<k2>vfzasya, (not cae)
+; {#vfzasya,#}¦ {#°sya/ti#} brünstig sein {%(vom Weibe).%}
+;
+* <L>23907<pc>432-2<k1>vlI<k2>vlI, (not cae)
+; {#vlI,#}¦ {#vlInAti#} {%u.%} {#vlinAti#} zusammendrücken. <lbinfo n="8"/>
+;
+* <L>23998<pc>434-1<k1>SaWaDI<k2>SaWaDI, (not cae)
+; {#SaWaDI,#}¦ {#°budDi#} {%o.%} {#°mati#} boshaft gesinnt,
+; falsch, hinterlistig.
+;
+* <L>24144<pc>436-1<k1>Sama<k2>Sama,<h>1 (not cae)
+; 1. {#Sama,#}¦ {#Sa/mati, Samyati#} {%(Imperat.)%} {#SamIzva)#}
+; sich mühen; zurichten, bereiten {%(r.).%}
+; [Page436-2]
+; {%Partic.%} {#SaSamAna/#} geschäftig, eifrig; {%p. p.%}
+; {#Samita/.#}
+;
+* <L>25089<pc>452-1<k1>Scut<k2>Scut,<h>1 (not cae)
+; 1. {#Scut,#}¦ {%sp.%} {#Scyut, Sco/tati#} {%u.%} {#Scyotati#}
+; träufeln {%(intr. u. trans.). Caus.%} {#Scotayati#} <lbinfo n="2"/>
+; träufeln lassen. {#aBi#} {%Caus.%} beträufeln. <lbinfo n="9"/>
+; {#ava#} herabträufeln {%o.%} -fallen.
+; {#pra#} hervortriefen, {%p. p.%} {#praScyutita.#}
+;
+* <L>25133<pc>452-2<k1>SraRa<k2>SraRa, (not cae)
+; {#SraRa,#}¦ {%nur Caus.%} {#SrARayati#} {%mit%} {#vi#} verschenken. <lbinfo n="9"/>
+;
+* <L>25281<pc>456-2<k1>SlaT<k2>SlaT (not cae)
+; {#SlaT#}¦ locker werden {%(vgl.%} {#SlaTayati#} lockern, lösen.
+;
+* <L>25374<pc>458-2<k1>SvetAya<k2>SvetAya, (not cae)
+; {#SvetAya,#}¦ {#°yate#} weiß werden.
+;
+* <L>25445<pc>459-2<k1>zaRqay<k2>zaRqay, (not cae)
+; {#zaRqay,#}¦ {#°yati#} kastreiern.
+;
+* <L>26262<pc>474-2<k1>saptaviMSat<k2>saptaviMSat (not cae)
+; {#saptaviMSat#}¦ {%u.%} {#Sapta/viMSati#} siebenundzwanzig.
+;
+* <L>26993<pc>487-2<k1>sas<k2>sas, (not cae)
+; {#sas,#}¦ {#sa/sti, sa/sasti#} {%o.%} {#sasa/sti#} schlafen, daliegen, <lbinfo n="7"/>
+; unthätig sein.
+;
+* <L>27860<pc>501-2<k1>sunIti<k2>sunIti/<h>1 (not cae)
+; 1. {#sunIti/#}¦ {%u.%} {#su/nIti#} gut führend.
+;
+* <L>28487<pc>510-2<k1>sOmyarUpa<k2>sOmyarUpa (not cae)
+; {#sOmyarUpa#}¦ von lieblicher Gestalt.  .{#sOmyAkfti#}  {%dass.%}
+;
+* <L>28513<pc>511-1<k1>skanda<k2>skanda, (not cae)
+; {#skanda,#}¦ {#saka/ndati, °te#} springen, hüpfen,
+; spritzen, herausfallen; bespringen, begatten. <lbinfo n="7"/>
+; {%p. p.%} {#skanna/.#} {%Caus.%} {#skandayati#} verschütten, <lbinfo n="9"/>
+; vergießen; überspringen, versäumen. <lbinfo n="7"/>
+; {%p. p.%} {#skandita#} {%s. bes.%} {#ati#} bespringen, <lbinfo n="9"/>
+; überspringen. {#aDi#} bespringen.
+; {#ava#} herausspritzen {%o.%} -springen; herbeispringen, <lbinfo n="9"/>
+; anfallen. {#A#} hüpfen, sich
+; hängen an {%(Acc.),%} anfallen. {#pari,#} {%p. p.%}
+; {#pariskanna#} vergossen. {#pra#} hervorspringen
+; {%o.%} -spritzen; herab- {%o.%} heranspringen,
+; angreifen.
+;
+* <L>28529<pc>512-1<k1>star<k2>star,<h>1 (not cae)
+; 1. {#star,#}¦ {#stfRa/ti, stfRIte/, stfRoti, stfRute#} 
+; {#(starati)#} streuen, hinstreuen, hinwerfen,
+; niederwerfen, bestreuen, bedecken.
+; {%p. p.%} {#stIrRa/#} {%u.%} {#stfta#} gestreut u. s. w. {%ava%}
+; streuen, bestreuen, bedecken, erfüllen.
+; {#A#} hinstreuen, ausbreiten, bedecken.
+; {#upa#} bedecken, umlegen, hinstreuen, ausbreiten; <lbinfo n="8"/>
+; aufgießen {%(r.).%} {#pari#} rings bestreuen <lbinfo n="7"/>
+; {%o.%} umlegen, bedecken, ausbreiten.
+; {#pra#} hinstreuen, ausbreiten. {#vi#} {%dass. p. p.%}
+; {#vistIrRa#} {%u.%} {#vistfta#} bestreut; ausgebreitet,
+; weit, umfangreich; {%n. adv. Caus.%} {#vistA#} 
+; {#rayati#} ausbreiten, entfalten, zur Schau
+; tragen. {#sam#} hinstreuen, ausbreite, bedecken. <lbinfo n="7"/>
+;
+* <L>28533<pc>512-1<k1>starh<k2>starh, (not cae)
+; {#starh,#}¦ {#stfhati#} zermalmen.
+;
+* <L>28726<pc>517-2<k1>sparD<k2>sparD, (not cae)
+; {#sparD,#}¦ {#spa/rDate#} wetteifern,streiten, sich bewerben <lbinfo n="6"/>
+; um {%(Loc.).%} {#aDi, pra, vi#} {%u.%} {#sam#}
+; = {%Simpl.%}
+;
+* <L>28730<pc>517-2<k1>sparS<k2>sparS, (not cae)
+; {#sparS,#}¦ {#spfSa/ti, °te#} berühren, {#apa/s#} Wasser
+; {%(r.);%} anfassen, fühlen, reichen {%o.%} dringen
+; [Page518-1]
+; bis zu {%(Acc. o. Loc.);%} treffen, zu teil
+; werden; erreichen, erlangen. {%p. p.%} {#spfzwa/#}
+; berührt u. s. w. betroffen, behaftet mit
+; {%(Instr. o.%} {#—°).#} {%Caus.%} {#spArSayati, °te#} jemd.
+; etw. berühren lassen {%(2 Acc., auch Acc.%}
+; {%der Pers. Instr. o. Loc. der S.);%} jemd.
+; etwas zukommen lassen, hingeben {%(Dat.%}
+; {%der Pers. u. Acc. der S.).%} {#upa#} berühren,
+; reichen bis {%(Acc.); mit o. ohne%} {#apas,#} 
+; {#udakam#} {%u. s. w.%} Wasser berühren, sich
+; durch Waschen {%o.%} Mundausspülen reinigen, <lbinfo n="4"/>
+; {%auch mit Instr. des Wassers u. Acc.%}
+; {%der Körperteile%} berühren, benetzen {%(r.).%}
+; {#sam#} {%dass., auch%} treffen, heimsuchen.
+; {%Caus.%} in Berührung bringen.
+;
+* <L>28761<pc>518-2<k1>sPar<k2>sPar, (not cae)
+; {#sPar,#}¦ {%Caus.%} {#sPArayati#} auseinanderziehen,
+; spannen {%(den Bogen),%} aufreißen, öffnen,
+; verbreiten. {#vi#} {%dass.%}
+;
+* <L>28762<pc>518-2<k1>sPal<k2>sPal, (not cae)
+; {#sPal,#}¦ {%mit%} {#A#} {%Caus.%} {#AsPAlayati#} anprallen
+; (lassen), anschlagen an, schleudern
+; gegen {%(Acc.).%}
+;
+* <L>28792<pc>519-1<k1>smar<k2>smar, (not cae)
+; {#smar,#}¦ {#sma/rati, °te#} sich erinnern, sich sehnen
+; {%(Acc.u. Gen.);%} gedenken, überliefern,
+; {%bes. Pass.%} {#smarya#} 
+; {#te#} gelehrt werden. {#smfta#}
+; in Erinnerung gebracht {%o.%} gehalten,
+; gelehrt, überliefert, geltend als, erklärt
+; für, heißend {%(Nom. mit u. ohne)%} {#iti).#}
+; {%Caus.%} {#smArayati#} {%u.%} {#smarayati#} jemd. {%(Acc.)%}
+; gedenken lassen; jemd; erinnern {%o.%}
+; mahnen an {%(Acc. o. Gen.);%} erinnern
+; an {%(2 Acc. o. Gen. der Pers. u. Acc.%}
+; {%der S.).%} {#anu#} sich erinnern, gedenken an
+; b {%(Acc.).%} {#apa#} vergessen. {#vi#} {%dass., p. p.%}
+; {#vismfta#} {%act.%} vergessen habend {%(Acc. o.%}
+; {#—°),#} {%pass.%} vergessen von {%(Instr. o. Gen.).%}
+; [Page519-2]
+; {%Caus.%} {#vismArayati#} jemd. etw. vergessen
+; machen {%(2 Acc.).%} {#sam#} sich erinnern,
+; gedenken. {%Caus.%} {#saMsmarayati#} jemd. an
+; etwas erinnern {%(2 Acc.).%}
+;
+* <L>28810<pc>519-2<k1>syanda<k2>syanda, (not cae)
+; {#syanda,#}¦ {#sya/ndate, °ti#} eilen, laufen, fahren,
+; fließen; {%p. p.%} {#syanna/.#} {%Caus.%} {#syandayati#}
+; fliesen, lassen. {#aBi#} hinlaufen. {#ava#} {%u.%} {#ni#}
+; herabfließen. {#pra#} laufen, fließen, forteilen, <lbinfo n="6"/>
+; abfahren. {#vi#} aus-, überfließen.
+; {#sam#} zusammenlaufen.
+;
+* <L>28943<pc>522-1<k1>svaBU<k2>svaBU (not cae)
+; {#svaBU#}¦ {%u.%} {#°ti#} von selbst entstehend.
+;
+* <L>29698<pc>537-1<k1>hvar<k2>hvar, (not cae)
+; {#hvar,#}¦ {#hva/rati, °te#} krumm gehen, abbiegen,
+; wanken, umfallen. {%Caus.%} {#hvArayati#}
+; krumm gehen machen; in die Irre führen.
+; {#vi#} straucheln, fallen; {%Caus.%} umstürzen.
+;
+* <L>29702<pc>537-1<k1>hvA<k2>hvA (not cae)
+; {#hvA#}¦ {%o.%} {#hU, hU/yati, °te, ha/vate, huva/te, °ti#} 
+; {#(hUte, hoti, juhoti)#} rufen, an-, herbeirufen <lbinfo n="5"/>
+; {#(avase)#} {%o.%} {#Utaye#} um Hilfe); ein-
+; [Page537-2]
+; laden, herausfordern. {%Pass.%} {#hUya/te,#} {%p. p.%}
+; {#hUta/,#} {%auch die med. Formen oft mit pass.%}
+; {%Bed.— Caus.%} {#hAyayati#} {%(nur%} {#—°).#} {%Intens.%}
+; {#jo/havIti,#} {%Partic.%} {#jo/huvAna#} rufen, anfleben. <lbinfo n="7"/>
+; {#acCa#} anrufen. {#anu#} nach- {%o.%}
+; zurückrufen. {#A#} rufen, herbeirufen,
+; anrufen, einladen, vorladen {%(j.).%} herausfordern. <lbinfo n="8"/>
+; {%Caus.%} herbeirufen lassen.
+; {%Intens.%} herbeirufen. {#upA#} herbeirufen,
+; herausfordern. {#samA#} zusammenrufen,
+; versammeln, {%auch = vor.%} {#upa#} {%(Med.)%}
+; herbeirufen, einladen, anrufen, zustimmen, <lbinfo n="4"/>
+; beloben. {%p. p.%} {#u/pahUta#} herbeigerufen
+; u. s. w., {%auch%} wozu geladen ist. {#samupa#}
+; zusammenrufen, einladen, herausfordern.
+; {#ni#} {%(Med.)%} herab- {%o.%} herbeirufen. {#pra#} {%(Med.)%}
+; rufen ({%mit%} {#acCa#} herbeirufen). {#vi#} {%Med.%}
+; gesondert {%o.%} um die Wette anrufen,
+; sich streitig machen; abrufen. {#sam#}
+; {%(Med.)%} zusammenrufen.
+;
+* <L>29840<pc>540-1<k1>tar<k2>tar, (not cae)
+; {#tar,#}¦ {#ta/rati#} {%auch%} schweben.
+;
