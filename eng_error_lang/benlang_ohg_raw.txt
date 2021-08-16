@@ -1,0 +1,613 @@
+<L>27<pc>0002-b<k1>akza<k2>akza
+O.H.G. = ahsa
+<L>76<pc>0005-a<k1>aNka<k2>aNka
+O.H.G. ango, anga, angul; A.S. angel, etc.
+<L>138<pc>0008-b<k1>aYj<k2>aYj
+O.H.G. anko, butter; and  in 
+<L>723<pc>0037-a<k1>aBi<k2>aBi
+O.H.G. = umbi
+<L>930<pc>0045-b<k1>ambA<k2>ambA
+O.H.G. amma and ama.
+<L>974<pc>0047-a<k1>aratni<k2>aratni
+O.H.G. = elina
+<L>982<pc>0047-b<k1>aritra<k2>aritra
+O.H.G. = ruodar
+<L>1228<pc>0060-b<k1>avi<k2>avi
+O.H.G. = awi
+<L>1471<pc>0074-b<k1>Atman<k2>Atman
+O.H.G. atum, A.S. acdhm, and see above.
+<L>1560<pc>0079-a<k1>Ap<k2>Ap
+O.H.G. uobjan, and see above.
+<L>1662<pc>0085-a<k1>ArA<k2>ArA
+O.H.G. āla; A.S. āl, ael.
+<L>1862<pc>0100-a<k1>id<k2>id
+O.H.G. iz), a ved. part. laying a stress upon the preceding word, Chr. 290, 8
+<L>1873<pc>0100-b<k1>inD<k2>inD
+O.H.G. = eit
+<L>2099<pc>0116-a<k1>udan<k2>udan
+O.H.G. wazar has {%r%} instead of {%n,%} like the
+<L>2441<pc>0131-b<k1>ulUka<k2>ulUka
+O.H.G. ūla.
+<L>2461<pc>0132-b<k1>uz<k2>uz
+O.H.G. usil- var, yellow, probably Lat. aurum. --
+<L>2483<pc>0133-b<k1>UDan<k2>UDan
+O.H.G. ūtar; A.S. uder.
+<L>2487<pc>0133-b<k1>Una<k2>Una
+O.H.G. wên- ag, few, perhaps  etc.), adj., f. {%nā.%}
+<L>2518<pc>0136-a<k1>f<k2>f
+O.H.G. arnên.
+<L>2562<pc>0139-a<k1>fzya<k2>fzya
+O.H.G. elah, .
+<L>2776<pc>0149-b<k1>kaK<k2>kaK
+O.H.G. hôh (sneer).
+<L>2865<pc>0154-b<k1>kad<k2>kad
+O.H.G. = huaz
+<L>2936<pc>0158-a<k1>kam<k2>kam
+O.H.G. gaman, A.S. gamene. 
+<L>3069<pc>0166-b<k1>kal<k2>kal
+O.H.G. halôn, holôn, holên.
+<L>3080<pc>0167-b<k1>kalama<k2>kalama
+O.H.G. = halm
+<L>3198<pc>0174-a<k1>kAdamba<k2>kAdamba
+O.H.G. tūba; A.S. dūna. 
+<L>3383<pc>0185-a<k1>kAs<k2>kAs
+O.H.G. = huosta
+<L>3568<pc>0195-b<k1>kumBa<k2>kumBa
+O.H.G. = hofar
+O.H.G. = huf
+O.H.G. hufila, ‘a cheek,’ hūfo and hauf, a multitude, heap; cf. supra.
+<L>3637<pc>0199-b<k1>kus<k2>kus
+O.H.G. cus, kussian; A.S. coss, cyssan, be-
+<L>3653<pc>0200-b<k1>kUj<k2>kUj
+O.H.G. = gauc
+<L>3920<pc>0225-a<k1>kram<k2>kram
+O.H.G. scrītan; A.S. scrīdhan.
+<L>3950<pc>0229-b<k1>kruYc<k2>kruYc
+O.H.G. = kriuchan
+<L>3972<pc>0231-b<k1>klap<k2>klap
+O.H.G. hrôfan; A.S. hreopan; Goth. hrôpjan (= {%klāpaya%}).
+<L>4091<pc>0239-b<k1>kzupa<k2>kzupa
+O.H.G. scubo, scubil.
+<L>4093<pc>0239-b<k1>kzuB<k2>kzuB
+O.H.G. sciuban, A.S. sceofan; but their labial
+<L>4155<pc>0243-a<k1>KaYj<k2>KaYj
+O.H.G. = hinkan
+<L>4192<pc>0245-a<k1>Karj<k2>Karj
+O.H.G. kracjan, kracôn.
+<L>4369<pc>0259-a<k1>gala<k2>gala
+O.H.G. = kela
+<L>4561<pc>0270-b<k1>gF<k2>gF
+O.H.G. queran, to moan, and kerran, garrire, callôn; O.N. kalla.
+<L>4562<pc>0270-b<k1>gF<k2>gF
+O.H.G. giri, adj. and f., gerôn; Goth. gairns, O.H.G. gern, A.S. georn,
+O.H.G. gern, A.S. georn, O.H.G. girida, giridi.
+O.H.G. girida, giridi.
+<L>4635<pc>0275-b<k1>grah<k2>grah
+O.H.G. kraft A.S. craft; Goth. greipan, A.S. gripan, cf.
+<L>4680<pc>0281-a<k1>glE<k2>glE
+O.H.G. kleini, akin to {%glāna.%}
+<L>4704<pc>0283-a<k1>Garma<k2>Garma
+O.H.G. = waram
+<L>4748<pc>0285-b<k1>Gfz<k2>Gfz
+O.H.G. and A.S., hrinan, to touch.
+<L>4786<pc>0288-b<k1>cakz<k2>cakz
+O.H.G. sagên, A.S. saegan, etc.
+<L>4824<pc>0291-a<k1>caturTa<k2>caturTa
+O.H.G. = fiordo
+<L>5059<pc>0308-b<k1>cud<k2>cud
+O.H.G. = sciozan
+<L>5087<pc>0310-b<k1>cUz<k2>cUz
+O.H.G. sūgan (cf. {%cakṣ%}).
+<L>5135<pc>0313-a<k1>cyu<k2>cyu
+O.H.G. spua + t, spuatôn; A.S. spaedan; see
+<L>5189<pc>0316-b<k1>Cid<k2>Cid
+O.H.G. sceit, etc.
+<L>5250<pc>0321-a<k1>jan<k2>jan
+O.H.G. kind, A.S. cild; see {%janaka.%}
+<L>5252<pc>0323-a<k1>janaka<k2>janaka
+O.H.G. = kuning
+<L>5265<pc>0323-b<k1>janman<k2>janman
+O.H.G. cīmo.
+<L>5348<pc>0328-a<k1>jAgf<k2>jAgf
+O.H.G. wachar, A.S. waccor.
+<L>5483<pc>0337-b<k1>jF<k2>jF
+O.H.G. korn, kern; Goth. qvairnu; A.S. cweorn, cwyrn.
+<L>5501<pc>0338-b<k1>jYA<k2>jYA
+O.H.G. kna- jan; A.S. cnáwan.
+<L>5549<pc>0342-b<k1>jval<k2>jval
+O.H.G. quelan, A.S. cwellan; Goth. vulan. A.S. wellian, Lat. bullire,
+O.H.G. quellan, cf. A.S. weall (a well);  (cf. {%anu-sam-jvar,%} and {%abhi-sam%}
+<L>5625<pc>0346-b<k1>takz<k2>takz
+O.H.G. dehsa (an axe), dīhsila, A.S. thixl, thisl; Lat.
+O.H.G. dahs (a badger);  see {%takṣan.%}
+<L>5675<pc>0349-b<k1>tan<k2>tan
+O.H.G. = danjan
+<L>5676<pc>0350-a<k1>tan<k2>tan
+O.H.G. = donar
+<L>5679<pc>0350-b<k1>tanu<k2>tanu
+O.H.G. dunni, A.S. thyn;  (= {%tanvī%}),
+<L>5725<pc>0354-b<k1>tam<k2>tam
+O.H.G. damf, damfjan, an old Causal (to choke).
+<L>5728<pc>0355-a<k1>tamas<k2>tamas
+O.H.G. de- mar; A.S. dim thystre; Lat. tenebrae.
+<L>5767<pc>0357-a<k1>tark<k2>tark
+O.H.G. drajan, N.G. drehen.
+<L>5773<pc>0357-b<k1>tarj<k2>tarj
+O.H.G. drawjan, N.G. drohen.
+<L>6021<pc>0370-b<k1>tfRa<k2>tfRa
+O.H.G. dorn, A.S. thorn.
+<L>6032<pc>0371-a<k1>tfp<k2>tfp
+O.H.G. = bidarbi
+O.H.G. trôstjan.
+<L>6036<pc>0371-b<k1>tfz<k2>tfz
+O.H.G. durst, A.S. thurst; Goth. thaursjan, thairsan, thaursus; A.S.
+<L>6074<pc>0374-a<k1>toka<k2>toka
+O.H.G. degan, servus),  probably
+<L>6232<pc>0382-b<k1>daMS<k2>daMS
+O.H.G. zanga, A.S. tang; O.H.G. zangar, morda-
+O.H.G. zangar, morda- citas.
+<L>6245<pc>0383-a<k1>dakza<k2>dakza
+O.H.G. = zeso
+<L>6289<pc>0386-a<k1>daB<k2>daB
+O.H.G. tepjan or depjan.
+<L>6292<pc>0386-b<k1>dam<k2>dam
+O.H.G. zeman, zam; A.S. tam, tamian; Lat.
+<L>6323<pc>0388-a<k1>darBa<k2>darBa
+O.H.G. zurft (zurba), A.S. turf.
+<L>6363<pc>0391-a<k1>dah<k2>dah
+O.H.G. tāht or dāht; per- haps Goth. dags, A.S. daeg.
+<L>6473<pc>0399-b<k1>div<k2>div
+O.H.G. zies-tac; A.S. tiwes daeg.
+<L>6494<pc>0400-b<k1>diS<k2>diS
+O.H.G. zeigôn; A.S. taecan; probably Goth. taikns, A.S.
+O.H.G. zīt (for zig + ti); A.S. tiid. tíd; O.H.G. zeinjan.
+O.H.G. = zeinjan
+<L>6500<pc>0402-b<k1>dih<k2>dih
+O.H.G. = ziagal
+<L>6617<pc>0409-b<k1>dus<k2>dus
+O.H.G. zur-.
+<L>6619<pc>0409-b<k1>duh<k2>duh
+O.H.G. = ziuhan
+O.H.G. ziug (gaziug), zaugjan, 
+<L>6652<pc>0412-a<k1>dfti<k2>dfti
+O.H.G. gi-zelt, pelles, zelt; A.S. teld, tentorium.
+<L>6662<pc>0413-a<k1>anu<k2>anu
+O.H.G. spehôn, to spy; Lat. species, con
+O.H.G. in auga-zorht (= {%dṛś + ta,%} ptcple. of
+O.H.G. zorhtjan, manifestare; also, with {%f%} for
+<L>6675<pc>0414-b<k1>dF<k2>dF
+O.H.G. zala, A.S. tale, zāla, dolus, O.H.G. zalon, diripere;
+O.H.G. zalon, diripere; A.S. tellan; Lat. dolus; 
+<L>6696<pc>0416-b<k1>devf<k2>devf
+O.H.G. = zeihur
+<L>6819<pc>0422-b<k1>drA<k2>drA
+O.H.G. = traum
+O.H.G. = denomin
+<L>6822<pc>0423-a<k1>drAK<k2>drAK
+O.H.G. = trukan
+<L>6830<pc>0423-a<k1>dru<k2>dru
+O.H.G. triufan, A.S. driopan (an old Causal); O.H.G. trofo; A.S. dropa;
+O.H.G. = trofo
+O.H.G. trauf, trauti.
+<L>6839<pc>0424-b<k1>druh<k2>druh
+O.H.G. triugan (see {%droha%}).
+<L>6982<pc>0433-b<k1>DA<k2>DA
+O.H.G. tôn; A.S. dón (to do), dema (a judge), dóm (judgment).
+<L>7014<pc>0441-a<k1>DAv<k2>DAv
+O.H.G. = tau
+<L>7077<pc>0445-b<k1>Df<k2>Df
+O.H.G. = tragan
+<L>7085<pc>0447-b<k1>Dfz<k2>Dfz
+O.H.G. = gaturst
+<L>7097<pc>0448-b<k1>DmA<k2>DmA
+O.H.G. tunst, perhaps A.S. dust.
+<L>7117<pc>0450-b<k1>Druva<k2>Druva
+O.H.G. ga-triuwi; Goth. triggvs; A.S. treowe, for-truwian;
+<L>7121<pc>0450-b<k1>DvaMs<k2>DvaMs
+O.H.G. wôsti; A.S. weste; Goth. driusan; A.S. dreosan,
+<L>7141<pc>0452-b<k1>Dvf<k2>Dvf
+O.H.G. dweran, gadwor, twa- rôn, dwerh; A.S. thweorh, thwir,
+<L>7143<pc>0452-b<k1>na<k2>na
+O.H.G. = ni
+<L>7160<pc>0453-a<k1>naKa<k2>naKa
+O.H.G. = nagal
+<L>7200<pc>0456-b<k1>napAt<k2>napAt
+O.H.G. = nefo
+O.H.G. = nift
+<L>7209<pc>0457-a<k1>naBas<k2>naBas
+O.H.G. = nibul
+<L>7258<pc>0461-a<k1>navan<k2>navan
+O.H.G. = niun
+<L>7282<pc>0462-b<k1>nah<k2>nah
+O.H.G. nāhan, nāwan; Goth. nêthla; A.S. naedl; Goth. nehv,
+<L>7363<pc>0468-b<k1>nAsA<k2>nAsA
+O.H.G. = nasa
+<L>7440<pc>0472-a<k1>nitarAm<k2>nitarAm
+O.H.G. nidạr.
+<L>7447<pc>0472-b<k1>nid<k2>nid
+O.H.G. = neizjan
+<L>7897<pc>0496-a<k1>nO<k2>nO
+O.H.G. naco, A.S. naca.
+<L>8006<pc>0503-a<k1>paR<k2>paR
+O.H.G. feil), i. 1, Ātm. (in epic-poetry also Par.),
+<L>8020<pc>0503-b<k1>pat<k2>pat
+O.H.G. = fedara
+<L>8048<pc>0508-a<k1>patra<k2>patra
+O.H.G. = fedara
+O.H.G. = fedara
+<L>8457<pc>0531-a<k1>parRa<k2>parRa
+O.H.G. = farn
+<L>8461<pc>0531-b<k1>pard<k2>pard
+O.H.G. = ferzan
+<L>8500<pc>0533-a<k1>pal<k2>pal
+O.H.G. = fallan
+<L>8511<pc>0533-b<k1>palita<k2>palita
+O.H.G. = falw
+<L>8519<pc>0534-a<k1>palvala<k2>palvala
+O.H.G. falw), n. (and m.), A small pond, Pañc.
+<L>8530<pc>0534-b<k1>paS<k2>paS
+O.H.G. fahan with fang, fôgjan;  
+O.H.G. ga- fagjan; A.S. ge-fegan; Lat. pac in
+<L>8753<pc>0547-a<k1>pArzRi<k2>pArzRi
+O.H.G. = fersna
+<L>8784<pc>0549-a<k1>pika<k2>pika
+O.H.G. speh, speht;  for  or 
+<L>8860<pc>0553-a<k1>piS<k2>piS
+O.H.G. fêh; A.S. faeger, fah, fag, fagian.
+<L>9060<pc>0566-a<k1>pU<k2>pU
+O.H.G. = fiur
+<L>9121<pc>0570-a<k1>pf<k2>pf
+O.H.G. and A.S. faran; O.H.G. furt; A.S. fyrd.
+O.H.G. = furt
+<L>9122<pc>0570-a<k1>pf<k2>pf
+O.H.G. feil, feili.
+<L>9125<pc>0570-a<k1>pfc<k2>pfc
+O.H.G. = flehtan
+<L>10002<pc>0613-b<k1>prAtar<k2>prAtar
+O.H.G. frô, fruo;  see {%pūrvedyus.%}
+<L>10087<pc>0618-a<k1>prIti<k2>prIti
+O.H.G. = fridu
+<L>10143<pc>0620-b<k1>plu<k2>plu
+O.H.G. flawjan, fluz; A.S. fleot; O.H.G. fliuzan; A.S. fleowan,
+O.H.G. = fliuzan
+O.H.G. = flot
+<L>10219<pc>0625-b<k1>banD<k2>banD
+O.H.G. = fasti
+<L>10230<pc>0627-b<k1>baBru<k2>baBru
+O.H.G. brūn.
+<L>10409<pc>0640-b<k1>Baj<k2>Baj
+O.H.G. bachan (but see {%pac%}).
+<L>10427<pc>0642-a<k1>Badra<k2>Badra
+O.H.G. = baz
+<L>10577<pc>0653-a<k1>Bid<k2>Bid
+O.H.G. biz,. bizzo, fiza, etc.;  (for  and pro-
+<L>10592<pc>0654-b<k1>BI<k2>BI
+O.H.G. bibên; A.S. bifian, beofian (old frequent.).
+<L>10608<pc>0656-a<k1>Buj<k2>Buj
+O.H.G. = baug
+O.H.G. elin -bogo; A.S. elnboga, elboga; O.H.G.
+O.H.G. buoc, būh;  Lat. fugio,
+<L>10609<pc>0656-a<k1>Buj<k2>Buj
+O.H.G. brūhan; A.S. brúcan, bryce.
+<L>10630<pc>0657-b<k1>BU<k2>BU
+O.H.G. pim, pis, etc.; A.S. beón, beó, bist, etc.; Goth. ga-bauan; O.H.G.
+O.H.G. būwan, būan, pu, būr; A.S. búan,
+O.H.G. būari.
+<L>10656<pc>0664-b<k1>BUrja<k2>BUrja
+O.H.G. = bircha
+<L>10736<pc>0670-a<k1>Brajj<k2>Brajj
+O.H.G. = briuwan
+<L>10739<pc>0670-a<k1>Bram<k2>Bram
+O.H.G. = breman
+O.H.G. bremo, briosa; N.G. brausen; 
+<L>10746<pc>0671-a<k1>BrAj<k2>BrAj
+O.H.G. beraht, blanch, blich, blichan; 
+<L>10765<pc>0672-a<k1>BrU<k2>BrU
+O.H.G. brāwa; A.S. bracw; Lat. frons,
+<L>10788<pc>0673-a<k1>makzikA<k2>makzikA
+O.H.G. = mucca
+<L>10812<pc>0674-b<k1>majjan<k2>majjan
+O.H.G. = marag
+<L>10893<pc>0680-b<k1>maDu<k2>maDu
+O.H.G. medu, mito; A.S. medu, medo.
+<L>10910<pc>0681-b<k1>maDya<k2>maDya
+O.H.G. missa, missi, mis-; 
+<L>10936<pc>0684-b<k1>manuzya<k2>manuzya
+O.H.G. = mannisco
+<L>10968<pc>0687-a<k1>mand<k2>mand
+O.H.G. mandjan, to rejoice.
+<L>11036<pc>0690-a<k1>marmara<k2>marmara
+O.H.G. = murmuron
+<L>11087<pc>0692-b<k1>mah<k2>mah
+O.H.G. magan, great, heavy; A.S. maegn,
+O.H.G. macôn; A.S. macian; 
+O.H.G. ga-mah; N.G. Gemach), 
+<L>11119<pc>0694-b<k1>mA<k2>mA
+O.H.G. = mez
+<L>11317<pc>0707-b<k1>miSra<k2>miSra
+O.H.G. = miscjan
+<L>11468<pc>0719-b<k1>mUza<k2>mUza
+O.H.G. and A.S. mūs.
+<L>11510<pc>0722-a<k1>mfd<k2>mfd
+O.H.G. = malz
+O.H.G. = smelzan
+O.H.G. smer- zan; A.S. smilt, smylt, smolt; 
+<L>11522<pc>0723-a<k1>mfD<k2>mfD
+O.H.G. = multjan
+<L>11527<pc>0723-b<k1>mfz<k2>mfz
+O.H.G. = marrjan
+<L>11711<pc>0735-a<k1>yam<k2>yam
+O.H.G. = eidum
+<L>11739<pc>0737-b<k1>yaSas<k2>yaSas
+O.H.G. zôha.
+<L>11782<pc>0742-a<k1>yAmAtf<k2>yAmAtf
+O.H.G. eidum, A.S. adhum, derived from the same verb.
+<L>11935<pc>0755-a<k1>rajju<k2>rajju
+O.H.G. striech, strie, stracchian; A.S. streccan; Lat.
+<L>11958<pc>0757-a<k1>raTa<k2>raTa
+O.H.G. rad (probably borrowed); pro- bably  Goth. lithus, A.S. lidh.
+<L>11982<pc>0758-b<k1>raB<k2>raB
+O.H.G. laba, labôn; perhaps A.S. a-re- fian, To bear, a-raefnan, To take away.
+<L>11985<pc>0759-b<k1>ram<k2>ram
+O.H.G. rāwa, ruowa (i. e. {%*ram +%} {%van,%} cf. acc. sing. ruouun), rāwên (de-
+<L>12008<pc>0761-b<k1>ras<k2>ras
+O.H.G. = rartjan
+O.H.G. = rerjan
+<L>12139<pc>0771-b<k1>ruc<k2>ruc
+O.H.G. liuchan, fovere, lucjan, locon, mulcere; 
+<L>12158<pc>0773-a<k1>rud<k2>rud
+O.H.G. = riuzan
+<L>12163<pc>0774-b<k1>ruDira<k2>ruDira
+O.H.G. rôt; A.S. reád, roder;   Lat. rutilus (for old
+<L>12194<pc>0778-b<k1>reKA<k2>reKA
+O.H.G. = riga
+<L>12244<pc>0781-a<k1>romanTa<k2>romanTa
+O.H.G. ita-rucjan; A.S. roccettan; Lat. rūmen, ruminare (for rug-men),
+<L>12296<pc>0785-a<k1>laGu<k2>laGu
+O.H.G. līhti; A.S. līht.
+<L>12308<pc>0786-a<k1>laNG<k2>laNG
+O.H.G. langên, ga-lingan, ga -langôn; Goth. laggs; A.S. lang, etc.;
+<L>12429<pc>0794-b<k1>liNg<k2>liNg
+O.H.G. and A.S. hring; O.H.G. bringjan.
+O.H.G. = bringjan
+<L>12434<pc>0795-a<k1>lip<k2>lip
+O.H.G. salba, Goth. salbôn, A.S. sealf.
+<L>12445<pc>0796-a<k1>lI<k2>lI
+O.H.G. = lim
+O.H.G. = leim
+<L>12450<pc>0797-a<k1>luYc<k2>luYc
+O.H.G. = liuhhan
+<L>12467<pc>0798-b<k1>lup<k2>lup
+O.H.G. raubôn; very probably also Goth. raupjan, to pull out; 
+<L>12580<pc>0805-b<k1>vaNk<k2>vaNk
+O.H.G. waga, cuna, wagôn, moveri, waga; A.S. waeg, etc.;
+O.H.G. wank, wankôn; A.S. woh, wog, wó, a bending; wancol (perhaps
+<L>12589<pc>0806-a<k1>vac<k2>vac
+O.H.G. ga-wahan, memo-  
+<L>12600<pc>0807-b<k1>vaj<k2>vaj
+O.H.G. auhôn; A.S. eacan, see {%vakṣ;%} probably also A.S. wacor, cf. Icel.
+<L>12601<pc>0807-b<k1>vajra<k2>vajra
+O.H.G. = weggi
+<L>12654<pc>0810-a<k1>vad<k2>vad
+O.H.G. far-wāzan; O. Saxon, for-wātan, recusare.
+<L>12673<pc>0811-b<k1>van<k2>van
+O.H.G. = wunna
+<L>12728<pc>0814-b<k1>vara<k2>vara
+O.H.G. = wela
+<L>12887<pc>0825-a<k1>vas<k2>vas
+O.H.G. wesan and werên, wonên; A.S. wunian;
+<L>12923<pc>0828-a<k1>vah<k2>vah
+O.H.G. = wagan
+<L>12924<pc>0829-b<k1>vaha<k2>vaha
+O.H.G. wagan, see {%vah.%}
+<L>12937<pc>0830-b<k1>vA<k2>vA
+O.H.G. = wadal
+<L>12952<pc>0831-b<k1>vANkz<k2>vANkz
+O.H.G. wunsc, wunskian; A.S. wiscan.
+<L>12989<pc>0834-a<k1>vAta<k2>vAta
+O.H.G. = wetar
+<L>13027<pc>0836-a<k1>vAma<k2>vAma
+O.H.G. = winistar
+<L>13139<pc>0843-b<k1>vi<k2>vi
+O.H.G. = ei
+<L>13222<pc>0848-a<k1>vic<k2>vic
+O.H.G. wīcan, A.S. wícan, recedere (per-
+O.H.G. = wehsal
+<L>13306<pc>0852-b<k1>vid<k2>vid
+O.H.G. weizian, To show; A.S. wisian, ge
+O.H.G. wīzago, propheta, wīzagôn; A.S. wítegian; 
+<L>13619<pc>0872-b<k1>viS<k2>viS
+O.H.G. ni-with, eo-wiht, neo-wiht.
+<L>13867<pc>0886-b<k1>vf<k2>vf
+O.H.G. = wara
+O.H.G. war, verus; Goth. varjan; A.S. wreon, To cover;
+O.H.G. wari, depulsio; werna, A.S. wearne, obsta-
+O.H.G. warnôn, A.S. warnian, wearnian, cavere, prohibere; Goth.
+O.H.G. weljan, eligere; Lat. per- haps aperio, operio; probably velum,
+<L>13881<pc>0889-a<k1>vfj<k2>vfj
+O.H.G. wurgjan, strangulare; 
+<L>13906<pc>0896-a<k1>vfD<k2>vfD
+O.H.G. = uurza
+<L>13938<pc>0898-b<k1>ve<k2>ve
+O.H.G. wāt; A.S. waed, vestimentum; O.H.G. weban;
+O.H.G. = weban
+<L>13955<pc>0899-b<k1>vetasa<k2>vetasa
+O.H.G. wīda; A.S. widhig; Lat. vi- tex, vitis; 
+<L>13985<pc>0902-a<k1>vep<k2>vep
+O.H.G. weibôn, fluitare; weibjan.
+<L>13996<pc>0902-b<k1>vell<k2>vell
+O.H.G. = wuoljan
+<L>14310<pc>0921-a<k1>vraj<k2>vraj
+O.H.G. rehhan, wreh, exul; A.S. wraecca;
+<L>14360<pc>0926-a<k1>Sakuni<k2>Sakuni
+O.H.G. = habuh
+<L>14379<pc>0927-a<k1>SaNk<k2>SaNk
+O.H.G. = hugjan
+O.H.G. = hugu
+<L>14401<pc>0929-a<k1>SaRa<k2>SaRa
+O.H.G. = hanaf
+<L>14441<pc>0931-b<k1>SaPa<k2>SaPa
+O.H.G. = huof
+<L>14449<pc>0932-b<k1>Sam<k2>Sam
+O.H.G. = chamo
+<L>14543<pc>0938-b<k1>SaSa<k2>SaSa
+O.H.G. = haso
+<L>14734<pc>0951-a<k1>SI<k2>SI
+O.H.G. hīwī, ma- trimonium; A.S. hiwa, familia; O.H.G.
+O.H.G. hīwo, m. hīwa, f. conjux; hīwjan, hījan,
+O.H.G. = haim
+<L>14752<pc>0952-b<k1>SIrza<k2>SIrza
+O.H.G. and A.S. hals; Lat. collum; see {%śiras.%}
+<L>14775<pc>0954-a<k1>Suc<k2>Suc
+O.H.G. huvo, ulula.
+<L>14795<pc>0955-b<k1>SuD<k2>SuD
+O.H.G. haitar, screnus.
+<L>14812<pc>0957-a<k1>SumB<k2>SumB
+O.H.G. = kamp
+<L>14821<pc>0957-b<k1>Suz<k2>Suz
+O.H.G. siuh, siucī, siuhjan; Goth. sauht; A.S. and O.H.G. suht.
+O.H.G. = suht
+<L>14870<pc>0961-a<k1>SF<k2>SF
+O.H.G. bi -hal, bipennis; Lat. clava, quiris,
+<L>14906<pc>0963-b<k1>So<k2>So
+O.H.G. hvez- jan; A.S. hwettan (a denomin.); Goth.
+<L>14974<pc>0967-b<k1>SraT<k2>SraT
+O.H.G. and A.S. hládan; O.H.G. hlast; A.S.
+O.H.G. = hlast
+<L>14985<pc>0968-a<k1>Sram<k2>Sram
+O.H.G. rāmen, rāmjan, intendere.
+<L>15019<pc>0972-a<k1>Sru<k2>Sru
+O.H.G. hliumunt (= ved. {%śro-%} {%manta%}), hlôsên.
+<L>15114<pc>0979-a<k1>Svind<k2>Svind
+O.H.G. hwīz; Goth. hvaitei; A.S. hvaete;
+O.H.G. hwaizi, hiza, haiz; A.S. hat; (O.H.G. hei, perhaps from {%śvi%} without
+O.H.G. hei, perhaps from {%śvi%} without the final {%nd%}).
+<L>15151<pc>0981-a<k1>zWiv<k2>zWiv
+O.H.G. spīcilla; cf. {%kṣiv.%}
+<L>15435<pc>0999-a<k1>sad<k2>sad
+O.H.G. = sezal
+O.H.G. = satul
+<L>15557<pc>1007-b<k1>saBya<k2>saBya
+O.H.G. = sibba
+O.H.G. sibbi, sibbo, ga-sibbo, ga-sibbôt.
+<L>15940<pc>1029-b<k1>sahya<k2>sahya
+O.H.G. ga-sunt (perhaps = {%saha%} {%+ vant%}).
+<L>16048<pc>1037-a<k1>sAmi<k2>sAmi
+O.H.G. sāmi-, A.S. sām-, e. g. in O.H.G. sāmi-quek, A.S. sām-cuce;
+O.H.G. sāmi-quek, A.S. sām-cuce; Lat. semi-, .
+<L>16128<pc>1042-a<k1>si<k2>si
+O.H.G. = sail
+O.H.G. = saito
+<L>16139<pc>1043-a<k1>sic<k2>sic
+O.H.G. sīhan, colare, seihjan, mingere, probably Goth. saivs; O.H.G.
+O.H.G. seo, gi-sic; Lat. stilla (for stic-la;
+O.H.G. straum = Sskr. {%sro,%} vb. {%sru%});  probably 
+<L>16169<pc>1046-a<k1>siv<k2>siv
+O.H.G. siut, suila, saum; A.S. seam, limbus; O.N. saumr, su-
+<L>16277<pc>1051-b<k1>sUkara<k2>sUkara
+O.H.G. sū; A.S. sugu; Goth. svein; A.S. swin.
+<L>16317<pc>1054-b<k1>sUpa<k2>sUpa
+O.H.G. = suf
+O.H.G. sūfan, saufjan.
+<L>16330<pc>1055-a<k1>sUrpa<k2>sUrpa
+O.H.G. swarb, gurges; N.N.L. zwerven, vagari;
+O.H.G. swerban (To dry something, originally, by swinging
+<L>16492<pc>1066-b<k1>skanDa<k2>skanDa
+O.H.G. = scultarra
+<L>16498<pc>1067-a<k1>skamB<k2>skamB
+O.H.G. scafan, scafôn, scoppôn, to stop; probably .
+<L>16499<pc>1067-b<k1>sku<k2>sku
+O.H.G. scur, tugu- rium; A.S. scúnian; O.H.G. skiuhan
+O.H.G. skiuhan also A.S. scawian, sceawian, to see
+<L>16522<pc>1069-a<k1>stamB<k2>stamB
+O.H.G. = stam
+<L>16534<pc>1070-b<k1>stiG<k2>stiG
+O.H.G. = steigal
+<L>16547<pc>1071-b<k1>stumB<k2>stumB
+O.H.G. stumph, stumbal; A.S. stypel; Goth. and A.S. dumb.
+<L>16550<pc>1071-b<k1>stf<k2>stf
+O.H.G. = sturm
+O.H.G. sterbjan (old Caus.), interficere, sterban; A.S. stear-
+O.H.G. = strac
+<L>16581<pc>1073-b<k1>sTag<k2>sTag
+O.H.G. = dakjan
+<L>16591<pc>1074-a<k1>sTal<k2>sTal
+O.H.G. stallan, stellan.
+<L>16592<pc>1074-a<k1>sTala<k2>sTala
+O.H.G. stal, stall; A.S. stal, stael; O.H.G. 
+O.H.G.  
+O.H.G. stelza, stolz; also A.S. stillan, stille.
+<L>16600<pc>1074-b<k1>sTA<k2>sTA
+O.H.G. stān, stên; Goth. and A.S. standan (frequent.);
+O.H.G. = standa
+O.H.G. stat, locus; stat, stad, ripa; tur-studil; A.S. studu,
+O.H.G. = stunt
+O.H.G. = stauuan
+<L>16627<pc>1080-b<k1>sTira<k2>sTira
+O.H.G. starên; A.S. starian; O.H.G. storrên, stornên, starh; A.S.
+O.H.G. storrên, stornên, starh; A.S. starc; O.H.G. ga-starkên, starhjan, etc.
+O.H.G. ga-starkên, starhjan, etc.
+<L>16633<pc>1081-b<k1>sTUrin<k2>sTUrin
+O.H.G. stiuri, fortis; A.S. stor; O.H.G. stur,
+O.H.G. stur, magnus.
+<L>16648<pc>1082-a<k1>snasA<k2>snasA
+O.H.G. snôr, snuor, see {%snāva.%}
+<L>16649<pc>1082-a<k1>snA<k2>snA
+O.H.G. = naco
+<L>16658<pc>1083-a<k1>snAva<k2>snAva
+O.H.G. = senwa
+<L>16662<pc>1083-b<k1>snu<k2>snu
+O.H.G. = snittan
+O.H.G. sniumi A.S. sneome.
+<L>16665<pc>1083-b<k1>snuzA<k2>snuzA
+O.H.G. = snur
+<L>16682<pc>1084-b<k1>sparD<k2>sparD
+O.H.G. spurt, stadium (originally certamen); probably
+<L>16704<pc>1086-a<k1>spfh<k2>spfh
+O.H.G. = spulgen
+<L>16722<pc>1087-a<k1>sPAy<k2>sPAy
+O.H.G. sapannan (originally, To) draw); O.H.G. and A.S. spanan; Goth.
+O.H.G. and A.S. spanan; Goth. and A.S. spinnan; 
+<L>16726<pc>1087-b<k1>sPic<k2>sPic
+O.H.G. = spec
+<L>16731<pc>1087-b<k1>sPuw<k2>sPuw
+O.H.G. = spaltan
+<L>16748<pc>1089-a<k1>sPul<k2>sPul
+O.H.G. = fallan
+<L>16770<pc>1090-b<k1>smi<k2>smi
+O.H.G. = smielan
+<L>16773<pc>1091-a<k1>smf<k2>smf
+O.H.G. māri; Goth. mêrjan, meritha; A.S.
+<L>16808<pc>1093-a<k1>sriD<k2>sriD
+O.H.G. stritan, strit; A.S. stridh; Lat. stlis, lis.
+<L>16812<pc>1093-a<k1>sru<k2>sru
+O.H.G. = straum
+O.H.G. sliumo, slunic, slunigên; .
+<L>16852<pc>1096-a<k1>svap<k2>svap
+O.H.G. suabjan, suebjan;  see {%svapna,%} also with {%l%} for {%v%}
+<L>16906<pc>1098-b<k1>svAdu<k2>svAdu
+O.H.G. = suozi
+<L>16927<pc>1100-a<k1>svid<k2>svid
+O.H.G. svizzan, sueizjan (Caus.);  Lat.
+<L>16938<pc>1100-b<k1>sveda<k2>sveda
+O.H.G. = sueiz
+<L>16947<pc>1101-b<k1>haMsa<k2>haMsa
+O.H.G. = gans
+<L>16969<pc>1102-b<k1>had<k2>had
+O.H.G. scīzan; A.S. scitan.
+<L>16991<pc>1106-a<k1>hari<k2>hari
+O.H.G. grôen, grôni; A.S. groen, grene; also geal,
+<L>17061<pc>1110-b<k1>hA<k2>hA
+O.H.G. gīên, ginên, geinôn; A.S. ginan, cinan,
+<L>17187<pc>1120-a<k1>hfRIya<k2>hfRIya
+O.H.G. = galla
+<L>17201<pc>1121-a<k1>hfz<k2>hfz
+O.H.G. = burst
+<L>17289<pc>1125-b<k1>hrI<k2>hrI
+O.H.G. = hriuwan
+<L>17298<pc>1126-a<k1>hrez<k2>hrez
+O.H.G. = hros
+<L>17305<pc>1126-a<k1>hlAd<k2>hlAd
+O.H.G. glat, splendens (cf. {%hrā̆dinī, hlādinī%}).
+<L>17313<pc>1126-b<k1>hve<k2>hve
+O.H.G. = hweion

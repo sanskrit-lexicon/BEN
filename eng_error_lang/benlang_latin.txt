@@ -1,0 +1,1888 @@
+<L>8<pc>0001-b<k1>aMsa<k2>aMsa
+Lat. humerus
+Lat. ansa
+<L>11<pc>0001-b<k1>aMhas<k2>aMhas
+Lat. angustus
+Lat. angere
+Lat. anxius
+<L>26<pc>0002-b<k1>akza<k2>akza
+Lat. oculus
+<L>27<pc>0002-b<k1>akza<k2>akza
+Lat. axis
+<L>43<pc>0003-b<k1>agni<k2>agni
+Lat. ignis
+<L>76<pc>0005-a<k1>aNka<k2>aNka
+Lat. uncus
+<L>110<pc>0007-b<k1>aNgulIya<k2>aNgulIya
+Lat. annulus
+<L>117<pc>0007-b<k1>aj<k2>aj
+Lat. ago
+Lat. igitur
+Lat. agitur
+<L>133<pc>0008-b<k1>ajman<k2>ajman
+Lat. agmen
+<L>134<pc>0008-b<k1>ajra<k2>ajra
+Lat. ager
+<L>138<pc>0008-b<k1>aYj<k2>aYj
+Lat. unguere
+<L>142<pc>0009-b<k1>aYji<k2>aYji
+Lat. inguen
+<L>171<pc>0010-b<k1>ati<k2>ati
+Lat. atavus
+<L>220<pc>0012-b<k1>aTa<k2>aTa
+Lat. at
+<L>225<pc>0013-a<k1>ad<k2>ad
+Lat. edere
+<L>235<pc>0013-b<k1>adya<k2>adya
+Lat. hodie
+<L>246<pc>0014-a<k1>aDama<k2>aDama
+Lat. infimus
+<L>249<pc>0014-a<k1>aDara<k2>aDara
+Lat. inferus
+<L>253<pc>0014-b<k1>aDi<k2>aDi
+Lat. ad
+<L>314<pc>0018-a<k1>an<k2>an
+Lat. in
+<L>315<pc>0018-b<k1>an<k2>an
+Lat. animus
+Lat. anus
+<L>341<pc>0019-b<k1>anas<k2>anas
+Lat. onus
+<L>518<pc>0026-b<k1>anta<k2>anta
+Lat. uls
+Lat. ultis
+<L>526<pc>0027-a<k1>antar<k2>antar
+Lat. inter
+<L>527<pc>0027-b<k1>antara<k2>antara
+Lat. interus
+Lat. interior
+Lat. alter
+Lat. ulterior
+Lat. ultra
+<L>544<pc>0028-b<k1>antika<k2>antika
+Lat. ante
+<L>545<pc>0028-b<k1>antima<k2>antima
+Lat. ultimus
+Lat. intimus
+<L>551<pc>0029-a<k1>antra<k2>antra
+Lat. interiora
+<L>563<pc>0029-b<k1>anna<k2>anna
+Lat. annona
+<L>568<pc>0029-b<k1>anya<k2>anya
+Lat. alius
+<L>571<pc>0030-a<k1>anyatra<k2>anyatra
+Lat. aliter
+<L>572<pc>0030-a<k1>anyaTA<k2>anyaTA
+Lat. aliuta
+<L>600<pc>0031-a<k1>ap<k2>ap
+Lat. aqua
+Lat. amnis
+<L>601<pc>0031-a<k1>apa<k2>apa
+Lat. ab
+<L>644<pc>0033-a<k1>apamarda<k2>apamarda
+Lat. merda
+<L>675<pc>0034-a<k1>apas<k2>apas
+Lat. operari
+<L>701<pc>0035-b<k1>api<k2>api
+Lat. ob
+Lat. quispiam
+<L>723<pc>0037-a<k1>aBi<k2>aBi
+Lat. ambire
+<L>894<pc>0044-a<k1>aBra<k2>aBra
+Lat. imber
+Lat. umbra
+<L>901<pc>0044-a<k1>am<k2>am
+Lat. emo
+<L>949<pc>0046-a<k1>amla<k2>amla
+Lat. amarus
+<L>954<pc>0046-b<k1>ayas<k2>ayas
+Lat. aes
+<L>974<pc>0047-a<k1>aratni<k2>aratni
+Lat. ulna
+<L>1019<pc>0049-b<k1>arjuna<k2>arjuna
+Lat. argentum
+<L>1053<pc>0052-b<k1>arBa<k2>arBa
+Lat. orbus
+<L>1058<pc>0052-b<k1>arvan<k2>arvan
+Lat. armentum
+<L>1063<pc>0053-a<k1>arh<k2>arh
+Lat. dignor
+<L>1101<pc>0055-a<k1>av<k2>av
+Lat. avere
+Lat. uti
+<L>1102<pc>0055-a<k1>ava<k2>ava
+Lat. autem
+Lat. aut
+<L>1228<pc>0060-b<k1>avi<k2>avi
+Lat. ovis
+<L>1255<pc>0062-a<k1>aSra<k2>aSra
+Lat. acer
+<L>1260<pc>0062-a<k1>aSva<k2>aSva
+Lat. equus
+<L>1276<pc>0063-a<k1>azwan<k2>azwan
+Lat. octo
+<L>1277<pc>0063-a<k1>azwama<k2>azwama
+Lat. octavus
+<L>1281<pc>0063-a<k1>azwAdaSan<k2>azwAdaSan
+Lat. octodecim
+<L>1284<pc>0063-b<k1>azwrA<k2>azwrA
+Lat. incitare
+<L>1286<pc>0063-b<k1>as<k2>as
+Lat. praesens
+Lat. sum
+Lat. est
+<L>1294<pc>0065-a<k1>asi<k2>asi
+Lat. ensis
+<L>1301<pc>0065-b<k1>asfj<k2>asfj
+Lat. assir
+Lat. sanguis
+<L>1308<pc>0066-a<k1>asTi<k2>asTi
+Lat. os
+Lat. ossis
+Lat. ostis
+<L>1313<pc>0066-b<k1>asmad<k2>asmad
+Lat. ego
+Lat. me
+Lat. nos
+<L>1318<pc>0066-b<k1>ah<k2>ah
+Lat. agium
+Lat. ajo
+Lat. agjo
+Lat. nego
+Lat. ium
+<L>1331<pc>0067-b<k1>ahi<k2>ahi
+Lat. anguis
+<L>1560<pc>0079-a<k1>Ap<k2>Ap
+Lat. apiscor
+Lat. ops
+Lat. opto
+Lat. coepi
+Lat. copia
+Lat. aptus
+<L>1645<pc>0084-b<k1>Ayus<k2>Ayus
+Lat. aevum
+<L>1767<pc>0090-b<k1>ASu<k2>ASu
+Lat. ocius
+Lat. accipiter
+<L>1812<pc>0093-b<k1>Aspada<k2>Aspada
+Lat. oppidum
+<L>1840<pc>0095-a<k1>i<k2>i
+Lat. interire
+Lat. perire
+Lat. ire
+<L>1852<pc>0099-a<k1>itara<k2>itara
+Lat. iterum
+<L>1861<pc>0100-a<k1>itTA<k2>itTA
+Lat. ita
+<L>1862<pc>0100-a<k1>id<k2>id
+Lat. id
+<L>1863<pc>0100-a<k1>idam<k2>idam
+Lat. is
+Lat. ea
+Lat. id
+<L>1864<pc>0100-a<k1>idAnIm<k2>idAnIm
+Lat. idoneus
+<L>1873<pc>0100-b<k1>inD<k2>inD
+Lat. aestus
+<L>1953<pc>0108-a<k1>ukzan<k2>ukzan
+Lat. vacca
+<L>2099<pc>0116-a<k1>udan<k2>udan
+Lat. udor
+<L>2182<pc>0120-a<k1>und<k2>und
+Lat. unda
+<L>2209<pc>0121-a<k1>upa<k2>upa
+Lat. sub
+<L>2320<pc>0126-a<k1>upari<k2>upari
+Lat. super
+<L>2418<pc>0130-b<k1>uBa<k2>uBa
+Lat. ambo
+<L>2441<pc>0131-b<k1>ulUka<k2>ulUka
+Lat. ulula
+Lat. A
+Lat. S
+Lat. O
+Lat. H
+Lat. G
+Lat. ūla
+<L>2445<pc>0131-b<k1>ulkA<k2>ulkA
+Lat. Vulcanus
+<L>2456<pc>0132-a<k1>ulva<k2>ulva
+Lat. vulva
+<L>2461<pc>0132-b<k1>uz<k2>uz
+Lat. uro
+Lat. prurire
+Lat. aurum
+<L>2464<pc>0132-b<k1>uzas<k2>uzas
+Lat. aurora
+<L>2487<pc>0133-b<k1>Una<k2>Una
+Lat. un
+Lat. unde
+Lat. undeviginti
+<L>2492<pc>0134-a<k1>Urj<k2>Urj
+Lat. urgere
+<L>2498<pc>0134-b<k1>UrRa<k2>UrRa
+Lat. vellus
+<L>2502<pc>0134-b<k1>UrDva<k2>UrDva
+Lat. arduus
+<L>2518<pc>0136-a<k1>f<k2>f
+Lat. orior
+Lat. adorior
+Lat. adolesco
+Lat. adultus
+<L>2521<pc>0136-b<k1>fkza<k2>fkza
+Lat. ursus
+<L>2528<pc>0137-a<k1>fj<k2>fj
+Lat. regere
+Lat. rectus
+<L>2540<pc>0137-b<k1>fta<k2>fta
+Lat. ratus
+Lat. irritus
+<L>2546<pc>0138-a<k1>ftu<k2>ftu
+Lat. ordo
+Lat. ordon
+<L>2552<pc>0138-a<k1>fD<k2>fD
+Lat. ordior
+<L>2556<pc>0138-b<k1>fz<k2>fz
+Lat. rigare
+Lat. rivus
+<L>2567<pc>0139-a<k1>eka<k2>eka
+Lat. aequus
+<L>2617<pc>0141-b<k1>ej<k2>ej
+Lat. aeger
+<L>2633<pc>0142-b<k1>enad<k2>enad
+Lat. oinos
+Lat. unus
+<L>2693<pc>0145-b<k1>ojas<k2>ojas
+Lat. augus
+Lat. augus
+Lat. +
+Lat. tus
+<L>2762<pc>0149-a<k1>kakudmant<k2>kakudmant
+Lat. cacumen
+<L>2767<pc>0149-a<k1>kakuB<k2>kakuB
+Lat. cubare
+<L>2776<pc>0149-b<k1>kaK<k2>kaK
+Lat. cachin
+Lat. nus
+<L>2850<pc>0153-b<k1>katara<k2>katara
+Lat. uter
+Lat. cuter
+Lat. ubi
+Lat. alicubi
+Lat. utrum
+<L>2851<pc>0153-b<k1>kati<k2>kati
+Lat. quot
+<L>2865<pc>0154-b<k1>kad<k2>kad
+Lat. quod
+<L>2877<pc>0155-a<k1>kadA<k2>kadA
+Lat. quando
+Lat. quandoque
+<L>2887<pc>0155-b<k1>kanTA<k2>kanTA
+Lat. cento
+<L>2995<pc>0162-a<k1>karkawa<k2>karkawa
+Lat. cancer
+<L>2999<pc>0162-b<k1>karkara<k2>karkara
+Lat. calculus
+Lat. calx
+<L>3030<pc>0164-a<k1>karttrikA<k2>karttrikA
+Lat. culter
+<L>3033<pc>0164-b<k1>karpawa<k2>karpawa
+Lat. carpo
+<L>3069<pc>0166-b<k1>kal<k2>kal
+Lat. celer
+Lat. cello
+Lat. procella
+<L>3072<pc>0167-a<k1>kalaNka<k2>kalaNka
+Lat. cāligo
+<L>3080<pc>0167-b<k1>kalama<k2>kalama
+Lat. calamus
+<L>3191<pc>0173-b<k1>kARa<k2>kARa
+Lat. cocles
+Lat. coclo
+<L>3198<pc>0174-a<k1>kAdamba<k2>kAdamba
+Lat. columba
+<L>3392<pc>0185-a<k1>ki<k2>ki
+Lat. scio
+<L>3411<pc>0186-a<k1>kim<k2>kim
+Lat. quis
+Lat. qui
+Lat. etc
+<L>3441<pc>0188-b<k1>kIdfS<k2>kIdfS
+Lat. qualis
+Lat. the
+Lat. next
+<L>3465<pc>0190-a<k1>kukkuwa<k2>kukkuwa
+Lat. cucurire
+<L>3476<pc>0190-a<k1>kuYc<k2>kuYc
+Lat. quic
+Lat. conquinisco
+Lat. conquexi
+Lat. cūlus
+Lat. cuc
+<L>3532<pc>0193-b<k1>kutra<k2>kutra
+Lat. cur
+<L>3550<pc>0194-b<k1>kup<k2>kup
+Lat. cupio
+<L>3568<pc>0195-b<k1>kumBa<k2>kumBa
+Lat. cŭbitus
+Lat. cŭbare
+<L>3685<pc>0202-b<k1>kf<k2>kf
+Lat. creare
+<L>3697<pc>0210-b<k1>kft<k2>kft
+Lat. curtus
+<L>3729<pc>0212-b<k1>kfpARa<k2>kfpARa
+Lat. carpo
+Lat. discerpo
+<L>3733<pc>0213-a<k1>kfmi<k2>kfmi
+Lat. vermis
+<L>3737<pc>0213-a<k1>kfS<k2>kfS
+Lat. gracilis
+<L>3742<pc>0213-b<k1>kfz<k2>kfz
+Lat. accerso
+<L>3755<pc>0215-a<k1>kF<k2>kF
+Lat. cribrum
+Lat. cerno
+Lat. procerus
+<L>3759<pc>0216-b<k1>kxp<k2>kxp
+Lat. corpus
+<L>3809<pc>0220-a<k1>koka<k2>koka
+Lat. cuculus
+<L>3908<pc>0224-b<k1>kmar<k2>kmar
+Lat. camera
+<L>3920<pc>0225-a<k1>kram<k2>kram
+Lat. gradus
+Lat. based
+Lat. on
+Lat. gram
+Lat. +
+Lat. tva
+Lat. gradior
+Lat. etc
+<L>3932<pc>0228-b<k1>kravya<k2>kravya
+Lat. caro
+Lat. base
+Lat. caron
+<L>3952<pc>0230-a<k1>kruD<k2>kruD
+Lat. crudus
+Lat. crudelis
+<L>3955<pc>0230-a<k1>kruS<k2>kruS
+Lat. lugeo
+<L>3956<pc>0230-b<k1>krUra<k2>krUra
+Lat. crusta
+<L>3972<pc>0231-b<k1>klap<k2>klap
+Lat. crepare
+<L>3991<pc>0232-b<k1>kloman<k2>kloman
+Lat. pulmon
+<L>4022<pc>0234-b<k1>kzapA<k2>kzapA
+Lat. crepusculum
+<L>4038<pc>0235-b<k1>kzar<k2>kzar
+Lat. scortum
+<L>4051<pc>0236-a<k1>kzi<k2>kzi
+Lat. civis
+Lat. socius
+<L>4053<pc>0236-b<k1>kzi<k2>kzi
+Lat. sitis
+<L>4066<pc>0238-b<k1>kziv<k2>kziv
+Lat. spuo
+<L>4083<pc>0239-a<k1>kzud<k2>kzud
+Lat. cudere
+Lat. incus
+<L>4151<pc>0243-a<k1>Kac<k2>Kac
+Lat. scatere
+<L>4181<pc>0244-a<k1>Kan<k2>Kan
+Lat. canalis
+<L>4211<pc>0245-b<k1>KalvAwa<k2>KalvAwa
+Lat. calvus
+<L>4310<pc>0251-b<k1>gantf<k2>gantf
+Lat. inventor
+<L>4326<pc>0252-b<k1>gam<k2>gam
+Lat. venio
+Lat. vemio
+<L>4339<pc>0257-a<k1>garuqa<k2>garuqa
+Lat. volucer
+<L>4343<pc>0257-a<k1>gargara<k2>gargara
+Lat. gurges
+<L>4366<pc>0258-b<k1>gal<k2>gal
+Lat. volare
+<L>4369<pc>0259-a<k1>gala<k2>gala
+Lat. gula
+<L>4391<pc>0260-a<k1>gA<k2>gA
+Lat. navigare
+<L>4410<pc>0261-a<k1>gADa<k2>gADa
+Lat. vădum
+Lat. vādere
+<L>4504<pc>0267-a<k1>guru<k2>guru
+Lat. gravis
+<L>4539<pc>0269-a<k1>gfDra<k2>gfDra
+Lat. vultur
+<L>4561<pc>0270-b<k1>gF<k2>gF
+Lat. garrire
+Lat. gannire
+Lat. garnire
+<L>4562<pc>0270-b<k1>gF<k2>gF
+Lat. gurgulio
+Lat. vorare
+<L>4571<pc>0271-b<k1>go<k2>go
+Lat. bos
+Lat. ceva
+<L>4635<pc>0275-b<k1>grah<k2>grah
+Lat. grex
+Lat. congrego
+Lat. brachium
+Lat. gerhere
+<L>4657<pc>0279-b<k1>grAvan<k2>grAvan
+Lat. lapis
+Lat. ovis
+Lat. opilio
+<L>4681<pc>0281-a<k1>Ga<k2>Ga
+Lat. ho
+Lat. hoc
+<L>4704<pc>0283-a<k1>Garma<k2>Garma
+Lat. formus
+Lat. feumentum
+<L>4707<pc>0283-a<k1>Gas<k2>Gas
+Lat. gānea
+Lat. ganeo
+<L>4735<pc>0285-a<k1>Gf<k2>Gf
+Lat. fervor
+Lat. fornax
+<L>4748<pc>0285-b<k1>Gfz<k2>Gfz
+Lat. frio
+Lat. frico
+<L>4762<pc>0286-b<k1>GrA<k2>GrA
+Lat. frāgro
+<L>4768<pc>0287-a<k1>ca<k2>ca
+Lat. queque
+Lat. que
+<L>4818<pc>0290-b<k1>catur<k2>catur
+Lat. quatuor
+<L>4824<pc>0291-a<k1>caturTa<k2>caturTa
+Lat. quartus
+<L>4844<pc>0292-a<k1>catuzpAd<k2>catuzpAd
+Lat. quadrupes
+<L>4846<pc>0292-a<k1>catus<k2>catus
+Lat. quater
+<L>4849<pc>0292-a<k1>catvAriMSat<k2>catvAriMSat
+Lat. quadraginta
+<L>4853<pc>0292-b<k1>cand<k2>cand
+Lat. candere
+Lat. accendo
+Lat. scintilla
+<L>4879<pc>0294-a<k1>car<k2>car
+Lat. colere
+Lat. inquilinus
+<L>4906<pc>0298-a<k1>carv<k2>carv
+Lat. terere
+Lat. triticuml
+<L>4965<pc>0302-a<k1>ci<k2>ci
+Lat. capio
+Lat. capulus
+Lat. capistrum
+<L>4966<pc>0303-a<k1>ci<k2>ci
+Lat. timeo
+<L>5002<pc>0305-a<k1>cid<k2>cid
+Lat. quis
+Lat. que
+Lat. pid
+<L>5059<pc>0308-b<k1>cud<k2>cud
+Lat. studere
+<L>5087<pc>0310-b<k1>cUz<k2>cUz
+Lat. sūgere
+Lat. succus
+<L>5120<pc>0312-b<k1>cora<k2>cora
+Lat. fur
+<L>5135<pc>0313-a<k1>cyu<k2>cyu
+Lat. jacere
+<L>5142<pc>0313-b<k1>Cattra<k2>Cattra
+Lat. castrum
+<L>5147<pc>0314-a<k1>Cad<k2>Cad
+Lat. castrum
+<L>5157<pc>0315-a<k1>Cand<k2>Cand
+Lat. spons
+Lat. spontis
+Lat. spond
+Lat. spondeo
+<L>5189<pc>0316-b<k1>Cid<k2>Cid
+Lat. scindo
+Lat. caedo
+<L>5205<pc>0318-b<k1>Cfd<k2>Cfd
+Lat. screare
+<L>5243<pc>0320-b<k1>jaWara<k2>jaWara
+Lat. venter
+<L>5244<pc>0320-b<k1>jaqa<k2>jaqa
+Lat. gelu
+Lat. gelidus
+<L>5250<pc>0321-a<k1>jan<k2>jan
+Lat. gigno
+Lat. genus
+Lat. germen
+<L>5260<pc>0323-b<k1>janitf<k2>janitf
+Lat. genitor
+Lat. genitrix
+<L>5265<pc>0323-b<k1>janman<k2>janman
+Lat. germen
+<L>5348<pc>0328-a<k1>jAgf<k2>jAgf
+Lat. vigil
+Lat. vigilare
+<L>5358<pc>0329-a<k1>jAti<k2>jAti
+Lat. gens
+<L>5372<pc>0330-a<k1>jAnu<k2>jAnu
+Lat. genu
+<L>5379<pc>0330-a<k1>jAmAtf<k2>jAmAtf
+Lat. gener
+<L>5382<pc>0330-b<k1>jAmi<k2>jAmi
+Lat. gemini
+<L>5390<pc>0331-a<k1>jAyA<k2>jAyA
+Lat. gaja
+<L>5438<pc>0334-a<k1>jihva<k2>jihva
+Lat. lingua
+Lat. dingua
+<L>5446<pc>0335-a<k1>jIva<k2>jIva
+Lat. vivus
+Lat. vivo
+<L>5469<pc>0336-a<k1>juz<k2>juz
+Lat. gustus
+Lat. gustare
+<L>5473<pc>0336-b<k1>jU<k2>jU
+Lat. gavi
+Lat. gaudeo
+Lat. gavisus
+<L>5483<pc>0337-b<k1>jF<k2>jF
+Lat. granum
+<L>5497<pc>0338-a<k1>jYa<k2>jYa
+Lat. benignus
+Lat. malignus
+<L>5501<pc>0338-b<k1>jYA<k2>jYA
+Lat. nosco
+Lat. cognosco
+Lat. gnarus
+Lat. narro
+<L>5503<pc>0340-a<k1>jYAti<k2>jYAti
+Lat. cognatus
+Lat. natio
+<L>5505<pc>0340-a<k1>jYAtf<k2>jYAtf
+Lat. cognitor
+<L>5549<pc>0342-b<k1>jval<k2>jval
+Lat. bullire
+<L>5625<pc>0346-b<k1>takz<k2>takz
+Lat. tignum
+Lat. temo
+<L>5667<pc>0349-a<k1>tad<k2>tad
+Lat. iste
+<L>5675<pc>0349-b<k1>tan<k2>tan
+Lat. tenere
+Lat. tendere
+Lat. ostendere
+Lat. tenus
+<L>5676<pc>0350-a<k1>tan<k2>tan
+Lat. tonare
+<L>5679<pc>0350-b<k1>tanu<k2>tanu
+Lat. tenuis
+<L>5710<pc>0352-b<k1>tap<k2>tap
+Lat. tepeo
+<L>5725<pc>0354-b<k1>tam<k2>tam
+Lat. temere
+Lat. contumax
+Lat. temetum
+Lat. abstemius
+<L>5728<pc>0355-a<k1>tamas<k2>tamas
+Lat. tenebrae
+<L>5763<pc>0356-b<k1>taru<k2>taru
+Lat. termes
+<L>5767<pc>0357-a<k1>tark<k2>tark
+Lat. torquere
+Lat. torcular
+Lat. torques
+Lat. torvus
+<L>5809<pc>0359-b<k1>tAdfS<k2>tAdfS
+Lat. talis
+<L>5858<pc>0362-b<k1>tAvant<k2>tAvant
+Lat. tantus
+<L>5867<pc>0363-a<k1>tij<k2>tij
+Lat. stimulus
+Lat. stig
+Lat. mulus
+Lat. instigo
+Lat. instinguere
+<L>5888<pc>0364-a<k1>tiras<k2>tiras
+Lat. trans
+<L>5936<pc>0366-a<k1>tu<k2>tu
+Lat. tumor
+Lat. tumere
+Lat. tumulus
+Lat. tuber
+Lat. tueri
+<L>5955<pc>0367-a<k1>tud<k2>tud
+Lat. 
+<L>5958<pc>0367-b<k1>tup<k2>tup
+Lat. stupeo
+<L>5960<pc>0367-b<k1>tumula<k2>tumula
+Lat. tumultus
+<L>5979<pc>0368-b<k1>tul<k2>tul
+Lat. tollo
+Lat. tuli
+Lat. latum
+Lat. tlatum
+<L>5989<pc>0369-a<k1>tuz<k2>tuz
+Lat. taceo
+<L>6027<pc>0370-b<k1>tftIya<k2>tftIya
+Lat. tertius
+<L>6032<pc>0371-a<k1>tfp<k2>tfp
+Lat. torpor
+Lat. torpere
+<L>6036<pc>0371-b<k1>tfz<k2>tfz
+Lat. torrere
+<L>6043<pc>0371-b<k1>tF<k2>tF
+Lat. terminus
+<L>6113<pc>0376-b<k1>trap<k2>trap
+Lat. turpis
+Lat. trepidus
+<L>6123<pc>0377-a<k1>trayodaSan<k2>trayodaSan
+Lat. tredecim
+<L>6126<pc>0377-a<k1>tras<k2>tras
+Lat. terrere
+Lat. tersere
+Lat. tresere
+Lat. tremo
+Lat. tristis
+<L>6163<pc>0379-a<k1>tris<k2>tris
+Lat. ter
+<L>6214<pc>0381-a<k1>tvar<k2>tvar
+Lat. redamtruare
+Lat. turba
+Lat. proturba
+<L>6232<pc>0382-b<k1>daMS<k2>daMS
+Lat. lacruma
+Lat. lacero
+<L>6245<pc>0383-a<k1>dakza<k2>dakza
+Lat. dexter
+<L>6253<pc>0384-a<k1>daG<k2>daG
+Lat. tango
+<L>6276<pc>0385-b<k1>dant<k2>dant
+Lat. dens
+<L>6292<pc>0386-b<k1>dam<k2>dam
+Lat. damnare
+Lat. damnum
+Lat. densus
+<L>6300<pc>0387-a<k1>dampati<k2>dampati
+Lat. domus
+<L>6346<pc>0390-a<k1>daSan<k2>daSan
+Lat. decem
+<L>6348<pc>0390-a<k1>daSama<k2>daSama
+Lat. decimus
+<L>6363<pc>0391-a<k1>dah<k2>dah
+Lat. lignum
+<L>6366<pc>0392-a<k1>dA<k2>dA
+Lat. dare
+<L>6367<pc>0393-b<k1>dA<k2>dA
+Lat. daps
+<L>6380<pc>0394-b<k1>dAtf<k2>dAtf
+Lat. dator
+<L>6386<pc>0394-b<k1>dAna<k2>dAna
+Lat. donum
+<L>6473<pc>0399-b<k1>div<k2>div
+Lat. hodie
+Lat. dies
+Lat. Jupiter
+Lat. Jovis
+<L>6478<pc>0399-b<k1>divA<k2>divA
+Lat. diu
+Lat. dudum
+<L>6479<pc>0400-a<k1>divAtana<k2>divAtana
+Lat. diutinus
+<L>6491<pc>0400-a<k1>divya<k2>divya
+Lat. divus
+<L>6494<pc>0400-b<k1>diS<k2>diS
+Lat. indicare
+Lat. judex
+Lat. dicere
+Lat. dignus
+<L>6500<pc>0402-b<k1>dih<k2>dih
+Lat. tingere
+Lat. fingo
+Lat. figulus
+Lat. fingo
+Lat. figulus
+<L>6619<pc>0409-b<k1>duh<k2>duh
+Lat. duco
+<L>6661<pc>0412-a<k1>dfS<k2>dfS
+Lat. species
+Lat. conpicio
+Lat. specto
+Lat. picio
+<L>6675<pc>0414-b<k1>dF<k2>dF
+Lat. dolus
+<L>6678<pc>0415-a<k1>deva<k2>deva
+Lat. deus
+<L>6696<pc>0416-b<k1>devf<k2>devf
+Lat. levir
+<L>6819<pc>0422-b<k1>drA<k2>drA
+Lat. dormire
+<L>6830<pc>0423-a<k1>dru<k2>dru
+Lat. gruere
+Lat. ingruere
+Lat. ruere
+<L>6863<pc>0426-a<k1>dvAdaSan<k2>dvAdaSan
+Lat. duodecim
+<L>6867<pc>0426-b<k1>dvAra<k2>dvAra
+Lat. foras
+Lat. foris
+Lat. fores
+<L>6873<pc>0426-b<k1>dvi<k2>dvi
+Lat. duo
+Lat. bifarius
+Lat. dubius
+Lat. duellum
+Lat. bellum
+<L>6892<pc>0427-b<k1>dviz<k2>dviz
+Lat. invīsus
+Lat. dirus
+<L>6894<pc>0428-a<k1>dvis<k2>dvis
+Lat. bis
+<L>6928<pc>0430-a<k1>Danavant<k2>Danavant
+Lat. dives
+<L>6982<pc>0433-b<k1>DA<k2>DA
+Lat. condere
+Lat. credo
+<L>6986<pc>0438-a<k1>DAtf<k2>DAtf
+Lat. conditor
+<L>7048<pc>0443-a<k1>DU<k2>DU
+Lat. suffire
+Lat. fimus
+<L>7056<pc>0444-b<k1>DUma<k2>DUma
+Lat. fumus
+<L>7077<pc>0445-b<k1>Df<k2>Df
+Lat. firmus
+<L>7085<pc>0447-b<k1>Dfz<k2>Dfz
+Lat. fortis
+<L>7117<pc>0450-b<k1>Druva<k2>Druva
+Lat. durus
+<L>7121<pc>0450-b<k1>DvaMs<k2>DvaMs
+Lat. vastus
+Lat. vastare
+<L>7125<pc>0451-b<k1>Dvaj<k2>Dvaj
+Lat. vagus
+Lat. vagari
+<L>7143<pc>0452-b<k1>na<k2>na
+Lat. nonne
+<L>7146<pc>0452-b<k1>nakis<k2>nakis
+Lat. quis
+<L>7149<pc>0452-b<k1>nakta<k2>nakta
+Lat. nox
+Lat. noctu
+<L>7160<pc>0453-a<k1>naKa<k2>naKa
+Lat. ungula
+<L>7170<pc>0453-b<k1>nagna<k2>nagna
+Lat. nudus
+<L>7191<pc>0455-b<k1>nanu<k2>nanu
+Lat. nonne
+<L>7200<pc>0456-b<k1>napAt<k2>napAt
+Lat. nepos
+Lat. neptis
+<L>7209<pc>0457-a<k1>naBas<k2>naBas
+Lat. nubes
+Lat. nebula
+<L>7228<pc>0459-b<k1>nara<k2>nara
+Lat. Nero
+Lat. Neriene
+<L>7248<pc>0460-b<k1>nava<k2>nava
+Lat. novus
+<L>7258<pc>0461-a<k1>navan<k2>navan
+Lat. novem
+<L>7262<pc>0461-a<k1>navama<k2>navama
+Lat. nonus
+Lat. novimus
+<L>7269<pc>0461-b<k1>naS<k2>naS
+Lat. nanciscor
+<L>7270<pc>0461-b<k1>naS<k2>naS
+Lat. pernix
+Lat. pernicies
+Lat. necare
+Lat. nocere
+Lat. venenum
+<L>7282<pc>0462-b<k1>nah<k2>nah
+Lat. nexus
+Lat. nectere
+Lat. nere
+<L>7323<pc>0466-a<k1>nABI<k2>nABI
+Lat. umbilicus
+<L>7331<pc>0466-b<k1>nAman<k2>nAman
+Lat. nomen
+Lat. cognomen
+Lat. nam
+Lat. quisnam
+Lat. quemnam
+<L>7363<pc>0468-b<k1>nAsA<k2>nAsA
+Lat. nasus
+Lat. naris
+<L>7782<pc>0490-a<k1>nIqa<k2>nIqa
+Lat. nidus
+<L>7797<pc>0490-b<k1>nIla<k2>nIla
+Lat. niger
+Lat. nigro
+<L>7806<pc>0491-a<k1>nu<k2>nu
+Lat. nunc
+<L>7897<pc>0496-a<k1>nO<k2>nO
+Lat. navis
+<L>7947<pc>0498-b<k1>pac<k2>pac
+Lat. coquere
+Lat. poquere
+Lat. culina
+Lat. cuclina
+<L>7977<pc>0500-b<k1>paYcASat<k2>paYcASat
+Lat. quinquaginta
+<L>7982<pc>0501-a<k1>paYjara<k2>paYjara
+Lat. pango
+<L>8020<pc>0503-b<k1>pat<k2>pat
+Lat. Penna
+Lat. petere
+Lat. impetrare
+Lat. etc
+<L>8021<pc>0506-a<k1>pat<k2>pat
+Lat. potiri
+<L>8032<pc>0506-b<k1>pati<k2>pati
+Lat. potis
+<L>8041<pc>0507-b<k1>pattana<k2>pattana
+Lat. oppidum
+<L>8056<pc>0509-a<k1>paTin<k2>paTin
+Lat. pons
+Lat. pontis
+Lat. perhaps
+Lat. ponto
+Lat. pontonis
+<L>8060<pc>0511-b<k1>pad<k2>pad
+Lat. pes
+Lat. pedis
+Lat. tripudiare
+Lat. repudiare
+Lat. impedire
+<L>8061<pc>0512-a<k1>pada<k2>pada
+Lat. oppidum
+<L>8086<pc>0514-a<k1>padvant<k2>padvant
+Lat. pedes
+Lat. peditis
+<L>8104<pc>0514-b<k1>para<k2>para
+Lat. perendie
+<L>8136<pc>0516-b<k1>parA<k2>parA
+Lat. perdere
+Lat. perfidus
+<L>8167<pc>0518-b<k1>pari<k2>pari
+Lat. per
+Lat. peridoneus
+<L>8457<pc>0531-a<k1>parRa<k2>parRa
+Lat. penna
+<L>8500<pc>0533-a<k1>pal<k2>pal
+Lat. pello
+<L>8511<pc>0533-b<k1>palita<k2>palita
+Lat. pullus
+Lat. pallidus
+Lat. pallere
+<L>8519<pc>0534-a<k1>palvala<k2>palvala
+Lat. palus
+<L>8524<pc>0534-b<k1>pavi<k2>pavi
+Lat. pavire
+Lat. puvire
+<L>8530<pc>0534-b<k1>paS<k2>paS
+Lat. pac
+Lat. paciscor
+Lat. dispesco
+<L>8532<pc>0535-a<k1>paSu<k2>paSu
+Lat. pecus
+Lat. pecoris
+Lat. pecudis
+<L>8538<pc>0535-a<k1>paScAt<k2>paScAt
+Lat. postidea
+Lat. post
+Lat. pone
+Lat. posne
+<L>8546<pc>0535-b<k1>pA<k2>pA
+Lat. bibo
+Lat. potare
+Lat. poculum
+<L>8547<pc>0536-b<k1>pA<k2>pA
+Lat. pasco
+Lat. pabulum
+<L>8618<pc>0540-b<k1>pAtf<k2>pAtf
+Lat. pôtor
+<L>8620<pc>0540-b<k1>pAtra<k2>pAtra
+Lat. patera
+<L>8653<pc>0542-b<k1>pApa<k2>pApa
+Lat. pejor
+Lat. pepjor
+Lat. pessimus
+Lat. peccare
+<L>8753<pc>0547-a<k1>pArzRi<k2>pArzRi
+Lat. compernes
+Lat. pernix
+<L>8758<pc>0547-b<k1>pAlaka<k2>pAlaka
+Lat. bubulcus
+<L>8784<pc>0549-a<k1>pika<k2>pika
+Lat. pīcus
+Lat. pīca
+<L>8796<pc>0549-b<k1>picCila<k2>picCila
+Lat. pix
+<L>8798<pc>0549-b<k1>piYj<k2>piYj
+Lat. pingere
+<L>8823<pc>0551-a<k1>pitu<k2>pitu
+Lat. potus
+<L>8824<pc>0551-b<k1>pitf<k2>pitf
+Lat. pater
+<L>8830<pc>0551-b<k1>pitfvya<k2>pitfvya
+Lat. patruus
+<L>8869<pc>0553-a<k1>piz<k2>piz
+Lat. pinso
+Lat. pistor
+Lat. pistillum
+Lat. pistrinum
+Lat. pistura
+Lat. pīla
+<L>8897<pc>0555-b<k1>pIvan<k2>pIvan
+Lat. pinguis
+Lat. pĭgere
+Lat. pĭger
+<L>8979<pc>0560-b<k1>purA<k2>purA
+Lat. por
+Lat. portendere
+<L>8981<pc>0561-a<k1>purAtana<k2>purAtana
+Lat. prôtenus
+<L>8991<pc>0561-b<k1>puru<k2>puru
+Lat. plus
+<L>9060<pc>0566-a<k1>pU<k2>pU
+Lat. purus
+Lat. pŭtus
+Lat. putare
+Lat. pius
+<L>9071<pc>0567-a<k1>pUti<k2>pUti
+Lat. putidus
+<L>9078<pc>0567-b<k1>pUy<k2>pUy
+Lat. pŭter
+Lat. putris
+Lat. putrescere
+Lat. pŭdere
+Lat. repudium
+Lat. repudiare
+<L>9079<pc>0567-b<k1>pUya<k2>pUya
+Lat. pus
+<L>9121<pc>0570-a<k1>pf<k2>pf
+Lat. par
+Lat. peritus
+Lat. expertus
+Lat. experior
+Lat. pārere
+<L>9125<pc>0570-a<k1>pfc<k2>pfc
+Lat. plicare
+Lat. plecto
+<L>9137<pc>0570-b<k1>pfTak<k2>pfTak
+Lat. pars
+Lat. partis
+Lat. privus
+Lat. privare
+<L>9146<pc>0571-a<k1>pfTu<k2>pfTu
+Lat. lātus
+<L>9172<pc>0572-b<k1>pF<k2>pF
+Lat. populus
+<L>9295<pc>0579-a<k1>pra<k2>pra
+Lat. pro
+Lat. pronepos
+<L>9407<pc>0584-b<k1>praC<k2>praC
+Lat. procus
+Lat. procax
+Lat. precor
+Lat. prex
+Lat. posco
+Lat. postulare
+<L>9475<pc>0588-a<k1>prati<k2>prati
+Lat. reddere
+Lat. redire
+<L>9715<pc>0599-a<k1>praT<k2>praT
+Lat. interpretari
+<L>9751<pc>0601-a<k1>pranaptf<k2>pranaptf
+Lat. prŏnepos
+<L>10042<pc>0615-b<k1>prAyas<k2>prAyas
+Lat. plus
+<L>10077<pc>0617-a<k1>priya<k2>priya
+Lat. filius
+<L>10140<pc>0620-b<k1>plihan<k2>plihan
+Lat. lien
+<L>10143<pc>0620-b<k1>plu<k2>plu
+Lat. pluere
+Lat. plorare
+Lat. fluere
+Lat. lavare
+<L>10161<pc>0622-a<k1>Pal<k2>Pal
+Lat. flos
+<L>10188<pc>0624-b<k1>Pena<k2>Pena
+Lat. spuma
+<L>10219<pc>0625-b<k1>banD<k2>banD
+Lat. patibulum
+Lat. pendĕre
+Lat. pendêre
+Lat. pondus
+<L>10332<pc>0634-a<k1>buD<k2>buD
+Lat. fundus
+Lat. puteus
+Lat. putare
+<L>10389<pc>0638-b<k1>Bakz<k2>Bakz
+Lat. fames
+Lat. bacca
+<L>10409<pc>0640-b<k1>Baj<k2>Baj
+Lat. famulus
+Lat. familia
+<L>10411<pc>0641-a<k1>BaYj<k2>BaYj
+Lat. frango
+<L>10427<pc>0642-a<k1>Badra<k2>Badra
+Lat. fastus
+Lat. fastigium
+Lat. fastidium
+Lat. festivus
+Lat. festus
+<L>10435<pc>0643-a<k1>Bara<k2>Bara
+Lat. fer
+<L>10460<pc>0644-b<k1>Barv<k2>Barv
+Lat. herba
+<L>10491<pc>0646-a<k1>BA<k2>BA
+Lat. focus
+Lat. februus
+<L>10550<pc>0651-a<k1>BAz<k2>BAz
+Lat. fastus
+Lat. nefastus
+Lat. nefarius
+Lat. festus
+Lat. feriæ
+Lat. hariolus
+Lat. fas
+<L>10577<pc>0653-a<k1>Bid<k2>Bid
+Lat. findo
+Lat. finis
+<L>10608<pc>0656-a<k1>Buj<k2>Buj
+Lat. fugio
+Lat. fuga
+<L>10609<pc>0656-a<k1>Buj<k2>Buj
+Lat. fungi
+Lat. frux
+Lat. frugis
+Lat. fruor
+Lat. fructus
+Lat. frustum
+Lat. frustra
+<L>10622<pc>0657-b<k1>BuraRya<k2>BuraRya
+Lat. furere
+<L>10630<pc>0657-b<k1>BU<k2>BU
+Lat. fio
+Lat. fui
+Lat. facio
+Lat. fecundus
+Lat. fetus
+Lat. fetare
+Lat. femur
+Lat. femen
+<L>10644<pc>0663-b<k1>BUman<k2>BUman
+Lat. hŭmus
+Lat. hŭmilis
+<L>10664<pc>0664-b<k1>Bf<k2>Bf
+Lat. fero
+<L>10678<pc>0666-a<k1>Bfti<k2>Bfti
+Lat. fors
+<L>10736<pc>0670-a<k1>Brajj<k2>Brajj
+Lat. frigere
+Lat. frictus
+Lat. frixus
+<L>10739<pc>0670-a<k1>Bram<k2>Bram
+Lat. fremere
+<L>10746<pc>0671-a<k1>BrAj<k2>BrAj
+Lat. flagrare
+Lat. flamma
+Lat. flamen
+Lat. fulgur
+Lat. flagma
+<L>10749<pc>0671-a<k1>BrAtf<k2>BrAtf
+Lat. frater
+<L>10750<pc>0671-b<k1>BrAtfvya<k2>BrAtfvya
+Lat. fratrūelis
+<L>10765<pc>0672-a<k1>BrU<k2>BrU
+Lat. frons
+Lat. frontis
+<L>10788<pc>0673-a<k1>makzikA<k2>makzikA
+Lat. musca
+<L>10789<pc>0673-a<k1>makzu<k2>makzu
+Lat. mox
+<L>10791<pc>0673-a<k1>maKa<k2>maKa
+Lat. macellum
+Lat. mactare
+Lat. mucro
+Lat. maceria
+<L>10810<pc>0674-b<k1>majj<k2>majj
+Lat. mergere
+<L>10816<pc>0675-a<k1>majman<k2>majman
+Lat. magmentum
+<L>10859<pc>0677-b<k1>mati<k2>mati
+Lat. mens
+Lat. mentis
+Lat. mentio
+Lat. mentiri
+Lat. mendax
+<L>10872<pc>0679-a<k1>maTin<k2>maTin
+Lat. mentula
+<L>10874<pc>0679-a<k1>mad<k2>mad
+Lat. madidus
+Lat. madere
+Lat. manare
+Lat. mandere
+<L>10887<pc>0680-b<k1>madgu<k2>madgu
+Lat. mergus
+<L>10910<pc>0681-b<k1>maDya<k2>maDya
+Lat. medius
+<L>10920<pc>0682-b<k1>man<k2>man
+Lat. monere
+Lat. monstrum
+Lat. monstrare
+Lat. mentiri
+Lat. mendax
+<L>10928<pc>0684-b<k1>manAk<k2>manAk
+Lat. minu
+Lat. minuo
+<L>10938<pc>0685-a<k1>manus<k2>manus
+Lat. mas
+Lat. maris
+<L>10968<pc>0687-a<k1>mand<k2>mand
+Lat. mundus
+<L>10997<pc>0688-b<k1>may<k2>may
+Lat. meare
+<L>11026<pc>0689-b<k1>marta<k2>marta
+Lat. mortuus
+Lat. mortalis
+<L>11034<pc>0690-a<k1>marman<k2>marman
+Lat. membrum
+<L>11036<pc>0690-a<k1>marmara<k2>marmara
+Lat. murmurare
+<L>11040<pc>0690-a<k1>marya<k2>marya
+Lat. maritus
+<L>11087<pc>0692-b<k1>mah<k2>mah
+Lat. magnus
+Lat. mactus
+<L>11090<pc>0693-a<k1>mahant<k2>mahant
+Lat. magis
+Lat. major
+Lat. majus
+Lat. maximus
+Lat. magister
+<L>11119<pc>0694-b<k1>mA<k2>mA
+Lat. immānis
+Lat. metior
+<L>11121<pc>0695-b<k1>mA<k2>mA
+Lat. ne
+<L>11161<pc>0697-a<k1>mAtf<k2>mAtf
+Lat. mater
+<L>11275<pc>0705-b<k1>mAsa<k2>mAsa
+Lat. monsis
+<L>11317<pc>0707-b<k1>miSra<k2>miSra
+Lat. miscere
+<L>11320<pc>0707-b<k1>miz<k2>miz
+Lat. miser
+Lat. micare
+<L>11324<pc>0708-a<k1>mih<k2>mih
+Lat. mingere
+Lat. mejere
+<L>11327<pc>0708-a<k1>mI<k2>mI
+Lat. prōmīnere
+Lat. eminere
+Lat. minere
+Lat. prōminare
+<L>11328<pc>0708-b<k1>mI<k2>mI
+Lat. meare
+Lat. movere
+<L>11363<pc>0712-a<k1>muc<k2>muc
+Lat. mucus
+Lat. emungere
+<L>11400<pc>0715-a<k1>mur<k2>mur
+Lat. mūrus
+<L>11437<pc>0717-b<k1>mUka<k2>mUka
+Lat. mūtus
+<L>11468<pc>0719-b<k1>mUza<k2>mUza
+Lat. mus
+<L>11471<pc>0720-a<k1>mf<k2>mf
+Lat. morior
+<L>11487<pc>0721-a<k1>mfj<k2>mfj
+Lat. mulgere
+Lat. mulier
+Lat. lac
+Lat. margo
+Lat. mlac
+<L>11502<pc>0722-a<k1>mfti<k2>mfti
+Lat. mors
+Lat. mortis
+<L>11510<pc>0722-a<k1>mfd<k2>mfd
+Lat. mordere
+<L>11514<pc>0722-b<k1>mfdA<k2>mfdA
+Lat. merda
+<L>11517<pc>0723-a<k1>mfdu<k2>mfdu
+Lat. mollis
+Lat. blandus
+<L>11526<pc>0723-a<k1>mfS<k2>mfS
+Lat. mulcere
+Lat. mulcare
+<L>11534<pc>0724-a<k1>me<k2>me
+Lat. mūtuus
+Lat. communis
+Lat. munus
+<L>11548<pc>0724-b<k1>medas<k2>medas
+Lat. medūlla
+<L>11635<pc>0729-a<k1>mnA<k2>mnA
+Lat. meminisse
+<L>11655<pc>0730-a<k1>yakft<k2>yakft
+Lat. jecur
+<L>11711<pc>0735-a<k1>yam<k2>yam
+Lat. jejunus
+Lat. jentare
+Lat. fræna
+<L>11739<pc>0737-b<k1>yaSas<k2>yaSas
+Lat. decus
+Lat. decere
+Lat. docere
+<L>11748<pc>0738-a<k1>yA<k2>yA
+Lat. Janus
+Lat. janua
+<L>11782<pc>0742-a<k1>yAmAtf<k2>yAmAtf
+Lat. janitrix
+<L>11802<pc>0743-a<k1>yu<k2>yu
+Lat. juvare
+Lat. jus
+Lat. jubere
+<L>11807<pc>0744-a<k1>yuga<k2>yuga
+Lat. jugum
+<L>11817<pc>0744-b<k1>yuj<k2>yuj
+Lat. jungere
+<L>11818<pc>0747-a<k1>yuj<k2>yuj
+Lat. jux
+Lat. conjux
+<L>11838<pc>0748-b<k1>yuzmad<k2>yuzmad
+Lat. tu
+Lat. te
+Lat. vos
+<L>11849<pc>0748-b<k1>yUza<k2>yUza
+Lat. jus
+<L>11896<pc>0752-a<k1>rakz<k2>rakz
+Lat. arx
+<L>11910<pc>0753-b<k1>raGupatvan<k2>raGupatvan
+Lat. piter
+Lat. accipiter
+<L>11920<pc>0754-a<k1>rac<k2>rac
+Lat. locare
+Lat. locus
+<L>11935<pc>0755-a<k1>rajju<k2>rajju
+Lat. stringere
+<L>11958<pc>0757-a<k1>raTa<k2>raTa
+Lat. rota
+<L>11971<pc>0758-a<k1>rad<k2>rad
+Lat. rādere
+Lat. rōdere
+Lat. rădius
+<L>11982<pc>0758-b<k1>raB<k2>raB
+Lat. rabies
+Lat. robur
+Lat. labor
+<L>12007<pc>0761-b<k1>raSmi<k2>raSmi
+Lat. laqueus
+<L>12023<pc>0763-a<k1>rah<k2>rah
+Lat. latere
+Lat. lectum
+Lat. legere
+<L>12028<pc>0763-b<k1>rA<k2>rA
+Lat. ratum
+Lat. esto
+Lat. reop
+<L>12041<pc>0765-a<k1>rAj<k2>rAj
+Lat. rex
+<L>12049<pc>0766-a<k1>rAjan<k2>rAjan
+Lat. rĕgere
+Lat. rēgina
+Lat. regonia
+<L>12059<pc>0766-b<k1>rAji<k2>rAji
+Lat. divigere
+<L>12107<pc>0769-b<k1>ric<k2>ric
+Lat. licere
+Lat. licitare
+Lat. linquere
+<L>12121<pc>0770-b<k1>riz<k2>riz
+Lat. lædo
+<L>12131<pc>0771-a<k1>ru<k2>ru
+Lat. raucus
+Lat. rūmor
+<L>12139<pc>0771-b<k1>ruc<k2>ruc
+Lat. lucere
+Lat. lumen
+<L>12140<pc>0772-a<k1>ruc<k2>ruc
+Lat. lux
+<L>12146<pc>0772-b<k1>ruj<k2>ruj
+Lat. lues
+Lat. fruor
+Lat. frug
+<L>12158<pc>0773-a<k1>rud<k2>rud
+Lat. rudere
+<L>12163<pc>0774-b<k1>ruDira<k2>ruDira
+Lat. rutilus
+Lat. ruthilus
+Lat. rufus
+Lat. ruber
+Lat. robigo
+<L>12215<pc>0779-b<k1>rE<k2>rE
+Lat. latrare
+<L>12216<pc>0779-b<k1>rE<k2>rE
+Lat. res
+<L>12244<pc>0781-a<k1>romanTa<k2>romanTa
+Lat. rūmen
+Lat. ruminare
+Lat. ructare
+<L>12296<pc>0785-a<k1>laGu<k2>laGu
+Lat. lepus
+Lat. lephus
+Lat. formus
+Lat. phormus
+Lat. levis
+<L>12308<pc>0786-a<k1>laNG<k2>laNG
+Lat. longus
+Lat. languere
+<L>12333<pc>0787-b<k1>lap<k2>lap
+Lat. loqui
+<L>12340<pc>0789-a<k1>lamb<k2>lamb
+Lat. labi
+<L>12378<pc>0791-b<k1>laz<k2>laz
+Lat. lascivus
+<L>12380<pc>0791-b<k1>las<k2>las
+Lat. ludo
+<L>12434<pc>0795-a<k1>lip<k2>lip
+Lat. limpidus
+Lat. lippus
+Lat. liquidus
+Lat. liquere
+<L>12443<pc>0796-a<k1>lih<k2>lih
+Lat. lingere
+Lat. pollex
+<L>12445<pc>0796-a<k1>lI<k2>lI
+Lat. līmus
+<L>12450<pc>0797-a<k1>luYc<k2>luYc
+Lat. runcare
+<L>12467<pc>0798-b<k1>lup<k2>lup
+Lat. rumpere
+<L>12470<pc>0799-a<k1>luB<k2>luB
+Lat. lubet
+Lat. libet
+Lat. libido
+Lat. līber
+<L>12476<pc>0799-b<k1>lU<k2>lU
+Lat. lucrum
+Lat. solvo
+<L>12569<pc>0805-a<k1>vaktf<k2>vaktf
+Lat. auctor
+<L>12575<pc>0805-b<k1>vakzas<k2>vakzas
+Lat. pectus
+<L>12580<pc>0805-b<k1>vaNk<k2>vaNk
+Lat. vacillare
+Lat. vacare
+<L>12589<pc>0806-a<k1>vac<k2>vac
+Lat. vocare
+Lat. vox
+<L>12599<pc>0807-b<k1>vaj<k2>vaj
+Lat. vagari
+<L>12600<pc>0807-b<k1>vaj<k2>vaj
+Lat. vegere
+Lat. augere
+Lat. vigor
+Lat. vigere
+<L>12607<pc>0808-a<k1>vaYc<k2>vaYc
+Lat. vafer
+<L>12654<pc>0810-a<k1>vad<k2>vad
+Lat. vas
+Lat. vadis
+<L>12673<pc>0811-b<k1>van<k2>van
+Lat. Venus
+Lat. venustas
+Lat. venerari
+<L>12711<pc>0814-a<k1>vam<k2>vam
+Lat. vomere
+<L>12743<pc>0816-a<k1>varAha<k2>varAha
+Lat. verres
+<L>12760<pc>0816-b<k1>varga<k2>varga
+Lat. vulgus
+<L>12885<pc>0825-a<k1>vazka<k2>vazka
+Lat. vacca
+<L>12887<pc>0825-a<k1>vas<k2>vas
+Lat. Vesta
+Lat. vestibulum
+Lat. verna
+<L>12889<pc>0826-a<k1>vas<k2>vas
+Lat. vestis
+<L>12895<pc>0826-b<k1>vasanta<k2>vasanta
+Lat. ver
+<L>12919<pc>0827-b<k1>vasna<k2>vasna
+Lat. venum
+Lat. vendere
+<L>12923<pc>0828-a<k1>vah<k2>vah
+Lat. vehere
+Lat. via
+Lat. uxor
+<L>12924<pc>0829-b<k1>vaha<k2>vaha
+Lat. via
+<L>12937<pc>0830-b<k1>vA<k2>vA
+Lat. vanus
+Lat. vapor
+<L>12938<pc>0830-b<k1>vA<k2>vA
+Lat. ve
+<L>12951<pc>0831-b<k1>vAGant<k2>vAGant
+Lat. vāgire
+<L>12989<pc>0834-a<k1>vAta<k2>vAta
+Lat. ventus
+<L>13040<pc>0837-a<k1>vAr<k2>vAr
+Lat. urina
+Lat. urceus
+Lat. urna
+<L>13095<pc>0839-b<k1>vAzpa<k2>vAzpa
+Lat. vappa
+Lat. vāpor
+<L>13138<pc>0843-a<k1>vi<k2>vi
+Lat. vi
+Lat. dividere
+<L>13139<pc>0843-b<k1>vi<k2>vi
+Lat. avis
+Lat. ovum
+<L>13143<pc>0843-b<k1>viMSati<k2>viMSati
+Lat. viginti
+<L>13222<pc>0848-a<k1>vic<k2>vic
+Lat. vicis
+Lat. invicem
+Lat. vicissim
+Lat. vincere
+<L>13306<pc>0852-b<k1>vid<k2>vid
+Lat. videre
+Lat. vitrum
+<L>13349<pc>0856-a<k1>viDavA<k2>viDavA
+Lat. vidua
+Lat. viduus
+<L>13698<pc>0877-a<k1>viza<k2>viza
+Lat. viola
+<L>13817<pc>0883-b<k1>vI<k2>vI
+Lat. invītus
+Lat. invitare
+<L>13848<pc>0885-b<k1>vIra<k2>vIra
+Lat. vir
+<L>13867<pc>0886-b<k1>vf<k2>vf
+Lat. per
+Lat. haps
+Lat. aperio
+Lat. operio
+Lat. velum
+<L>13872<pc>0888-b<k1>vfka<k2>vfka
+Lat. lupus
+<L>13881<pc>0889-a<k1>vfj<k2>vfj
+Lat. vergere
+<L>13886<pc>0889-b<k1>vft<k2>vft
+Lat. vertere
+Lat. versus
+<L>13938<pc>0898-b<k1>ve<k2>ve
+Lat. viere
+<L>13955<pc>0899-b<k1>vetasa<k2>vetasa
+Lat. vitex
+Lat. vitis
+<L>13985<pc>0902-a<k1>vep<k2>vep
+Lat. vibrare
+<L>13996<pc>0902-b<k1>vell<k2>vell
+Lat. volvo
+<L>13999<pc>0903-a<k1>veSa<k2>veSa
+Lat. vicus
+<L>14144<pc>0910-b<k1>voQf<k2>voQf
+Lat. vector
+<L>14310<pc>0921-a<k1>vraj<k2>vraj
+Lat. ulciscor
+<L>14311<pc>0921-b<k1>vraja<k2>vraja
+Lat. vulgus
+<L>14316<pc>0922-a<k1>vraRa<k2>vraRa
+Lat. vul
+Lat. nus
+<L>14324<pc>0923-a<k1>vraSc<k2>vraSc
+Lat. lace
+Lat. rare
+Lat. ulcus
+<L>14344<pc>0924-a<k1>SaMs<k2>SaMs
+Lat. censere
+Lat. canere
+Lat. Casmena
+Lat. carmen
+Lat. concinnus
+<L>14349<pc>0924-b<k1>Sak<k2>Sak
+Lat. queo
+Lat. nequeo
+Lat. nequinont
+Lat. nequic
+Lat. nont
+<L>14366<pc>0926-b<k1>Sakft<k2>Sakft
+Lat. stercus
+Lat. cerda
+Lat. sucerda
+<L>14379<pc>0927-a<k1>SaNk<k2>SaNk
+Lat. cunc
+Lat. +
+Lat. tari
+<L>14407<pc>0929-b<k1>Sata<k2>Sata
+Lat. centum
+<L>14423<pc>0930-b<k1>Satru<k2>Satru
+Lat. hod
+Lat. odisse
+Lat. hestis
+<L>14430<pc>0931-a<k1>Sad<k2>Sad
+Lat. cadere
+<L>14507<pc>0936-b<k1>SarkarA<k2>SarkarA
+Lat. calculus
+Lat. calx
+<L>14549<pc>0939-a<k1>Sazpa<k2>Sazpa
+Lat. cespes
+Lat. cespo
+Lat. vit
+<L>14551<pc>0939-a<k1>Sas<k2>Sas
+Lat. hostia
+<L>14553<pc>0939-a<k1>Sastra<k2>Sastra
+Lat. castrare
+<L>14700<pc>0948-a<k1>Siras<k2>Siras
+Lat. cere
+Lat. cerebrum
+Lat. cer
+Lat. cervix
+Lat. vix
+Lat. fron
+<L>14731<pc>0950-b<k1>Siz<k2>Siz
+Lat. quæso
+Lat. quæro
+Lat. quæstor
+Lat. cura
+<L>14734<pc>0951-a<k1>SI<k2>SI
+Lat. quies
+Lat. quiesco
+Lat. civis
+<L>14752<pc>0952-b<k1>SIrza<k2>SIrza
+Lat. collum
+<L>14795<pc>0955-b<k1>SuD<k2>SuD
+Lat. castus
+<L>14821<pc>0957-b<k1>Suz<k2>Suz
+Lat. siccus
+<L>14860<pc>0960-a<k1>SfNga<k2>SfNga
+Lat. cornu
+<L>14870<pc>0961-a<k1>SF<k2>SF
+Lat. cornu
+Lat. cervus
+Lat. clava
+Lat. quiris
+Lat. incolumis
+<L>14906<pc>0963-b<k1>So<k2>So
+Lat. acies
+Lat. acus
+Lat. acer
+Lat. acidus
+Lat. aculeus
+Lat. cātus
+Lat. trique
+Lat. trus
+Lat. cos
+Lat. cautes
+Lat. citus
+<L>14973<pc>0967-b<k1>Srat<k2>Srat
+Lat. cred
+Lat. credo
+Lat. creddo
+<L>14974<pc>0967-b<k1>SraT<k2>SraT
+Lat. crates
+Lat. rete
+Lat. restis
+<L>14998<pc>0969-a<k1>SrA<k2>SrA
+Lat. cremare
+Lat. carbo
+Lat. catere
+Lat. cinis
+<L>15008<pc>0970-a<k1>Sri<k2>Sri
+Lat. clemens
+Lat. inclinare
+Lat. clivus
+<L>15013<pc>0971-b<k1>SrI<k2>SrI
+Lat. pincerna
+<L>15014<pc>0971-b<k1>SrI<k2>SrI
+Lat. Ceres
+<L>15041<pc>0974-a<k1>SroRi<k2>SroRi
+Lat. clunis
+<L>15083<pc>0976-b<k1>Svan<k2>Svan
+Lat. canis
+Lat. catulus
+<L>15097<pc>0977-a<k1>SvaSura<k2>SvaSura
+Lat. socer
+Lat. socrus
+<L>15101<pc>0977-a<k1>Svas<k2>Svas
+Lat. queri
+Lat. ques
+Lat. tus
+<L>15102<pc>0978-a<k1>Svas<k2>Svas
+Lat. cras
+<L>15104<pc>0978-a<k1>Svastana<k2>Svastana
+Lat. crastinus
+<L>15110<pc>0978-b<k1>Svi<k2>Svi
+Lat. cuneus
+Lat. cumulus
+Lat. supercilia
+Lat. crescere
+<L>15129<pc>0979-b<k1>zaz<k2>zaz
+Lat. sex
+<L>15136<pc>0980-a<k1>zazWa<k2>zazWa
+Lat. sextus
+<L>15151<pc>0981-a<k1>zWiv<k2>zWiv
+Lat. spuere
+<L>15154<pc>0981-a<k1>sa<k2>sa
+Lat. sum
+Lat. eum
+Lat. sam
+Lat. eam
+Lat. sum
+Lat. sem
+Lat. semper
+<L>15287<pc>0988-b<k1>saKi<k2>saKi
+Lat. socius
+<L>15354<pc>0993-a<k1>sac<k2>sac
+Lat. sequi
+Lat. secundus
+Lat. secus
+Lat. sequior
+Lat. sacer
+<L>15435<pc>0999-a<k1>sad<k2>sad
+Lat. propensus
+Lat. sedeo
+Lat. sidere
+Lat. desidero
+Lat. sella
+Lat. sed
+<L>15457<pc>1001-b<k1>sanad<k2>sanad
+Lat. senex
+<L>15543<pc>1007-a<k1>saptan<k2>saptan
+Lat. septem
+<L>15544<pc>1007-a<k1>saptama<k2>saptama
+Lat. septimus
+<L>15561<pc>1008-a<k1>sama<k2>sama
+Lat. similis
+Lat. simul
+Lat. semel
+Lat. semper
+Lat. singuli
+<L>15658<pc>1013-b<k1>samitA<k2>samitA
+Lat. simila
+Lat. similago
+<L>15808<pc>1022-a<k1>sara<k2>sara
+Lat. serum
+Lat. sal
+Lat. salum
+Lat. insula
+<L>15841<pc>1023-b<k1>sarpa<k2>sarpa
+Lat. serpens
+<L>15850<pc>1024-a<k1>sarva<k2>sarva
+Lat. sollennis
+Lat. sollers
+Lat. salvus
+Lat. salus
+<L>15892<pc>1026-a<k1>savya<k2>savya
+Lat. scævus
+Lat. sinister
+<L>15903<pc>1027-b<k1>saha<k2>saha
+Lat. sŏdā
+Lat. lis
+<L>15940<pc>1029-b<k1>sahya<k2>sahya
+Lat. sanus
+<L>16048<pc>1037-a<k1>sAmi<k2>sAmi
+Lat. semi
+<L>16063<pc>1038-a<k1>sAya<k2>sAya
+Lat. sērus
+Lat. sērum
+<L>16139<pc>1043-a<k1>sic<k2>sic
+Lat. stilla
+Lat. sticla
+<L>16169<pc>1046-a<k1>siv<k2>siv
+Lat. suere
+Lat. Consus
+Lat. Consualia
+<L>16274<pc>1051-b<k1>sU<k2>sU
+Lat. sævus
+<L>16277<pc>1051-b<k1>sUkara<k2>sUkara
+Lat. sus
+<L>16332<pc>1055-a<k1>sUrya<k2>sUrya
+Lat. sol
+<L>16337<pc>1055-b<k1>sf<k2>sf
+Lat. salio
+Lat. saltare
+Lat. serere
+<L>16345<pc>1057-b<k1>sfti<k2>sfti
+Lat. sors
+<L>16348<pc>1058-a<k1>sfp<k2>sfp
+Lat. serpere
+<L>16485<pc>1066-a<k1>skand<k2>skand
+Lat. scandere
+<L>16492<pc>1066-b<k1>skanDa<k2>skanDa
+Lat. scapula
+Lat. scaphula
+Lat. rufus
+<L>16498<pc>1067-a<k1>skamB<k2>skamB
+Lat. scabellum
+Lat. scamnum
+<L>16499<pc>1067-b<k1>sku<k2>sku
+Lat. obscurus
+Lat. scutum
+Lat. corium
+Lat. cavere
+Lat. cautus
+Lat. causa
+<L>16503<pc>1067-b<k1>sKal<k2>sKal
+Lat. scelus
+Lat. culpa
+<L>16507<pc>1068-a<k1>stan<k2>stan
+Lat. tonare
+Lat. tonitru
+<L>16550<pc>1071-b<k1>stf<k2>stf
+Lat. sternere
+Lat. strages
+Lat. struere
+Lat. stringo
+<L>16552<pc>1072-a<k1>stf<k2>stf
+Lat. stella
+<L>16572<pc>1072-b<k1>styE<k2>styE
+Lat. stipare
+<L>16581<pc>1073-b<k1>sTag<k2>sTag
+Lat. tegere
+<L>16600<pc>1074-b<k1>sTA<k2>sTA
+Lat. stare
+Lat. sistere
+Lat. stamen
+Lat. stupere
+<L>16604<pc>1078-b<k1>sTAtf<k2>sTAtf
+Lat. stator
+<L>16627<pc>1080-b<k1>sTira<k2>sTira
+Lat. stolidus
+Lat. stultus
+<L>16649<pc>1082-a<k1>snA<k2>snA
+Lat. nare
+<L>16665<pc>1083-b<k1>snuzA<k2>snuzA
+Lat. nurus
+<L>16677<pc>1084-a<k1>spand<k2>spand
+Lat. funda
+<L>16696<pc>1085-b<k1>spazwa<k2>spazwa
+Lat. conspectus
+<L>16704<pc>1086-a<k1>spfh<k2>spfh
+Lat. spero
+Lat. spes
+<L>16722<pc>1087-a<k1>sPAy<k2>sPAy
+Lat. spatium
+Lat. patere
+<L>16743<pc>1088-b<k1>sPur<k2>sPur
+Lat. sperno
+<L>16747<pc>1089-a<k1>sPurj<k2>sPurj
+Lat. spargo
+<L>16748<pc>1089-a<k1>sPul<k2>sPul
+Lat. fallere
+<L>16770<pc>1090-b<k1>smi<k2>smi
+Lat. mirari
+<L>16773<pc>1091-a<k1>smf<k2>smf
+Lat. memor
+<L>16808<pc>1093-a<k1>sriD<k2>sriD
+Lat. stlis
+Lat. lis
+<L>16826<pc>1094-a<k1>sva<k2>sva
+Lat. se
+Lat. suns
+<L>16844<pc>1095-a<k1>svaDA<k2>svaDA
+Lat. suetus
+<L>16848<pc>1095-b<k1>svan<k2>svan
+Lat. sonare
+<L>16849<pc>1095-b<k1>svana<k2>svana
+Lat. sonus
+<L>16852<pc>1096-a<k1>svap<k2>svap
+Lat. sopire
+<L>16855<pc>1096-a<k1>svapna<k2>svapna
+Lat. somnus
+<L>16888<pc>1097-b<k1>svasf<k2>svasf
+Lat. soror
+Lat. consobrinus
+<L>16906<pc>1098-b<k1>svAdu<k2>svAdu
+Lat. suavis
+Lat. suadere
+<L>16927<pc>1100-a<k1>svid<k2>svid
+Lat. sudor
+Lat. sudare
+<L>16934<pc>1100-b<k1>svf<k2>svf
+Lat. susurro
+Lat. absurdus
+Lat. surdus
+Lat. sorbere
+<L>16944<pc>1101-a<k1>ha<k2>ha
+Lat. ha
+Lat. ho
+Lat. hi
+Lat. hic
+<L>16947<pc>1101-b<k1>haMsa<k2>haMsa
+Lat. anser
+<L>16970<pc>1102-b<k1>han<k2>han
+Lat. fend
+Lat. offendere
+Lat. infestus
+Lat. fessus
+Lat. fatigare
+Lat. patior
+<L>16974<pc>1105-a<k1>hanu<k2>hanu
+Lat. gena
+<L>16991<pc>1106-a<k1>hari<k2>hari
+Lat. gilvus
+<L>17047<pc>1109-a<k1>has<k2>has
+Lat. histrio
+<L>17052<pc>1109-b<k1>hasta<k2>hasta
+Lat. prehendere
+<L>17061<pc>1110-b<k1>hA<k2>hA
+Lat. inhiare
+Lat. hiscere
+<L>17062<pc>1110-b<k1>hA<k2>hA
+Lat. habere
+<L>17134<pc>1114-b<k1>hima<k2>hima
+Lat. hiems
+Lat. hibernus
+<L>17159<pc>1116-a<k1>hu<k2>hu
+Lat. fundere
+<L>17173<pc>1116-b<k1>hurC<k2>hurC
+Lat. quercus
+Lat. obliquus
+<L>17185<pc>1117-b<k1>hf<k2>hf
+Lat. cohors
+Lat. heres
+<L>17187<pc>1120-a<k1>hfRIya<k2>hfRIya
+Lat. fel
+Lat. bilis
+<L>17190<pc>1120-b<k1>hfd<k2>hfd
+Lat. cor
+Lat. cordis
+<L>17201<pc>1121-a<k1>hfz<k2>hfz
+Lat. horrere
+Lat. Hersilia
+<L>17237<pc>1123-b<k1>hez<k2>hez
+Lat. hinnire
+Lat. hinnulus
+<L>17272<pc>1124-b<k1>hnu<k2>hnu
+Lat. abnuere
+Lat. nutare
+Lat. gnavus
+Lat. navare
+Lat. ignavus
+Lat. segnis
+Lat. niti
+Lat. nictare
+<L>17274<pc>1125-a<k1>hyas<k2>hyas
+Lat. hes
+Lat. ternus
+Lat. heri
+<L>17283<pc>1125-b<k1>hrasva<k2>hrasva
+Lat. brevis
+<L>17285<pc>1125-b<k1>hrAd<k2>hrAd
+Lat. grando
+<L>17312<pc>1126-b<k1>hvf<k2>hvf
+Lat. curvus
+Lat. varus
+<L>17313<pc>1126-b<k1>hve<k2>hve
+Lat. reboare
+Lat. vovere
+Lat. vōtum

@@ -1,0 +1,772 @@
+<L>8<pc>0001-b<k1>aMsa<k2>aMsa
+Goth. = amsa
+<L>11<pc>0001-b<k1>aMhas<k2>aMhas
+Goth. aggvus 
+<L>32<pc>0003-a<k1>akzi<k2>akzi
+Goth. = augo
+<L>134<pc>0008-b<k1>ajra<k2>ajra
+Goth. = akrs
+<L>225<pc>0013-a<k1>ad<k2>ad
+Goth. = itan
+<L>249<pc>0014-a<k1>aDara<k2>aDara
+Goth. = undar
+<L>314<pc>0018-a<k1>an<k2>an
+Goth. 
+<L>315<pc>0018-b<k1>an<k2>an
+Goth. uz-ana;
+<L>358<pc>0020-a<k1>anu<k2>anu
+Goth. ana,
+<L>518<pc>0026-b<k1>anta<k2>anta
+Goth. andi
+<L>527<pc>0027-b<k1>antara<k2>antara
+Goth. = anthar
+<L>544<pc>0028-b<k1>antika<k2>antika
+Goth. andhafjan,
+<L>568<pc>0029-b<k1>anya<k2>anya
+Goth. alja-, alis, alja
+<L>571<pc>0030-a<k1>anyatra<k2>anyatra
+Goth. aljathrô, 
+<L>600<pc>0031-a<k1>ap<k2>ap
+Goth. ahva,
+<L>601<pc>0031-a<k1>apa<k2>apa
+Goth. af.
+<L>650<pc>0033-a<k1>apara<k2>apara
+Goth. afar
+<L>723<pc>0037-a<k1>aBi<k2>aBi
+Goth. bī.
+<L>954<pc>0046-b<k1>ayas<k2>ayas
+Goth. eis , arn
+<L>974<pc>0047-a<k1>aratni<k2>aratni
+Goth. = arms
+<L>1053<pc>0052-b<k1>arBa<k2>arBa
+Goth. = arbja
+<L>1228<pc>0060-b<k1>avi<k2>avi
+Goth. = avistr
+<L>1250<pc>0061-b<k1>aSman<k2>aSman
+Goth. = auhns
+<L>1260<pc>0062-a<k1>aSva<k2>aSva
+Goth. = aihvs
+<L>1276<pc>0063-a<k1>azwan<k2>azwan
+Goth. ahtau
+<L>1286<pc>0063-b<k1>as<k2>as
+Goth. im, ist
+<L>1313<pc>0066-b<k1>asmad<k2>asmad
+Goth. ik, mis, veis, unsis
+<L>1318<pc>0066-b<k1>ah<k2>ah
+Goth. aikan
+<L>1645<pc>0084-b<k1>Ayus<k2>Ayus
+Goth. = aivs
+<L>1840<pc>0095-a<k1>i<k2>i
+Goth. ï ïddja, 
+<L>1862<pc>0100-a<k1>id<k2>id
+Goth. ita
+<L>1863<pc>0100-a<k1>idam<k2>idam
+Goth. is ita.
+<L>1930<pc>0106-a<k1>IS<k2>IS
+Goth. aigan
+<L>1953<pc>0108-a<k1>ukzan<k2>ukzan
+Goth. auhsa, base auhsan; A.S. oxa; the ved. fem. is {%vaśā,%} probably = 
+<L>2091<pc>0115-a<k1>ud<k2>ud
+Goth. 
+<L>2099<pc>0116-a<k1>udan<k2>udan
+Goth. vato, vatan
+<L>2209<pc>0121-a<k1>upa<k2>upa
+Goth. uf,   ufdaupjan ufsneithan
+<L>2320<pc>0126-a<k1>upari<k2>upari
+Goth. ufar
+<L>2418<pc>0130-b<k1>uBa<k2>uBa
+Goth. bai
+<L>2487<pc>0133-b<k1>Una<k2>Una
+Goth. van, vans
+<L>2498<pc>0134-b<k1>UrRa<k2>UrRa
+Goth. = vulla
+<L>2518<pc>0136-a<k1>f<k2>f
+Goth. = alds
+<L>2528<pc>0137-a<k1>fj<k2>fj
+Goth. raints, 
+<L>2556<pc>0138-b<k1>fz<k2>fz
+Goth. = rign
+<L>2633<pc>0142-b<k1>enad<k2>enad
+Goth. ainaha, ains; 
+<L>2850<pc>0153-b<k1>katara<k2>katara
+Goth. = hvathar
+<L>3177<pc>0173-a<k1>kANkz<k2>kANkz
+Goth. = huhru
+<L>3411<pc>0186-a<k1>kim<k2>kim
+Goth. = hvas
+<L>3476<pc>0190-a<k1>kuYc<k2>kuYc
+Goth. = hauh
+<L>3532<pc>0193-b<k1>kutra<k2>kutra
+Goth. hvathro hvar
+<L>3568<pc>0195-b<k1>kumBa<k2>kumBa
+Goth. = hups
+<L>3697<pc>0210-b<k1>kft<k2>kft
+Goth. giltha, grinda, disskreitan
+<L>3733<pc>0213-a<k1>kfmi<k2>kfmi
+Goth. = vaurms
+<L>3768<pc>0217-b<k1>ketu<k2>ketu
+Goth. = haidus
+<L>3911<pc>0224-b<k1>kratu<k2>kratu
+Goth. hardu  
+<L>3920<pc>0225-a<k1>kram<k2>kram
+Goth. hramjan, hlamma, haldan, grids
+<L>3932<pc>0228-b<k1>kravya<k2>kravya
+Goth. = hraiv
+<L>3955<pc>0230-a<k1>kruS<k2>kruS
+Goth. = hrukjan
+<L>3972<pc>0231-b<k1>klap<k2>klap
+Goth. hrôpjan 
+<L>3977<pc>0231-b<k1>klid<k2>klid
+Goth. hlūtrs, 
+<L>3999<pc>0233-a<k1>kzaR<k2>kzaR
+Goth. skath, skathjan, skanda.
+<L>4038<pc>0235-b<k1>kzar<k2>kzar
+Goth. hôrs.
+<L>4066<pc>0238-b<k1>kziv<k2>kziv
+Goth. speiwan
+<L>4112<pc>0241-a<k1>kzema<k2>kzema
+Goth. = haims
+<L>4133<pc>0242-a<k1>kzRu<k2>kzRu
+Goth. = hnuto
+<L>4260<pc>0247-b<k1>KyA<k2>KyA
+Goth. gôds 
+<L>4305<pc>0251-a<k1>gad<k2>gad
+Goth. = quithan
+<L>4326<pc>0252-b<k1>gam<k2>gam
+Goth. gaggan
+Goth. gatvo, qviman; 
+<L>4352<pc>0257-b<k1>garBa<k2>garBa
+Goth. = kalbo
+<L>4463<pc>0264-b<k1>gu<k2>gu
+Goth. gaunôn.
+<L>4504<pc>0267-a<k1>guru<k2>guru
+Goth. kaurs, kauritha; 
+<L>4534<pc>0269-a<k1>gfD<k2>gfD
+Goth. gredon,  gredus, gredags;
+<L>4562<pc>0270-b<k1>gF<k2>gF
+Goth. gairns, 
+<L>4571<pc>0271-b<k1>go<k2>go
+Goth. gavi, gauja.
+<L>4635<pc>0275-b<k1>grah<k2>grah
+Goth. greipan, 
+<L>4707<pc>0283-a<k1>Gas<k2>Gas
+Goth. = gasts
+<L>4754<pc>0286-a<k1>Gora<k2>Gora
+Goth. gaurs, sad.
+<L>4768<pc>0287-a<k1>ca<k2>ca
+Goth. -h,   sah,
+<L>4786<pc>0288-b<k1>cakz<k2>cakz
+Goth. siuns sihvni
+<L>4818<pc>0290-b<k1>catur<k2>catur
+Goth. fidvör; 
+<L>4852<pc>0292-b<k1>cana<k2>cana
+Goth. -hun,   hvarhun
+<L>4965<pc>0302-a<k1>ci<k2>ci
+Goth. hafjan, hafan, hafts; 
+<L>5059<pc>0308-b<k1>cud<k2>cud
+Goth. = skiutan
+Goth. giutan: 
+<L>5135<pc>0313-a<k1>cyu<k2>cyu
+Goth. skevjan, skura, vin, thiskauro; 
+<L>5147<pc>0314-a<k1>Cad<k2>Cad
+Goth. skadus
+<L>5175<pc>0316-a<k1>Cavi<k2>Cavi
+Goth. skauns, guthaskaunei; 
+<L>5189<pc>0316-b<k1>Cid<k2>Cid
+Goth. = skaidan
+<L>5205<pc>0318-b<k1>Cfd<k2>Cfd
+Goth. spaiskuldrs; 
+<L>5243<pc>0320-b<k1>jaWara<k2>jaWara
+Goth. qvithra inkiltho.
+<L>5244<pc>0320-b<k1>jaqa<k2>jaqa
+Goth. = kald
+<L>5250<pc>0321-a<k1>jan<k2>jan
+Goth. keinan, uskijan, niuklahs, kuni, qvino; 
+<L>5342<pc>0328-a<k1>jas<k2>jas
+Goth. = qvistjan
+<L>5348<pc>0328-a<k1>jAgf<k2>jAgf
+Goth. = vakan
+<L>5371<pc>0330-a<k1>jAni<k2>jAni
+Goth. quens, 
+<L>5372<pc>0330-a<k1>jAnu<k2>jAnu
+Goth. = kniu
+<L>5410<pc>0331-b<k1>ji<k2>ji
+Goth. ga-geigan 
+<L>5438<pc>0334-a<k1>jihva<k2>jihva
+Goth. tuggo duhva
+<L>5445<pc>0334-a<k1>jIv<k2>jIv
+Goth. gaquivjan, 
+<L>5446<pc>0335-a<k1>jIva<k2>jIva
+Goth. = qvivs
+<L>5469<pc>0336-a<k1>juz<k2>juz
+Goth. kiusan, 
+Goth. kukjan,
+<L>5483<pc>0337-b<k1>jF<k2>jF
+Goth. kaurn, gakrôtôn; 
+Goth. = qvairnu
+<L>5501<pc>0338-b<k1>jYA<k2>jYA
+Goth. kunuan, kunths, kunthi; 
+<L>5503<pc>0340-a<k1>jYAti<k2>jYAti
+Goth. knôds; 
+<L>5549<pc>0342-b<k1>jval<k2>jval
+Goth. = vulan
+<L>5667<pc>0349-a<k1>tad<k2>tad
+Goth. = sa
+<L>5867<pc>0363-a<k1>tij<k2>tij
+Goth. = stiggqvan
+<L>5905<pc>0364-b<k1>tiryaYc<k2>tiryaYc
+Goth. thairh, thairko; 
+<L>5936<pc>0366-a<k1>tu<k2>tu
+Goth. thiuda, thiuth, thiuthjan; 
+<L>5955<pc>0367-a<k1>tud<k2>tud
+Goth. stautan 
+<L>5979<pc>0368-b<k1>tul<k2>tul
+Goth. = thulan
+<L>5989<pc>0369-a<k1>tuz<k2>tuz
+Goth. = thahan
+<L>6027<pc>0370-b<k1>tftIya<k2>tftIya
+Goth. = thridja
+<L>6032<pc>0371-a<k1>tfp<k2>tfp
+Goth. tharf 
+<L>6036<pc>0371-b<k1>tfz<k2>tfz
+Goth. thaursjan, thairsan, thaursus; 
+<L>6074<pc>0374-a<k1>toka<k2>toka
+Goth. thius, thivi; 
+<L>6101<pc>0376-a<k1>tyad<k2>tyad
+Goth. = si
+<L>6113<pc>0376-b<k1>trap<k2>trap
+Goth. = dreiban
+<L>6126<pc>0377-a<k1>tras<k2>tras
+Goth. thlahs- jan; 
+<L>6232<pc>0382-b<k1>daMS<k2>daMS
+Goth. tagr, 
+<L>6245<pc>0383-a<k1>dakza<k2>dakza
+Goth. = taihsvs
+<L>6253<pc>0384-a<k1>daG<k2>daG
+Goth. tekan
+<L>6277<pc>0385-b<k1>danta<k2>danta
+Goth. = tunthus
+<L>6292<pc>0386-b<k1>dam<k2>dam
+Goth. ga-timan; 
+<L>6300<pc>0387-a<k1>dampati<k2>dampati
+Goth. = timrjan
+<L>6346<pc>0390-a<k1>daSan<k2>daSan
+Goth. taihun -tigu tvaimtigum; 
+<L>6363<pc>0391-a<k1>dah<k2>dah
+Goth. dags, 
+<L>6494<pc>0400-b<k1>diS<k2>diS
+Goth. teihan, 
+Goth. taikns, 
+<L>6500<pc>0402-b<k1>dih<k2>dih
+Goth. deigaṇ, ga-dikis, daigs; 
+<L>6617<pc>0409-b<k1>dus<k2>dus
+Goth. tus tuz-verjan; 
+<L>6619<pc>0409-b<k1>duh<k2>duh
+Goth. tiuhan, 
+<L>6622<pc>0410-a<k1>duhitf<k2>duhitf
+Goth. = dauhtar
+<L>6662<pc>0413-a<k1>anu<k2>anu
+Goth. ga-tarhjan.
+<L>6674<pc>0414-b<k1>dfh<k2>dfh
+Goth. = tagl
+<L>6675<pc>0414-b<k1>dF<k2>dF
+Goth. = tairan
+<L>6839<pc>0424-b<k1>druh<k2>druh
+Goth. driugan 
+<L>6867<pc>0426-b<k1>dvAra<k2>dvAra
+Goth. daur, 
+<L>6873<pc>0426-b<k1>dvi<k2>dvi
+Goth. = tvai
+Goth. tveifljan, tvistandan, disdailjan.
+<L>6982<pc>0433-b<k1>DA<k2>DA
+Goth.  
+<L>7048<pc>0443-a<k1>DU<k2>DU
+Goth. = dauns
+<L>7085<pc>0447-b<k1>Dfz<k2>Dfz
+Goth. gadars; 
+<L>7108<pc>0450-a<k1>DraR<k2>DraR
+Goth. = drunjus
+<L>7117<pc>0450-b<k1>Druva<k2>Druva
+Goth. = triggvs
+<L>7121<pc>0450-b<k1>DvaMs<k2>DvaMs
+Goth. = driusan
+<L>7141<pc>0452-b<k1>Dvf<k2>Dvf
+Goth. = dvals
+<L>7143<pc>0452-b<k1>na<k2>na
+Goth. ne, nei; 
+<L>7149<pc>0452-b<k1>nakta<k2>nakta
+Goth. = nahts
+<L>7170<pc>0453-b<k1>nagna<k2>nagna
+Goth. = naqvadei
+<L>7200<pc>0456-b<k1>napAt<k2>napAt
+Goth. nithjis, nith, jo; 
+<L>7212<pc>0457-a<k1>nam<k2>nam
+Goth. 
+<L>7248<pc>0460-b<k1>nava<k2>nava
+Goth. = nivjis
+<L>7258<pc>0461-a<k1>navan<k2>navan
+Goth. 
+<L>7270<pc>0461-b<k1>naS<k2>naS
+Goth. naus nahu, navis.
+<L>7282<pc>0462-b<k1>nah<k2>nah
+Goth. nehv, nehva, nehvis; 
+<L>7331<pc>0466-b<k1>nAman<k2>nAman
+Goth. = namo
+<L>7371<pc>0469-a<k1>ni<k2>ni
+Goth. in, inn; 
+<L>7447<pc>0472-b<k1>nid<k2>nid
+Goth. ganaitjan, naiteins; 
+Goth. neith, 
+<L>7806<pc>0491-a<k1>nu<k2>nu
+Goth. = nu
+Goth. = nuh
+<L>7810<pc>0491-b<k1>nud<k2>nud
+Goth. niutan, 
+<L>7841<pc>0493-b<k1>nedizWa<k2>nedizWa
+Goth. = nehva
+<L>7931<pc>0498-a<k1>pakzin<k2>pakzin
+Goth. = fugl
+<L>8032<pc>0506-b<k1>pati<k2>pati
+Goth. = faths
+<L>8058<pc>0509-a<k1>pad<k2>pad
+Goth. = finthan
+<L>8136<pc>0516-b<k1>parA<k2>parA
+Goth. fair- fra-; 
+<L>8530<pc>0534-b<k1>paS<k2>paS
+Goth. = fahan
+Goth. = fahjan
+<L>8532<pc>0535-a<k1>paSu<k2>paSu
+Goth. = faihu
+<L>8547<pc>0536-b<k1>pA<k2>pA
+Goth. fôdjan; 
+<L>8620<pc>0540-b<k1>pAtra<k2>pAtra
+Goth. fôdr
+<L>8631<pc>0541-a<k1>pAda<k2>pAda
+Goth. fôtus; 
+<L>8753<pc>0547-a<k1>pArzRi<k2>pArzRi
+Goth. = fairzna
+<L>8824<pc>0551-b<k1>pitf<k2>pitf
+Goth. = fadar
+<L>8860<pc>0553-a<k1>piS<k2>piS
+Goth. = faihu
+<L>8979<pc>0560-b<k1>purA<k2>purA
+Goth. faura faur; 
+<L>8991<pc>0561-b<k1>puru<k2>puru
+Goth. = filu
+<L>9060<pc>0566-a<k1>pU<k2>pU
+Goth. fon  favan
+<L>9078<pc>0567-b<k1>pUy<k2>pUy
+Goth. fūls, 
+<L>9121<pc>0570-a<k1>pf<k2>pf
+Goth. = farjan
+<L>9125<pc>0570-a<k1>pfc<k2>pfc
+Goth. = flahta
+<L>9146<pc>0571-a<k1>pfTu<k2>pfTu
+Goth. = braids
+<L>9172<pc>0572-b<k1>pF<k2>pF
+Goth. = fulljan
+<L>9295<pc>0579-a<k1>pra<k2>pra
+Goth. = frums
+<L>9407<pc>0584-b<k1>praC<k2>praC
+Goth. fragan, fraihnan; 
+<L>9715<pc>0599-a<k1>praT<k2>praT
+Goth. = frathjan
+<L>10086<pc>0617-b<k1>prI<k2>prI
+Goth. frijon, frijônds, friathva, freis; 
+<L>10161<pc>0622-a<k1>Pal<k2>Pal
+Goth. = bloma
+<L>10219<pc>0625-b<k1>banD<k2>banD
+Goth. 
+Goth. = fastan
+<L>10332<pc>0634-a<k1>buD<k2>buD
+Goth. = biudan
+<L>10348<pc>0635-b<k1>bfhant<k2>bfhant
+Goth. = abirgahei
+<L>10394<pc>0639-a<k1>Baga<k2>Baga
+Goth. gabigs. 
+<L>10409<pc>0640-b<k1>Baj<k2>Baj
+Goth. andabahti, bahtjan; also  and
+<L>10411<pc>0641-a<k1>BaYj<k2>BaYj
+Goth. = brikan
+<L>10427<pc>0642-a<k1>Badra<k2>Badra
+Goth. bats, bat + izo, bat + ista; 
+Goth. gabat
+<L>10460<pc>0644-b<k1>Barv<k2>Barv
+Goth. = balvjan
+<L>10577<pc>0653-a<k1>Bid<k2>Bid
+Goth. = beitan
+Goth. = baitar
+<L>10608<pc>0656-a<k1>Buj<k2>Buj
+Goth. = biugan
+<L>10609<pc>0656-a<k1>Buj<k2>Buj
+Goth. = bugjan
+Goth. biuhts, biuhti.
+Goth. bruks, brūkjan; 
+<L>10630<pc>0657-b<k1>BU<k2>BU
+Goth. gabauan; 
+<L>10664<pc>0664-b<k1>Bf<k2>Bf
+Goth. = bairan
+Goth. = barnis
+Goth. = barn
+Goth. = briggan
+<L>10729<pc>0669-a<k1>BraMS<k2>BraMS
+Goth. urrisan; 
+Goth. ushrisjan afhrisjan
+<L>10746<pc>0671-a<k1>BrAj<k2>BrAj
+Goth. = bairhts
+<L>10749<pc>0671-a<k1>BrAtf<k2>BrAtf
+Goth. = brother
+<L>10859<pc>0677-b<k1>mati<k2>mati
+Goth. ga munds, môds; 
+<L>10874<pc>0679-a<k1>mad<k2>mad
+Goth. = mats
+Goth. = matjan
+<L>10910<pc>0681-b<k1>maDya<k2>maDya
+Goth. = midja
+Goth. -missô, missa-; 
+<L>10920<pc>0682-b<k1>man<k2>man
+Goth. munan, muns, munths 
+<L>10928<pc>0684-b<k1>manAk<k2>manAk
+Goth. mins, minz, minniza, minnists
+<L>10936<pc>0684-b<k1>manuzya<k2>manuzya
+Goth. = mannisks
+<L>10938<pc>0685-a<k1>manus<k2>manus
+Goth. man, manna; 
+<L>10949<pc>0685-b<k1>mantr<k2>mantr
+Goth. = mathljan
+<L>10950<pc>0686-a<k1>mantra<k2>mantra
+Goth. mathl, mathleins.
+<L>11087<pc>0692-b<k1>mah<k2>mah
+Goth. 
+Goth. magu, mavi, mahts; 
+Goth. = mahteig
+Goth. magus
+Goth. = magaths
+<L>11090<pc>0693-a<k1>mahant<k2>mahant
+Goth. = mikils
+Goth. = mais
+Goth. = maist
+<L>11119<pc>0694-b<k1>mA<k2>mA
+Goth. = mitan
+<L>11275<pc>0705-b<k1>mAsa<k2>mAsa
+Goth. mênôths; 
+<L>11324<pc>0708-a<k1>mih<k2>mih
+Goth. = maihstus
+<L>11406<pc>0715-b<k1>murC<k2>murC
+Goth. untilamalsks, foolish.
+<L>11487<pc>0721-a<k1>mfj<k2>mfj
+Goth. = miluks
+Goth. = marka
+<L>11514<pc>0722-b<k1>mfdA<k2>mfdA
+Goth. = mulda
+<L>11517<pc>0723-a<k1>mfdu<k2>mfdu
+Goth. 
+<L>11522<pc>0723-a<k1>mfD<k2>mfD
+Goth. = maurthr
+<L>11527<pc>0723-b<k1>mfz<k2>mfz
+Goth. marzjan
+<L>11534<pc>0724-a<k1>me<k2>me
+Goth. = maithms
+Goth. maid- jan, gamains; 
+<L>11699<pc>0733-b<k1>yad<k2>yad
+Goth. ja jabai.
+<L>11711<pc>0735-a<k1>yam<k2>yam
+Goth. = aiths
+<L>11807<pc>0744-a<k1>yuga<k2>yuga
+Goth. = juk
+<L>11837<pc>0748-a<k1>yuvan<k2>yuvan
+Goth. = juggs
+<L>11838<pc>0748-b<k1>yuzmad<k2>yuzmad
+Goth. thu, jus, izvis; 
+<L>11887<pc>0752-a<k1>raMh<k2>raMh
+Goth. = thragjan
+<L>11896<pc>0752-a<k1>rakz<k2>rakz
+Goth. garehsns.
+<L>11930<pc>0755-a<k1>rajas<k2>rajas
+Goth. riquis
+Goth. = riquis
+<L>11958<pc>0757-a<k1>raTa<k2>raTa
+Goth. lithus, 
+<L>11971<pc>0758-a<k1>rad<k2>rad
+Goth. lêtan, 
+<L>11982<pc>0758-b<k1>raB<k2>raB
+Goth. = arbaiths
+Goth. = liban
+<L>12008<pc>0761-b<k1>ras<k2>ras
+Goth. = razda
+<L>12023<pc>0763-a<k1>rah<k2>rah
+Goth. ligan, lagjan; 
+<L>12042<pc>0765-b<k1>rAja<k2>rAja
+Goth. = reiks
+<L>12049<pc>0766-a<k1>rAjan<k2>rAjan
+Goth. raginon,
+<L>12107<pc>0769-b<k1>ric<k2>ric
+Goth. aflifnan; 
+Goth. = leihvan
+<L>12126<pc>0770-b<k1>rI<k2>rI
+Goth. 
+<L>12139<pc>0771-b<k1>ruc<k2>ruc
+Goth. = lauhmuni
+Goth. liuhath, liuhtjan; 
+<L>12172<pc>0775-a<k1>ruz<k2>ruz
+Goth. inrauhtjan.
+<L>12174<pc>0775-a<k1>ruh<k2>ruh
+Goth. liugan, juggalauths; 
+<L>12296<pc>0785-a<k1>laGu<k2>laGu
+Goth. = leihts
+<L>12308<pc>0786-a<k1>laNG<k2>laNG
+Goth. = laggs
+Goth. laikan,
+<L>12378<pc>0791-b<k1>laz<k2>laz
+Goth. luston, lustus; 
+<L>12434<pc>0795-a<k1>lip<k2>lip
+Goth. salbôn, 
+<L>12443<pc>0796-a<k1>lih<k2>lih
+Goth. bilaigôn; 
+<L>12467<pc>0798-b<k1>lup<k2>lup
+Goth. raupjan,
+<L>12470<pc>0799-a<k1>luB<k2>luB
+Goth. liubs, uslaubjan; 
+<L>12476<pc>0799-b<k1>lU<k2>lU
+Goth. fraliusan; 
+<L>12574<pc>0805-a<k1>vakz<k2>vakz
+Goth. = vahsjan
+<L>12673<pc>0811-b<k1>van<k2>van
+Goth. vêna; 
+<L>12700<pc>0813-a<k1>vap<k2>vap
+Goth. vêpn; 
+<L>12711<pc>0814-a<k1>vam<k2>vam
+Goth. vamm, macula, anavammjan; 
+<L>12728<pc>0814-b<k1>vara<k2>vara
+Goth. = vaila
+<L>12887<pc>0825-a<k1>vas<k2>vas
+Goth. = visan
+<L>12888<pc>0826-a<k1>vas<k2>vas
+Goth. uhtvo,
+<L>12889<pc>0826-a<k1>vas<k2>vas
+Goth. vasjan vasti; 
+<L>12923<pc>0828-a<k1>vah<k2>vah
+Goth. gavigan; 
+Goth. = vigs
+<L>12924<pc>0829-b<k1>vaha<k2>vaha
+Goth. = vigs
+<L>12937<pc>0830-b<k1>vA<k2>vA
+Goth. = vaian
+<L>12989<pc>0834-a<k1>vAta<k2>vAta
+Goth. = vinds
+<L>12993<pc>0834-a<k1>vAtara<k2>vAtara
+Goth. = vintrus
+<L>13306<pc>0852-b<k1>vid<k2>vid
+Goth. veitvods
+Goth. vitôth, inveitan; 
+<L>13309<pc>0854-b<k1>vidaTa<k2>vidaTa
+Goth. vitôth.
+<L>13349<pc>0856-a<k1>viDavA<k2>viDavA
+Goth. = viduvo
+<L>13619<pc>0872-b<k1>viS<k2>viS
+Goth. = vaihts
+<L>13848<pc>0885-b<k1>vIra<k2>vIra
+Goth. = vair
+<L>13867<pc>0886-b<k1>vf<k2>vf
+Goth. = varjan
+Goth. viljan, 
+Goth. val- jan, 
+<L>13872<pc>0888-b<k1>vfka<k2>vfka
+Goth. = vulfs
+<L>13886<pc>0889-b<k1>vft<k2>vft
+Goth. anavairths; 
+Goth. = vaurstv
+<L>13906<pc>0896-a<k1>vfD<k2>vfD
+Goth. = valdan
+Goth. vaurts, 
+<L>13996<pc>0902-b<k1>vell<k2>vell
+Goth. = valvjan
+<L>13999<pc>0903-a<k1>veSa<k2>veSa
+Goth. = veihs
+<L>14175<pc>0912-b<k1>vyaT<k2>vyaT
+Goth. vithon
+<L>14310<pc>0921-a<k1>vraj<k2>vraj
+Goth. vrikan, persequi; 
+<L>14344<pc>0924-a<k1>SaMs<k2>SaMs
+Goth. = hazjan
+<L>14366<pc>0926-b<k1>Sakft<k2>Sakft
+Goth. spaiskuldrs
+<L>14379<pc>0927-a<k1>SaNk<k2>SaNk
+Goth. = hugs
+<L>14407<pc>0929-b<k1>Sata<k2>Sata
+Goth. 
+<L>14423<pc>0930-b<k1>Satru<k2>Satru
+Goth. = hats
+<L>14506<pc>0936-a<k1>Saru<k2>Saru
+Goth. = hairus
+<L>14551<pc>0939-a<k1>Sas<k2>Sas
+Goth. = hunsl
+<L>14731<pc>0950-b<k1>Siz<k2>Siz
+Goth. qvisteins, qvistjan, fra qvisteins, fraqvistjan, fraqvistnan,
+<L>14734<pc>0951-a<k1>SI<k2>SI
+Goth. hêthjô, haithi, campus, haims; 
+<L>14775<pc>0954-a<k1>Suc<k2>Suc
+Goth. hiufan, queri; 
+<L>14821<pc>0957-b<k1>Suz<k2>Suz
+Goth. = siuk
+Goth. = sauht
+<L>14860<pc>0960-a<k1>SfNga<k2>SfNga
+Goth. = haurn
+<L>14870<pc>0961-a<k1>SF<k2>SF
+Goth. = haurn
+Goth. hairus, A sword; perhaps 
+<L>14906<pc>0963-b<k1>So<k2>So
+Goth. = aqvizi
+Goth. ahana, probably 
+Goth. hvôtjan.
+<L>14949<pc>0966-a<k1>Scut<k2>Scut
+Goth. skevjan skura; 
+<L>14951<pc>0966-a<k1>SnaT<k2>SnaT
+Goth. = snithan
+<L>14974<pc>0967-b<k1>SraT<k2>SraT
+Goth. afhlathan; 
+<L>14998<pc>0969-a<k1>SrA<k2>SrA
+Goth. hauri, hlaibs; 
+<L>15008<pc>0970-a<k1>Sri<k2>Sri
+Goth. = hulth
+Goth. = hail
+Goth. hlains, hleithra, hlija; 
+<L>15019<pc>0972-a<k1>Sru<k2>Sru
+Goth. hrô theigs, hliuma; 
+<L>15083<pc>0976-b<k1>Svan<k2>Svan
+Goth. hunds 
+<L>15097<pc>0977-a<k1>SvaSura<k2>SvaSura
+Goth. = svaihra
+<L>15110<pc>0978-b<k1>Svi<k2>Svi
+Goth. ushulon; 
+<L>15114<pc>0979-a<k1>Svind<k2>Svind
+Goth. = hveits
+Goth. = hvaitei
+<L>15129<pc>0979-b<k1>zaz<k2>zaz
+Goth. = saihs
+<L>15136<pc>0980-a<k1>zazWa<k2>zazWa
+Goth. = saihsta
+<L>15151<pc>0981-a<k1>zWiv<k2>zWiv
+Goth. = speivan
+<L>15154<pc>0981-a<k1>sa<k2>sa
+Goth. sa, so, 
+<L>15435<pc>0999-a<k1>sad<k2>sad
+Goth. = sinths
+Goth. = sitan
+Goth. = sitls
+<L>15457<pc>1001-b<k1>sanad<k2>sanad
+Goth. = sineigs
+<L>15460<pc>1001-b<k1>sanAtana<k2>sanAtana
+Goth. sinteins, sinteino. 
+<L>15543<pc>1007-a<k1>saptan<k2>saptan
+Goth. = sibun
+<L>15557<pc>1007-b<k1>saBya<k2>saBya
+Goth. trastisibja, adoptatio, gasibjôn, reconciliare, unsibja, iniqua; 
+<L>15561<pc>1008-a<k1>sama<k2>sama
+Goth. sama, sama,   samafrathjis;
+Goth. = samana
+Goth. = samath
+Goth. sums, 
+<L>15808<pc>1022-a<k1>sara<k2>sara
+Goth. = salt
+<L>15920<pc>1028-a<k1>sahas<k2>sahas
+Goth. = sigis
+<L>15992<pc>1032-a<k1>sAD<k2>sAD
+Goth. = sandjan
+<L>16069<pc>1038-a<k1>sAra<k2>sAra
+Goth. sāls; 
+<L>16128<pc>1042-a<k1>si<k2>si
+Goth. insailjan, illaqueare; 
+<L>16139<pc>1043-a<k1>sic<k2>sic
+Goth. = saivs
+<L>16169<pc>1046-a<k1>siv<k2>siv
+Goth. = siujan
+<L>16189<pc>1047-a<k1>su<k2>su
+Goth. = sunus
+<L>16277<pc>1051-b<k1>sUkara<k2>sUkara
+Goth. = svein
+<L>16330<pc>1055-a<k1>sUrpa<k2>sUrpa
+Goth. = svairban
+<L>16332<pc>1055-a<k1>sUrya<k2>sUrya
+Goth. = sauil
+Goth. sunna , sunno; 
+<L>16498<pc>1067-a<k1>skamB<k2>skamB
+Goth. gaskapjan, ga skafts; 
+<L>16499<pc>1067-b<k1>sku<k2>sku
+Goth. skôh; 
+<L>16503<pc>1067-b<k1>sKal<k2>sKal
+Goth. skula, skulan; 
+<L>16534<pc>1070-b<k1>stiG<k2>stiG
+Goth. = steigan
+<L>16547<pc>1071-b<k1>stumB<k2>stumB
+<L>16550<pc>1071-b<k1>stf<k2>stf
+Goth. = straujan
+<L>16552<pc>1072-a<k1>stf<k2>stf
+Goth. = stairno
+<L>16557<pc>1072-a<k1>stena<k2>stena
+Goth. = stilan
+<L>16592<pc>1074-a<k1>sTala<k2>sTala
+Goth. gastalds; 
+<L>16600<pc>1074-b<k1>sTA<k2>sTA
+Goth. staujan, stôjan; 
+<L>16633<pc>1081-b<k1>sTUrin<k2>sTUrin
+Goth. = stiurs
+<L>16649<pc>1082-a<k1>snA<k2>snA
+Goth. = nadr
+<L>16662<pc>1083-b<k1>snu<k2>snu
+Goth. = snivan
+Goth. sniumjan, sniumundo; 
+<L>16682<pc>1084-b<k1>sparD<k2>sparD
+Goth. = spaurds
+<L>16722<pc>1087-a<k1>sPAy<k2>sPAy
+Goth. spêd.
+<L>16773<pc>1091-a<k1>smf<k2>smf
+Goth. mêrjan, meritha; 
+Goth. = maurnan
+<L>16826<pc>1094-a<k1>sva<k2>sva
+Goth. sve, sik, seina; 
+<L>16844<pc>1095-a<k1>svaDA<k2>svaDA
+Goth. = sidus
+<L>16852<pc>1096-a<k1>svap<k2>svap
+Goth. slêpan; 
+<L>16888<pc>1097-b<k1>svasf<k2>svasf
+Goth. = svistar
+<L>16906<pc>1098-b<k1>svAdu<k2>svAdu
+Goth. = suts
+<L>16927<pc>1100-a<k1>svid<k2>svid
+Goth. sveitan; 
+<L>16934<pc>1100-b<k1>svf<k2>svf
+Goth. = svaran
+<L>16970<pc>1102-b<k1>han<k2>han
+Goth. dauths, dauthus; 
+Goth. duginnan; 
+<L>16974<pc>1105-a<k1>hanu<k2>hanu
+Goth. = kinnus
+<L>16996<pc>1106-b<k1>harit<k2>harit
+Goth. = gulth
+Goth. glitmunjan, To shine; cf. also 
+Goth. = gras
+<L>17016<pc>1107-b<k1>hary<k2>hary
+Goth. gailjan, gôljan; 
+<L>17052<pc>1109-b<k1>hasta<k2>hasta
+Goth. = handu
+<L>17062<pc>1110-b<k1>hA<k2>hA
+Goth. gaidv, giban;  
+<L>17159<pc>1116-a<k1>hu<k2>hu
+Goth. = giutan
+<L>17173<pc>1116-b<k1>hurC<k2>hurC
+Goth. = vraiqs
+<L>17185<pc>1117-b<k1>hf<k2>hf
+Goth. geiro, gairôn, gairnjan; 
+<L>17190<pc>1120-b<k1>hfd<k2>hfd
+Goth. = hairto
+<L>17272<pc>1124-b<k1>hnu<k2>hnu
+Goth. hneivan, hnaivs; 
+<L>17274<pc>1125-a<k1>hyas<k2>hyas
+Goth. gis tra; 
+<L>17285<pc>1125-b<k1>hrAd<k2>hrAd
+Goth. grêtan; 
+<L>17312<pc>1126-b<k1>hvf<k2>hvf
+Goth. hvairbạn; 
+<L>17313<pc>1126-b<k1>hve<k2>hve
+Goth. vôpjan

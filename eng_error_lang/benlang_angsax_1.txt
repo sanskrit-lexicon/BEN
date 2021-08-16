@@ -1,0 +1,1033 @@
+<L>27<pc>0002-b<k1>akza<k2>akza
+A.S. = eax
+<L>32<pc>0003-a<k1>akzi<k2>akzi
+A.S. aegh, eag.
+<L>76<pc>0005-a<k1>aNka<k2>aNka
+A.S. angel, 
+<L>134<pc>0008-b<k1>ajra<k2>ajra
+A.S. = acer
+<L>225<pc>0013-a<k1>ad<k2>ad
+A.S. = etan
+<L>249<pc>0014-a<k1>aDara<k2>aDara
+A.S. = under
+<L>314<pc>0018-a<k1>an<k2>an
+A.S. un-, 
+<L>518<pc>0026-b<k1>anta<k2>anta
+A.S. = ende
+<L>527<pc>0027-b<k1>antara<k2>antara
+A.S. = other
+<L>568<pc>0029-b<k1>anya<k2>anya
+A.S.
+<L>601<pc>0031-a<k1>apa<k2>apa
+A.S. = af
+<L>954<pc>0046-b<k1>ayas<k2>ayas
+A.S. = isern
+<L>1053<pc>0052-b<k1>arBa<k2>arBa
+A.S. = orf
+<L>1228<pc>0060-b<k1>avi<k2>avi
+A.S. = eaw
+<L>1276<pc>0063-a<k1>azwan<k2>azwan
+A.S. ëhta.
+<L>1286<pc>0063-b<k1>as<k2>as
+A.S. ëom, is. 
+<L>1313<pc>0066-b<k1>asmad<k2>asmad
+A.S. ic, më, vit, unc.
+<L>1471<pc>0074-b<k1>Atman<k2>Atman
+A.S. acdhm,
+<L>1662<pc>0085-a<k1>ArA<k2>ArA
+A.S. āl, ael.
+<L>1930<pc>0106-a<k1>IS<k2>IS
+A.S. = agan
+<L>1953<pc>0108-a<k1>ukzan<k2>ukzan
+A.S. = oxa
+<L>2091<pc>0115-a<k1>ud<k2>ud
+A.S. = ut
+<L>2441<pc>0131-b<k1>ulUka<k2>ulUka
+A.S. and 
+<L>2483<pc>0133-b<k1>UDan<k2>UDan
+A.S. = uder
+<L>2498<pc>0134-b<k1>UrRa<k2>UrRa
+A.S. = wull
+<L>2518<pc>0136-a<k1>f<k2>f
+A.S. = ald
+<L>2528<pc>0137-a<k1>fj<k2>fj
+A.S. = reccan
+<L>2556<pc>0138-b<k1>fz<k2>fz
+A.S. = regen
+<L>2633<pc>0142-b<k1>enad<k2>enad
+A.S. ān; 
+<L>2850<pc>0153-b<k1>katara<k2>katara
+A.S. hvädher.
+<L>2865<pc>0154-b<k1>kad<k2>kad
+A.S. hvät
+<L>2936<pc>0158-a<k1>kam<k2>kam
+A.S. = gamene
+<L>3080<pc>0167-b<k1>kalama<k2>kalama
+A.S. = haelme
+<L>3177<pc>0173-a<k1>kANkz<k2>kANkz
+A.S. = hungor
+<L>3198<pc>0174-a<k1>kAdamba<k2>kAdamba
+A.S. dūna. 
+<L>3383<pc>0185-a<k1>kAs<k2>kAs
+A.S. = hvosta
+<L>3411<pc>0186-a<k1>kim<k2>kim
+A.S. 
+<L>3568<pc>0195-b<k1>kumBa<k2>kumBa
+A.S. = hipe
+<L>3637<pc>0199-b<k1>kus<k2>kus
+A.S. coss, cyssan
+<L>3653<pc>0200-b<k1>kUj<k2>kUj
+A.S. gaec
+<L>3768<pc>0217-b<k1>ketu<k2>ketu
+A.S. = had
+<L>3920<pc>0225-a<k1>kram<k2>kram
+A.S. scrīdhan.
+<L>3972<pc>0231-b<k1>klap<k2>klap
+A.S. = hreopan
+<L>4093<pc>0239-b<k1>kzuB<k2>kzuB
+A.S. bescufan, contrudere; 
+A.S. = sceofan
+<L>4112<pc>0241-a<k1>kzema<k2>kzema
+A.S. = ham
+<L>4155<pc>0243-a<k1>KaYj<k2>KaYj
+A.S. scanca
+<L>4260<pc>0247-b<k1>KyA<k2>KyA
+A.S. gôd
+<L>4325<pc>0252-b<k1>gaBIra<k2>gaBIra
+A.S. geapan
+<L>4326<pc>0252-b<k1>gam<k2>gam
+A.S. = cuman
+<L>4352<pc>0257-b<k1>garBa<k2>garBa
+A.S. = calf
+<L>4369<pc>0259-a<k1>gala<k2>gala
+A.S. ceolr, 
+<L>4504<pc>0267-a<k1>guru<k2>guru
+A.S. caru, 
+<L>4562<pc>0270-b<k1>gF<k2>gF
+A.S. georn, 
+<L>4635<pc>0275-b<k1>grah<k2>grah
+A.S. = craft
+A.S. gripan, 
+<L>4704<pc>0283-a<k1>Garma<k2>Garma
+A.S. = wearm
+<L>4707<pc>0283-a<k1>Gas<k2>Gas
+A.S. = gest
+<L>4748<pc>0285-b<k1>Gfz<k2>Gfz
+A.S., hrinan
+<L>4786<pc>0288-b<k1>cakz<k2>cakz
+A.S. = sean
+A.S. saegan, 
+<L>4818<pc>0290-b<k1>catur<k2>catur
+A.S. = feower
+<L>4824<pc>0291-a<k1>caturTa<k2>caturTa
+A.S. = feordh
+<L>4844<pc>0292-a<k1>catuzpAd<k2>catuzpAd
+A.S. feower-fed.
+<L>4965<pc>0302-a<k1>ci<k2>ci
+A.S. hebban, thu hefest; 
+<L>5059<pc>0308-b<k1>cud<k2>cud
+A.S. sceótan; 
+A.S. = geotan
+<L>5087<pc>0310-b<k1>cUz<k2>cUz
+A.S. súcan; 
+<L>5135<pc>0313-a<k1>cyu<k2>cyu
+A.S. scur, 
+A.S. spëovan; 
+A.S. = spaedan
+<L>5175<pc>0316-a<k1>Cavi<k2>Cavi
+A.S. = sceone
+<L>5189<pc>0316-b<k1>Cid<k2>Cid
+A.S. steádan; 
+<L>5244<pc>0320-b<k1>jaqa<k2>jaqa
+A.S. = ceald
+<L>5250<pc>0321-a<k1>jan<k2>jan
+A.S. = cyn
+A.S. = cild
+<L>5252<pc>0323-a<k1>janaka<k2>janaka
+A.S. cyning
+<L>5276<pc>0324-b<k1>jaB<k2>jaB
+A.S. geapan
+<L>5284<pc>0325-a<k1>jamBa<k2>jamBa
+A.S. = geaflas
+<L>5348<pc>0328-a<k1>jAgf<k2>jAgf
+A.S. wácian; 
+A.S. = waccor
+<L>5358<pc>0329-a<k1>jAti<k2>jAti
+A.S. = cynd
+<L>5371<pc>0330-a<k1>jAni<k2>jAni
+A.S. cwen, 
+<L>5372<pc>0330-a<k1>jAnu<k2>jAnu
+A.S. = cneow
+<L>5438<pc>0334-a<k1>jihva<k2>jihva
+A.S. = tunge
+<L>5445<pc>0334-a<k1>jIv<k2>jIv
+A.S. = cwic
+<L>5469<pc>0336-a<k1>juz<k2>juz
+A.S. ceosan, also cyssan; 
+<L>5483<pc>0337-b<k1>jF<k2>jF
+A.S. cweorn, cwyrn.
+<L>5501<pc>0338-b<k1>jYA<k2>jYA
+A.S. cnáwan.
+<L>5549<pc>0342-b<k1>jval<k2>jval
+A.S. = cwellan
+A.S. wellian, 
+A.S. weall 
+<L>5625<pc>0346-b<k1>takz<k2>takz
+A.S. thixl, thisl; 
+<L>5667<pc>0349-a<k1>tad<k2>tad
+A.S. se, seo, thaet.
+<L>5675<pc>0349-b<k1>tan<k2>tan
+A.S. = thenian
+<L>5676<pc>0350-a<k1>tan<k2>tan
+A.S. = thunor
+<L>5679<pc>0350-b<k1>tanu<k2>tanu
+A.S. = thyn
+<L>5710<pc>0352-b<k1>tap<k2>tap
+A.S. tháfian 
+<L>5728<pc>0355-a<k1>tamas<k2>tamas
+A.S. dim thystre; 
+<L>5773<pc>0357-b<k1>tarj<k2>tarj
+A.S. threagan 
+<L>5867<pc>0363-a<k1>tij<k2>tij
+A.S. stician
+<L>5905<pc>0364-b<k1>tiryaYc<k2>tiryaYc
+A.S. = thurh
+<L>5936<pc>0366-a<k1>tu<k2>tu
+A.S. theod
+<L>5955<pc>0367-a<k1>tud<k2>tud
+A.S. a-stin- tan
+<L>5979<pc>0368-b<k1>tul<k2>tul
+A.S. tholian, thyldian, athylgian.
+<L>6021<pc>0370-b<k1>tfRa<k2>tfRa
+A.S. = thorn
+<L>6027<pc>0370-b<k1>tftIya<k2>tftIya
+A.S. = thridda
+<L>6032<pc>0371-a<k1>tfp<k2>tfp
+A.S. = thearf
+<L>6036<pc>0371-b<k1>tfz<k2>tfz
+A.S. = thurst
+A.S. = thyrr
+<L>6074<pc>0374-a<k1>toka<k2>toka
+A.S. thegn, thegen, 
+A.S. theowa-man.
+<L>6113<pc>0376-b<k1>trap<k2>trap
+A.S. drifan (Caus.).
+<L>6214<pc>0381-a<k1>tvar<k2>tvar
+A.S. a-thwerian 
+<L>6232<pc>0382-b<k1>daMS<k2>daMS
+A.S. = taeher
+A.S. = tang
+<L>6277<pc>0385-b<k1>danta<k2>danta
+A.S. = todh
+<L>6292<pc>0386-b<k1>dam<k2>dam
+A.S. tam, tamian; 
+<L>6300<pc>0387-a<k1>dampati<k2>dampati
+A.S. timber, timbrian.
+<L>6323<pc>0388-a<k1>darBa<k2>darBa
+A.S. = turf
+<L>6346<pc>0390-a<k1>daSan<k2>daSan
+A.S. tên, -tig; 
+<L>6363<pc>0391-a<k1>dah<k2>dah
+A.S. = daeg
+<L>6473<pc>0399-b<k1>div<k2>div
+A.S. tiwes daeg.
+<L>6494<pc>0400-b<k1>diS<k2>diS
+A.S. tihian, tihhan, 
+A.S. = taecan
+A.S. tácn, tácen, taecan'; 
+A.S. = tiid
+<L>6500<pc>0402-b<k1>dih<k2>dih
+A.S. tigel, tigul; 
+A.S. díc, deag.
+<L>6619<pc>0409-b<k1>duh<k2>duh
+A.S. teon, teoge, 
+<L>6622<pc>0410-a<k1>duhitf<k2>duhitf
+A.S. = dohtor
+<L>6644<pc>0411-b<k1>df<k2>df
+A.S. dyre, deorling, draed, dread.
+<L>6652<pc>0412-a<k1>dfti<k2>dfti
+A.S. teld, tentorium.
+<L>6662<pc>0413-a<k1>anu<k2>anu
+A.S. = torht
+<L>6675<pc>0414-b<k1>dF<k2>dF
+A.S. téran, torn, tirian; 
+A.S. tale, zāla, dolus, 
+A.S. = tellan
+<L>6696<pc>0416-b<k1>devf<k2>devf
+A.S. tacur, tacor.
+<L>6822<pc>0423-a<k1>drAK<k2>drAK
+A.S. drig, dryg, drí.
+<L>6830<pc>0423-a<k1>dru<k2>dru
+A.S. driopan 
+A.S. = dropa
+<L>6832<pc>0424-a<k1>dru<k2>dru
+A.S. = tre
+<L>6867<pc>0426-b<k1>dvAra<k2>dvAra
+A.S. duru, dyr.
+<L>6873<pc>0426-b<k1>dvi<k2>dvi
+A.S. tvá, twi-, tweogan; 
+<L>6982<pc>0433-b<k1>DA<k2>DA
+A.S. dón , dema , dóm .
+<L>6998<pc>0439-a<k1>DAman<k2>DAman
+A.S.-dóm, 
+<L>7014<pc>0441-a<k1>DAv<k2>DAv
+A.S. = deaw
+<L>7077<pc>0445-b<k1>Df<k2>Df
+A.S. dragan, dreogan; 
+<L>7085<pc>0447-b<k1>Dfz<k2>Dfz
+A.S. dear, thu dearst, thu dors test, dyrstig
+<L>7097<pc>0448-b<k1>DmA<k2>DmA
+A.S. = dust
+<L>7108<pc>0450-a<k1>DraR<k2>DraR
+A.S. dran, a drone.
+<L>7117<pc>0450-b<k1>Druva<k2>Druva
+A.S. treowe, for-truwian; 
+<L>7121<pc>0450-b<k1>DvaMs<k2>DvaMs
+A.S. = weste
+A.S. dreosan, dysi, dyselic, dysig, dysian.
+<L>7133<pc>0452-a<k1>Dvan<k2>Dvan
+A.S. dynan, dyne.
+<L>7141<pc>0452-b<k1>Dvf<k2>Dvf
+A.S. = thwer
+A.S. thweorh, thwir, thwur; 
+A.S. dwelian, dol, dweorg, for-dwilman; 
+<L>7143<pc>0452-b<k1>na<k2>na
+A.S. ná; 
+<L>7149<pc>0452-b<k1>nakta<k2>nakta
+A.S. naht, niht;  
+<L>7160<pc>0453-a<k1>naKa<k2>naKa
+A.S. = naegel
+<L>7170<pc>0453-b<k1>nagna<k2>nagna
+A.S. nacud, nacod. genacian; 
+<L>7200<pc>0456-b<k1>napAt<k2>napAt
+A.S. = nefa
+<L>7209<pc>0457-a<k1>naBas<k2>naBas
+A.S. ge-nip, a cloud.
+<L>7212<pc>0457-a<k1>nam<k2>nam
+A.S. niman 
+A.S. ge -nedhan 
+<L>7248<pc>0460-b<k1>nava<k2>nava
+A.S. niwe, neow, niwa.
+<L>7258<pc>0461-a<k1>navan<k2>navan
+A.S. = nigan
+<L>7282<pc>0462-b<k1>nah<k2>nah
+A.S. = naedl
+A.S. = neah
+<L>7323<pc>0466-a<k1>nABI<k2>nABI
+A.S. nafu, nafela;  
+<L>7331<pc>0466-b<k1>nAman<k2>nAman
+A.S. nama, nemnan.
+<L>7363<pc>0468-b<k1>nAsA<k2>nAsA
+A.S. = nase
+<L>7371<pc>0469-a<k1>ni<k2>ni
+A.S. in, nidhan, 
+<L>7440<pc>0472-a<k1>nitarAm<k2>nitarAm
+A.S. = nidher
+<L>7447<pc>0472-b<k1>nid<k2>nid
+A.S. naetan, naeting
+A.S. nidh, ge-nidhle (hatred).
+<L>7782<pc>0490-a<k1>nIqa<k2>nIqa
+A.S. = nest
+<L>7806<pc>0491-a<k1>nu<k2>nu
+A.S. = nu
+<L>7810<pc>0491-b<k1>nud<k2>nud
+A.S. nydian , a-nydan 
+A.S. niótan
+<L>7841<pc>0493-b<k1>nedizWa<k2>nedizWa
+A.S. neah
+<L>7897<pc>0496-a<k1>nO<k2>nO
+A.S. = naca
+<L>7931<pc>0498-a<k1>pakzin<k2>pakzin
+A.S. = fugul
+<L>8048<pc>0508-a<k1>patra<k2>patra
+A.S. = feher
+<L>8054<pc>0508-b<k1>paTa<k2>paTa
+A.S. = padh
+<L>8058<pc>0509-a<k1>pad<k2>pad
+A.S. = findan
+<L>8136<pc>0516-b<k1>parA<k2>parA
+A.S. = for
+<L>8457<pc>0531-a<k1>parRa<k2>parRa
+A.S. = fearn
+<L>8500<pc>0533-a<k1>pal<k2>pal
+A.S. = feallan
+<L>8511<pc>0533-b<k1>palita<k2>palita
+A.S. fealo, falu, fealwe, falewe.
+<L>8519<pc>0534-a<k1>palvala<k2>palvala
+A.S. pol, pool.
+<L>8530<pc>0534-b<k1>paS<k2>paS
+A.S. fón feng; 
+A.S. = fegan
+A.S. ge-fegan; 
+<L>8532<pc>0535-a<k1>paSu<k2>paSu
+A.S. = feoh
+<L>8547<pc>0536-b<k1>pA<k2>pA
+A.S. = foda
+<L>8631<pc>0541-a<k1>pAda<k2>pAda
+A.S. fót.
+<L>8753<pc>0547-a<k1>pArzRi<k2>pArzRi
+A.S. = fiersna
+<L>8824<pc>0551-b<k1>pitf<k2>pitf
+A.S. = faeder
+<L>8860<pc>0553-a<k1>piS<k2>piS
+A.S. faeger, fah, fag, fagian.
+<L>8979<pc>0560-b<k1>purA<k2>purA
+A.S. for, fora-, fore-; 
+<L>8991<pc>0561-b<k1>puru<k2>puru
+A.S. fela, feala
+<L>9060<pc>0566-a<k1>pU<k2>pU
+A.S. fyr, 
+<L>9078<pc>0567-b<k1>pUy<k2>pUy
+A.S. fúl;   ,  ;
+<L>9121<pc>0570-a<k1>pf<k2>pf
+A.S. = faran
+A.S. = fyrd
+<L>9125<pc>0570-a<k1>pfc<k2>pfc
+A.S. = folgian
+<L>9146<pc>0571-a<k1>pfTu<k2>pfTu
+A.S. brád;  
+<L>9172<pc>0572-b<k1>pF<k2>pF
+A.S. full {%= pūrṇa;%} 
+A.S. = fyllan
+<L>9294<pc>0579-a<k1>pyE<k2>pyE
+A.S. faett
+<L>9295<pc>0579-a<k1>pra<k2>pra
+A.S. = form
+<L>9407<pc>0584-b<k1>praC<k2>praC
+A.S. = fregnan
+<L>10086<pc>0617-b<k1>prI<k2>prI
+A.S. fréfrian, freónd, freo, frio, frige, fridh.
+<L>10087<pc>0618-a<k1>prIti<k2>prIti
+A.S. fridh, fredho; 
+<L>10143<pc>0620-b<k1>plu<k2>plu
+A.S. = fleot
+A.S. fleowan, aet-flowan, fleotan; 
+A.S. flód, also fleógan, fliógan, fleón,
+<L>10161<pc>0622-a<k1>Pal<k2>Pal
+A.S. = blowan
+A.S. bloma, blostma.
+<L>10188<pc>0624-b<k1>Pena<k2>Pena
+A.S. fam, foeman; 
+<L>10219<pc>0625-b<k1>banD<k2>banD
+A.S. bonda, baend, baest; 
+A.S. = faest
+<L>10226<pc>0627-b<k1>banDura<k2>banDura
+A.S. ben-dan.
+<L>10332<pc>0634-a<k1>buD<k2>buD
+A.S. bytne, botm;  
+A.S. beodan, boda, bodian, bodare
+<L>10335<pc>0635-a<k1>buDna<k2>buDna
+A.S. bytne
+<L>10348<pc>0635-b<k1>bfhant<k2>bfhant
+A.S. = beorh
+<L>10409<pc>0640-b<k1>Baj<k2>Baj
+A.S. = bacan
+<L>10411<pc>0641-a<k1>BaYj<k2>BaYj
+A.S. bracan, brecan;  
+<L>10427<pc>0642-a<k1>Badra<k2>Badra
+A.S. = bet
+A.S. bót; 
+<L>10435<pc>0643-a<k1>Bara<k2>Bara
+A.S. -bora.
+<L>10449<pc>0644-a<k1>Bargas<k2>Bargas
+A.S. baelch, superbia.
+<L>10522<pc>0648-b<k1>BAma<k2>BAma
+A.S. beam, beamian
+<L>10550<pc>0651-a<k1>BAz<k2>BAz
+A.S. bannan, abannan.
+<L>10577<pc>0653-a<k1>Bid<k2>Bid
+A.S. bitan  batan
+A.S. = biter
+<L>10592<pc>0654-b<k1>BI<k2>BI
+A.S. bifian, beofian 
+<L>10608<pc>0656-a<k1>Buj<k2>Buj
+A.S. bigan, búgan; 
+A.S. boág, beagrian; 
+A.S. bóga; 
+A.S. elnboga, elboga; 
+A.S. bi-bugan,
+<L>10609<pc>0656-a<k1>Buj<k2>Buj
+A.S. byegan, 
+A.S. brúcan, bryce.
+<L>10630<pc>0657-b<k1>BU<k2>BU
+A.S. beón, beó, bist, ; 
+A.S. búan, bur; 
+<L>10656<pc>0664-b<k1>BUrja<k2>BUrja
+A.S. byre, birce.
+<L>10664<pc>0664-b<k1>Bf<k2>Bf
+A.S. = bearm
+A.S. = bearn
+A.S. = bringan
+<L>10678<pc>0666-a<k1>Bfti<k2>Bfti
+A.S. = beordh
+<L>10729<pc>0669-a<k1>BraMS<k2>BraMS
+A.S. hreósan reosan, 
+A.S. arisan, 
+<L>10736<pc>0670-a<k1>Brajj<k2>Brajj
+A.S. = briwan
+<L>10739<pc>0670-a<k1>Bram<k2>Bram
+A.S. = bremman
+<L>10746<pc>0671-a<k1>BrAj<k2>BrAj
+A.S. bearht, beorht; 
+A.S. blác, blaecan, blícan.
+<L>10749<pc>0671-a<k1>BrAtf<k2>BrAtf
+A.S. bródhor.
+<L>10765<pc>0672-a<k1>BrU<k2>BrU
+A.S. = bracw
+<L>10788<pc>0673-a<k1>makzikA<k2>makzikA
+A.S. = micge
+<L>10791<pc>0673-a<k1>maKa<k2>maKa
+A.S. méce;
+<L>10812<pc>0674-b<k1>majjan<k2>majjan
+A.S. mearh, mearg, merg
+<L>10859<pc>0677-b<k1>mati<k2>mati
+A.S. mod, ge-mynd
+<L>10874<pc>0679-a<k1>mad<k2>mad
+A.S. = maete
+A.S. maetan, 
+<L>10893<pc>0680-b<k1>maDu<k2>maDu
+A.S. medu, medo.
+<L>10910<pc>0681-b<k1>maDya<k2>maDya
+A.S. midd, ge-midlian; 
+A.S. mis-; 
+<L>10914<pc>0682-a<k1>maDyama<k2>maDyama
+A.S. = medeme
+<L>10920<pc>0682-b<k1>man<k2>man
+A.S. ma- nian, monian, ge-munan, mudh.
+<L>10936<pc>0684-b<k1>manuzya<k2>manuzya
+A.S. men- nesc, mennisc.
+<L>10938<pc>0685-a<k1>manus<k2>manus
+A.S. man, mann; 
+<L>11013<pc>0689-a<k1>maru<k2>maru
+A.S. mór.
+<L>11047<pc>0691-a<k1>mala<k2>mala
+A.S. smere, smerian, smer- wian, smyrian.
+<L>11087<pc>0692-b<k1>mah<k2>mah
+A.S. = magan
+A.S. mact, meaht, miht; 
+A.S. maegn, meagn
+A.S. mag, maeg, maegen, macian; 
+A.S. = maegdh
+A.S. = macian
+<L>11090<pc>0693-a<k1>mahant<k2>mahant
+A.S. meagol, micel, micyl, 
+A.S. ma, mae; 
+A.S. maest, maegeste.
+<L>11119<pc>0694-b<k1>mA<k2>mA
+A.S. metan, maedhian.
+<L>11161<pc>0697-a<k1>mAtf<k2>mAtf
+A.S. móder.
+<L>11275<pc>0705-b<k1>mAsa<k2>mAsa
+A.S. = mona
+A.S. = monadh
+<L>11317<pc>0707-b<k1>miSra<k2>miSra
+A.S. miscan; 
+<L>11324<pc>0708-a<k1>mih<k2>mih
+A.S. mígan; 
+A.S. meox, miox, mist;  
+<L>11418<pc>0716-a<k1>muzwi<k2>muzwi
+A.S. = fyst
+<L>11468<pc>0719-b<k1>mUza<k2>mUza
+A.S. mūs.
+<L>11471<pc>0720-a<k1>mf<k2>mf
+A.S. mórdher, myrdhra, a-myrdran, mordh,
+<L>11487<pc>0721-a<k1>mfj<k2>mfj
+A.S. meoluc, meolc, melcan; 
+A.S. mearc, mearcian, gemearc.
+<L>11510<pc>0722-a<k1>mfd<k2>mfd
+A.S. = malt
+A.S. meltan, miltan; 
+A.S. = smeortan
+A.S. smilt, smylt, smolt;  
+<L>11514<pc>0722-b<k1>mfdA<k2>mfdA
+A.S. = molde
+<L>11517<pc>0723-a<k1>mfdu<k2>mfdu
+A.S. = mild
+<L>11522<pc>0723-a<k1>mfD<k2>mfD
+A.S. mórdher, mórdhor; 
+<L>11527<pc>0723-b<k1>mfz<k2>mfz
+A.S. = myrran
+<L>11534<pc>0724-a<k1>me<k2>me
+A.S. = madhm
+A.S. maene, mán, ge-maene; 
+<L>11655<pc>0730-a<k1>yakft<k2>yakft
+A.S. = lifer
+<L>11711<pc>0735-a<k1>yam<k2>yam
+A.S. adh, adhum; 
+<L>11739<pc>0737-b<k1>yaSas<k2>yaSas
+A.S. ta, tah; 
+<L>11782<pc>0742-a<k1>yAmAtf<k2>yAmAtf
+A.S. adhum, derived from the same verb.
+<L>11807<pc>0744-a<k1>yuga<k2>yuga
+A.S. ioc, iuc, geóc;
+<L>11809<pc>0744-a<k1>yugapad<k2>yugapad
+A.S. geoc, rash, prae- ceps.
+<L>11817<pc>0744-b<k1>yuj<k2>yuj
+A.S. geo- can, geóce, help. -- Cf. {%yuga.%}
+<L>11837<pc>0748-a<k1>yuvan<k2>yuvan
+A.S. iong, iung, geong, geogudh.
+<L>11838<pc>0748-b<k1>yuzmad<k2>yuzmad
+A.S. thu, gyt, eow.
+<L>11920<pc>0754-a<k1>rac<k2>rac
+A.S. logian, 
+A.S. = loh
+<L>11935<pc>0755-a<k1>rajju<k2>rajju
+A.S. = streccan
+<L>11938<pc>0755-b<k1>raYj<k2>raYj
+A.S. ge-reg- nian, to colour.
+<L>11958<pc>0757-a<k1>raTa<k2>raTa
+A.S. 
+A.S. = lidh
+<L>11971<pc>0758-a<k1>rad<k2>rad
+A.S. laetan 
+<L>11975<pc>0758-b<k1>raD<k2>raD
+A.S. rendan, 
+<L>11982<pc>0758-b<k1>raB<k2>raB
+A.S. earfedh, earfodh; 
+A.S. leofian, lifian, lybban; 
+A.S. a-re- fian, a-raefnan
+<L>11985<pc>0759-b<k1>ram<k2>ram
+A.S. rest, restan; 
+<L>12008<pc>0761-b<k1>ras<k2>ras
+A.S. = rarian
+<L>12023<pc>0763-a<k1>rah<k2>rah
+A.S. lecgan, licgan.
+<L>12107<pc>0769-b<k1>ric<k2>ric
+A.S. lyfan, be-lifan, laefan, 
+A.S. laen, laenan.
+<L>12126<pc>0770-b<k1>rI<k2>rI
+A.S. rinnan 
+<L>12131<pc>0771-a<k1>ru<k2>ru
+A.S. = ryn
+<L>12136<pc>0771-b<k1>rukza<k2>rukza
+A.S. rug, ruh, ruw; 
+<L>12139<pc>0771-b<k1>ruc<k2>ruc
+A.S. leóma, luna; 
+A.S. leoht, lioht, gelihtan, lócian
+<L>12158<pc>0773-a<k1>rud<k2>rud
+A.S. = reotan
+<L>12163<pc>0774-b<k1>ruDira<k2>ruDira
+A.S. reád, roder;   
+<L>12174<pc>0775-a<k1>ruh<k2>ruh
+A.S. leód, liód, 
+<L>12244<pc>0781-a<k1>romanTa<k2>romanTa
+A.S. = roccettan
+<L>12296<pc>0785-a<k1>laGu<k2>laGu
+A.S. līht.
+<L>12308<pc>0786-a<k1>laNG<k2>laNG
+A.S. lang, ; 
+<L>12340<pc>0789-a<k1>lamb<k2>lamb
+A.S. limpian, ge-limp; 
+<L>12378<pc>0791-b<k1>laz<k2>laz
+A.S. lust, lyst, lystan.
+<L>12429<pc>0794-b<k1>liNg<k2>liNg
+A.S. = hring
+<L>12434<pc>0795-a<k1>lip<k2>lip
+A.S. = sealf
+<L>12443<pc>0796-a<k1>lih<k2>lih
+A.S. = liccian
+<L>12445<pc>0796-a<k1>lI<k2>lI
+A.S. líme, 
+A.S. lám, po-līre, linere; 
+<L>12450<pc>0797-a<k1>luYc<k2>luYc
+A.S. lyccan, evellere; 
+<L>12467<pc>0798-b<k1>lup<k2>lup
+A.S. reaf, reafian; 
+<L>12470<pc>0799-a<k1>luB<k2>luB
+A.S. leóf, lyfan, lufian, lóf, leaf, left.
+<L>12476<pc>0799-b<k1>lU<k2>lU
+A.S. leosan, lysan, leás, los.
+<L>12574<pc>0805-a<k1>vakz<k2>vakz
+A.S. = weaxan
+<L>12580<pc>0805-b<k1>vaNk<k2>vaNk
+A.S. waeg, ; 
+A.S. woh, wog, wó,  wancol 
+<L>12600<pc>0807-b<k1>vaj<k2>vaj
+A.S. eacan, 
+A.S. wacor, 
+A.S. wácian.
+<L>12601<pc>0807-b<k1>vajra<k2>vajra
+A.S. waecg, wecg, cuneus,
+<L>12672<pc>0811-b<k1>van<k2>van
+A.S. an-winnan,
+<L>12673<pc>0811-b<k1>van<k2>van
+A.S. wyn, ge-wenian; 
+A.S. to-wenan;
+<L>12700<pc>0813-a<k1>vap<k2>vap
+A.S. wíf; 
+A.S. = waepen
+<L>12711<pc>0814-a<k1>vam<k2>vam
+A.S. wemman, maculare.
+<L>12728<pc>0814-b<k1>vara<k2>vara
+A.S. = wel
+A.S. wela, felicitas; 
+<L>12840<pc>0822-b<k1>valg<k2>valg
+A.S. wlaence, pompa.
+<L>12887<pc>0825-a<k1>vas<k2>vas
+A.S. wesan, ed-wist, werig; 
+A.S. = wunian
+<L>12889<pc>0826-a<k1>vas<k2>vas
+A.S. = werian
+<L>12923<pc>0828-a<k1>vah<k2>vah
+A.S. = wegan
+A.S. = waegen
+A.S. weddian, 
+<L>12952<pc>0831-b<k1>vANkz<k2>vANkz
+A.S. = wiscan
+<L>12989<pc>0834-a<k1>vAta<k2>vAta
+A.S. = wind
+A.S. weder 
+<L>12993<pc>0834-a<k1>vAtara<k2>vAtara
+A.S. = winter
+<L>13027<pc>0836-a<k1>vAma<k2>vAma
+A.S. = wynstre
+<L>13139<pc>0843-b<k1>vi<k2>vi
+A.S. = aeg
+<L>13222<pc>0848-a<k1>vic<k2>vic
+A.S. wícan, recedere 
+A.S. = wrixl
+<L>13246<pc>0849-b<k1>vij<k2>vij
+A.S. wi- celian, vacillare, wince
+<L>13306<pc>0852-b<k1>vid<k2>vid
+A.S. wítan; 
+A.S. wíta, gnarus, ge-wit, ge-wittig; 
+A.S. wisian, ge -wis; 
+A.S. witan, imputare, wite, poena, witnian,
+A.S. wítegian;  
+<L>13349<pc>0856-a<k1>viDavA<k2>viDavA
+A.S. wuduwe, m. wuduwa; 
+<L>13848<pc>0885-b<k1>vIra<k2>vIra
+A.S. = wer
+<L>13867<pc>0886-b<k1>vf<k2>vf
+A.S. ware, heed; 
+A.S. wreon,  warian, werian, arcere; 
+A.S. wearne, obsta- culum; 
+A.S. warnian, wearnian, cavere, prohibere; 
+A.S. willan, velle; 
+<L>13872<pc>0888-b<k1>vfka<k2>vfka
+A.S. = wulf
+<L>13881<pc>0889-a<k1>vfj<k2>vfj
+A.S. wealean, wrenc, 
+<L>13886<pc>0889-b<k1>vft<k2>vft
+A.S. = weordhan
+A.S. ward, weard, wyrd; 
+<L>13906<pc>0896-a<k1>vfD<k2>vfD
+A.S. waldan, 
+A.S. = weald
+<L>13938<pc>0898-b<k1>ve<k2>ve
+A.S. waed, vestimentum; 
+A.S. wefan 
+<L>13955<pc>0899-b<k1>vetasa<k2>vetasa
+A.S. = widhig
+<L>13996<pc>0902-b<k1>vell<k2>vell
+A.S. willian, waeltan,
+<L>13999<pc>0903-a<k1>veSa<k2>veSa
+A.S. = wie
+<L>14310<pc>0921-a<k1>vraj<k2>vraj
+A.S. = wrecan
+A.S. = wraecca
+<L>14360<pc>0926-a<k1>Sakuni<k2>Sakuni
+A.S. = hafoe
+<L>14366<pc>0926-b<k1>Sakft<k2>Sakft
+A.S. = scearn
+<L>14379<pc>0927-a<k1>SaNk<k2>SaNk
+A.S. = hangian
+A.S. hige, hyge, hogu, hygian, hyggan, hiegan, hogian; 
+<L>14401<pc>0929-a<k1>SaRa<k2>SaRa
+A.S. haenep 
+<L>14407<pc>0929-b<k1>Sata<k2>Sata
+A.S. = hund
+<L>14423<pc>0930-b<k1>Satru<k2>Satru
+A.S. hate, héte; 
+<L>14441<pc>0931-b<k1>SaPa<k2>SaPa
+A.S. hóf, 
+<L>14488<pc>0935-a<k1>SaraBa<k2>SaraBa
+A.S. = crabba
+<L>14503<pc>0936-a<k1>SarIra<k2>SarIra
+A.S. hold, cadaver.
+<L>14543<pc>0938-b<k1>SaSa<k2>SaSa
+A.S. hara), 
+<L>14551<pc>0939-a<k1>Sas<k2>Sas
+A.S. = husel
+<L>14593<pc>0941-a<k1>SAna<k2>SAna
+A.S. haenan, lapidare.
+<L>14628<pc>0943-a<k1>SAla<k2>SAla
+A.S. heal, 
+<L>14700<pc>0948-a<k1>Siras<k2>Siras
+A.S. = haernes
+<L>14734<pc>0951-a<k1>SI<k2>SI
+A.S. hiwa, familia; 
+A.S. ham, haeman 
+<L>14740<pc>0952-a<k1>SIGra<k2>SIGra
+A.S. higian, 
+<L>14752<pc>0952-b<k1>SIrza<k2>SIrza
+A.S. = hals
+<L>14775<pc>0954-a<k1>Suc<k2>Suc
+A.S. heaf, heofian; 
+<L>14812<pc>0957-a<k1>SumB<k2>SumB
+A.S. camb: 
+<L>14821<pc>0957-b<k1>Suz<k2>Suz
+A.S. seoc, seac, sioc, sic; 
+<L>14860<pc>0960-a<k1>SfNga<k2>SfNga
+A.S. = horn
+<L>14870<pc>0961-a<k1>SF<k2>SF
+A.S. = hyrt
+A.S. = horn
+A.S. heorot, heort;
+<L>14906<pc>0963-b<k1>So<k2>So
+A.S. = acas
+A.S. hwettan 
+<L>14949<pc>0966-a<k1>Scut<k2>Scut
+A.S. = scur
+<L>14951<pc>0966-a<k1>SnaT<k2>SnaT
+A.S. = snidhan
+<L>14974<pc>0967-b<k1>SraT<k2>SraT
+A.S. = hlaest
+<L>14985<pc>0968-a<k1>Sram<k2>Sram
+A.S. hearm
+<L>14998<pc>0969-a<k1>SrA<k2>SrA
+A.S. heordh, hláf, haerefaest, haerfest
+<L>15008<pc>0970-a<k1>Sri<k2>Sri
+A.S. = hold
+A.S. hál; 
+A.S. hlynian, hlidh.
+<L>15019<pc>0972-a<k1>Sru<k2>Sru
+A.S. hlúd, hlyd, hlowan , hlyn, hlyrian, hliosa, hlyst,
+<L>15044<pc>0974-b<k1>Srotra<k2>Srotra
+A.S. hleo- dhor.
+<L>15083<pc>0976-b<k1>Svan<k2>Svan
+A.S. = hund
+<L>15097<pc>0977-a<k1>SvaSura<k2>SvaSura
+A.S. sweger, sweor; 
+<L>15101<pc>0977-a<k1>Svas<k2>Svas
+A.S. hweosan, difficulter respi- rare, hysian, hyst, gist.
+<L>15110<pc>0978-b<k1>Svi<k2>Svi
+A.S. = hol
+<L>15114<pc>0979-a<k1>Svind<k2>Svind
+A.S. hvít; 
+A.S. = hvaete
+A.S. = hat
+<L>15129<pc>0979-b<k1>zaz<k2>zaz
+A.S. scox, six, sex. 
+<L>15136<pc>0980-a<k1>zazWa<k2>zazWa
+A.S. = sixta
+<L>15151<pc>0981-a<k1>zWiv<k2>zWiv
+A.S. spíwan; 
+<L>15154<pc>0981-a<k1>sa<k2>sa
+A.S. se, sco. 
+<L>15422<pc>0998-b<k1>satya<k2>satya
+A.S. for-sodh, Forsooth.
+<L>15435<pc>0999-a<k1>sad<k2>sad
+A.S. in-sidhian, 
+A.S. on-settan, sittan; 
+A.S. sadl, sadel; 
+<L>15458<pc>1001-b<k1>sanA<k2>sanA
+A.S. = sin
+<L>15543<pc>1007-a<k1>saptan<k2>saptan
+A.S. = seofon
+<L>15557<pc>1007-b<k1>saBya<k2>saBya
+A.S. sib, sibbe, ge-sib; 
+<L>15561<pc>1008-a<k1>sama<k2>sama
+A.S. somne, samne; 
+A.S. sámod; 
+A.S. sum, quidam; 
+<L>15808<pc>1022-a<k1>sara<k2>sara
+A.S. = sealt
+A.S. = siringie
+<L>15822<pc>1022-b<k1>saras<k2>saras
+A.S. = sirendae
+<L>15920<pc>1028-a<k1>sahas<k2>sahas
+A.S. sigor, sige.
+<L>15940<pc>1029-b<k1>sahya<k2>sahya
+A.S. = sund
+<L>15992<pc>1032-a<k1>sAD<k2>sAD
+A.S. = sendan
+<L>16048<pc>1037-a<k1>sAmi<k2>sAmi
+A.S. sām-, 
+A.S. sām-cuce; 
+<L>16069<pc>1038-a<k1>sAra<k2>sAra
+A.S. sel, sael.
+<L>16128<pc>1042-a<k1>si<k2>si
+A.S. sal, laqueus, sael, saelan, sieran, syrwan; 
+A.S. sad, laqueus.
+<L>16169<pc>1046-a<k1>siv<k2>siv
+A.S. = siwian
+A.S. seam, limbus;
+<L>16189<pc>1047-a<k1>su<k2>su
+A.S. sunu 
+<L>16277<pc>1051-b<k1>sUkara<k2>sUkara
+A.S. = sugu
+A.S. = swin
+<L>16313<pc>1054-a<k1>sUnu<k2>sUnu
+A.S. = sunu
+<L>16317<pc>1054-b<k1>sUpa<k2>sUpa
+A.S. = supan
+<L>16332<pc>1055-a<k1>sUrya<k2>sUrya
+A.S. sunna, sunne, sun.
+<L>16337<pc>1055-b<k1>sf<k2>sf
+A.S. saltian, 
+A.S. serian, 
+<L>16348<pc>1058-a<k1>sfp<k2>sfp
+A.S. = slipan
+<L>16492<pc>1066-b<k1>skanDa<k2>skanDa
+A.S. sculdor, sculder; 
+<L>16498<pc>1067-a<k1>skamB<k2>skamB
+A.S. scapen, sceápan, sceaft; 
+<L>16499<pc>1067-b<k1>sku<k2>sku
+A.S. scuva, umbra; 
+A.S. scoh, sceo; 
+A.S. scúnian; 
+A.S. scawian, sceawian, 
+<L>16503<pc>1067-b<k1>sKal<k2>sKal
+A.S. sceal, sculan, scyld; 
+<L>16507<pc>1068-a<k1>stan<k2>stan
+A.S. = thunor
+<L>16518<pc>1068-b<k1>stamba<k2>stamba
+A.S. stapel, 
+<L>16522<pc>1069-a<k1>stamB<k2>stamB
+A.S. stemn 
+<L>16523<pc>1069-b<k1>stamBa<k2>stamBa
+A.S. steb, 
+<L>16534<pc>1070-b<k1>stiG<k2>stiG
+A.S. stigan, staeger,
+A.S. = sticol
+<L>16547<pc>1071-b<k1>stumB<k2>stumB
+A.S. = stypel
+A.S. = dumb
+<L>16550<pc>1071-b<k1>stf<k2>stf
+A.S. stearm, storm; strene, lectus; 
+A.S. streowian, sternere; 
+A.S. strion, thesaurus, strionan; 
+A.S. stear- fian, steorfan, mori; strec; 
+A.S. streccan, a-stregdan, a -strican, probably stregan, stredan; ge
+<L>16552<pc>1072-a<k1>stf<k2>stf
+A.S. = steorra
+<L>16557<pc>1072-a<k1>stena<k2>stena
+A.S. stelan, stal, stalian, stalu.
+<L>16581<pc>1073-b<k1>sTag<k2>sTag
+A.S. theccan, thaca.
+<L>16592<pc>1074-a<k1>sTala<k2>sTala
+A.S. stal, stael; 
+A.S. stillan, stille.
+<L>16600<pc>1074-b<k1>sTA<k2>sTA
+A.S. standan 
+A.S. stidh, stand, cu- pellus; stadhelian; 
+A.S. studu, postis; 
+A.S. = stund
+A.S. staef , stif, stifian 
+A.S. stow, 
+<L>16627<pc>1080-b<k1>sTira<k2>sTira
+A.S. = starian
+A.S. = starc
+<L>16633<pc>1081-b<k1>sTUrin<k2>sTUrin
+A.S. = steor
+A.S. = stor
+<L>16649<pc>1082-a<k1>snA<k2>snA
+A.S. naeddre, nedre; 
+<L>16658<pc>1083-a<k1>snAva<k2>snAva
+A.S. sinu, sinw, senw.
+<L>16662<pc>1083-b<k1>snu<k2>snu
+A.S. = snytan
+A.S. = sneome
+<L>16665<pc>1083-b<k1>snuzA<k2>snuzA
+A.S. snóru; 
+<L>16682<pc>1084-b<k1>sparD<k2>sparD
+A.S. = spyrd
+A.S. flit, ge-flit, strife;
+<L>16722<pc>1087-a<k1>sPAy<k2>sPAy
+A.S. = spanan
+A.S. = spinnan
+A.S. spówan  spédan; 
+<L>16726<pc>1087-b<k1>sPic<k2>sPic
+A.S. spic 
+<L>16743<pc>1088-b<k1>sPur<k2>sPur
+A.S. = spura
+<L>16747<pc>1089-a<k1>sPurj<k2>sPurj
+A.S. = sprecan
+<L>16748<pc>1089-a<k1>sPul<k2>sPul
+A.S. = feallan
+<L>16770<pc>1090-b<k1>smi<k2>smi
+A.S. smaerc, smirk;  
+<L>16773<pc>1091-a<k1>smf<k2>smf
+A.S. maelan, mal, ge-maered, maerdh, 
+A.S. = murnan
+<L>16808<pc>1093-a<k1>sriD<k2>sriD
+A.S. = stridh
+<L>16812<pc>1093-a<k1>sru<k2>sru
+A.S. streám; 
+<L>16826<pc>1094-a<k1>sva<k2>sva
+A.S. = swa
+<L>16842<pc>1095-a<k1>svAd<k2>svAd
+A.S. swaesend,
+<L>16844<pc>1095-a<k1>svaDA<k2>svaDA
+A.S. sidu, siodo; .
+<L>16852<pc>1096-a<k1>svap<k2>svap
+A.S. = swefian
+A.S. slápan.
+<L>16855<pc>1096-a<k1>svapna<k2>svapna
+A.S. = swefn
+<L>16888<pc>1097-b<k1>svasf<k2>svasf
+A.S. sweoster, swuster, syster; 
+<L>16906<pc>1098-b<k1>svAdu<k2>svAdu
+A.S. swét, swaes; 
+<L>16927<pc>1100-a<k1>svid<k2>svid
+A.S. = swaetan
+<L>16934<pc>1100-b<k1>svf<k2>svf
+A.S. swaran, swe- rian, -swar, 
+<L>16938<pc>1100-b<k1>sveda<k2>sveda
+A.S. swát.
+<L>16944<pc>1101-a<k1>ha<k2>ha
+A.S. ge-; 
+<L>16947<pc>1101-b<k1>haMsa<k2>haMsa
+A.S. gós, gandra; 
+<L>16965<pc>1102-a<k1>hati<k2>hati
+A.S. = dynt
+<L>16969<pc>1102-b<k1>had<k2>had
+A.S. = scitan
+<L>16970<pc>1102-b<k1>han<k2>han
+A.S. deád, deadh; dydan
+A.S. beado, battle; bytl
+A.S. a-ginnan.
+<L>16974<pc>1105-a<k1>hanu<k2>hanu
+A.S. goma, the jaws
+A.S. cinn, cyn.
+<L>16991<pc>1106-a<k1>hari<k2>hari
+A.S. = growan
+A.S. groen, grene; geal, gealla; 
+<L>16996<pc>1106-b<k1>harit<k2>harit
+A.S. gold 
+A.S. = graes
+<L>17016<pc>1107-b<k1>hary<k2>hary
+A.S. gal, gagol;
+<L>17052<pc>1109-b<k1>hasta<k2>hasta
+A.S. = hand
+<L>17061<pc>1110-b<k1>hA<k2>hA
+A.S. ginan, cinan, geonan, gynian, ganian.
+<L>17062<pc>1110-b<k1>hA<k2>hA
+A.S. gifan gafol, gaefel, gif; 
+<L>17159<pc>1116-a<k1>hu<k2>hu
+A.S. = geotan
+<L>17185<pc>1117-b<k1>hf<k2>hf
+A.S. georn, avidus, geornian, yearn; 
+<L>17187<pc>1120-a<k1>hfRIya<k2>hfRIya
+A.S. = gealla
+<L>17190<pc>1120-b<k1>hfd<k2>hfd
+A.S. = heorte
+<L>17201<pc>1121-a<k1>hfz<k2>hfz
+A.S. byrst, bristl, forst, frost, gelu; frysan;
+<L>17272<pc>1124-b<k1>hnu<k2>hnu
+A.S. = hnigan
+<L>17274<pc>1125-a<k1>hyas<k2>hyas
+A.S. = gyrstan
+<L>17285<pc>1125-b<k1>hrAd<k2>hrAd
+A.S. = graetan
+<L>17289<pc>1125-b<k1>hrI<k2>hrI
+A.S. hreówan.
+<L>17298<pc>1126-a<k1>hrez<k2>hrez
+A.S. = hors
+<L>17305<pc>1126-a<k1>hlAd<k2>hlAd
+A.S. glaed, glad, gladian; 
+<L>17312<pc>1126-b<k1>hvf<k2>hvf
+A.S. hwearfian (Caus.), hwerfa, hweorfan; hwealf, hwealfa; 
+<L>17313<pc>1126-b<k1>hve<k2>hve
+A.S. hweóp wepan; cygan 

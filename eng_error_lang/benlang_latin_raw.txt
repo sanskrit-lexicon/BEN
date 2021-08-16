@@ -1,0 +1,1342 @@
+<L>8<pc>0001-b<k1>aMsa<k2>aMsa
+Lat. humerus and ansa.
+<L>11<pc>0001-b<k1>aMhas<k2>aMhas
+Lat. angustus, angere, anxius,
+<L>26<pc>0002-b<k1>akza<k2>akza
+Lat. = oculus
+<L>27<pc>0002-b<k1>akza<k2>akza
+Lat. = axis
+<L>43<pc>0003-b<k1>agni<k2>agni
+Lat. = ignis
+<L>76<pc>0005-a<k1>aNka<k2>aNka
+Lat. = uncus
+<L>110<pc>0007-b<k1>aNgulIya<k2>aNgulIya
+Lat. = annulus
+<L>117<pc>0007-b<k1>aj<k2>aj
+Lat. ago, igitur (for agitur); ON. aka.
+<L>133<pc>0008-b<k1>ajman<k2>ajman
+Lat. = agmen
+<L>134<pc>0008-b<k1>ajra<k2>ajra
+Lat. = ager
+<L>138<pc>0008-b<k1>aYj<k2>aYj
+Lat. = unguere
+<L>142<pc>0009-b<k1>aYji<k2>aYji
+Lat. = inguen
+<L>171<pc>0010-b<k1>ati<k2>ati
+Lat. at atavus, and et.
+<L>220<pc>0012-b<k1>aTa<k2>aTa
+Lat. = at
+<L>225<pc>0013-a<k1>ad<k2>ad
+Lat. = edere
+<L>235<pc>0013-b<k1>adya<k2>adya
+Lat. ho-die, 
+<L>246<pc>0014-a<k1>aDama<k2>aDama
+Lat. = infimus
+<L>249<pc>0014-a<k1>aDara<k2>aDara
+Lat. = inferus
+<L>253<pc>0014-b<k1>aDi<k2>aDi
+Lat. = ad
+<L>314<pc>0018-a<k1>an<k2>an
+Lat. in-, Goth. and A.S. un-,  and 
+<L>315<pc>0018-b<k1>an<k2>an
+Lat. animus, ānus (cf. Sskr. {%apāna%}); Goth. uz-ana;
+<L>341<pc>0019-b<k1>anas<k2>anas
+Lat. = onus
+<L>518<pc>0026-b<k1>anta<k2>anta
+Lat. uls instead of ultis; see {%antara, antima.%}
+<L>526<pc>0027-a<k1>antar<k2>antar
+Lat. = inter
+<L>527<pc>0027-b<k1>antara<k2>antara
+Lat. interus, interior, alter, and ulter- ior, ultra (see {%anta%} and {%antima%}); Goth.
+<L>544<pc>0028-b<k1>antika<k2>antika
+Lat. ante, Goth. and, e. g. in and-hafjan, to answer;
+<L>545<pc>0028-b<k1>antima<k2>antima
+Lat. ultimus and intimus; see {%anta%} and {%an-%}
+<L>551<pc>0029-a<k1>antra<k2>antra
+Lat. interiora), n. An intestine (mostly used in the plur.), Rām. 5, 25, 46. {@ --@}
+<L>563<pc>0029-b<k1>anna<k2>anna
+Lat. = annona
+<L>568<pc>0029-b<k1>anya<k2>anya
+Lat. alius,  Goth. alja-, alis, alja,
+<L>571<pc>0030-a<k1>anyatra<k2>anyatra
+Lat. aliter 
+<L>572<pc>0030-a<k1>anyaTA<k2>anyaTA
+Lat. = aliuta
+<L>600<pc>0031-a<k1>ap<k2>ap
+Lat. aqua amnis, Goth. ahva,
+<L>601<pc>0031-a<k1>apa<k2>apa
+Lat. = ab
+<L>644<pc>0033-a<k1>apamarda<k2>apamarda
+Lat. = merda
+<L>675<pc>0034-a<k1>apas<k2>apas
+Lat. operari,  for  
+<L>701<pc>0035-b<k1>api<k2>api
+Lat. ob) {@I.@} part. {@1.@} Moreover, also, Man. 8, 274; 1, 119. {@2.@} Even,
+Lat. quispiam for quis-pi-jam). {@b.@} Signifies: Even, Kathās. 4, 55. {@c.@}
+<L>723<pc>0037-a<k1>aBi<k2>aBi
+Lat. amb in amb-ire; O.H.G. umbi.
+<L>894<pc>0044-a<k1>aBra<k2>aBra
+Lat. imber, and probably um- bra.
+<L>901<pc>0044-a<k1>am<k2>am
+Lat. emo, properly ‘to take,’ demo; 
+<L>949<pc>0046-a<k1>amla<k2>amla
+Lat. ăm + ārus.
+<L>954<pc>0046-b<k1>ayas<k2>ayas
+Lat. = aes
+<L>974<pc>0047-a<k1>aratni<k2>aratni
+Lat. = ulna
+<L>1019<pc>0049-b<k1>arjuna<k2>arjuna
+Lat. = argentum
+<L>1053<pc>0052-b<k1>arBa<k2>arBa
+Lat. = orbus
+<L>1058<pc>0052-b<k1>arvan<k2>arvan
+Lat. = armentum
+<L>1063<pc>0053-a<k1>arh<k2>arh
+Lat. dignor, with the inf.), Man. 1, 3. -- With the prep. {#aBi#} {%abhi, a-%}
+<L>1101<pc>0055-a<k1>av<k2>av
+Lat. avere and uti (an old denominat.).
+<L>1102<pc>0055-a<k1>ava<k2>ava
+Lat. autem, aut. -- This prefix is based on a pro-
+<L>1228<pc>0060-b<k1>avi<k2>avi
+Lat. ovis,  O.H.G. awi; A.S. eaw; Goth. avistr.
+<L>1255<pc>0062-a<k1>aSra<k2>aSra
+Lat. = acer
+<L>1260<pc>0062-a<k1>aSva<k2>aSva
+Lat. = equus
+<L>1276<pc>0063-a<k1>azwan<k2>azwan
+Lat. = octo
+<L>1277<pc>0063-a<k1>azwama<k2>azwama
+Lat. = octavus
+<L>1281<pc>0063-a<k1>azwAdaSan<k2>azwAdaSan
+Lat. = octodecim
+<L>1284<pc>0063-b<k1>azwrA<k2>azwrA
+Lat. incitare), f. A goad.
+<L>1286<pc>0063-b<k1>as<k2>as
+Lat. præ-sens), 1. Being, Hit. i. d. 75. 2. Being in the true
+Lat. sum, est; Goth. im, ist; A.S. ëom, is. 
+<L>1294<pc>0065-a<k1>asi<k2>asi
+Lat. ensis,  cf. {%akṣan%} {%= akṣi,%} and  {%= pīvan.%}
+<L>1301<pc>0065-b<k1>asfj<k2>asfj
+Lat. assir,  with {%*asan-j,%} Lat. sanguis.
+Lat. = sanguis
+<L>1308<pc>0066-a<k1>asTi<k2>asTi
+Lat. os, gen. ossis, for ostis.
+<L>1313<pc>0066-b<k1>asmad<k2>asmad
+Lat. ego, me, nos; Goth. ik, mis, veis, unsis; A.S. ic, më, vit, unc.
+<L>1318<pc>0066-b<k1>ah<k2>ah
+Lat. ad- ag + ium, ajo for agjo, nego; Goth.
+<L>1331<pc>0067-b<k1>ahi<k2>ahi
+Lat. = anguis
+<L>1560<pc>0079-a<k1>Ap<k2>Ap
+Lat. ăp- iscor, ops, opto, cœpi, copia; 
+Lat. aptus). {@1.@} Fit, Ragh. 3, 12. {@2.@} Trusted, Man. 7, 80; just, 8, 63. {@3.@}
+<L>1645<pc>0084-b<k1>Ayus<k2>Ayus
+Lat. aevum, Goth. aivs.
+<L>1767<pc>0090-b<k1>ASu<k2>ASu
+Lat. ocius, accipiter = ved. {%āśupatvan,%} aquila.
+<L>1812<pc>0093-b<k1>Aspada<k2>Aspada
+Lat. op- pidum.
+<L>1840<pc>0095-a<k1>i<k2>i
+Lat. in- terire). -A. {%I,%} with {#apa#} {%apa,%} To go
+Lat. = perire
+Lat. = ire
+<L>1852<pc>0099-a<k1>itara<k2>itara
+Lat. iterum), {@1.@} Other, Man. 1, 70; {%itara-itarair atha vā%}
+<L>1861<pc>0100-a<k1>itTA<k2>itTA
+Lat. = ita
+<L>1862<pc>0100-a<k1>id<k2>id
+Lat. id, Goth. ita, O.H.G. iz), a ved. part. laying a stress
+<L>1863<pc>0100-a<k1>idam<k2>idam
+Lat. is, ea, id; Goth. is ita.
+<L>1864<pc>0100-a<k1>idAnIm<k2>idAnIm
+Lat. = idoneus
+<L>1873<pc>0100-b<k1>inD<k2>inD
+Lat. = aestus
+<L>1953<pc>0108-a<k1>ukzan<k2>ukzan
+Lat. = vacca
+<L>2099<pc>0116-a<k1>udan<k2>udan
+Lat. = udor
+<L>2182<pc>0120-a<k1>und<k2>und
+Lat. unda), ii. 7, Par. To wet, or moisten. --
+<L>2209<pc>0121-a<k1>upa<k2>upa
+Lat. sub is compounded with {%sa,%} correspond-
+<L>2320<pc>0126-a<k1>upari<k2>upari
+Lat. super and Gr.  (properly  in
+<L>2418<pc>0130-b<k1>uBa<k2>uBa
+Lat. ambo, Goth. bai), numeral, m. f. n. dual. Both, Man. 2, 14.
+<L>2441<pc>0131-b<k1>ulUka<k2>ulUka
+Lat. ulula, A.S. and O.H.G. ūla.
+<L>2445<pc>0131-b<k1>ulkA<k2>ulkA
+Lat. Vulcanus.
+<L>2456<pc>0132-a<k1>ulva<k2>ulva
+Lat. = vulva
+<L>2461<pc>0132-b<k1>uz<k2>uz
+Lat. uro prurire; O.H.G. usil- var, yellow, probably Lat. aurum. --
+Lat. = aurum
+<L>2464<pc>0132-b<k1>uzas<k2>uzas
+Lat. = aurora
+<L>2487<pc>0133-b<k1>Una<k2>Una
+Lat. un-, or unde-, e. g. in unde-viginti = {%ūna%}
+<L>2492<pc>0134-a<k1>Urj<k2>Urj
+Lat. ur- gere.
+<L>2498<pc>0134-b<k1>UrRa<k2>UrRa
+Lat. vellus, .
+<L>2502<pc>0134-b<k1>UrDva<k2>UrDva
+Lat. = arduus
+<L>2518<pc>0136-a<k1>f<k2>f
+Lat. orior, adorior, adolesco, adultus; Goth.
+<L>2521<pc>0136-b<k1>fkza<k2>fkza
+Lat. = ursus
+<L>2528<pc>0137-a<k1>fj<k2>fj
+Lat. regere, rectus; Goth. rakian; A.S. reccan; Goth. raints,
+<L>2540<pc>0137-b<k1>fta<k2>fta
+Lat. ratus, irritus; 
+<L>2546<pc>0138-a<k1>ftu<k2>ftu
+Lat. ordo, base ordon. -- Cf.  for .
+<L>2552<pc>0138-a<k1>fD<k2>fD
+Lat. = ordior
+<L>2556<pc>0138-b<k1>fz<k2>fz
+Lat. rigare, rivus; Goth. rign; A.S. regen.
+<L>2567<pc>0139-a<k1>eka<k2>eka
+Lat. = aequus
+<L>2617<pc>0141-b<k1>ej<k2>ej
+Lat. = aeger
+<L>2633<pc>0142-b<k1>enad<k2>enad
+Lat. oinos, unus; 
+<L>2693<pc>0145-b<k1>ojas<k2>ojas
+Lat. augus in augus + tus, and  in 
+<L>2762<pc>0149-a<k1>kakudmant<k2>kakudmant
+Lat. = cacumen
+<L>2767<pc>0149-a<k1>kakuB<k2>kakuB
+Lat. cubare, and {%kumbh%}), f. {@1.@} A summit
+<L>2776<pc>0149-b<k1>kaK<k2>kaK
+Lat. cachin- nus; 
+<L>2850<pc>0153-b<k1>katara<k2>katara
+Lat. uter for cuter (ubi: ali- cubi), utrum;  Goth.
+<L>2851<pc>0153-b<k1>kati<k2>kati
+Lat. = quot
+<L>2865<pc>0154-b<k1>kad<k2>kad
+Lat. = quod
+<L>2877<pc>0155-a<k1>kadA<k2>kadA
+Lat. quando, quandoque = {%kāda cid.%}
+<L>2887<pc>0155-b<k1>kanTA<k2>kanTA
+Lat. cento(?).
+<L>2995<pc>0162-a<k1>karkawa<k2>karkawa
+Lat. = cancer
+<L>2999<pc>0162-b<k1>karkara<k2>karkara
+Lat. calculus, calx  .
+<L>3030<pc>0164-a<k1>karttrikA<k2>karttrikA
+Lat. = culter
+<L>3033<pc>0164-b<k1>karpawa<k2>karpawa
+Lat. carpo), m. and n. Rags, Pañc. 236, 25.
+<L>3069<pc>0166-b<k1>kal<k2>kal
+Lat. celer, cello, procella;  
+<L>3072<pc>0167-a<k1>kalaNka<k2>kalaNka
+Lat. cāligo.
+<L>3080<pc>0167-b<k1>kalama<k2>kalama
+Lat. = calamus
+<L>3191<pc>0173-b<k1>kARa<k2>kARa
+Lat. cocles, i. e. *coclo + vit, see {%śaṣpa%}), adj., f. {%ṇā.%} {@1.@} One-eyed,
+<L>3198<pc>0174-a<k1>kAdamba<k2>kAdamba
+Lat. = columba
+<L>3392<pc>0185-a<k1>ki<k2>ki
+Lat. = scio
+<L>3411<pc>0186-a<k1>kim<k2>kim
+Lat. quis, qui, etc.; Goth. hvas; A.S. 
+<L>3441<pc>0188-b<k1>kIdfS<k2>kIdfS
+Lat. qualis, and the next.
+<L>3465<pc>0190-a<k1>kukkuwa<k2>kukkuwa
+Lat. cucurire), {@I.@} m. A cock, Man. 3, 239
+<L>3476<pc>0190-a<k1>kuYc<k2>kuYc
+Lat. quic in con- quinisco, conquexi, cūlus for cuc + lus;
+<L>3532<pc>0193-b<k1>kutra<k2>kutra
+Lat. = cur
+<L>3550<pc>0194-b<k1>kup<k2>kup
+Lat. cupio = {%kupyāmi.%}
+<L>3568<pc>0195-b<k1>kumBa<k2>kumBa
+Lat. cŭbitus, the elbow, lying, etc., cŭbare,
+<L>3685<pc>0202-b<k1>kf<k2>kf
+Lat. creare with the causal {%kāra-%} {%yāmi,%} whose first {%a%} originally was also
+<L>3697<pc>0210-b<k1>kft<k2>kft
+Lat. = curtus
+<L>3729<pc>0212-b<k1>kfpARa<k2>kfpARa
+Lat. carpo, discerpo) {%+ āna,%} m. A sword,
+<L>3733<pc>0213-a<k1>kfmi<k2>kfmi
+Lat. = vermis
+<L>3737<pc>0213-a<k1>kfS<k2>kfS
+Lat. = gracilis
+<L>3742<pc>0213-b<k1>kfz<k2>kfz
+Lat. ac-cerso.
+<L>3755<pc>0215-a<k1>kF<k2>kF
+Lat. cribrum, cerno, procerus; 
+<L>3759<pc>0216-b<k1>kxp<k2>kxp
+Lat. = corpus
+<L>3809<pc>0220-a<k1>koka<k2>koka
+Lat. = cuculus
+<L>3908<pc>0224-b<k1>kmar<k2>kmar
+Lat. = camera
+<L>3920<pc>0225-a<k1>kram<k2>kram
+Lat. gradus, based on gram + tva, gradior, etc.; Goth. hramjan,
+<L>3932<pc>0228-b<k1>kravya<k2>kravya
+Lat. caro, base caron; Goth. hraiv. -- Cf. also {%krūra.%}
+<L>3952<pc>0230-a<k1>kruD<k2>kruD
+Lat. crudus, crudelis; see also {%krūra.%}
+<L>3955<pc>0230-a<k1>kruS<k2>kruS
+Lat. = lugeo
+<L>3956<pc>0230-b<k1>krUra<k2>krUra
+Lat. = crusta
+<L>3972<pc>0231-b<k1>klap<k2>klap
+Lat. = crepare
+<L>3991<pc>0232-b<k1>kloman<k2>kloman
+Lat. pulmon, Sanskrit {%k%} stands for {%p;%} cf. {%kṣiv.%}
+<L>4022<pc>0234-b<k1>kzapA<k2>kzapA
+Lat. = crepusculum
+<L>4038<pc>0235-b<k1>kzar<k2>kzar
+Lat. scortum (cf. {%mih%}); Goth. hôrs.
+<L>4051<pc>0236-a<k1>kzi<k2>kzi
+Lat. civis, etc., so-cius, cf. {%sakhi.%} 
+<L>4053<pc>0236-b<k1>kzi<k2>kzi
+Lat. sitis, properly, exhaustion by thirst.
+<L>4066<pc>0238-b<k1>kziv<k2>kziv
+Lat. spuo,  Sskr. {%k%} stands for {%p,%} see {%kloman.%} -- Cf.
+<L>4083<pc>0239-a<k1>kzud<k2>kzud
+Lat. cudere, incus.
+<L>4151<pc>0243-a<k1>Kac<k2>Kac
+Lat. scatere), i. 1 (and † ii. 9), Par. {@1.@} To spring up, Kathās.
+<L>4181<pc>0244-a<k1>Kan<k2>Kan
+Lat. = canalis
+<L>4211<pc>0245-b<k1>KalvAwa<k2>KalvAwa
+Lat. = calvus
+<L>4310<pc>0251-b<k1>gantf<k2>gantf
+Lat. in-ventor.
+<L>4326<pc>0252-b<k1>gam<k2>gam
+Lat. venio for vemio (= {%gam,%} i. 4);  for  = {%gaccha;%}
+<L>4339<pc>0257-a<k1>garuqa<k2>garuqa
+Lat. volucer, m. {@1.@} The sovereign of the feathered race and
+<L>4343<pc>0257-a<k1>gargara<k2>gargara
+Lat. = gurges
+<L>4366<pc>0258-b<k1>gal<k2>gal
+Lat. volare (concerning the signi- fication, cf. {%pat%}),  (Causal).
+<L>4369<pc>0259-a<k1>gala<k2>gala
+Lat. = gula
+<L>4391<pc>0260-a<k1>gA<k2>gA
+Lat. navi-gare.
+<L>4410<pc>0261-a<k1>gADa<k2>gADa
+Lat. vădum, vādere.
+<L>4504<pc>0267-a<k1>guru<k2>guru
+Lat. = gravis
+<L>4539<pc>0269-a<k1>gfDra<k2>gfDra
+Lat. = vultur
+<L>4561<pc>0270-b<k1>gF<k2>gF
+Lat. garrire and gannire, both for garnire = Sskr. {%gṛṇā,%} for
+<L>4562<pc>0270-b<k1>gF<k2>gF
+Lat. gurgulio, vorare (cf. {%gargara%} and  
+<L>4571<pc>0271-b<k1>go<k2>go
+Lat. bos, ceva; OHG. {%kô;%} AS. cū; probably also 
+<L>4635<pc>0275-b<k1>grah<k2>grah
+Lat. grex, congrego, brachium, etc. The {%h%} is dropped in gremium,
+<L>4657<pc>0279-b<k1>grAvan<k2>grAvan
+Lat. lapis (cf. ovis, opilio).
+<L>4681<pc>0281-a<k1>Ga<k2>Ga
+Lat. ho, in ho-c, etc.), part., ved. Indeed, Chr. 287, 5 = Rigv.
+<L>4704<pc>0283-a<k1>Garma<k2>Garma
+Lat. formus (Fest.). feumentum; O.H.G. waram;
+<L>4707<pc>0283-a<k1>Gas<k2>Gas
+Lat. gānea, ganeo; perhaps Goth. gasts; A. S. gest.
+<L>4735<pc>0285-a<k1>Gf<k2>Gf
+Lat. fervor, fornax, and {%gharma.%}
+<L>4748<pc>0285-b<k1>Gfz<k2>Gfz
+Lat. frio, frico; O.H.G. and A.S., hrinan, to touch.
+<L>4762<pc>0286-b<k1>GrA<k2>GrA
+Lat. frāgro. 
+<L>4768<pc>0287-a<k1>ca<k2>ca
+Lat. que -- que), As well -- As, and, {%saṃjīvayati cājasraṃ pramāpayati%}
+Lat. = que
+<L>4818<pc>0290-b<k1>catur<k2>catur
+Lat. = quatuor
+<L>4824<pc>0291-a<k1>caturTa<k2>caturTa
+Lat. = quartus
+<L>4844<pc>0292-a<k1>catuzpAd<k2>catuzpAd
+Lat. = quadrupes
+<L>4846<pc>0292-a<k1>catus<k2>catus
+Lat. = quater
+<L>4849<pc>0292-a<k1>catvAriMSat<k2>catvAriMSat
+Lat. quadraginta, but in  
+<L>4853<pc>0292-b<k1>cand<k2>cand
+Lat. candere, accendo, scintilla, etc.
+<L>4879<pc>0294-a<k1>car<k2>car
+Lat. colere, in-quilinus.
+<L>4906<pc>0298-a<k1>carv<k2>carv
+Lat. terere, triticum, etc.
+<L>4965<pc>0302-a<k1>ci<k2>ci
+Lat. capio = Caus. {%capayāmi,%} capulus, capistrum; 
+<L>4966<pc>0303-a<k1>ci<k2>ci
+Lat. = timeo
+<L>5002<pc>0305-a<k1>cid<k2>cid
+Lat. qui + s), a particle giving to the preceding word
+Lat. -que (= Oscan -pid) in quando-que = {%kadā cid,%} (qui)-cum-
+<L>5059<pc>0308-b<k1>cud<k2>cud
+Lat. = studere
+<L>5087<pc>0310-b<k1>cUz<k2>cUz
+Lat. sūgere, succus; A.S. súcan; O.H.G. sūgan (cf. {%cakṣ%}).
+<L>5120<pc>0312-b<k1>cora<k2>cora
+Lat. = fur
+<L>5135<pc>0313-a<k1>cyu<k2>cyu
+Lat. jacere (Causal = {%cyā-%} {%vaya.%})
+<L>5142<pc>0313-b<k1>Cattra<k2>Cattra
+Lat. = castrum
+<L>5147<pc>0314-a<k1>Cad<k2>Cad
+Lat. castrum, and {%chāyā.%}
+<L>5157<pc>0315-a<k1>Cand<k2>Cand
+Lat. spons, spontis for spond + ti, spondeo, 
+<L>5189<pc>0316-b<k1>Cid<k2>Cid
+Lat. scindo, caedo (Causal); Goth. skaidan; A.S. steádan; O.H.G.
+<L>5205<pc>0318-b<k1>Cfd<k2>Cfd
+Lat. = screare
+<L>5243<pc>0320-b<k1>jaWara<k2>jaWara
+Lat. venter,  Goth. qvithra and in-kiltho.
+<L>5244<pc>0320-b<k1>jaqa<k2>jaqa
+Lat. gĕlu gelidus: Goth. kald; A.S. ceald; cf. {%jata%}), adj. {@1.@}
+<L>5250<pc>0321-a<k1>jan<k2>jan
+Lat. gigno, genus, germen (cf. {%janman%}); Goth. keinan,
+<L>5260<pc>0323-b<k1>janitf<k2>janitf
+Lat. genitor, genitrix; 
+<L>5265<pc>0323-b<k1>janman<k2>janman
+Lat. = germen
+<L>5348<pc>0328-a<k1>jAgf<k2>jAgf
+Lat. vigil, vigi- lare; and Goth. vakan; A.S. wácian;
+<L>5358<pc>0329-a<k1>jAti<k2>jAti
+Lat. = gens
+<L>5372<pc>0330-a<k1>jAnu<k2>jAnu
+Lat. = genu
+<L>5379<pc>0330-a<k1>jAmAtf<k2>jAmAtf
+Lat. gener for gem + ros.
+<L>5382<pc>0330-b<k1>jAmi<k2>jAmi
+Lat. gem-ini and Sskt. {%yama,%} Twin, a pair), {@I.@} adj. and sbst. Brother and
+<L>5390<pc>0331-a<k1>jAyA<k2>jAyA
+Lat. = gaja
+<L>5438<pc>0334-a<k1>jihva<k2>jihva
+Lat. lingua for dingua; Goth. tuggo (based
+<L>5445<pc>0334-a<k1>jIv<k2>jIv
+Lat. = vivc
+<L>5446<pc>0335-a<k1>jIva<k2>jIva
+Lat. = vivus
+<L>5469<pc>0336-a<k1>juz<k2>juz
+Lat. gustus, gustare;  Goth. kiusan, A.S.
+<L>5473<pc>0336-b<k1>jU<k2>jU
+Lat. gavi in gaudeo, gavisus sum; 
+<L>5483<pc>0337-b<k1>jF<k2>jF
+Lat. = granum
+<L>5497<pc>0338-a<k1>jYa<k2>jYa
+Lat. beni-gnus, mali-gnus.
+<L>5501<pc>0338-b<k1>jYA<k2>jYA
+Lat. nosco, cf. co-gnosco, gnarus, narro; Goth.
+<L>5503<pc>0340-a<k1>jYAti<k2>jYAti
+Lat. co-gnatus, natio; 
+<L>5505<pc>0340-a<k1>jYAtf<k2>jYAtf
+Lat. co-gnitor.
+<L>5549<pc>0342-b<k1>jval<k2>jval
+Lat. bullire, O.H.G. quellan, cf. A.S. weall (a well);
+<L>5625<pc>0346-b<k1>takz<k2>takz
+Lat. = tignum
+Lat. temo, and probably O.H.G. dahs (a
+<L>5667<pc>0349-a<k1>tad<k2>tad
+Lat. te, ta, tud in iste, etc.; Goth. sa. so thata; A.S. se, seo, thaet.
+<L>5675<pc>0349-b<k1>tan<k2>tan
+Lat. tenere, tendere, os- tendere (for obs-). tenus, etc.; O.H.G.
+<L>5676<pc>0350-a<k1>tan<k2>tan
+Lat. = tonare
+<L>5679<pc>0350-b<k1>tanu<k2>tanu
+Lat. = tenuis
+<L>5710<pc>0352-b<k1>tap<k2>tap
+Lat. = tepeo
+<L>5725<pc>0354-b<k1>tam<k2>tam
+Lat. temere, con-tumax, teme- tum, abs-temius perhaps O.H.G. damf,
+<L>5728<pc>0355-a<k1>tamas<k2>tamas
+Lat. = tenebrae
+<L>5763<pc>0356-b<k1>taru<k2>taru
+Lat. = termes
+<L>5767<pc>0357-a<k1>tark<k2>tark
+Lat. torquere, tor- cular, torques, torvus; O.H.G. drajan,
+<L>5809<pc>0359-b<k1>tAdfS<k2>tAdfS
+Lat. talis, and see the next.
+<L>5858<pc>0362-b<k1>tAvant<k2>tAvant
+Lat. tantus (for tāvant + o).
+<L>5867<pc>0363-a<k1>tij<k2>tij
+Lat. stimulus for stig + mulus, instigo, instinguere; Goth.
+<L>5888<pc>0364-a<k1>tiras<k2>tiras
+Lat. = trans
+<L>5936<pc>0366-a<k1>tu<k2>tu
+Lat. tumor, tumere, tumulus, tuber, tueri,
+<L>5955<pc>0367-a<k1>tud<k2>tud
+Lat.  
+<L>5958<pc>0367-b<k1>tup<k2>tup
+Lat. = stupeo
+<L>5960<pc>0367-b<k1>tumula<k2>tumula
+Lat. = tumultus
+<L>5979<pc>0368-b<k1>tul<k2>tul
+Lat. tollo, tuli, latum (for tlatum);  (Fre-
+<L>5989<pc>0369-a<k1>tuz<k2>tuz
+Lat. = taceo
+<L>6027<pc>0370-b<k1>tftIya<k2>tftIya
+Lat. ter- tius; 
+<L>6032<pc>0371-a<k1>tfp<k2>tfp
+Lat. torpor, torpere; Goth. tharf (primitively ‘to satisfy,’ then ‘to
+<L>6036<pc>0371-b<k1>tfz<k2>tfz
+Lat. = torrere
+<L>6043<pc>0371-b<k1>tF<k2>tF
+Lat. = terminus
+<L>6113<pc>0376-b<k1>trap<k2>trap
+Lat. turpis, probably also trepidus (cf. ved. {%tṛpra,%} hastening),
+<L>6123<pc>0377-a<k1>trayodaSan<k2>trayodaSan
+Lat. tredecim for tres-decem.
+<L>6126<pc>0377-a<k1>tras<k2>tras
+Lat. terrere (for tersere, tresere); cf. {%tarala, tṝ, tur, trap;%}  Lat.
+Lat. tremo, probably tristis, 
+<L>6163<pc>0379-a<k1>tris<k2>tris
+Lat. = ter
+<L>6214<pc>0381-a<k1>tvar<k2>tvar
+Lat. red-am-truare, probably  Lat. turba,  pro-
+Lat. turba,  pro- bably A. S. a-thwerian (to move, or to
+<L>6232<pc>0382-b<k1>daMS<k2>daMS
+Lat. lacruma, perhaps lacero; Goth. tagr, A. S. taeher; O.H.G. zanga,
+<L>6245<pc>0383-a<k1>dakza<k2>dakza
+Lat. = dexter
+<L>6253<pc>0384-a<k1>daG<k2>daG
+Lat. = tango
+<L>6276<pc>0385-b<k1>dant<k2>dant
+Lat. dens, and the next.
+<L>6292<pc>0386-b<k1>dam<k2>dam
+Lat. dam- nare, damnum; Goth. ga-timan; O.H.G.
+Lat. densus,  etc., cf. {%dampati.%}
+<L>6300<pc>0387-a<k1>dampati<k2>dampati
+Lat. = domus
+<L>6346<pc>0390-a<k1>daSan<k2>daSan
+Lat. = decem
+<L>6348<pc>0390-a<k1>daSama<k2>daSama
+Lat. = decimus
+<L>6363<pc>0391-a<k1>dah<k2>dah
+Lat. = lignum
+<L>6366<pc>0392-a<k1>dA<k2>dA
+Lat. = dare
+<L>6367<pc>0393-b<k1>dA<k2>dA
+Lat. = daps
+<L>6380<pc>0394-b<k1>dAtf<k2>dAtf
+Lat. = dator
+<L>6386<pc>0394-b<k1>dAna<k2>dAna
+Lat. = donum
+<L>6473<pc>0399-b<k1>div<k2>div
+Lat. ho- die),  cf. Lat. jam, dum, du-dum,
+Lat. jam, dum, du-dum, etc.; Lat. dies, Ju-piter, Jovis, etc.;
+Lat. dies, Ju-piter, Jovis, etc.; O.H.G. zies-tac; A.S. tiwes daeg.
+<L>6478<pc>0399-b<k1>divA<k2>divA
+Lat. diu, du-dum, and {%divātana.%} 
+<L>6479<pc>0400-a<k1>divAtana<k2>divAtana
+Lat. = diutinus
+<L>6491<pc>0400-a<k1>divya<k2>divya
+Lat. = divus
+<L>6494<pc>0400-b<k1>diS<k2>diS
+Lat. in-dicare, ju-dex, dicere, perhaps dignus
+<L>6500<pc>0402-b<k1>dih<k2>dih
+Lat. tingere,  Lat. fingo, figulus; O. H. G.
+Lat. fingo, figulus; O. H. G. ziagal; A. S. tigel, tigul; Goth. deigaṇ,
+<L>6619<pc>0409-b<k1>duh<k2>duh
+Lat. duco, O.H.G. ziug (gaziug), zaugjan, 
+<L>6662<pc>0413-a<k1>anu<k2>anu
+Lat. species, con picio, specto; 
+<L>6675<pc>0414-b<k1>dF<k2>dF
+Lat. = dolus
+<L>6678<pc>0415-a<k1>deva<k2>deva
+Lat. = deus
+<L>6696<pc>0416-b<k1>devf<k2>devf
+Lat. = levir
+<L>6819<pc>0422-b<k1>drA<k2>drA
+Lat. dormire (a  
+<L>6830<pc>0423-a<k1>dru<k2>dru
+Lat. gruere in in-gruere etc., and ruere; probably
+<L>6863<pc>0426-a<k1>dvAdaSan<k2>dvAdaSan
+Lat. = duodecim
+<L>6867<pc>0426-b<k1>dvAra<k2>dvAra
+Lat. foras, foris, fores; Goth. daur, A.S. duru, dyr.
+<L>6873<pc>0426-b<k1>dvi<k2>dvi
+Lat. duo, bi-farius, dubius, duellum, bellum,
+<L>6892<pc>0427-b<k1>dviz<k2>dviz
+Lat. in -vīsus, dirus.
+<L>6894<pc>0428-a<k1>dvis<k2>dvis
+Lat. = bis
+<L>6928<pc>0430-a<k1>Danavant<k2>Danavant
+Lat. = dives
+<L>6982<pc>0433-b<k1>DA<k2>DA
+Lat. -dere in con-dere and others, credo={%śraddadhāmi;%} Goth. 
+<L>6986<pc>0438-a<k1>DAtf<k2>DAtf
+Lat. con-ditor.
+<L>7048<pc>0443-a<k1>DU<k2>DU
+Lat. suffire, fimus; Iceland. dyja; perhaps Goth. dauns.
+<L>7056<pc>0444-b<k1>DUma<k2>DUma
+Lat. = fumus
+<L>7077<pc>0445-b<k1>Df<k2>Df
+Lat. firmus, fre + tus (partly based on {%dhrā%} for {%dhṛ;%}
+<L>7085<pc>0447-b<k1>Dfz<k2>Dfz
+Lat. = fortis
+<L>7117<pc>0450-b<k1>Druva<k2>Druva
+Lat. = durus
+<L>7121<pc>0450-b<k1>DvaMs<k2>DvaMs
+Lat. vastus, vastare; O.H.G. wôsti; A.S.
+<L>7125<pc>0451-b<k1>Dvaj<k2>Dvaj
+Lat. vagus, vagari.
+<L>7143<pc>0452-b<k1>na<k2>na
+Lat. ne in nonne; 
+<L>7146<pc>0452-b<k1>nakis<k2>nakis
+Lat. quis), a particle, Not, never, Chr. 287, 6 = Rigv. i. 48, 6.
+<L>7149<pc>0452-b<k1>nakta<k2>nakta
+Lat. nox, noctu; Goth. nahts; A. S. naht, niht;  
+<L>7160<pc>0453-a<k1>naKa<k2>naKa
+Lat. = ungula
+<L>7170<pc>0453-b<k1>nagna<k2>nagna
+Lat. = nudus
+<L>7191<pc>0455-b<k1>nanu<k2>nanu
+Lat. nonne), MBh. 13, 313. {@2.@} with an imperat., Do, Śiś. 9, 61.
+<L>7200<pc>0456-b<k1>napAt<k2>napAt
+Lat. nepos, neptis; O.H.G. nefo; A.S. nefa; O.H.G. nift; Goth. nithjis, nith-
+<L>7209<pc>0457-a<k1>naBas<k2>naBas
+Lat. nubes, nebula; O.H.G. nibul; A.S.
+<L>7228<pc>0459-b<k1>nara<k2>nara
+Lat. Nero, Neriene.
+<L>7248<pc>0460-b<k1>nava<k2>nava
+Lat. = novus
+<L>7258<pc>0461-a<k1>navan<k2>navan
+Lat. = novem
+<L>7262<pc>0461-a<k1>navama<k2>navama
+Lat. nonus (for novimus). 
+<L>7269<pc>0461-b<k1>naS<k2>naS
+Lat. nanciscor, and 2 {%naś.%}
+<L>7270<pc>0461-b<k1>naS<k2>naS
+Lat. per-nix); then on the one side, To overtake, to
+Lat. per-nicies, necare, nocere, ve-ne- num (for ve-nec + num); Goth. naus
+<L>7282<pc>0462-b<k1>nah<k2>nah
+Lat. nexus, nectere, nere,  O.H.G. nāhan, nāwan;
+<L>7323<pc>0466-a<k1>nABI<k2>nABI
+Lat. = umbilicus
+<L>7331<pc>0466-b<k1>nAman<k2>nAman
+Lat. nomen, co-gnomen, nam, quis-nam (cf. quem-nam = {%kaṃ%}
+<L>7363<pc>0468-b<k1>nAsA<k2>nAsA
+Lat. nāsus, nāris.
+<L>7371<pc>0469-a<k1>ni<k2>ni
+Lat. = in
+<L>7782<pc>0490-a<k1>nIqa<k2>nIqa
+Lat. = nidus
+<L>7797<pc>0490-b<k1>nIla<k2>nIla
+Lat. niger for nigro = {%niś + ra.%} 
+<L>7806<pc>0491-a<k1>nu<k2>nu
+Lat. nunc (i. e. num-ce = ); Goth. nuh.
+<L>7897<pc>0496-a<k1>nO<k2>nO
+Lat. = navis
+<L>7947<pc>0498-b<k1>pac<k2>pac
+Lat. coquere (for poquere by assimi- lation), culina (for cuclina); 
+<L>7977<pc>0500-b<k1>paYcASat<k2>paYcASat
+Lat. quinquā- ginta. 
+<L>7982<pc>0501-a<k1>paYjara<k2>paYjara
+Lat. pango).
+<L>8020<pc>0503-b<k1>pat<k2>pat
+Lat. Penna (i. e. pet + na); O.H.G. fedara; cf. {%patra;%}
+Lat. petere, impetrare, etc.
+<L>8021<pc>0506-a<k1>pat<k2>pat
+Lat. = potiri
+<L>8032<pc>0506-b<k1>pati<k2>pati
+Lat. potis,  Goth. faths; cf. {%patnī.%}
+<L>8041<pc>0507-b<k1>pattana<k2>pattana
+Lat. op-pidum), n. A town, Mālav. 13, 15.
+<L>8056<pc>0509-a<k1>paTin<k2>paTin
+Lat. pons, pontis, and perhaps ponto, pontonis.
+<L>8060<pc>0511-b<k1>pad<k2>pad
+Lat. pes, pedis, tripudiare, repudiare, impedire; see {%pada.%}
+<L>8061<pc>0512-a<k1>pada<k2>pada
+Lat. = oppidum
+<L>8086<pc>0514-a<k1>padvant<k2>padvant
+Lat. pedes, peditis.
+<L>8104<pc>0514-b<k1>para<k2>para
+Lat. perendie, i. e. pere-m + die; see also
+<L>8136<pc>0516-b<k1>parA<k2>parA
+Lat. per, e. g. in per-dere, per- fidus (cf. {%pari%}); Goth. fair- and fra-;
+<L>8167<pc>0518-b<k1>pari<k2>pari
+Lat. per, e. g. in per-idoneus (cf. {%parā%}).
+<L>8457<pc>0531-a<k1>parRa<k2>parRa
+Lat. penna (but cf. {%pat%}).
+<L>8500<pc>0533-a<k1>pal<k2>pal
+Lat. pello (both Caus.); O.H.G. fallan; A.S. feallan.
+<L>8511<pc>0533-b<k1>palita<k2>palita
+Lat. pullus, pallidus. pallere; O.H.G. falw; A.S. fealo, falu,
+<L>8519<pc>0534-a<k1>palvala<k2>palvala
+Lat. palus,  per- haps A.S. pol, pool.
+<L>8524<pc>0534-b<k1>pavi<k2>pavi
+Lat. pavire puvire; 
+<L>8530<pc>0534-b<k1>paS<k2>paS
+Lat. pac in paciscor, dispesco for dis-pec + sco,
+<L>8532<pc>0535-a<k1>paSu<k2>paSu
+Lat. pecus, pecoris and pecudis; probably also 
+<L>8538<pc>0535-a<k1>paScAt<k2>paScAt
+Lat. postid-ea, post; akin is also pone for pos-ne, perhaps 
+<L>8546<pc>0535-b<k1>pA<k2>pA
+Lat. bibo, potare, poculum, etc.;  (cf.
+<L>8547<pc>0536-b<k1>pA<k2>pA
+Lat. pasco, pabulum;  
+<L>8618<pc>0540-b<k1>pAtf<k2>pAtf
+Lat. pôtor, 
+<L>8620<pc>0540-b<k1>pAtra<k2>pAtra
+Lat. = patera
+<L>8653<pc>0542-b<k1>pApa<k2>pApa
+Lat. pejor (for pepjor), pessimus, peccare, perhaps 
+<L>8753<pc>0547-a<k1>pArzRi<k2>pArzRi
+Lat. compernes, pernix; 
+<L>8758<pc>0547-b<k1>pAlaka<k2>pAlaka
+Lat. bubulcus (with {%gopā-%} {%laka%}).
+<L>8784<pc>0549-a<k1>pika<k2>pika
+Lat. pīcus, pīca; O.H.G. speh, speht; 
+<L>8796<pc>0549-b<k1>picCila<k2>picCila
+Lat. = pix
+<L>8798<pc>0549-b<k1>piYj<k2>piYj
+Lat. pingere). {@2.@} To join. {@3.@} To adore. {@4.@} To sound inarticulately.
+<L>8823<pc>0551-a<k1>pitu<k2>pitu
+Lat. = potus
+<L>8824<pc>0551-b<k1>pitf<k2>pitf
+Lat. pater,  Goth. fadar; A. S. faeder.
+<L>8830<pc>0551-b<k1>pitfvya<k2>pitfvya
+Lat. = patruus
+<L>8869<pc>0553-a<k1>piz<k2>piz
+Lat. pinso, pistor, pistillum, pistrinum, pistura, pīla,
+<L>8897<pc>0555-b<k1>pIvan<k2>pIvan
+Lat. pinguis, pĭgere, pĭger. -- Cf. {%pyai.%}
+<L>8979<pc>0560-b<k1>purA<k2>purA
+Lat. por-, e. g. in por-tendere, and pro- bably also prō-.
+<L>8981<pc>0561-a<k1>purAtana<k2>purAtana
+Lat. (re- garding the form) prôtenus.
+<L>8991<pc>0561-b<k1>puru<k2>puru
+Lat. = plus
+<L>9060<pc>0566-a<k1>pU<k2>pU
+Lat. purus, pŭtus, putare (cf. the vedic use of {%pū%}), pius,
+<L>9071<pc>0567-a<k1>pUti<k2>pUti
+Lat. = putidus
+<L>9078<pc>0567-b<k1>pUy<k2>pUy
+Lat. pŭter, putris, putrescere, pŭdere, repudium, repudiare, probably also
+<L>9079<pc>0567-b<k1>pUya<k2>pUya
+Lat. = pus
+<L>9121<pc>0570-a<k1>pf<k2>pf
+Lat. par, peritus, ex-pertus, ex-perior, pārere,
+<L>9125<pc>0570-a<k1>pfc<k2>pfc
+Lat. plicare, plecto; Goth. flahta; O.H.G. flehtan;
+<L>9137<pc>0570-b<k1>pfTak<k2>pfTak
+Lat. pars, partis, privus, privare; perhaps 
+<L>9146<pc>0571-a<k1>pfTu<k2>pfTu
+Lat. lātus.
+<L>9172<pc>0572-b<k1>pF<k2>pF
+Lat. = populus
+<L>9295<pc>0579-a<k1>pra<k2>pra
+Lat. prŏ, e. g. in pro- nepos; Goth. frums; A. S. form; see
+<L>9407<pc>0584-b<k1>praC<k2>praC
+Lat. procus, procax, precor, prex, probably posco, postulare,
+<L>9475<pc>0588-a<k1>prati<k2>prati
+Lat. red, e. g. in red-dere, red-ire, and re, e. g. in re-
+<L>9715<pc>0599-a<k1>praT<k2>praT
+Lat. inter- pretari, perhaps Goth. frathjan.
+<L>9751<pc>0601-a<k1>pranaptf<k2>pranaptf
+Lat. prŏnepos.
+<L>10042<pc>0615-b<k1>prAyas<k2>prAyas
+Lat. plus), adv. {@1.@} Fre- quently, Pañc. iv. d. 7; commonly,
+<L>10077<pc>0617-a<k1>priya<k2>priya
+Lat. = filius
+<L>10140<pc>0620-b<k1>plihan<k2>plihan
+Lat. = lien
+<L>10143<pc>0620-b<k1>plu<k2>plu
+Lat. pluere, plorare, fluere, probably lavare; O.H.G. flawjan, fluz; A.S.
+<L>10161<pc>0622-a<k1>Pal<k2>Pal
+Lat. = flos
+<L>10188<pc>0624-b<k1>Pena<k2>Pena
+Lat. = spuma
+<L>10219<pc>0625-b<k1>banD<k2>banD
+Lat. patibulum (cf. {%rudhira%}), pendĕre pendêre, pondus, etc., probably
+<L>10332<pc>0634-a<k1>buD<k2>buD
+Lat. fundus). {@1.@} To understand, Hit. i. d. 92 (pass.).
+Lat. puteus (cf. {%rudhira%} and {%bandh%}), putare; Goth.
+<L>10389<pc>0638-b<k1>Bakz<k2>Bakz
+Lat. fames, perhaps bacca.
+<L>10409<pc>0640-b<k1>Baj<k2>Baj
+Lat. famulus, familia; Goth. anda-bahti,
+<L>10411<pc>0641-a<k1>BaYj<k2>BaYj
+Lat. = frango
+<L>10427<pc>0642-a<k1>Badra<k2>Badra
+Lat. fastus (for fad-tus), fastigium, fastidium, festivus (but festus
+<L>10435<pc>0643-a<k1>Bara<k2>Bara
+Lat. -fer; A. S. -bora.
+<L>10460<pc>0644-b<k1>Barv<k2>Barv
+Lat. = herba
+<L>10491<pc>0646-a<k1>BA<k2>BA
+Lat. focus, februus (from the Causal).
+<L>10550<pc>0651-a<k1>BAz<k2>BAz
+Lat. fastus, nefastus, nefarius, festus, feriæ, hariolus, fas,
+<L>10577<pc>0653-a<k1>Bid<k2>Bid
+Lat. findo, finis (for fid + nis); Goth. beitan; A. S.
+<L>10608<pc>0656-a<k1>Buj<k2>Buj
+Lat. fugio, fuga; cf. A. S. bi-bugan, To flee away.
+<L>10609<pc>0656-a<k1>Buj<k2>Buj
+Lat. = fungi
+Lat. frux, frugis, fruor, fructus, frustum, frustra, 
+<L>10622<pc>0657-b<k1>BuraRya<k2>BuraRya
+Lat. fur-ere), Par. To be active, Chr. 289, 6 = Rigv. i. 50, 6.
+<L>10630<pc>0657-b<k1>BU<k2>BU
+Lat. fio, fui, facio (causal), fecundus, fetus, fetare, perhaps femur, femen;
+<L>10644<pc>0663-b<k1>BUman<k2>BUman
+Lat. hŭmus, hŭmilis.
+<L>10664<pc>0664-b<k1>Bf<k2>Bf
+Lat. fero, Goth. bairan; A. S. beran; Goth. barnis; A. S.
+<L>10678<pc>0666-a<k1>Bfti<k2>Bfti
+Lat. = fors
+<L>10736<pc>0670-a<k1>Brajj<k2>Brajj
+Lat. frigere, frictus, frixus (= {%bhṛkta,%} see {%bhṛj%});  O.H.G.
+<L>10739<pc>0670-a<k1>Bram<k2>Bram
+Lat. = fremere
+<L>10746<pc>0671-a<k1>BrAj<k2>BrAj
+Lat. flagrare, flamma (for flagma), flamen, fulgur,
+<L>10749<pc>0671-a<k1>BrAtf<k2>BrAtf
+Lat. = frater
+<L>10750<pc>0671-b<k1>BrAtfvya<k2>BrAtfvya
+Lat. fratrūelis.
+<L>10765<pc>0672-a<k1>BrU<k2>BrU
+Lat. frons, frontis.
+<L>10788<pc>0673-a<k1>makzikA<k2>makzikA
+Lat. = musca
+<L>10789<pc>0673-a<k1>makzu<k2>makzu
+Lat. = mox
+<L>10791<pc>0673-a<k1>maKa<k2>maKa
+Lat. macellum, mactare, mucro, maceria; A. S. méce; O.N. moekir.
+<L>10810<pc>0674-b<k1>majj<k2>majj
+Lat. = mergere
+<L>10816<pc>0675-a<k1>majman<k2>majman
+Lat. mag- mentum.
+<L>10859<pc>0677-b<k1>mati<k2>mati
+Lat. mens, mentis, mentio, mentiri, mendax; Goth. ga
+<L>10872<pc>0679-a<k1>maTin<k2>maTin
+Lat. = mentula
+<L>10874<pc>0679-a<k1>mad<k2>mad
+Lat. madidus, madere, manare (for mad + no, denomin.); 
+Lat. = mandere
+<L>10887<pc>0680-b<k1>madgu<k2>madgu
+Lat. = mergus
+<L>10910<pc>0681-b<k1>maDya<k2>maDya
+Lat. = medius
+<L>10920<pc>0682-b<k1>man<k2>man
+Lat. monere, monstrum, monstrare, men- tiri (cf. {%mati%}), mendax; Goth. munan,
+<L>10928<pc>0684-b<k1>manAk<k2>manAk
+Lat. minu in minuo; Goth. mins, minz, minniza, minnists, which
+<L>10938<pc>0685-a<k1>manus<k2>manus
+Lat. mas, maris; 
+<L>10968<pc>0687-a<k1>mand<k2>mand
+Lat. = mundus
+<L>10997<pc>0688-b<k1>may<k2>may
+Lat. = meare
+<L>11026<pc>0689-b<k1>marta<k2>marta
+Lat. mortuus, mortalis.
+<L>11034<pc>0690-a<k1>marman<k2>marman
+Lat. = membrum
+<L>11036<pc>0690-a<k1>marmara<k2>marmara
+Lat. = murmurare
+<L>11040<pc>0690-a<k1>marya<k2>marya
+Lat. = maritus
+<L>11087<pc>0692-b<k1>mah<k2>mah
+Lat. magnus, mactus.
+<L>11090<pc>0693-a<k1>mahant<k2>mahant
+Lat. magis, major, majus, maximus, magister,
+<L>11119<pc>0694-b<k1>mA<k2>mA
+Lat. im-mānis, metior (a denomin. of an old ptcple. pres., cf.
+<L>11121<pc>0695-b<k1>mA<k2>mA
+Lat. = ne
+<L>11161<pc>0697-a<k1>mAtf<k2>mAtf
+Lat. = mater
+<L>11275<pc>0705-b<k1>mAsa<k2>mAsa
+Lat. = monsis
+<L>11317<pc>0707-b<k1>miSra<k2>miSra
+Lat. = miscere
+<L>11320<pc>0707-b<k1>miz<k2>miz
+Lat. = miser
+Lat. = micare
+<L>11324<pc>0708-a<k1>mih<k2>mih
+Lat. mingere, mejere; A.S. mígan; Goth. maihstus;
+<L>11327<pc>0708-a<k1>mI<k2>mI
+Lat. prō-mī- nere, e-minere, minere, prō-minare,
+<L>11328<pc>0708-b<k1>mI<k2>mI
+Lat. meare and mo- vere (causal).
+<L>11363<pc>0712-a<k1>muc<k2>muc
+Lat. mucus, e-mungere; 
+<L>11400<pc>0715-a<k1>mur<k2>mur
+Lat. mūrus.
+<L>11437<pc>0717-b<k1>mUka<k2>mUka
+Lat. mūtus.
+<L>11468<pc>0719-b<k1>mUza<k2>mUza
+Lat. = mus
+<L>11471<pc>0720-a<k1>mf<k2>mf
+Lat. = morior
+<L>11487<pc>0721-a<k1>mfj<k2>mfj
+Lat. mulgere, mulier, lac (for mlac), margo; Goth. miluks; A.S.
+<L>11502<pc>0722-a<k1>mfti<k2>mfti
+Lat. mors, mortis.
+<L>11510<pc>0722-a<k1>mfd<k2>mfd
+Lat. = mordere
+<L>11514<pc>0722-b<k1>mfdA<k2>mfdA
+Lat. = merda
+<L>11517<pc>0723-a<k1>mfdu<k2>mfdu
+Lat. = mollis
+Lat. = blandus
+<L>11526<pc>0723-a<k1>mfS<k2>mfS
+Lat. mulcere, probably, mulcare.
+<L>11534<pc>0724-a<k1>me<k2>me
+Lat. mūtuus, communis, munus;  (Caus. for ).
+<L>11548<pc>0724-b<k1>medas<k2>medas
+Lat. medūlla. 
+<L>11635<pc>0729-a<k1>mnA<k2>mnA
+Lat. = meminisse
+<L>11655<pc>0730-a<k1>yakft<k2>yakft
+Lat. = jecur
+<L>11711<pc>0735-a<k1>yam<k2>yam
+Lat. jejunus, and probably jentare, fræna; Goth. aiths; A.S. adh,
+<L>11739<pc>0737-b<k1>yaSas<k2>yaSas
+Lat. decus, from a lost vb. {%daś,%} see below), {@I.@} n. {@1.@} Glory, Vikr. 11, 17;
+Lat. decere, do- cere; 
+<L>11748<pc>0738-a<k1>yA<k2>yA
+Lat. Janus, janua.
+<L>11782<pc>0742-a<k1>yAmAtf<k2>yAmAtf
+Lat. = janitrix
+<L>11802<pc>0743-a<k1>yu<k2>yu
+Lat. juvare, jus (= ved. {%yos%}), jubere (Caus.); 
+<L>11807<pc>0744-a<k1>yuga<k2>yuga
+Lat. = jugum
+<L>11817<pc>0744-b<k1>yuj<k2>yuj
+Lat. = jungere
+<L>11818<pc>0747-a<k1>yuj<k2>yuj
+Lat. -jux in conjux.
+<L>11838<pc>0748-b<k1>yuzmad<k2>yuzmad
+Lat. tu, te, vos; 
+<L>11849<pc>0748-b<k1>yUza<k2>yUza
+Lat. = jus
+<L>11896<pc>0752-a<k1>rakz<k2>rakz
+Lat. = arx
+<L>11910<pc>0753-b<k1>raGupatvan<k2>raGupatvan
+Lat. -piter, in acci-piter = ved. {%āśu-patvan.%}
+<L>11920<pc>0754-a<k1>rac<k2>rac
+Lat. lo- care; A.S. logian, To place; Lat.
+Lat. = locus
+<L>11935<pc>0755-a<k1>rajju<k2>rajju
+Lat. stringere), f. (m., Pañc. i. d. 376 
+<L>11958<pc>0757-a<k1>raTa<k2>raTa
+Lat. = rota
+<L>11971<pc>0758-a<k1>rad<k2>rad
+Lat. rādere, rōdere (cf. {%rada,%} {%radana%}), perhaps rădius.
+<L>11982<pc>0758-b<k1>raB<k2>raB
+Lat. rabies, robur (labor, see {%labh%}); probably  Goth.
+<L>12007<pc>0761-b<k1>raSmi<k2>raSmi
+Lat. laqueus, cf. {%rasanā%}), m. {@1.@} A rein, Nal. 19, 22. {@2.@} A ray of
+<L>12023<pc>0763-a<k1>rah<k2>rah
+Lat. latere (cf. {%rudhira%}); also perhaps 
+Lat. lectum, legere; Goth. ligan, lagjan; A.S. lecgan, licgan.
+<L>12028<pc>0763-b<k1>rA<k2>rA
+Lat. ratum esto and reop.
+<L>12041<pc>0765-a<k1>rAj<k2>rAj
+Lat. = rex
+<L>12049<pc>0766-a<k1>rAjan<k2>rAjan
+Lat. rĕgere), {@I.@} m. {@1.@} A king, Chr. 3, 6. {@2.@} One of the
+Lat. rēgina (for regonia = {%rājñī%} for {%rājan + yā%}), and perhaps Goth. raginon,
+<L>12059<pc>0766-b<k1>rAji<k2>rAji
+Lat. di-vi- gere), {%+ ī̆,%} f. {@1.@} A row, a line, Pañc.
+<L>12107<pc>0769-b<k1>ric<k2>ric
+Lat. licere, licitare, linquere;  Goth. af-lifnan; A.S. lyfan,
+<L>12121<pc>0770-b<k1>riz<k2>riz
+Lat. lædo.
+<L>12131<pc>0771-a<k1>ru<k2>ru
+Lat. raucus, rūmor; A.S. ryn.
+<L>12139<pc>0771-b<k1>ruc<k2>ruc
+Lat. lucere, lumen (cf. Goth. lauhmuni; A.S. leóma), luna;
+<L>12140<pc>0772-a<k1>ruc<k2>ruc
+Lat. = lux
+<L>12146<pc>0772-b<k1>ruj<k2>ruj
+Lat. lues (cf. fruor from frug). See {%romantha.%}
+<L>12158<pc>0773-a<k1>rud<k2>rud
+Lat. = rudere
+<L>12163<pc>0774-b<k1>ruDira<k2>ruDira
+Lat. rutilus (for old ruthilus), rufus, ruber, robigo, etc.
+<L>12215<pc>0779-b<k1>rE<k2>rE
+Lat. = latrare
+<L>12216<pc>0779-b<k1>rE<k2>rE
+Lat. = res
+<L>12244<pc>0781-a<k1>romanTa<k2>romanTa
+Lat. rūmen, ruminare (for rug-men), ructare;  (old frequent.),
+<L>12296<pc>0785-a<k1>laGu<k2>laGu
+Lat. lepus (for old lephus; cf. formus for old phormus, s.v. {%gharma,%} and {%ru-%}
+Lat. = levis
+<L>12308<pc>0786-a<k1>laNG<k2>laNG
+Lat. longus, languere, etc.;  
+<L>12333<pc>0787-b<k1>lap<k2>lap
+Lat. = loqui
+<L>12340<pc>0789-a<k1>lamb<k2>lamb
+Lat. = labi
+<L>12378<pc>0791-b<k1>laz<k2>laz
+Lat. = lascivus
+<L>12380<pc>0791-b<k1>las<k2>las
+Lat. = ludo
+<L>12434<pc>0795-a<k1>lip<k2>lip
+Lat. limpidus, lip- pus; probably also liquidus, liquere, and
+<L>12443<pc>0796-a<k1>lih<k2>lih
+Lat. lingere, pol-lex; Goth. bi-laigôn; A.S. liccian.
+<L>12445<pc>0796-a<k1>lI<k2>lI
+Lat. līmus (borrowed O.H.G. lim; A.S. líme,
+<L>12450<pc>0797-a<k1>luYc<k2>luYc
+Lat. = runcare
+<L>12467<pc>0798-b<k1>lup<k2>lup
+Lat. = rumpere
+<L>12470<pc>0799-a<k1>luB<k2>luB
+Lat. lubet, libet, libido, līber, ‘free’ and ‘son’;
+<L>12476<pc>0799-b<k1>lU<k2>lU
+Lat. lucrum, solvo; akin are also Goth. fra-liusan; A.S.
+<L>12569<pc>0805-a<k1>vaktf<k2>vaktf
+Lat. auctor (see the vedic significations).
+<L>12575<pc>0805-b<k1>vakzas<k2>vakzas
+Lat. = pectus
+<L>12580<pc>0805-b<k1>vaNk<k2>vaNk
+Lat. vacillare, vacare (properly, ‘To give
+<L>12589<pc>0806-a<k1>vac<k2>vac
+Lat. vocare, vox; O.H.G. ga-wahan, memo- 
+<L>12599<pc>0807-b<k1>vaj<k2>vaj
+Lat. = vagari
+<L>12600<pc>0807-b<k1>vaj<k2>vaj
+Lat. vegere and augere probably vigor, vigere; 
+<L>12607<pc>0808-a<k1>vaYc<k2>vaYc
+Lat. = vafer
+<L>12654<pc>0810-a<k1>vad<k2>vad
+Lat. vas, vadis; perhaps O.H.G. far-wāzan;
+<L>12673<pc>0811-b<k1>van<k2>van
+Lat. Venus, venustas, venerari; O.H.G.
+<L>12711<pc>0814-a<k1>vam<k2>vam
+Lat. = vomere
+<L>12743<pc>0816-a<k1>varAha<k2>varAha
+Lat. = verres
+<L>12760<pc>0816-b<k1>varga<k2>varga
+Lat. vulgus (or = {%vraja%}).
+<L>12885<pc>0825-a<k1>vazka<k2>vazka
+Lat. = vacca
+<L>12887<pc>0825-a<k1>vas<k2>vas
+Lat. Vesta, vestibulum, verna;   probably 
+<L>12889<pc>0826-a<k1>vas<k2>vas
+Lat. = vestis
+<L>12895<pc>0826-b<k1>vasanta<k2>vasanta
+Lat. = ver
+<L>12919<pc>0827-b<k1>vasna<k2>vasna
+Lat. venum (acc.), ven -dere. The vb. which is the base of
+<L>12923<pc>0828-a<k1>vah<k2>vah
+Lat. vehere, via, uxor (originally perhaps ‘one who is
+<L>12924<pc>0829-b<k1>vaha<k2>vaha
+Lat. = via
+<L>12937<pc>0830-b<k1>vA<k2>vA
+Lat. vanus, vapor (from the Caus.); Goth.
+<L>12938<pc>0830-b<k1>vA<k2>vA
+Lat. = ve
+<L>12951<pc>0831-b<k1>vAGant<k2>vAGant
+Lat. vāgire; ) m. Praying, Chr. 294, 6 = Rigv.
+<L>12989<pc>0834-a<k1>vAta<k2>vAta
+Lat. ven- tus; Goth. vinds; A.S. wind; O.H.G.
+<L>13040<pc>0837-a<k1>vAr<k2>vAr
+Lat. urina, urceus, urna.
+<L>13095<pc>0839-b<k1>vAzpa<k2>vAzpa
+Lat. vappa, perhaps vāpor (cf. 1. {%vā%}).
+<L>13138<pc>0843-a<k1>vi<k2>vi
+Lat. vi, in di-vi-dere.
+<L>13139<pc>0843-b<k1>vi<k2>vi
+Lat. = avis
+Lat. = ovum
+<L>13143<pc>0843-b<k1>viMSati<k2>viMSati
+Lat. = viginti
+<L>13222<pc>0848-a<k1>vic<k2>vic
+Lat. vicis, invicem, vicissim, and vin- cere, i. e. to cause to cede.
+<L>13306<pc>0852-b<k1>vid<k2>vid
+Lat. videre, vitrum; Goth. vitan; A.S. wítan; Goth.
+<L>13349<pc>0856-a<k1>viDavA<k2>viDavA
+Lat. vidua, viduus; Goth. viduvo; A.S. wuduwe, and m. wuduwa; perhaps
+<L>13698<pc>0877-a<k1>viza<k2>viza
+Lat. viola (poison is connected with blue,
+<L>13817<pc>0883-b<k1>vI<k2>vI
+Lat. in -vītus (Not liking), in-vitare, To in-
+<L>13848<pc>0885-b<k1>vIra<k2>vIra
+Lat. = vir
+<L>13867<pc>0886-b<k1>vf<k2>vf
+Lat. per- haps aperio, operio; probably velum,
+<L>13872<pc>0888-b<k1>vfka<k2>vfka
+Lat. = lupus
+<L>13881<pc>0889-a<k1>vfj<k2>vfj
+Lat. = vergere
+<L>13886<pc>0889-b<k1>vft<k2>vft
+Lat. vertere, versus; Goth. vairthan; A.S. weordhan; Goth.
+<L>13938<pc>0898-b<k1>ve<k2>ve
+Lat. = viere
+<L>13955<pc>0899-b<k1>vetasa<k2>vetasa
+Lat. vi- tex, vitis; 
+<L>13985<pc>0902-a<k1>vep<k2>vep
+Lat. = vibrare
+<L>13996<pc>0902-b<k1>vell<k2>vell
+Lat. = volvo
+<L>13999<pc>0903-a<k1>veSa<k2>veSa
+Lat. = vicus
+<L>14144<pc>0910-b<k1>voQf<k2>voQf
+Lat. = vector
+<L>14310<pc>0921-a<k1>vraj<k2>vraj
+Lat. ulciscor (or to {%rakṣ?%}).
+<L>14311<pc>0921-b<k1>vraja<k2>vraja
+Lat. vulgus (or = {%varga%}).
+<L>14316<pc>0922-a<k1>vraRa<k2>vraRa
+Lat. vul- nus;  (i. e. ), 
+<L>14324<pc>0923-a<k1>vraSc<k2>vraSc
+Lat. lace- rare, ulcus.
+<L>14344<pc>0924-a<k1>SaMs<k2>SaMs
+Lat. censere, canere, Casmena, carmen, con-cinn + us; Goth. hazjan.
+<L>14349<pc>0924-b<k1>Sak<k2>Sak
+Lat. queo (for quec- jo), ne-queo (nequinont, for ne-quic +
+<L>14366<pc>0926-b<k1>Sakft<k2>Sakft
+Lat. stercus and cerda in su-cerda (rather to {%śṛdh?%}), etc.;
+<L>14379<pc>0927-a<k1>SaNk<k2>SaNk
+Lat. cunc + tari; A.S. hangian; Goth. and O.H.G. hugjan; Goth.
+<L>14407<pc>0929-b<k1>Sata<k2>Sata
+Lat. = centum
+<L>14423<pc>0930-b<k1>Satru<k2>Satru
+Lat. hod in odisse, hestis, and below), m. An enemy, a foe, Pañc.
+<L>14430<pc>0931-a<k1>Sad<k2>Sad
+Lat. = cadere
+<L>14507<pc>0936-b<k1>SarkarA<k2>SarkarA
+Lat. calculus, calx;   etc.
+<L>14549<pc>0939-a<k1>Sazpa<k2>Sazpa
+Lat. cespes, i. e. cespo + vit = {%śaspa + vant,%} Endowed
+<L>14551<pc>0939-a<k1>Sas<k2>Sas
+Lat. = hostia
+<L>14553<pc>0939-a<k1>Sastra<k2>Sastra
+Lat. = castrare
+<L>14700<pc>0948-a<k1>Siras<k2>Siras
+Lat. cere- in cere- brum, and cer- in cervix, (vix fron
+<L>14731<pc>0950-b<k1>Siz<k2>Siz
+Lat. quæso, quæro, quæstor, perhaps cura; Goth. qvisteins, qvistjan, fra
+<L>14734<pc>0951-a<k1>SI<k2>SI
+Lat. quies, quiesco, civis; O.H.G. hīwī, ma-
+<L>14752<pc>0952-b<k1>SIrza<k2>SIrza
+Lat. = collum
+<L>14795<pc>0955-b<k1>SuD<k2>SuD
+Lat. castus, O.H.G. haitar, screnus.
+<L>14821<pc>0957-b<k1>Suz<k2>Suz
+Lat. siccus (= {%śuṣka%} for {%sus + ka%}); Goth. siuk; A.S. seoc, seac,
+<L>14860<pc>0960-a<k1>SfNga<k2>SfNga
+Lat. = cornu
+<L>14870<pc>0961-a<k1>SF<k2>SF
+Lat. = cornu
+Lat. = cervus
+Lat. clava, quiris, probably in-columis; cf. {%śaru, śṛṅga.%}
+<L>14906<pc>0963-b<k1>So<k2>So
+Lat. acies, acus, acer, acidus; 
+Lat. aculeus, cātus ({%= śāta%}), tri-que + trus, cos, cautes, citus ({%= śita%}),
+<L>14973<pc>0967-b<k1>Srat<k2>Srat
+Lat. cred in credo, for cred-do; see {%dhā,%} p. 437.
+<L>14974<pc>0967-b<k1>SraT<k2>SraT
+Lat. crates, rete, restis; Goth. af-hlathan; O.H.G. and
+<L>14998<pc>0969-a<k1>SrA<k2>SrA
+Lat. cremare, carbo, probably catere, cinis; Goth. hauri, hlaibs;
+<L>15008<pc>0970-a<k1>Sri<k2>Sri
+Lat. = clemens
+Lat. in-clinare, clivus; Goth. hlains, hleithra, hlija; A.S. hlynian,
+<L>15013<pc>0971-b<k1>SrI<k2>SrI
+Lat. pin-cerna.
+<L>15014<pc>0971-b<k1>SrI<k2>SrI
+Lat. Ceres, or from {%śri-,%} To approach for protection), f. {@1.@} The deity of
+<L>15041<pc>0974-a<k1>SroRi<k2>SroRi
+Lat. = clunis
+<L>15083<pc>0976-b<k1>Svan<k2>Svan
+Lat. canis, catulus (based on {%śvant,%} the original form of
+<L>15097<pc>0977-a<k1>SvaSura<k2>SvaSura
+Lat. socer, socrus; Goth. svaihra; A.S. sweger, sweor; 
+<L>15101<pc>0977-a<k1>Svas<k2>Svas
+Lat. queri, ques + tus; A.S. hweosan, difficulter respi-
+<L>15102<pc>0978-a<k1>Svas<k2>Svas
+Lat. = cras
+<L>15104<pc>0978-a<k1>Svastana<k2>Svastana
+Lat. = crastinus
+<L>15110<pc>0978-b<k1>Svi<k2>Svi
+Lat. cuneus, cumulus, super-cilia, crescere; Goth. us-hulon;
+<L>15129<pc>0979-b<k1>zaz<k2>zaz
+Lat. = sex
+<L>15136<pc>0980-a<k1>zazWa<k2>zazWa
+Lat. = sextus
+<L>15151<pc>0981-a<k1>zWiv<k2>zWiv
+Lat. = spuere
+<L>15154<pc>0981-a<k1>sa<k2>sa
+Lat. sum = eum, sam = eam, -sum, sem- in semper, sim-
+<L>15287<pc>0988-b<k1>saKi<k2>saKi
+Lat. = socius
+<L>15354<pc>0993-a<k1>sac<k2>sac
+Lat. sequi, secundus, secus, sequior, sacer;
+<L>15435<pc>0999-a<k1>sad<k2>sad
+Lat. propensus, Germ. geneigt); to favour, MBh. 1, 1259. {@2.@}
+Lat. = sedeo
+Lat. sidere, pro- bably de-sidero, sella (i. e. sed + la);
+<L>15457<pc>1001-b<k1>sanad<k2>sanad
+Lat. = senex
+<L>15543<pc>1007-a<k1>saptan<k2>saptan
+Lat. = septem
+<L>15544<pc>1007-a<k1>saptama<k2>saptama
+Lat. = septimus
+<L>15561<pc>1008-a<k1>sama<k2>sama
+Lat. similis, simul, semel, sem-per, singuli; 
+<L>15658<pc>1013-b<k1>samitA<k2>samitA
+Lat. simila, similago; it appears also in the Coptic
+<L>15808<pc>1022-a<k1>sara<k2>sara
+Lat. = serum
+Lat. = sal
+Lat. salum, insula;  A.S. siringie.
+<L>15841<pc>1023-b<k1>sarpa<k2>sarpa
+Lat. serpens, 
+<L>15850<pc>1024-a<k1>sarva<k2>sarva
+Lat. soll-ennis, soll-ers, salvus, salus (= ved. {%sarva + tāti,%}
+<L>15892<pc>1026-a<k1>savya<k2>savya
+Lat. scævus. probably also sinister.
+<L>15903<pc>1027-b<k1>saha<k2>saha
+Lat. sŏdā + lis.
+<L>15940<pc>1029-b<k1>sahya<k2>sahya
+Lat. sanus, but questionable on account of A.S.
+<L>16048<pc>1037-a<k1>sAmi<k2>sAmi
+Lat. semi-, .
+<L>16063<pc>1038-a<k1>sAya<k2>sAya
+Lat. sērus, sērum.
+<L>16139<pc>1043-a<k1>sic<k2>sic
+Lat. stilla (for stic-la; cf. strau in O.H.G. straum = Sskr.
+<L>16169<pc>1046-a<k1>siv<k2>siv
+Lat. suere, Con-sus, Con-sualia;  probably  and  (cf.
+<L>16274<pc>1051-b<k1>sU<k2>sU
+Lat. sævus.
+<L>16277<pc>1051-b<k1>sUkara<k2>sUkara
+Lat. = sus
+<L>16332<pc>1055-a<k1>sUrya<k2>sUrya
+Lat. = sol
+<L>16337<pc>1055-b<k1>sf<k2>sf
+Lat. salio, saltare (A. S. saltian, borrowed);
+Lat. = serere
+<L>16345<pc>1057-b<k1>sfti<k2>sfti
+Lat. = sors
+<L>16348<pc>1058-a<k1>sfp<k2>sfp
+Lat. = serpere
+<L>16485<pc>1066-a<k1>skand<k2>skand
+Lat. = scandere
+<L>16492<pc>1066-b<k1>skanDa<k2>skanDa
+Lat. scapula (for old scaphula, cf. rufus, s. v. {%rudhira,%} and
+<L>16498<pc>1067-a<k1>skamB<k2>skamB
+Lat. scabel- lum, scamnum; Goth. ga-skapjan, ga
+<L>16499<pc>1067-b<k1>sku<k2>sku
+Lat. ob-scurus, scutum, corium, cavere, cautus, causa; pro-
+<L>16503<pc>1067-b<k1>sKal<k2>sKal
+Lat. scelus, culpa; Goth. skula, skulan; A. S. sceal, sculan, scyld;
+<L>16507<pc>1068-a<k1>stan<k2>stan
+Lat. tonare (cf. ved. {%tan + yatu = stanayitnu,%} thun-
+<L>16550<pc>1071-b<k1>stf<k2>stf
+Lat. sternere, strages, struere, stringo; O.H.G. sturm; A.S. stearm, storm;
+<L>16552<pc>1072-a<k1>stf<k2>stf
+Lat. stella (see {%tāra%}).
+<L>16572<pc>1072-b<k1>styE<k2>styE
+Lat. stipare (Caus.).
+<L>16581<pc>1073-b<k1>sTag<k2>sTag
+Lat. = tegere
+<L>16600<pc>1074-b<k1>sTA<k2>sTA
+Lat. stare, sistere, stamen, stupere (Caus.), stu-
+<L>16604<pc>1078-b<k1>sTAtf<k2>sTAtf
+Lat. = stator
+<L>16627<pc>1080-b<k1>sTira<k2>sTira
+Lat. stolidus, stultus; O.H.G. starên; A.S. starian;
+<L>16649<pc>1082-a<k1>snA<k2>snA
+Lat. = nare
+<L>16665<pc>1083-b<k1>snuzA<k2>snuzA
+Lat. = nurus
+<L>16677<pc>1084-a<k1>spand<k2>spand
+Lat. = funda
+<L>16696<pc>1085-b<k1>spazwa<k2>spazwa
+Lat. con-spectus.
+<L>16704<pc>1086-a<k1>spfh<k2>spfh
+Lat. spero, spes; O.H.G. spulgen.
+<L>16722<pc>1087-a<k1>sPAy<k2>sPAy
+Lat. spatium, patere (a denomin. derived from *pă-to,
+<L>16743<pc>1088-b<k1>sPur<k2>sPur
+Lat. = sperno
+<L>16747<pc>1089-a<k1>sPurj<k2>sPurj
+Lat. = spargo
+<L>16748<pc>1089-a<k1>sPul<k2>sPul
+Lat. = fallere
+<L>16770<pc>1090-b<k1>smi<k2>smi
+Lat. = mirari
+<L>16773<pc>1091-a<k1>smf<k2>smf
+Lat. = memor
+<L>16808<pc>1093-a<k1>sriD<k2>sriD
+Lat. stlis, lis.
+<L>16826<pc>1094-a<k1>sva<k2>sva
+Lat. se, suns; Goth. sve, sik, seina; A. S. sín;  A.S. swa.
+<L>16844<pc>1095-a<k1>svaDA<k2>svaDA
+Lat. = suetus
+<L>16848<pc>1095-b<k1>svan<k2>svan
+Lat. = sonare
+<L>16849<pc>1095-b<k1>svana<k2>svana
+Lat. = sonus
+<L>16852<pc>1096-a<k1>svap<k2>svap
+Lat. sopire (Caus.); A. S. swefian; O.H.G. suabjan, suebjan;
+<L>16855<pc>1096-a<k1>svapna<k2>svapna
+Lat. = somnus
+<L>16888<pc>1097-b<k1>svasf<k2>svasf
+Lat. soror, con-sobrinus.
+<L>16906<pc>1098-b<k1>svAdu<k2>svAdu
+Lat. suavis (i. e. svādu + i), suadere;  
+<L>16927<pc>1100-a<k1>svid<k2>svid
+Lat. sudor, sudare.
+<L>16934<pc>1100-b<k1>svf<k2>svf
+Lat. susurro, absurdus, surdus (properly, Suffering from humming in
+Lat. = sorbere
+<L>16944<pc>1101-a<k1>ha<k2>ha
+Lat. ha, ho, hi, in hic,  
+<L>16947<pc>1101-b<k1>haMsa<k2>haMsa
+Lat. = anser
+<L>16970<pc>1102-b<k1>han<k2>han
+Lat. fen-d in offendere, infestus, probably fessus, fatigare (cf.
+Lat. = patior
+<L>16974<pc>1105-a<k1>hanu<k2>hanu
+Lat. = gena
+<L>16991<pc>1106-a<k1>hari<k2>hari
+Lat. = gilvus
+<L>17047<pc>1109-a<k1>has<k2>has
+Lat. = histrio
+<L>17052<pc>1109-b<k1>hasta<k2>hasta
+Lat. pre-hendere; 
+<L>17061<pc>1110-b<k1>hA<k2>hA
+Lat. in-hiare, hiscere; O. H. G. gīên, ginên, geinôn; A. S. ginan, cinan,
+<L>17062<pc>1110-b<k1>hA<k2>hA
+Lat. ha- bere.
+<L>17134<pc>1114-b<k1>hima<k2>hima
+Lat. hiems, hibernus (for himernus); 
+<L>17159<pc>1116-a<k1>hu<k2>hu
+Lat. fun- dere.
+<L>17173<pc>1116-b<k1>hurC<k2>hurC
+Lat. quercus, ob-liquus;  (old ptcple. pf. pass.). 
+<L>17185<pc>1117-b<k1>hf<k2>hf
+Lat. co-hors; heres;   (cf. {%jiharmi%}); Goth.
+<L>17187<pc>1120-a<k1>hfRIya<k2>hfRIya
+Lat. fel, bilis.
+<L>17190<pc>1120-b<k1>hfd<k2>hfd
+Lat. cor, cordis; 
+<L>17201<pc>1121-a<k1>hfz<k2>hfz
+Lat. horrere, Hersilia; probably 
+<L>17237<pc>1123-b<k1>hez<k2>hez
+Lat. hinnire, hinnulus;  but cf. also
+<L>17272<pc>1124-b<k1>hnu<k2>hnu
+Lat. ab-nuere, nutare, gnavus, navare, i-gnavus, se-gnis, niti, nictare,
+<L>17274<pc>1125-a<k1>hyas<k2>hyas
+Lat. hes + ternus, heri; Goth. gis + tra;
+<L>17283<pc>1125-b<k1>hrasva<k2>hrasva
+Lat. = brevis
+<L>17285<pc>1125-b<k1>hrAd<k2>hrAd
+Lat. = grando
+<L>17312<pc>1126-b<k1>hvf<k2>hvf
+Lat. curvus, varus;  Goth. hvairbạn;
+<L>17313<pc>1126-b<k1>hve<k2>hve
+Lat. re-boare, and perhaps vovere, vōtum. 
