@@ -1,0 +1,1105 @@
+; --------------------------------------------------------------
+;  hyphen = Bhā-, 31 instances
+; --------------------------------------------------------------
+; <L>410<pc>0022-b<k1>anupasaMhArin<k2>anupasaMhArin  (reason = Bhā-)
+3394 old <div n="lb">forms of fallacious middle term), Bhā-
+3394 new <div n="lb">forms of fallacious middle term),
+;
+3395 old <div n="lb">ṣāp. 71; 73.
+3395 new <div n="lb">Bhāṣāp. 71; 73.
+;
+; <L>431<pc>0023-a<k1>anumA<k2>anumA  (reason = Bhā-)
+3524 old {#anumA#}¦ {%anu-mā,%} f. Conclusion, Bhā-
+3524 new {#anumA#}¦ {%anu-mā,%} f. Conclusion,
+;
+3525 old <div n="lb">ṣāp. 65.
+3525 new <div n="lb">Bhāṣāp. 65.
+;
+; <L>1110<pc>0055-b<k1>avakzepaRa<k2>avakzepaRa  (reason = Bhā-)
+8324 old <div n="lb">{%-kṣip + ana,%} n. Throwing down. Bhā-
+8324 new <div n="lb">{%-kṣip + ana,%} n. Throwing down.
+;
+8325 old <div n="lb">ṣāp. 5.
+8325 new <div n="lb">Bhāṣāp. 5.
+;
+; <L>1589<pc>0081-b<k1>ABAsa<k2>ABAsa  (reason = Bhā-)
+12036 old <div n="lb">Kathās. 12, 16. {@4.@} Semblance, Bhā-
+12036 new <div n="lb">Kathās. 12, 16. {@4.@} Semblance,
+;
+12037 old <div n="lb">ṣāp. 70. {@ -- <ab>Comp.</ab>@} {%Rasa-,%} m. the sem-
+12037 new <div n="lb">Bhāṣāp. 70. {@ -- <ab>Comp.</ab>@} {%Rasa-,%} m. the sem-
+;
+; <L>3342<pc>0182-b<k1>kAlika<k2>kAlika  (reason = Bhā-)
+25964 old <div n="lb">adj. {@1.@} f. {%kā,%} Referring to time, Bhā-
+25964 new <div n="lb">adj. {@1.@} f. {%kā,%} Referring to time,
+;
+25965 old <div n="lb">ṣāp. 120. {@2.@} Seasonable, MBh. 3, 868.
+25965 new <div n="lb">Bhāṣāp. 120. {@2.@} Seasonable, MBh. 3, 868.
+;
+; <L>3712<pc>0211-b<k1>kftisADyatva<k2>kftisADyatva  (reason = Bhā-)
+29594 old <div n="lb">Being accomplishable by action, Bhā-
+29594 new <div n="lb">Being accomplishable by action,
+;
+29595 old <div n="lb">ṣāp. 145.
+29595 new <div n="lb">Bhāṣāp. 145.
+;
+; <L>5252<pc>0323-a<k1>janaka<k2>janaka  (reason = Bhā-)
+43801 old <div n="lb">Pañc. v. <ab>d.</ab> 19. {@2.@} A producer, Bhā-
+43801 new <div n="lb">Pañc. v. <ab>d.</ab> 19. {@2.@} A producer,
+;
+43802 old <div n="lb">ṣāp. 44. {@3.@} A proper name, Rām.
+43802 new <div n="lb">Bhāṣāp. 44. {@3.@} A proper name, Rām.
+;
+; <L>6540<pc>0405-b<k1>dukUla<k2>dukUla  (reason = Bhā-)
+54719 old <div n="lb">cloth, Hariv. 7041. {@2.@} A garment, Bhā-
+54719 new <div n="lb">cloth, Hariv. 7041. {@2.@} A garment,
+;
+54720 old <div n="lb">ṣāp. 1.
+54720 new <div n="lb">Bhāṣāp. 1.
+;
+; <L>7589<pc>0479-a<k1>nirduHKatva<k2>nirduHKatva  (reason = Bhā-)
+64246 old <div n="lb">{%-duḥkha + tva,%} n. Painlessness, Bhā-
+64246 new <div n="lb">{%-duḥkha + tva,%} n. Painlessness,
+;
+64247 old <div n="lb">ṣāp. 144.
+64247 new <div n="lb">Bhāṣāp. 144.
+;
+; <L>9117<pc>0569-b<k1>pUrvotpannatva<k2>pUrvotpannatva  (reason = Bhā-)
+76605 old <div n="lb">Condition of anterior existence, Bhā-
+76605 new <div n="lb">Condition of anterior existence,
+;
+76606 old <div n="lb">ṣāp. 122.
+76606 new <div n="lb">Bhāṣāp. 122.
+;
+; <L>9926<pc>0609-b<k1>prasAraRa<k2>prasAraRa  (reason = Bhā-)
+82419 old <div n="lb"><ab>Caus.</ab>, {%+ ana,%} {@I.@} n. Extending, Bhā-
+82419 new <div n="lb"><ab>Caus.</ab>, {%+ ana,%} {@I.@} n. Extending,
+;
+82420 old <div n="lb">ṣāp. 5. {@II.@} f. {%ṇī.%} {@1.@} Surrounding an
+82420 new <div n="lb">Bhāṣāp. 5. {@II.@} f. {%ṇī.%} {@1.@} Surrounding an
+;
+; <L>9974<pc>0612-a<k1>prAgaBAva<k2>prAgaBAva  (reason = Bhā-)
+82764 old <div n="lb">effect) previous to production, Bhā-
+82764 new <div n="lb">effect) previous to production,
+;
+82765 old <div n="lb">ṣāp. 11.
+82765 new <div n="lb">Bhāṣāp. 11.
+;
+; <L>10129<pc>0620-a<k1>prOzWapada<k2>prOzWapada  (reason = Bhā-)
+83892 old <div n="lb">{%thapada + a.%} {@1.@} m. The month Bhā-
+83892 new <div n="lb">{%thapada + a.%} {@1.@} m. The month
+;
+83893 old <div n="lb">dra, August -- September. {@2.@} f. {%dī,%} Full
+83893 new <div n="lb">Bhādra, August -- September. {@2.@} f. {%dī,%} Full
+;
+; <L>10741<pc>0670-b<k1>BramaRa<k2>BramaRa  (reason = Bhā-)
+90189 old <div n="lb">{@I.@} n. {@1.@} Whirling, turning round, Bhā-
+90189 new <div n="lb">{@I.@} n. {@1.@} Whirling, turning round,
+;
+90190 old <div n="lb">ṣāp. 6. {@2.@} Giddiness, Lass. 17, 5. {@3.@}
+90190 new <div n="lb">Bhāṣāp. 6. {@2.@} Giddiness, Lass. 17, 5. {@3.@}
+;
+; <L>11014<pc>0689-a<k1>marut<k2>marut  (reason = Bhā-)
+92597 old <div n="lb">Wind, Pañc. i. <ab>d.</ab> 353. {@3.@} Air, Bhā-
+92597 new <div n="lb">Wind, Pañc. i. <ab>d.</ab> 353. {@3.@} Air,
+;
+92598 old <div n="lb">ṣāp. 2. {@II.@} n. A sort of perfume.
+92598 new <div n="lb">Bhāṣāp. 2. {@II.@} n. A sort of perfume.
+;
+; <L>12013<pc>0762-b<k1>rasajYa<k2>rasajYa  (reason = Bhā-)
+102001 old <div n="lb">poet. {@III.@} f. {%jñā,%} The tongue, Bhā-
+102001 new <div n="lb">poet. {@III.@} f. {%jñā,%} The tongue,
+;
+102002 old <div n="lb">ṣāp. 52; 101.
+102002 new <div n="lb">Bhāṣāp. 52; 101.
+;
+; <L>12107<pc>0769-b<k1>ric<k2>ric  (reason = Bhā-)
+102915 old <div n="lb">i. <ab>d.</ab> 161, M.M. {%atirikta,%} Exceeding, Bhā-
+102915 new <div n="lb">i. <ab>d.</ab> 161, M.M. {%atirikta,%} Exceeding,
+;
+102916 old <div n="lb">ṣāp. 19; excessive. -- With {#vyati#} {%vi%}
+102916 new <div n="lb">Bhāṣāp. 19; excessive. -- With {#vyati#} {%vi%}
+;
+; <L>12142<pc>0772-a<k1>ruci<k2>ruci  (reason = Bhā-)
+103224 old <div n="lb">{@2.@} A ray of light. {@3.@} Beauty, Bhā-
+103224 new <div n="lb">{@2.@} A ray of light. {@3.@} Beauty,
+;
+103225 old <div n="lb">ṣāp. 1, a (at the end of a <ab>comp.</ab> adj.).
+103225 new <div n="lb">Bhāṣāp. 1, a (at the end of a <ab>comp.</ab> adj.).
+;
+; <L>12180<pc>0776-b<k1>rUp<k2>rUp  (reason = Bhā-)
+103745 old <div n="lb">{@2.@} Discovered. {@3.@} Considered, Bhā-
+103745 new <div n="lb">{@2.@} Discovered. {@3.@} Considered,
+;
+103746 old <div n="lb">ṣāp. 124. {@4.@} Ascertained, Bhāṣāp.
+103746 new <div n="lb">Bhāṣāp. 124. {@4.@} Ascertained, Bhāṣāp.
+;
+; <L>13163<pc>0844-b<k1>vikalpa<k2>vikalpa  (reason = Bhā-)
+112634 old <div n="lb">{%Nis-,%} adj. allowing no alternative, Bhā-
+112634 new <div n="lb">{%Nis-,%} adj. allowing no alternative,
+;
+112635 old <div n="lb">ṣāp. 57. {%ºpam,%} adv. without hesitation,
+112635 new <div n="lb">Bhāṣāp. 57. {%ºpam,%} adv. without hesitation,
+;
+; <L>13641<pc>0874-a<k1>viSezaka<k2>viSezaka  (reason = Bhā-)
+116635 old <div n="lb">having distinguishing properties, Bhā-
+116635 new <div n="lb">having distinguishing properties,
+;
+116636 old <div n="lb">ṣāp. 1.
+116636 new <div n="lb">Bhāṣāp. 1.
+;
+; <L>14190<pc>0914-a<k1>vyaBicAra<k2>vyaBicAra  (reason = Bhā-)
+121768 old <div n="lb">of the {%hetu%} without the {%sādhya,%} Bhā-
+121768 new <div n="lb">of the {%hetu%} without the {%sādhya,%}
+;
+121769 old <div n="lb">ṣāp. 136. {@3.@} Following improper courses.
+121769 new <div n="lb">Bhāṣāp. 136. {@3.@} Following improper courses.
+;
+; <L>14215<pc>0915-b<k1>vyavahAra<k2>vyavahAra  (reason = Bhā-)
+121991 old <div n="lb">{%+ a,%} m. {@1.@} Doing, performing, Bhā-
+121991 new <div n="lb">{%+ a,%} m. {@1.@} Doing, performing,
+;
+121992 old <div n="lb">ṣāp. 105 ({%gaṇana-,%} Numbering); Lass.
+121992 new <div n="lb">Bhāṣāp. 105 ({%gaṇana-,%} Numbering); Lass.
+;
+; <L>14254<pc>0918-a<k1>vyApaka<k2>vyApaka  (reason = Bhā-)
+122311 old <div n="lb">found where some other is found, Bhā-
+122311 new <div n="lb">found where some other is found,
+;
+122312 old <div n="lb">ṣāp. 137.
+122312 new <div n="lb">Bhāṣāp. 137.
+;
+; <L>14731<pc>0950-b<k1>Siz<k2>Siz  (reason = Bhā-)
+126618 old <div n="lb">minable or to be distinguished, Bhā-
+126618 new <div n="lb">minable or to be distinguished,
+;
+126619 old <div n="lb">ṣāp. 131. {@2.@} Principal, primary, chief.
+126619 new <div n="lb">Bhāṣāp. 131. {@2.@} Principal, primary, chief.
+;
+; <L>15995<pc>1033-b<k1>sADanatA<k2>sADanatA  (reason = Bhā-)
+137585 old <div n="lb">of being a means to a desired end, Bhā-
+137585 new <div n="lb">of being a means to a desired end,
+;
+137586 old <div n="lb">ṣāp. 146 ({%tva%}); 147 ({%tā%}). {@ -- <ab>Comp.</ab>@} {%Bahu%}
+137586 new <div n="lb">Bhāṣāp. 146 ({%tva%}); 147 ({%tā%}). {@ -- <ab>Comp.</ab>@} {%Bahu%}
+;
+; <L>15998<pc>1033-b<k1>sADAraRa<k2>sADAraRa  (reason = Bhā-)
+137609 old <div n="lb">{@<ab>Comp.</ab>@} {%A-,%} adj. 1. not common, Bhā-
+137609 new <div n="lb">{@<ab>Comp.</ab>@} {%A-,%} adj. 1. not common,
+;
+137610 old <div n="lb">ṣāp. 72. 2. unparalleled, Hit. 32, 8,
+137610 new <div n="lb">Bhāṣāp. 72. 2. unparalleled, Hit. 32, 8,
+;
+; <L>16008<pc>1034-a<k1>sADyavant<k2>sADyavant  (reason = Bhā-)
+137695 old <div n="lb">the {%pakṣa%} and its {%sapakṣa's%}), Bhā-
+137695 new <div n="lb">the {%pakṣa%} and its {%sapakṣa's%}),
+;
+137696 old <div n="lb">ṣāp. 67; 73. 
+137696 new <div n="lb">Bhāṣāp. 67; 73. 
+;
+; <L>16147<pc>1043-b<k1>sidDi<k2>sidDi  (reason = Bhā-)
+138971 old <div n="lb">{%asiddhi,%} or fallacious inference, Bhā-
+138971 new <div n="lb">{%asiddhi,%} or fallacious inference,
+;
+138972 old <div n="lb">ṣāp. 74-76. {%Ati-,%} f. excessive ac-
+138972 new <div n="lb">Bhāṣāp. 74-76. {%Ati-,%} f. excessive ac-
+;
+; <L>16780<pc>1091-b<k1>syandana<k2>syandana  (reason = Bhā-)
+145026 old <div n="lb">f. {%nī,%} Saliva. {@IV.@} n. {@1.@} Oozing, Bhā-
+145026 new <div n="lb">f. {%nī,%} Saliva. {@IV.@} n. {@1.@} Oozing,
+;
+145027 old <div n="lb">ṣāp. 6; 155. {@2.@} Water. {@3.@} Going
+145027 new <div n="lb">Bhāṣāp. 6; 155. {@2.@} Water. {@3.@} Going
+;
+; <L>17218<pc>1122-b<k1>hetutA<k2>hetutA  (reason = Bhā-)
+148995 old <div n="lb">the being an instrumental cause, Bhā-
+148995 new <div n="lb">the being an instrumental cause,
+;
+148996 old <div n="lb">ṣāp. 16.
+148996 new <div n="lb">Bhāṣāp. 16.
+;
+; --------------------------------------------------------------
+;  hyphen = Rā-, 102 instances
+; --------------------------------------------------------------
+; <L>698<pc>0035-a<k1>apAya<k2>apAya  (reason = Rā-)
+5355 old <div n="lb">Diminution, Man. 1, 70. {@4.@} End, Rā-
+5355 new <div n="lb">Diminution, Man. 1, 70. {@4.@} End,
+;
+5356 old <div n="lb">jat. 5, 98. {@5.@} Trespass, injury. {@6.@}
+5356 new <div n="lb">Rājat. 5, 98. {@5.@} Trespass, injury. {@6.@}
+;
+; <L>751<pc>0038-a<k1>aBiDA<k2>aBiDA  (reason = Rā-)
+5766 old <div n="lb">{%varman-,%} adj. called Śūravarman, Rā-
+5766 new <div n="lb">{%varman-,%} adj. called Śūravarman,
+;
+5767 old <div n="lb">jat. 5, 22.
+5767 new <div n="lb">Rājat. 5, 22.
+;
+; <L>2142<pc>0118-a<k1>udDaraRa<k2>udDaraRa  (reason = Rā-)
+16858 old <div n="lb">tion, Lass. 31, 16. {@3.@} Deliverance, Rā-
+16858 new <div n="lb">tion, Lass. 31, 16. {@3.@} Deliverance,
+;
+16859 old <div n="lb">jat. 5, 114; Hit. i. <ab>d.</ab> 27.
+16859 new <div n="lb">Rājat. 5, 114; Hit. i. <ab>d.</ab> 27.
+;
+; <L>4181<pc>0244-a<k1>Kan<k2>Kan  (reason = Rā-)
+33797 old <div n="lb">dicate, Pañc. 187, 18; to destroy, Rā-
+33797 new <div n="lb">dicate, Pañc. 187, 18; to destroy,
+;
+33798 old <div n="lb">jat. 5, 149. {%utkhāta,%} n. A pit, Śāk. <ab>d.</ab>
+33798 new <div n="lb">Rājat. 5, 149. {%utkhāta,%} n. A pit, Śāk. <ab>d.</ab>
+;
+; <L>4636<pc>0278-a<k1>graha<k2>graha  (reason = Rā-)
+38077 old <div n="lb">to {%grahas%}). {@ -- <ab>Comp.</ab>@} {%A-,%} m. refusal, Rā-
+38077 new <div n="lb">to {%grahas%}). {@ -- <ab>Comp.</ab>@} {%A-,%} m. refusal,
+;
+38078 old <div n="lb">jat. 5, 441. {%Aṅkuśa-,%} m. a mahout, or
+38078 new <div n="lb">Rājat. 5, 441. {%Aṅkuśa-,%} m. a mahout, or
+;
+; <L>5246<pc>0321-a<k1>jaqatva<k2>jaqatva  (reason = Rā-)
+43581 old {#jaqatva#}¦ {%jaḍa + tva,%} n. Stupidity, Rā-
+43581 new {#jaqatva#}¦ {%jaḍa + tva,%} n. Stupidity,
+;
+43582 old <div n="lb">jat. 6, 26.
+43582 new <div n="lb">Rājat. 6, 26.
+;
+; <L>5851<pc>0362-a<k1>tAlAvacaraRa<k2>tAlAvacaraRa  (reason = Rā-)
+48927 old <div n="lb">{%tīla-ava-car + ana,%} m. A dancer, Rā-
+48927 new <div n="lb">{%tīla-ava-car + ana,%} m. A dancer,
+;
+48928 old <div n="lb">jat. 3, 335.
+48928 new <div n="lb">Rājat. 3, 335.
+;
+; <L>6399<pc>0395-b<k1>dAmodara<k2>dAmodara  (reason = Rā-)
+53434 old <div n="lb">MBh. 5, 2566. {@2.@} A proper name, Rā-
+53434 new <div n="lb">MBh. 5, 2566. {@2.@} A proper name,
+;
+53435 old <div n="lb">jat. 1, 64.
+53435 new <div n="lb">Rājat. 1, 64.
+;
+; <L>6631<pc>0410-b<k1>dUraga<k2>dUraga  (reason = Rā-)
+55443 old {#dUraga#}¦ {%dūra-ga,%} adj. Being far, Rā-
+55443 new {#dUraga#}¦ {%dūra-ga,%} adj. Being far,
+;
+55444 old <div n="lb">jat. 5, 320.
+55444 new <div n="lb">Rājat. 5, 320.
+;
+; <L>7160<pc>0453-a<k1>naKa<k2>naKa  (reason = Rā-)
+60732 old <div n="lb">17. {%Sūrpa-,%} f. {%khā,%} the sister of Rā-
+60732 new <div n="lb">17. {%Sūrpa-,%} f. {%khā,%} the sister of
+;
+60733 old <div n="lb">vaṇa. {%Hastinakha-,%} i. e. {%hastin-,%} n. a
+60733 new <div n="lb">Rāvaṇa. {%Hastinakha-,%} i. e. {%hastin-,%} n. a
+;
+; <L>7594<pc>0479-b<k1>nirnidratA<k2>nirnidratA  (reason = Rā-)
+64281 old <div n="lb">{%+ tā%} (cf. {%nidrā%}), f. Sleeplessness, Rā-
+64281 new <div n="lb">{%+ tā%} (cf. {%nidrā%}), f. Sleeplessness,
+;
+64282 old <div n="lb">jat. 3, 525.
+64282 new <div n="lb">Rājat. 3, 525.
+;
+; <L>8312<pc>0525-a<k1>pariBAvana<k2>pariBAvana  (reason = Rā-)
+70362 old <div n="lb">metre). {@II.@} f. {%nā,%} Thought, Utt. Rā-
+70362 new <div n="lb">metre). {@II.@} f. {%nā,%} Thought, Utt.
+;
+70363 old <div n="lb">mac. 95, 4.
+70363 new <div n="lb">Rāmac. 95, 4.
+;
+; <L>8460<pc>0531-b<k1>parRowaja<k2>parRowaja  (reason = Rā-)
+71338 old <div n="lb">{%-uṭaja,%} n. A hut of leaves, Utt. Rā-
+71338 new <div n="lb">{%-uṭaja,%} n. A hut of leaves, Utt.
+;
+71339 old <div n="lb">mac. 46, 6.
+71339 new <div n="lb">Rāmac. 46, 6.
+;
+; <L>8800<pc>0549-b<k1>piYja<k2>piYja  (reason = Rā-)
+73926 old <div n="lb">{%Utpiñja,%} i. e. {%ud-,%} Insurrection(?), Rā-
+73926 new <div n="lb">{%Utpiñja,%} i. e. {%ud-,%} Insurrection(?),
+;
+73927 old <div n="lb">jat. 3, 122.
+73927 new <div n="lb">Rājat. 3, 122.
+;
+; <L>9688<pc>0598-a<k1>pratyavaBAsa<k2>pratyavaBAsa  (reason = Rā-)
+80693 old <div n="lb">f. {%sā,%} Appearing on a sudden, Utt. Rā-
+80693 new <div n="lb">f. {%sā,%} Appearing on a sudden, Utt.
+;
+80694 old <div n="lb">mac. 36, 5.
+80694 new <div n="lb">Rāmac. 36, 5.
+;
+; <L>10143<pc>0620-b<k1>plu<k2>plu  (reason = Rā-)
+84054 old <div n="lb">{%sam,%} {@1.@} To flow together, Utt. Rā-
+84054 new <div n="lb">{%sam,%} {@1.@} To flow together, Utt.
+;
+84055 old <div n="lb">mac. 97, 14. {@2.@} To fluctuate, Utt.
+84055 new <div n="lb">Rāmac. 97, 14. {@2.@} To fluctuate, Utt.
+;
+; <L>10219<pc>0625-b<k1>banD<k2>banD  (reason = Rā-)
+84700 old <div n="lb">{%-ni, upanibaddha,%} Composed, Utt. Rā-
+84700 new <div n="lb">{%-ni, upanibaddha,%} Composed, Utt.
+;
+84701 old <div n="lb">mac. 162, 13. -- With {#nis#} {%nis, nirbad-%}
+84701 new <div n="lb">Rāmac. 162, 13. -- With {#nis#} {%nis, nirbad-%}
+;
+; <L>10220<pc>0626-b<k1>banDa<k2>banDa  (reason = Rā-)
+84739 old <div n="lb">310. {@3.@} The body. {@4.@} Building, Rā-
+84739 new <div n="lb">310. {@3.@} The body. {@4.@} Building,
+;
+84740 old <div n="lb">jat. 5, 114. {@5.@} Forming, 344. {@6.@} Agree-
+84740 new <div n="lb">Rājat. 5, 114. {@5.@} Forming, 344. {@6.@} Agree-
+;
+; <L>10222<pc>0627-a<k1>banDana<k2>banDana  (reason = Rā-)
+84796 old <div n="lb">snare, Pañc. ii. <ab>d.</ab> 19; stem, Utt. Rā-
+84796 new <div n="lb">snare, Pañc. ii. <ab>d.</ab> 19; stem, Utt.
+;
+84797 old <div n="lb">mac. 53, 15. {@ -- <ab>Comp.</ab>@} {%Nau-,%} n. the
+84797 new <div n="lb">Rāmac. 53, 15. {@ -- <ab>Comp.</ab>@} {%Nau-,%} n. the
+;
+; <L>10411<pc>0641-a<k1>BaYj<k2>BaYj  (reason = Rā-)
+86583 old <div n="lb">torn. {@2.@} Defeated, Bhartṛ. 2, 85; Rā-
+86583 new <div n="lb">torn. {@2.@} Defeated, Bhartṛ. 2, 85;
+;
+86584 old <div n="lb">jat. 5, 340. {@3.@} Disheartened, Chr. 5,
+86584 new <div n="lb">Rājat. 5, 340. {@3.@} Disheartened, Chr. 5,
+;
+; <L>10542<pc>0650-a<k1>BAva<k2>BAva  (reason = Rā-)
+87760 old <div n="lb">Bhāṣāp. 13; thing, object, Utt. Rā-
+87760 new <div n="lb">Bhāṣāp. 13; thing, object, Utt.
+;
+87761 old <div n="lb">mac. 74, 9. {@11.@} The world. {@12.@} Su-
+87761 new <div n="lb">Rāmac. 74, 9. {@11.@} The world. {@12.@} Su-
+;
+; <L>10546<pc>0650-b<k1>BAvana<k2>BAvana  (reason = Rā-)
+87835 old <div n="lb">{%+ ana,%} {@I.@} m. {@1.@} A creator, Utt. Rā-
+87835 new <div n="lb">{%+ ana,%} {@I.@} m. {@1.@} A creator, Utt.
+;
+87836 old <div n="lb">mac. 36, 11. {@2.@} A founder. {@II.@} n.,
+87836 new <div n="lb">Rāmac. 36, 11. {@2.@} A founder. {@II.@} n.,
+;
+; <L>10739<pc>0670-a<k1>Bram<k2>Bram  (reason = Rā-)
+90147 old <div n="lb">1, 44, 12. {@3.@} To agitate, Utt. Rā-
+90147 new <div n="lb">1, 44, 12. {@3.@} To agitate, Utt.
+;
+90148 old <div n="lb">mac. 23, 8. -- With the prep. {#ud#} {%ud,%}
+90148 new <div n="lb">Rāmac. 23, 8. -- With the prep. {#ud#} {%ud,%}
+;
+; <L>10990<pc>0688-a<k1>manyu<k2>manyu  (reason = Rā-)
+92441 old <div n="lb">{@2.@} Sorrow, grief, Chr. 7, 21; Utt. Rā-
+92441 new <div n="lb">{@2.@} Sorrow, grief, Chr. 7, 21; Utt.
+;
+92442 old <div n="lb">mac. 94, 14. {@3.@} Distress. {@4.@} A sacri-
+92442 new <div n="lb">Rāmac. 94, 14. {@3.@} Distress. {@4.@} A sacri-
+;
+; <L>11034<pc>0690-a<k1>marman<k2>marman  (reason = Rā-)
+92724 old <div n="lb">{@<ab>Comp.</ab>@} {%Antar-,%} n. the heart, Utt. Rā-
+92724 new <div n="lb">{@<ab>Comp.</ab>@} {%Antar-,%} n. the heart, Utt.
+;
+92725 old <div n="lb">mac. 128, 5. {%Śiromº,%} i. e. {%śiras-,%} m. a
+92725 new <div n="lb">Rāmac. 128, 5. {%Śiromº,%} i. e. {%śiras-,%} m. a
+;
+; <L>11108<pc>0694-a<k1>mahiza<k2>mahiza  (reason = Rā-)
+93307 old <div n="lb"><ab>d.</ab> 53; 252, 15. {@2.@} A queen, Utt. Rā-
+93307 new <div n="lb"><ab>d.</ab> 53; 252, 15. {@2.@} A queen, Utt.
+;
+93308 old <div n="lb">mac. 159, 9; Pañc. 27, 6. {@ -- <ab>Comp.</ab>@}
+93308 new <div n="lb">Rāmac. 159, 9; Pañc. 27, 6. {@ -- <ab>Comp.</ab>@}
+;
+; <L>11174<pc>0699-a<k1>mAdfS<k2>mAdfS  (reason = Rā-)
+93912 old <div n="lb">Like me, Lass. 41, 17 ({%dṛś%}); Utt. Rā-
+93912 new <div n="lb">Like me, Lass. 41, 17 ({%dṛś%}); Utt.
+;
+93913 old <div n="lb">mac. 42, 15 ({%śa%}).
+93913 new <div n="lb">Rāmac. 42, 15 ({%śa%}).
+;
+; <L>11351<pc>0709-b<k1>muKa<k2>muKa  (reason = Rā-)
+95443 old <div n="lb">{%-sthala-,%} adj. looking like trophies, Rā-
+95443 new <div n="lb">{%-sthala-,%} adj. looking like trophies,
+;
+95444 old <div n="lb">jat. 5, 121. {%Jyotirmukha,%} i. e. {%jyotis-,%} m.
+95444 new <div n="lb">Rājat. 5, 121. {%Jyotirmukha,%} i. e. {%jyotis-,%} m.
+;
+; <L>11363<pc>0712-a<k1>muc<k2>muc  (reason = Rā-)
+95633 old <div n="lb">up, Man. 8, 150; to sacrifice, Utt. Rā-
+95633 new <div n="lb">up, Man. 8, 150; to sacrifice, Utt.
+;
+95634 old <div n="lb">mac. 27, 10. {@8.@} To cast, Chr. 32, 29;
+95634 new <div n="lb">Rāmac. 27, 10. {@8.@} To cast, Chr. 32, 29;
+;
+; <L>11431<pc>0716-b<k1>muh<k2>muh  (reason = Rā-)
+96275 old <div n="lb">{%pra,%} {@I.@} {%pramūḍha.%} {@1.@} Fainted, Utt. Rā-
+96275 new <div n="lb">{%pra,%} {@I.@} {%pramūḍha.%} {@1.@} Fainted, Utt.
+;
+96276 old <div n="lb">mac. 160, 10. {@2.@} Disturbed, perplexed,
+96276 new <div n="lb">Rāmac. 160, 10. {@2.@} Disturbed, perplexed,
+;
+; <L>11487<pc>0721-a<k1>mfj<k2>mfj  (reason = Rā-)
+96778 old <div n="lb">away, to) wash, to moisten, Utt. Rā-
+96778 new <div n="lb">away, to) wash, to moisten, Utt.
+;
+96779 old <div n="lb">mac. 153, 3. -- With {#A#} {%ā,%} To wipe,
+96779 new <div n="lb">Rāmac. 153, 3. -- With {#A#} {%ā,%} To wipe,
+;
+; <L>11510<pc>0722-a<k1>mfd<k2>mfd  (reason = Rā-)
+96967 old <div n="lb">{%rimṛdita,%} Rubbed, ground, Utt. Rā-
+96967 new <div n="lb">{%rimṛdita,%} Rubbed, ground, Utt.
+;
+96968 old <div n="lb">mac. 15, 16 (trampled upon). -- With
+96968 new <div n="lb">Rāmac. 15, 16 (trampled upon). -- With
+;
+; <L>11527<pc>0723-b<k1>mfz<k2>mfz  (reason = Rā-)
+97117 old <div n="lb">19; v. <ab>d.</ab> 67. {@2.@} To suffer, Utt. Rā-
+97117 new <div n="lb">19; v. <ab>d.</ab> 67. {@2.@} To suffer, Utt.
+;
+97118 old <div n="lb">mac. 71, 8. {@3.@} To let, Daśak. in Chr.
+97118 new <div n="lb">Rāmac. 71, 8. {@3.@} To let, Daśak. in Chr.
+;
+; <L>11703<pc>0734-a<k1>yadfcCA<k2>yadfcCA  (reason = Rā-)
+98525 old <div n="lb"><ab>comp.</ab>, by itself, Bhag. 4, 22; Utt. Rā-
+98525 new <div n="lb"><ab>comp.</ab>, by itself, Bhag. 4, 22; Utt.
+;
+98526 old <div n="lb">mac. 127, 11 ({%-saṃvada,%} accidental
+98526 new <div n="lb">Rāmac. 127, 11 ({%-saṃvada,%} accidental
+;
+; <L>11711<pc>0735-a<k1>yam<k2>yam  (reason = Rā-)
+98676 old <div n="lb">Hit. 41, 4, M.M. {@3.@} Intending, Rā-
+98676 new <div n="lb">Hit. 41, 4, M.M. {@3.@} Intending,
+;
+98677 old <div n="lb">jat. 5, 237. {@4.@} Trained. {@5.@} Active.
+98677 new <div n="lb">Rājat. 5, 237. {@4.@} Trained. {@5.@} Active.
+;
+; <L>11924<pc>0754-b<k1>rajata<k2>rajata  (reason = Rā-)
+101017 old <div n="lb">the colour. {@2.@} Silver, Kir. 5, 41; Rā-
+101017 new <div n="lb">the colour. {@2.@} Silver, Kir. 5, 41;
+;
+101018 old <div n="lb">jat. 5, 482. {@3.@} Gold. {@4.@} Ivory. {@5.@}
+101018 new <div n="lb">Rājat. 5, 482. {@3.@} Gold. {@4.@} Ivory. {@5.@}
+;
+; <L>12010<pc>0762-a<k1>rasa<k2>rasa  (reason = Rā-)
+101961 old <div n="lb">Bhartṛ. 3, 16. 3. merciless, Utt. Rā-
+101961 new <div n="lb">Bhartṛ. 3, 16. 3. merciless, Utt.
+;
+101962 old <div n="lb">mac. 117, 6. 4. charmless, Pañc. iv.
+101962 new <div n="lb">Rāmac. 117, 6. 4. charmless, Pañc. iv.
+;
+; <L>12010<pc>0762-a<k1>rasa<k2>rasa  (reason = Rā-)
+101970 old <div n="lb">Rāmac. 157, 6. {@II.@} m. pain, Utt. Rā-
+101970 new <div n="lb">Rāmac. 157, 6. {@II.@} m. pain, Utt.
+;
+101971 old <div n="lb">mac. 18, 9. {%Śṛṅgāra-eka-,%} adj. only
+101971 new <div n="lb">Rāmac. 18, 9. {%Śṛṅgāra-eka-,%} adj. only
+;
+; <L>12017<pc>0763-a<k1>rasAyana<k2>rasAyana  (reason = Rā-)
+102036 old <div n="lb">joy). {@4.@} Medicine, a remedy, Utt. Rā-
+102036 new <div n="lb">joy). {@4.@} Medicine, a remedy, Utt.
+;
+102037 old <div n="lb">mac. 24, 2. {@5.@} Alchymy, chemistry.
+102037 new <div n="lb">Rāmac. 24, 2. {@5.@} Alchymy, chemistry.
+;
+; <L>12033<pc>0764-b<k1>rAgamaYjarikA<k2>rAgamaYjarikA  (reason = Rā-)
+102218 old <div n="lb">{%rāga-mañjarī + ka,%} f. The wicked Rā-
+102218 new <div n="lb">{%rāga-mañjarī + ka,%} f. The wicked
+;
+102219 old <div n="lb">gamañjarī, Daśak. in Chr. 194, 21.
+102219 new <div n="lb">Rāgamañjarī, Daśak. in Chr. 194, 21.
+;
+; <L>12086<pc>0768-b<k1>rAvaRi<k2>rAvaRi  (reason = Rā-)
+102755 old <div n="lb">tronym., m. The eldest son of Rā-
+102755 new <div n="lb">tronym., m. The eldest son of
+;
+102756 old <div n="lb">vaṇa.
+102756 new <div n="lb">Rāvaṇa.
+;
+; <L>12156<pc>0773-a<k1>ruRqa<k2>ruRqa  (reason = Rā-)
+103347 old <div n="lb">retaining life and fighting, Utt. Rā-
+103347 new <div n="lb">retaining life and fighting, Utt.
+;
+103348 old <div n="lb">mac. 121, 6.
+103348 new <div n="lb">Rāmac. 121, 6.
+;
+; <L>12174<pc>0775-a<k1>ruh<k2>ruh  (reason = Rā-)
+103659 old <div n="lb">{%-ā,%} <ab>Caus.</ab> To cause to remount, Utt. Rā-
+103659 new <div n="lb">{%-ā,%} <ab>Caus.</ab> To cause to remount, Utt.
+;
+103660 old <div n="lb">mac. 133, 4. -- With {#samA#} {%sam-ā,%} {@1.@}
+103660 new <div n="lb">Rāmac. 133, 4. -- With {#samA#} {%sam-ā,%} {@1.@}
+;
+; <L>12296<pc>0785-a<k1>laGu<k2>laGu  (reason = Rā-)
+104851 old <div n="lb">{%Pari-,%} adj. 1. very small, Utt. Rā-
+104851 new <div n="lb">{%Pari-,%} adj. 1. very small, Utt.
+;
+104852 old <div n="lb">mac. 107, 9. 2. very pure, Megh.
+104852 new <div n="lb">Rāmac. 107, 9. 2. very pure, Megh.
+;
+; <L>12404<pc>0793-a<k1>lAqa<k2>lAqa  (reason = Rā-)
+105820 old {#lAqa#}¦ {%lāḍa,%} m. A proper name, Rā-
+105820 new {#lAqa#}¦ {%lāḍa,%} m. A proper name,
+;
+105821 old <div n="lb">jat. 5, 226.
+105821 new <div n="lb">Rājat. 5, 226.
+;
+; <L>12458<pc>0797-b<k1>luW<k2>luW  (reason = Rā-)
+106391 old <div n="lb">{#nis#} {%nis, nirluṭhita,%} Rolled down, Rā-
+106391 new <div n="lb">{#nis#} {%nis, nirluṭhita,%} Rolled down,
+;
+106392 old <div n="lb">jat. 5, 88. -- With {#pari#} {%pari,%} To roll about,
+106392 new <div n="lb">Rājat. 5, 88. -- With {#pari#} {%pari,%} To roll about,
+;
+; <L>12499<pc>0800-b<k1>lok<k2>lok  (reason = Rā-)
+106790 old <div n="lb">8, 17; to regard, 12, 20; Utt. Rā-
+106790 new <div n="lb">8, 17; to regard, 12, 20; Utt.
+;
+106791 old <div n="lb">mac. 47, 8. {%vilokya,%} {@1.@} Regarding, i. e.
+106791 new <div n="lb">Rāmac. 47, 8. {%vilokya,%} {@1.@} Regarding, i. e.
+;
+; <L>12603<pc>0807-b<k1>vajrakIlAya<k2>vajrakIlAya  (reason = Rā-)
+107697 old <div n="lb">Struck as by thunderbolts, Utt. Rā-
+107697 new <div n="lb">Struck as by thunderbolts, Utt.
+;
+107698 old <div n="lb">mac. 30. 2.
+107698 new <div n="lb">Rāmac. 30. 2.
+;
+; <L>12651<pc>0810-a<k1>vatsalatA<k2>vatsalatA  (reason = Rā-)
+108015 old <div n="lb">ness, Utt. Rāmac. 35, 8. {@2.@} Love, Rā-
+108015 new <div n="lb">ness, Utt. Rāmac. 35, 8. {@2.@} Love,
+;
+108016 old <div n="lb">jat. 5, 194.
+108016 new <div n="lb">Rājat. 5, 194.
+;
+; <L>12772<pc>0817-b<k1>varRa<k2>varRa  (reason = Rā-)
+109061 old <div n="lb">caste); caste and colour at once, Rā-
+109061 new <div n="lb">caste); caste and colour at once,
+;
+109062 old <div n="lb">jat. 5, 377; class, tribe, kind. {@13.@} Re-
+109062 new <div n="lb">Rājat. 5, 377; class, tribe, kind. {@13.@} Re-
+;
+; <L>12780<pc>0818-b<k1>vartana<k2>vartana  (reason = Rā-)
+109183 old <div n="lb">and n. {@1.@} Staying, abiding, Utt. Rā-
+109183 new <div n="lb">and n. {@1.@} Staying, abiding, Utt.
+;
+109184 old <div n="lb">mac. 17, 2. {@2.@} A road. {@3.@} Grinding.
+109184 new <div n="lb">Rāmac. 17, 2. {@2.@} A road. {@3.@} Grinding.
+;
+; <L>12840<pc>0822-b<k1>valg<k2>valg  (reason = Rā-)
+109685 old <div n="lb">With {#vyA#} {%vi-ā,%} To gallop, Utt. Rā-
+109685 new <div n="lb">With {#vyA#} {%vi-ā,%} To gallop, Utt.
+;
+109686 old <div n="lb">mac. 119, 4. -- With {#vi#} {%vi,%} To burst
+109686 new <div n="lb">Rāmac. 119, 4. -- With {#vi#} {%vi,%} To burst
+;
+; <L>13002<pc>0834-b<k1>vAtyA<k2>vAtyA  (reason = Rā-)
+111228 old <div n="lb">f. A gale, a whirlwind, Kir. 5, 39; Rā-
+111228 new <div n="lb">f. A gale, a whirlwind, Kir. 5, 39;
+;
+111229 old <div n="lb">jat. 5, 477.
+111229 new <div n="lb">Rājat. 5, 477.
+;
+; <L>13098<pc>0840-a<k1>vAsa<k2>vAsa  (reason = Rā-)
+112014 old <div n="lb">{%Gṛha-,%} m. 1. domestic life. Utt. Rā-
+112014 new <div n="lb">{%Gṛha-,%} m. 1. domestic life. Utt.
+;
+112015 old <div n="lb">mac. 27, 3. 2. living as householder,
+112015 new <div n="lb">Rāmac. 27, 3. 2. living as householder,
+;
+; <L>13218<pc>0848-a<k1>viGna<k2>viGna  (reason = Rā-)
+113052 old <div n="lb">Sund. 1, 12), {@1.@} Obstacle, Utt. Rā-
+113052 new <div n="lb">Sund. 1, 12), {@1.@} Obstacle, Utt.
+;
+113053 old <div n="lb">mac. 35, 19; trouble, Śāk. <ab>d.</ab> 13. {@2.@}
+113053 new <div n="lb">Rāmac. 35, 19; trouble, Śāk. <ab>d.</ab> 13. {@2.@}
+;
+; <L>13327<pc>0855-a<k1>vidyA<k2>vidyA  (reason = Rā-)
+114050 old <div n="lb">pr. <ab>d.</ab> 2, M.M. {%Sa-,%} adj. 1. learned, Rā-
+114050 new <div n="lb">pr. <ab>d.</ab> 2, M.M. {%Sa-,%} adj. 1. learned,
+;
+114051 old <div n="lb">jat. 5, 178. 2. wise. {%Sadvidyā,%} i. e.
+114051 new <div n="lb">Rājat. 5, 178. 2. wise. {%Sadvidyā,%} i. e.
+;
+; <L>13363<pc>0858-a<k1>viDura<k2>viDura  (reason = Rā-)
+114377 old <div n="lb">Bhartṛ. 1, 37. {@2.@} Bewildered, Utt. Rā-
+114377 new <div n="lb">Bhartṛ. 1, 37. {@2.@} Bewildered, Utt.
+;
+114378 old <div n="lb">mac. 78, 1. {@3.@} Adverse, Pañc. 42, 13;
+114378 new <div n="lb">Rāmac. 78, 1. {@3.@} Adverse, Pañc. 42, 13;
+;
+; <L>13443<pc>0862-a<k1>vipralaya<k2>vipralaya  (reason = Rā-)
+114984 old <div n="lb">m. Dissolution, annihilation, Utt. Rā-
+114984 new <div n="lb">m. Dissolution, annihilation, Utt.
+;
+114985 old <div n="lb">mac. 143, 8.
+114985 new <div n="lb">Rāmac. 143, 8.
+;
+; <L>13473<pc>0863-b<k1>viBIzaRa<k2>viBIzaRa  (reason = Rā-)
+115203 old <div n="lb">Hiḍ. 2, 4. {@II.@} m. The brother of Rā-
+115203 new <div n="lb">Hiḍ. 2, 4. {@II.@} m. The brother of
+;
+115204 old <div n="lb">vaṇa. {@III.@} f. {%ṇā,%} and n. The property
+115204 new <div n="lb">Rāvaṇa. {@III.@} f. {%ṇā,%} and n. The property
+;
+; <L>13524<pc>0866-a<k1>virala<k2>virala  (reason = Rā-)
+115580 old <div n="lb">fast, Mālat. 60, 10. 4. dense, Utt. Rā-
+115580 new <div n="lb">fast, Mālat. 60, 10. 4. dense, Utt.
+;
+115581 old <div n="lb">mac. 44, 6; plentiful, Mālat. 14, 6.
+115581 new <div n="lb">Rāmac. 44, 6; plentiful, Mālat. 14, 6.
+;
+; <L>13917<pc>0897-a<k1>vfz<k2>vfz  (reason = Rā-)
+119505 old <div n="lb">One who has caused to rain, Utt. Rā-
+119505 new <div n="lb">One who has caused to rain, Utt.
+;
+119506 old <div n="lb">mac. 158, 6. -- With {#aBipra#} {%abhi-pra,%}
+119506 new <div n="lb">Rāmac. 158, 6. -- With {#aBipra#} {%abhi-pra,%}
+;
+; <L>13996<pc>0902-b<k1>vell<k2>vell  (reason = Rā-)
+120211 old <div n="lb">{#ud#} {%ud,%} {@1.@} {%vell,%} To abscond, Utt. Rā-
+120211 new <div n="lb">{#ud#} {%ud,%} {@1.@} {%vell,%} To abscond, Utt.
+;
+120212 old <div n="lb">mac. 48, 12. {@2.@} {%vel,%} To struggle,
+120212 new <div n="lb">Rāmac. 48, 12. {@2.@} {%vel,%} To struggle,
+;
+; <L>14003<pc>0903-b<k1>veSman<k2>veSman  (reason = Rā-)
+120290 old <div n="lb">143. {%Pāyu-kṣālana-,%} n. a privy, Rā-
+120290 new <div n="lb">143. {%Pāyu-kṣālana-,%} n. a privy,
+;
+120291 old <div n="lb">jat. 4, 572. {%Bandhana-,%} n. a prison.
+120291 new <div n="lb">Rājat. 4, 572. {%Bandhana-,%} n. a prison.
+;
+; <L>14164<pc>0911-b<k1>vyatikara<k2>vyatikara  (reason = Rā-)
+121500 old <div n="lb">{@5.@} Mixture, Megh. 15; union, Utt. Rā-
+121500 new <div n="lb">{@5.@} Mixture, Megh. 15; union, Utt.
+;
+121501 old <div n="lb">mac. 84, 2 (at the end of a <ab>comp.</ab> adj.
+121501 new <div n="lb">Rāmac. 84, 2 (at the end of a <ab>comp.</ab> adj.
+;
+; <L>14425<pc>0930-b<k1>SatruGna<k2>SatruGna  (reason = Rā-)
+123931 old <div n="lb">foe. {@II.@} m. a proper name, Utt. Rā-
+123931 new <div n="lb">foe. {@II.@} m. a proper name, Utt.
+;
+123932 old <div n="lb">mac. 31, 9.
+123932 new <div n="lb">Rāmac. 31, 9.
+;
+; <L>14482<pc>0935-a<k1>SaraRya<k2>SaraRya  (reason = Rā-)
+124480 old <div n="lb">Yielding protection, helping, Utt. Rā-
+124480 new <div n="lb">Yielding protection, helping, Utt.
+;
+124481 old <div n="lb">mac. 42, 3; Sāv. 1, 2; Chr. 17, 25.
+124481 new <div n="lb">Rāmac. 42, 3; Sāv. 1, 2; Chr. 17, 25.
+;
+; <L>14505<pc>0936-a<k1>SarIrin<k2>SarIrin  (reason = Rā-)
+124640 old <div n="lb">{@I.@} adj., f. {%riṇī.%} {@1.@} Embodied, Utt. Rā-
+124640 new <div n="lb">{@I.@} adj., f. {%riṇī.%} {@1.@} Embodied, Utt.
+;
+124641 old <div n="lb">mac. 53, 12. {@2.@} Living, Chr. 20, 20
+124641 new <div n="lb">Rāmac. 53, 12. {@2.@} Living, Chr. 20, 20
+;
+; <L>14505<pc>0936-a<k1>SarIrin<k2>SarIrin  (reason = Rā-)
+124651 old <div n="lb">{@<ab>Comp.</ab>@} {%A-,%} adj. incorporeal., Utt. Rā-
+124651 new <div n="lb">{@<ab>Comp.</ab>@} {%A-,%} adj. incorporeal., Utt.
+;
+124652 old <div n="lb">mac. 39, 19.
+124652 new <div n="lb">Rāmac. 39, 19.
+;
+; <L>14671<pc>0946-b<k1>SiKaRqin<k2>SiKaRqin  (reason = Rā-)
+126050 old <div n="lb">{%+ in,%} {@I.@} m. {@1.@} A peacock, Utt. Rā-
+126050 new <div n="lb">{%+ in,%} {@I.@} m. {@1.@} A peacock, Utt.
+;
+126051 old <div n="lb">mac. 65, 9. {@2.@} A peacock's tail. {@3.@}
+126051 new <div n="lb">Rāmac. 65, 9. {@2.@} A peacock's tail. {@3.@}
+;
+; <L>14719<pc>0949-b<k1>Siva<k2>Siva  (reason = Rā-)
+126470 old <div n="lb">{%vatara,%} Very complacent, Utt. Rā-
+126470 new <div n="lb">{%vatara,%} Very complacent, Utt.
+;
+126471 old <div n="lb">mac. 145, 2. {@II.@} m. {@1.@} Śiva, a deity
+126471 new <div n="lb">Rāmac. 145, 2. {@II.@} m. {@1.@} Śiva, a deity
+;
+; <L>15008<pc>0970-a<k1>Sri<k2>Sri  (reason = Rā-)
+129198 old <div n="lb">assumed, Chr. 29, 25. {@3.@} Joined, Rā-
+129198 new <div n="lb">assumed, Chr. 29, 25. {@3.@} Joined,
+;
+129199 old <div n="lb">jat. 5, 248. {@4.@} Depending on, Pañc.
+129199 new <div n="lb">Rājat. 5, 248. {@4.@} Depending on, Pañc.
+;
+; <L>15206<pc>0984-a<k1>saMvega<k2>saMvega  (reason = Rā-)
+130895 old <div n="lb">Rāmac. 51, 14. {@2.@} Speed, Utt. Rā-
+130895 new <div n="lb">Rāmac. 51, 14. {@2.@} Speed, Utt.
+;
+130896 old <div n="lb">mac. 26, 12 ({%tīvra-,%} adj. Wounding
+130896 new <div n="lb">Rāmac. 26, 12 ({%tīvra-,%} adj. Wounding
+;
+; <L>15206<pc>0984-a<k1>saMvega<k2>saMvega  (reason = Rā-)
+130897 old <div n="lb">quickly). {@3.@} Vehemence, Utt. Rā-
+130897 new <div n="lb">quickly). {@3.@} Vehemence, Utt.
+;
+130898 old <div n="lb">mac. 95, 5.
+130898 new <div n="lb">Rāmac. 95, 5.
+;
+; <L>15208<pc>0984-a<k1>saMvedana<k2>saMvedana  (reason = Rā-)
+130908 old <div n="lb">{%ana,%} n. Perceiving, suffering, Utt. Rā-
+130908 new <div n="lb">{%ana,%} n. Perceiving, suffering, Utt.
+;
+130909 old <div n="lb">mac. 30, 1.
+130909 new <div n="lb">Rāmac. 30, 1.
+;
+; <L>15286<pc>0988-b<k1>saKa<k2>saKa  (reason = Rā-)
+131545 old <div n="lb">{@II.@} f. {%khī,%} A female friend, Utt. Rā-
+131545 new <div n="lb">{@II.@} f. {%khī,%} A female friend, Utt.
+;
+131546 old <div n="lb">mac. 61, 13. {%balabhid-,%} m. Friend of
+131546 new <div n="lb">Rāmac. 61, 13. {%balabhid-,%} m. Friend of
+;
+; <L>15314<pc>0990-b<k1>saMkrAnti<k2>saMkrAnti  (reason = Rā-)
+131790 old <div n="lb">{%ti,%} f. {@1.@} Union, Mālat. 153, 17; Utt. Rā-
+131790 new <div n="lb">{%ti,%} f. {@1.@} Union, Mālat. 153, 17; Utt.
+;
+131791 old <div n="lb">mac. 63, 4 (imbibing). {@2.@} Passage from
+131791 new <div n="lb">Rāmac. 63, 4 (imbibing). {@2.@} Passage from
+;
+; <L>15327<pc>0991-a<k1>saNga<k2>saNga  (reason = Rā-)
+131898 old <div n="lb">Pañc. 187, 6. {@2.@} Meeting, Utt. Rā-
+131898 new <div n="lb">Pañc. 187, 6. {@2.@} Meeting, Utt.
+;
+131899 old <div n="lb">mac. 33, 6. {@3.@} Confluence of rivers.
+131899 new <div n="lb">Rāmac. 33, 6. {@3.@} Confluence of rivers.
+;
+; <L>15338<pc>0992-a<k1>saMgraha<k2>saMgraha  (reason = Rā-)
+132024 old <div n="lb">{%saṃgraham,%} Attach to themselves); Rā-
+132024 new <div n="lb">{%saṃgraham,%} Attach to themselves);
+;
+132025 old <div n="lb">jat. 5, 295; encouraging, Man. 3, 138.
+132025 new <div n="lb">Rājat. 5, 295; encouraging, Man. 3, 138.
+;
+; <L>15388<pc>0996-a<k1>saMjIvana<k2>saMjIvana  (reason = Rā-)
+132517 old <div n="lb">Pañc. 244, 4; reanimating, Utt. Rā-
+132517 new <div n="lb">Pañc. 244, 4; reanimating, Utt.
+;
+132518 old <div n="lb">mac. 51, 9; life-restoring, Mālat. 167,
+132518 new <div n="lb">Rāmac. 51, 9; life-restoring, Mālat. 167,
+;
+; <L>15415<pc>0997-b<k1>sattra<k2>sattra  (reason = Rā-)
+132721 old <div n="lb">{@I.@} {%sad + tra.%} {@1.@} A sacrifice, Utt. Rā-
+132721 new <div n="lb">{@I.@} {%sad + tra.%} {@1.@} A sacrifice, Utt.
+;
+132722 old <div n="lb">mac. 4, 1. {@2.@} Liberality, munificence.
+132722 new <div n="lb">Rāmac. 4, 1. {@2.@} Liberality, munificence.
+;
+; <L>15448<pc>1001-a<k1>sadyas<k2>sadyas  (reason = Rā-)
+133152 old <div n="lb">gen. of {%div%}), adv. {@1.@} To-day, Utt. Rā-
+133152 new <div n="lb">gen. of {%div%}), adv. {@1.@} To-day, Utt.
+;
+133153 old <div n="lb">mac. 90, 7. {@2.@} Instantly, Pañc. 175,
+133153 new <div n="lb">Rāmac. 90, 7. {@2.@} Instantly, Pañc. 175,
+;
+; <L>15467<pc>1002-a<k1>saMtati<k2>saMtati  (reason = Rā-)
+133280 old <div n="lb">Race, lincage. {@5.@} Offspring, Utt. Rā-
+133280 new <div n="lb">Race, lincage. {@5.@} Offspring, Utt.
+;
+133281 old <div n="lb">mac. 166, 8; Hit. 67, 9; a son, a
+133281 new <div n="lb">Rāmac. 166, 8; Hit. 67, 9; a son, a
+;
+; <L>15737<pc>1017-b<k1>saMpAtin<k2>saMpAtin  (reason = Rā-)
+135423 old <div n="lb">adj., f. {%nī,%} Falling together, Utt. Rā-
+135423 new <div n="lb">adj., f. {%nī,%} Falling together, Utt.
+;
+135424 old <div n="lb">mac. 40, 11.
+135424 new <div n="lb">Rāmac. 40, 11.
+;
+; <L>15754<pc>1017-b<k1>saMpradAya<k2>saMpradAya  (reason = Rā-)
+135535 old <div n="lb">knowledge of the celestial arms); Rā-
+135535 new <div n="lb">knowledge of the celestial arms);
+;
+135536 old <div n="lb">jat. 5, 139. {@2.@} A peculiar doctrine and
+135536 new <div n="lb">Rājat. 5, 139. {@2.@} A peculiar doctrine and
+;
+; <L>15761<pc>1017-b<k1>saMprasAda<k2>saMprasAda  (reason = Rā-)
+135581 old <div n="lb">{%-sad + a,%} m. {@1.@} Favour, grace, Utt. Rā-
+135581 new <div n="lb">{%-sad + a,%} m. {@1.@} Favour, grace, Utt.
+;
+135582 old <div n="lb">mac. 42, 5. {@2.@} Serenity, Windisch-
+135582 new <div n="lb">Rāmac. 42, 5. {@2.@} Serenity, Windisch-
+;
+; <L>15780<pc>1020-a<k1>saMBAra<k2>saMBAra  (reason = Rā-)
+135790 old <div n="lb">Multitude, heap, quantity, Utt. Rā-
+135790 new <div n="lb">Multitude, heap, quantity, Utt.
+;
+135791 old <div n="lb">mac. 141, 8; Pañc. i. <ab>d.</ab> 35; Rājat.
+135791 new <div n="lb">Rāmac. 141, 8; Pañc. i. <ab>d.</ab> 35; Rājat.
+;
+; <L>15808<pc>1022-a<k1>sara<k2>sara  (reason = Rā-)
+136029 old <div n="lb">{%ktika-,%} m. a string of pearls, Utt. Rā-
+136029 new <div n="lb">{%ktika-,%} m. a string of pearls, Utt.
+;
+136030 old <div n="lb">mac. 24, 13. -- Cf. <ab>Lat.</ab> serum; <lang n="greek"></lang>
+136030 new <div n="lb">Rāmac. 24, 13. -- Cf. <ab>Lat.</ab> serum; <lang n="greek"></lang>
+;
+; <L>16600<pc>1074-b<k1>sTA<k2>sTA  (reason = Rā-)
+143048 old <div n="lb">Pañc. 30, 5. {@5.@} Guarded, Utt. Rā-
+143048 new <div n="lb">Pañc. 30, 5. {@5.@} Guarded, Utt.
+;
+143049 old <div n="lb">mac. 38, 13. {@6.@} Presiding, Pañc. 97,
+143049 new <div n="lb">Rāmac. 38, 13. {@6.@} Presiding, Pañc. 97,
+;
+; <L>16600<pc>1074-b<k1>sTA<k2>sTA  (reason = Rā-)
+143082 old <div n="lb">{%sthita,%} {@1.@} Standing, Vikr. <ab>d.</ab> 160; Rā-
+143082 new <div n="lb">{%sthita,%} {@1.@} Standing, Vikr. <ab>d.</ab> 160;
+;
+143083 old <div n="lb">jat. 5, 49. {@2.@} Abiding, remaining firm,
+143083 new <div n="lb">Rājat. 5, 49. {@2.@} Abiding, remaining firm,
+;
+; <L>16600<pc>1074-b<k1>sTA<k2>sTA  (reason = Rā-)
+143109 old <div n="lb">Chr. 20, 1. {@9.@} Restrained, Utt. Rā-
+143109 new <div n="lb">Chr. 20, 1. {@9.@} Restrained, Utt.
+;
+143110 old <div n="lb">mac. 135, 8 ({%-viṣaya,%} Of which the
+143110 new <div n="lb">Rāmac. 135, 8 ({%-viṣaya,%} Of which the
+;
+; <L>16600<pc>1074-b<k1>sTA<k2>sTA  (reason = Rā-)
+143223 old <div n="lb">MBh. 3, 1920. {@2.@} Present, Utt. Rā-
+143223 new <div n="lb">MBh. 3, 1920. {@2.@} Present, Utt.
+;
+143224 old <div n="lb">mac. 156, 14. -- With {#samupa#} {%sam-upa,%}
+143224 new <div n="lb">Rāmac. 156, 14. -- With {#samupa#} {%sam-upa,%}
+;
+; <L>16678<pc>1084-a<k1>spanda<k2>spanda  (reason = Rā-)
+144069 old <div n="lb">immovable, Utt. Rāmac. 125, 13; Rā-
+144069 new <div n="lb">immovable, Utt. Rāmac. 125, 13;
+;
+144070 old <div n="lb">jat. 5, 364. {%Sparśa-,%} m. a frog.
+144070 new <div n="lb">Rājat. 5, 364. {%Sparśa-,%} m. a frog.
+;
+; <L>16917<pc>1099-a<k1>svAmin<k2>svAmin  (reason = Rā-)
+146085 old <div n="lb">m. A sanctuary built by Dharma, Rā-
+146085 new <div n="lb">m. A sanctuary built by Dharma,
+;
+146086 old <div n="lb">jat. 4, 696. {%viṣṇu-,%} A sanctuary built
+146086 new <div n="lb">Rājat. 4, 696. {%viṣṇu-,%} A sanctuary built
+;
+; <L>16970<pc>1102-b<k1>han<k2>han  (reason = Rā-)
+146620 old <div n="lb">{%-ud, samuddhata,%} {@1.@} Risen, Utt. Rā-
+146620 new <div n="lb">{%-ud, samuddhata,%} {@1.@} Risen, Utt.
+;
+146621 old <div n="lb">mac. 124, 10. {@2.@} Proud, Śiś. 2, 117;
+146621 new <div n="lb">Rāmac. 124, 10. {@2.@} Proud, Śiś. 2, 117;
+;
+; <L>16990<pc>1106-a<k1>haraRa<k2>haraRa  (reason = Rā-)
+146889 old <div n="lb">{@<ab>Comp.</ab>@} {%Kāla-,%} n. delaying, Utt. Rā-
+146889 new <div n="lb">{@<ab>Comp.</ab>@} {%Kāla-,%} n. delaying, Utt.
+;
+146890 old <div n="lb">mac. 125, 4. {%Go-,%} n. stealing cattle,
+146890 new <div n="lb">Rāmac. 125, 4. {%Go-,%} n. stealing cattle,
+;
+; <L>17021<pc>1107-b<k1>harzaRa<k2>harzaRa  (reason = Rā-)
+147141 old <div n="lb">tion or delight, Chr. 39, 2; Utt. Rā-
+147141 new <div n="lb">tion or delight, Chr. 39, 2; Utt.
+;
+147142 old <div n="lb">mac. 42, 18. {@II.@} n. horripilation.
+147142 new <div n="lb">Rāmac. 42, 18. {@II.@} n. horripilation.
+;
+; <L>17093<pc>1113-a<k1>hAsa<k2>hAsa  (reason = Rā-)
+147793 old <div n="lb">66, 5; {%ºsam,%} adv. scornfully, Utt. Rā-
+147793 new <div n="lb">66, 5; {%ºsam,%} adv. scornfully, Utt.
+;
+147794 old <div n="lb">mac. 136, 1.
+147794 new <div n="lb">Rāmac. 136, 1.
+;
+; <L>17185<pc>1117-b<k1>hf<k2>hf  (reason = Rā-)
+148473 old <div n="lb">Lost, Lass. 21, 19. {@2.@} Fascinated, Rā-
+148473 new <div n="lb">Lost, Lass. 21, 19. {@2.@} Fascinated,
+;
+148474 old <div n="lb">jat. 5, 367. -- With {#anu#} {%anu,%} To imitate.
+148474 new <div n="lb">Rājat. 5, 367. -- With {#anu#} {%anu,%} To imitate.
+;
+; <L>17278<pc>1125-a<k1>hrada<k2>hrada  (reason = Rā-)
+149378 old <div n="lb">{@1.@} A large piece of water, Utt. Rā-
+149378 new <div n="lb">{@1.@} A large piece of water, Utt.
+;
+149379 old <div n="lb">mac. 53, 9; a deep lake, Pañc. 159,
+149379 new <div n="lb">Rāmac. 53, 9; a deep lake, Pañc. 159,
+;
+; ADDENDA  (reason = Rā-)
+149729 old <div n="lb">{%tas,%} adv. Another time, Utt. Rā-
+149729 new <div n="lb">{%tas,%} adv. Another time, Utt.
+;
+149730 old <div n="lb">mac. 42, 7.
+149730 new <div n="lb">Rāmac. 42, 7.
+;
+; ADDENDA  (reason = Rā-)
+150116 old <div n="lb">companied by spitting, Utt. Rā-
+150116 new <div n="lb">companied by spitting, Utt.
+;
+150117 old <div n="lb">mac. 45, 2. {@2.@} Spit on, Mālat.
+150117 new <div n="lb">Rāmac. 45, 2. {@2.@} Spit on, Mālat.
+;
+; ADDENDA  (reason = Rā-)
+150408 old <div n="lb">{%dumāyita,%} n. Sound, Utt. Rā-
+150408 new <div n="lb">{%dumāyita,%} n. Sound, Utt.
+;
+150409 old <div n="lb">mac. 140, 2.
+150409 new <div n="lb">Rāmac. 140, 2.
+;
+; --------------------------------------------------------------
+;  hyphen = Śṛṅ-, 3 instances
+; --------------------------------------------------------------
+; <L>3158<pc>0172-a<k1>kastUrikA<k2>kastUrikA  (reason = Śṛṅ-)
+24506 old <div n="lb">{%kastūrī,%} f. Musk, Pañc. 47, 8; Śṛṅ-
+24506 new <div n="lb">{%kastūrī,%} f. Musk, Pañc. 47, 8;
+;
+24507 old <div n="lb">gārat. 7.
+24507 new <div n="lb">Śṛṅgārat. 7.
+;
+; <L>4328<pc>0256-b<k1>gamana<k2>gamana  (reason = Śṛṅ-)
+35271 old {#gamana#}¦ {%gam + ana,%} n. {@1.@} Gait, Śṛṅ-
+35271 new {#gamana#}¦ {%gam + ana,%} n. {@1.@} Gait,
+;
+35272 old <div n="lb">gārat. 7. {@2.@} Going, Rām. 1, 9, 40. {@3.@}
+35272 new <div n="lb">Śṛṅgārat. 7. {@2.@} Going, Rām. 1, 9, 40. {@3.@}
+;
+; <L>14597<pc>0941-b<k1>SAnti<k2>SAnti  (reason = Śṛṅ-)
+125372 old <div n="lb">3; remission, alleviation, soothing, Śṛṅ-
+125372 new <div n="lb">3; remission, alleviation, soothing,
+;
+125373 old <div n="lb">gārat. 14; Śāk. 31, 11; Vikr. <ab>d.</ab> 24. {@6.@}
+125373 new <div n="lb">Śṛṅgārat. 14; Śāk. 31, 11; Vikr. <ab>d.</ab> 24. {@6.@}
+;
+; --------------------------------------------------------------
+;  hyphen = Mahā-, 2 instances
+; --------------------------------------------------------------
+; <L>4569<pc>0271-a<k1>gE<k2>gE  (reason = Mahā-)
+37257 old <div n="lb">the name of an episode of the Mahā-
+37257 new <div n="lb">the name of an episode of the
+;
+37258 old <div n="lb">bhārata. -- Ptcple. of the fut. pass. {%geya,%}
+37258 new <div n="lb">Mahābhārata. -- Ptcple. of the fut. pass. {%geya,%}
+;
+; <L>16522<pc>1069-a<k1>stamB<k2>stamB  (reason = Mahā-)
+142263 old <div n="lb">229, verse 178. {@2.@} To rest on, Mahā-
+142263 new <div n="lb">229, verse 178. {@2.@} To rest on,
+;
+142264 old <div n="lb">vīrac. 74, 5. {@3.@} To rely on, Bhag.
+142264 new <div n="lb">Mahāvīrac. 74, 5. {@3.@} To rely on, Bhag.
+;
+; --------------------------------------------------------------
+;  hyphen = Mā-, 11 instances
+; --------------------------------------------------------------
+; <L>7153<pc>0453-a<k1>naktaMdina<k2>naktaMdina  (reason = Mā-)
+60684 old <div n="lb">{%-dina,%} {@1.@} n. sing. Day and night, Mā-
+60684 new <div n="lb">{%-dina,%} {@1.@} n. sing. Day and night,
+;
+60685 old <div n="lb">lav. <ab>d.</ab> 88. {@2.@} {%ºnam,%} adv. By day and
+60685 new <div n="lb">Mālav. <ab>d.</ab> 88. {@2.@} {%ºnam,%} adv. By day and
+;
+; <L>10332<pc>0634-a<k1>buD<k2>buD  (reason = Mā-)
+85798 old <div n="lb">Awake. {@2.@} Opened (as a flower), Mā-
+85798 new <div n="lb">Awake. {@2.@} Opened (as a flower),
+;
+85799 old <div n="lb">lav. <ab>d.</ab> 60. <ab>Caus.</ab> {@1.@} To awaken. {@2.@}
+85799 new <div n="lb">Mālav. <ab>d.</ab> 60. <ab>Caus.</ab> {@1.@} To awaken. {@2.@}
+;
+; <L>12340<pc>0789-a<k1>lamb<k2>lamb  (reason = Mā-)
+105308 old <div n="lb"><ab>d.</ab> 143, M.M. <ab>Caus.</ab> To support, Mā-
+105308 new <div n="lb"><ab>d.</ab> 143, M.M. <ab>Caus.</ab> To support,
+;
+105309 old <div n="lb">lav. 31, 2; to hold, 42, 6. -- With {#samava#}
+105309 new <div n="lb">Mālav. 31, 2; to hold, 42, 6. -- With {#samava#}
+;
+; <L>15101<pc>0977-a<k1>Svas<k2>Svas  (reason = Mā-)
+130048 old <div n="lb">21. -- With {#ud#} {%ud,%} {@1.@} To exhale, Mā-
+130048 new <div n="lb">21. -- With {#ud#} {%ud,%} {@1.@} To exhale,
+;
+130049 old <div n="lb">lat, 12, 15. {@2.@} To breathe, Man. 3, 72.
+130049 new <div n="lb">Mālat, 12, 15. {@2.@} To breathe, Man. 3, 72.
+;
+; <L>16169<pc>1046-a<k1>siv<k2>siv  (reason = Mā-)
+139197 old <div n="lb">cf. the pf. pass. {%syūta.%} {@1.@} Sewn, Mā-
+139197 new <div n="lb">cf. the pf. pass. {%syūta.%} {@1.@} Sewn,
+;
+139198 old <div n="lb">lat. 77, 4; stitched, joined, made, Prab.
+139198 new <div n="lb">Mālat. 77, 4; stitched, joined, made, Prab.
+;
+; <L>16743<pc>1088-b<k1>sPur<k2>sPur  (reason = Mā-)
+144636 old <div n="lb">{@3.@} Glittering, Megh. 15; shining, Mā-
+144636 new <div n="lb">{@3.@} Glittering, Megh. 15; shining,
+;
+144637 old <div n="lb">lat. 40, 10. {@4.@} Swollen. n. {@1.@} Trem-
+144637 new <div n="lb">Mālat. 40, 10. {@4.@} Swollen. n. {@1.@} Trem-
+;
+; <L>17229<pc>1123-a<k1>heramba<k2>heramba  (reason = Mā-)
+149063 old {#heramba#}¦ {%heramba,%} m. {@1.@} Gaṇeśa, Mā-
+149063 new {#heramba#}¦ {%heramba,%} m. {@1.@} Gaṇeśa,
+;
+149064 old <div n="lb">lat. 144, 21. {@2.@} A buffalo. {@3.@} A proud
+149064 new <div n="lb">Mālat. 144, 21. {@2.@} A buffalo. {@3.@} A proud
+;
+; ADDENDA  (reason = Mā-)
+149739 old <div n="lb">{%apa-hasta,%} Lost, scorned (?), Mā-
+149739 new <div n="lb">{%apa-hasta,%} Lost, scorned (?),
+;
+149740 old <div n="lb">lat. 149, 9.
+149740 new <div n="lb">Mālat. 149, 9.
+;
+; ADDENDA  (reason = Mā-)
+149795 old <div n="lb">fail, not to be disappointed, Mā-
+149795 new <div n="lb">fail, not to be disappointed,
+;
+149796 old <div n="lb">lat. 107, 4.
+149796 new <div n="lb">Mālat. 107, 4.
+;
+; ADDENDA  (reason = Mā-)
+150515 old <HI>502, A, 4 bel., add. (after tiara), Mā-
+150515 new <HI>502, A, 4 bel., add. (after tiara),
+;
+150516 old <div n="lb">lat. 150, 7; cf. Wilson, Th. of
+150516 new <div n="lb">Mālat. 150, 7; cf. Wilson, Th. of
+;
+; ADDENDA  (reason = Mā-)
+151150 old <HI>791, A, 2 bel., add. (after river), Mā-
+151150 new <HI>791, A, 2 bel., add. (after river),
+;
+151151 old <div n="lb">lat. 144, 12.
+151151 new <div n="lb">Mālat. 144, 12.
+;
+; --------------------------------------------------------------
+;  hyphen = Mṛ-, 1 instances
+; --------------------------------------------------------------
+; <L>8344<pc>0526-a<k1>parimokzaRa<k2>parimokzaRa  (reason = Mṛ-)
+70555 old <div n="lb">{%-moksh + ana,%} n. {@1.@} Liberation, Mṛ-
+70555 new <div n="lb">{%-moksh + ana,%} n. {@1.@} Liberation,
+;
+70556 old <div n="lb">cch. 67, 19. {@2.@} Deliverance from
+70556 new <div n="lb">Mṛcch. 67, 19. {@2.@} Deliverance from
+;
+; --------------------------------------------------------------
+;  hyphen = Bṛ-, 1 instances
+; --------------------------------------------------------------
+; <L>10752<pc>0671-b<k1>BrAnti<k2>BrAnti  (reason = Bṛ-)
+90282 old <div n="lb"><ab>d.</ab> 4. {@2.@} Wandering. {@3.@} Error, Bṛ-
+90282 new <div n="lb"><ab>d.</ab> 4. {@2.@} Wandering. {@3.@} Error,
+;
+90283 old <div n="lb">haspati ap. Cowell, Kuśumāñjali, transl.
+90283 new <div n="lb">Bṛhaspati ap. Cowell, Kuśumāñjali, transl.
+;
+; --------------------------------------------------------------
+;  hyphen = Kumā-, 1 instances
+; --------------------------------------------------------------
+; <L>11351<pc>0709-b<k1>muKa<k2>muKa  (reason = Kumā-)
+95421 old <div n="lb">turned upward; turned upward, Kumā-
+95421 new <div n="lb">turned upward; turned upward,
+;
+95422 old <div n="lb">ras. 1, 16. {%Ṛtu-,%} n. the commencement,
+95422 new <div n="lb">Kumāras. 1, 16. {%Ṛtu-,%} n. the commencement,
+;
+; --------------------------------------------------------------
+;  hyphen = Kā-, 2 instances
+; --------------------------------------------------------------
+; <L>11868<pc>0750-b<k1>yoni<k2>yoni  (reason = Kā-)
+100529 old <div n="lb">vatī, Vikr. <ab>d.</ab> 128. {%Saṃkalpa-,%} m. Kā-
+100529 new <div n="lb">vatī, Vikr. <ab>d.</ab> 128. {%Saṃkalpa-,%} m.
+;
+100530 old <div n="lb">madeva. {%Sva-,%} {@I.@} adj. related by kin,
+100530 new <div n="lb">Kāmadeva. {%Sva-,%} {@I.@} adj. related by kin,
+;
+; <L>12644<pc>0809-b<k1>vata<k2>vata  (reason = Kā-)
+107959 old <div n="lb">passion. {@3.@} Pleasure. {@4.@} Surprise, Kā-
+107959 new <div n="lb">passion. {@3.@} Pleasure. {@4.@} Surprise,
+;
+107960 old <div n="lb">vya Prak. 80, 7. {@5.@} A vocative particle.
+107960 new <div n="lb">Kāvya Prak. 80, 7. {@5.@} A vocative particle.
+;
