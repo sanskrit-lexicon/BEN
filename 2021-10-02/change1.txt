@@ -1,0 +1,566 @@
+1751 old <div n="lb">2, 169 ({%deśa-kāla-atipattau,%} ‘ṣould
+1751 new <div n="lb">2, 169 ({%deśa-kāla-atipattau,%} ‘should
+; ----
+14385 old <div n="lb">‘ṣe is the daughter of Bhīma’; <ls>Nal.</ls>
+14385 new <div n="lb">‘she is the daughter of Bhīma’; <ls>Nal.</ls>
+; ----
+26572 old <div n="lb">ṣaped? <ls>Pañc.</ls> 258, 13. {%kiṃcid%} is
+26572 new <div n="lb">shaped? <ls>Pañc.</ls> 258, 13. {%kiṃcid%} is
+; ----
+34343 old <div n="lb">of the <ab>vb.</ab> is probably ‘to ṣine’); <ab>A.S.</ab>
+34343 new <div n="lb">of the <ab>vb.</ab> is probably ‘to shine’); <ab>A.S.</ab>
+; ---- sha-dowless
+43036 old <div n="lb">dark, <ls>MBh.</ls> 4, 1878. {%Vi-,%} {@I.@} <ab>adj.</ab> ṣa-
+43036 new <div n="lb">dark, <ls>MBh.</ls> 4, 1878. {%Vi-,%} {@I.@} <ab>adj.</ab> sha-
+; ----
+49429 old {#tIkzRatA#}¦ {%tīkṣṇa + tā,%} <ab>f.</ab> Ṣarpness,
+49429 new {#tIkzRatA#}¦ {%tīkṣṇa + tā,%} <ab>f.</ab> Sharpness,
+; ----
+50521 old <div n="lb"><ab>n.</ab> {@1.@} Ṣarpness, <ls>Śāk.</ls> 32, 5, <ab>v. r.</ab> {@2.@}
+50521 new <div n="lb"><ab>n.</ab> {@1.@} Sharpness, <ls>Śāk.</ls> 32, 5, <ab>v. r.</ab> {@2.@}
+; ----
+52990 old <div n="lb">iṣ, <ls>Pañc.</ls> i. <ab>d.</ab> 180. {%Dus-,%} <ab>adj.</ab> 1.
+52990 new <div n="lb">ish, <ls>Pañc.</ls> i. <ab>d.</ab> 180. {%Dus-,%} <ab>adj.</ab> 1.
+; ----
+58208 old <div n="lb"><ab>adj.</ab> puniṣing, <ls>Bhāg. P.</ls> 4, 13, 22. {%Dus-,%}
+58208 new <div n="lb"><ab>adj.</ab> punishing, <ls>Bhāg. P.</ls> 4, 13, 22. {%Dus-,%}
+; ----
+59438 old <div n="lb"><ls>MBh.</ls> 2, 784. {@2.@} <ab>f.</ab> {%rī,%} A fiṣerman's
+59438 new <div n="lb"><ls>MBh.</ls> 2, 784. {@2.@} <ab>f.</ab> {%rī,%} A fisherman's
+; ----
+63314 old <div n="lb">prickly nightṣade, Solanum Jacquini
+63314 new <div n="lb">prickly nightshade, Solanum Jacquini
+; ----
+72316 old <div n="lb">Ṣarpness, energy. {@2.@} Cleverness, dex-
+72316 new <div n="lb">Sharpness, energy. {@2.@} Cleverness, dex-
+; ----
+88402 old <div n="lb">of prickly nightṣade. {@4.@} A centi-
+88402 new <div n="lb">of prickly nightshade. {@4.@} A centi-
+; ----
+100315 old <div n="lb">means of puniṣment: {%niyata-viṣaya%}
+100315 new <div n="lb">means of punishment: {%niyata-viṣaya%}
+; ----
+101009 old <div n="lb">{@II.@} <ab>f.</ab> {%kī.%} {@1.@} A waṣerman's wife. {@2.@}
+101009 new <div n="lb">{@II.@} <ab>f.</ab> {%kī.%} {@1.@} A washerman's wife. {@2.@}
+; ----
+103415 old <div n="lb">{%ruddhā dṛṣṭiḥ,%} ‘His eye is ṣut’).
+103415 new <div n="lb">{%ruddhā dṛṣṭiḥ,%} ‘His eye is shut’).
+; ----
+107079 old <div n="lb">(potṣerd?). {@II.@} n. Rust of iron.
+107079 new <div n="lb">(potsherd?). {@II.@} n. Rust of iron.
+; ----
+111140 old <div n="lb">calm. 2. ṣeltered from the wind, <ls>Hit.</ls>
+111140 new <div n="lb">calm. 2. sheltered from the wind, <ls>Hit.</ls>
+; ----
+132556 old <div n="lb">1. ready-minded. 2. dīstinguiṣed by
+132556 new <div n="lb">1. ready-minded. 2. dīstinguished by
+; ---- false positive Mārgaśīr-ṣa
+;136760 old <div n="lb">ṣa (November -- December). {@IV.@} <ab>f.</ab>
+;136760 new <div n="lb">sha (November -- December). {@IV.@} <ab>f.</ab>
+; ----
+146544 old <div n="lb">‘not yet waṣed’). {%Manohata,%} <ab>i. e.</ab>
+146544 new <div n="lb">‘not yet washed’). {%Manohata,%} <ab>i. e.</ab>
+; ----
+146639 old <div n="lb">luted, tarniṣed, <ls>Śāk.</ls> <ab>d.</ab> 191. {@7.@} Im-
+146639 new <div n="lb">luted, tarnished, <ls>Śāk.</ls> <ab>d.</ab> 191. {@7.@} Im-
+; ----
+148427 old <div n="lb">to ‘Be silent,’ Tuṣ! {@7.@} Of aversion.
+148427 new <div n="lb">to ‘Be silent,’ Tush! {@7.@} Of aversion.
+; ----
+150499 old <div n="lb"><ls>Utt. Rāmac.</ls> 39, 3 (For ṣame!
+150499 new <div n="lb"><ls>Utt. Rāmac.</ls> 39, 3 (For shame!
+; ----
+; ------------------------------------------------------
+; additional corrections  print change. confer mUzika
+; <L>10424<pc>0642-a<k1>BaRqila<k2>BaRqila
+86698 old <div n="lb">A tree, Mimosa siriṣa.
+86698 new <div n="lb">A tree, Mimosa śirīṣa.
+;
+; <L>6633<pc>0410-b<k1>dUratva<k2>dUratva
+55457 old <div n="lb">Bhāṣap. 130.
+55457 new <div n="lb">Bhāṣāp. 130.
+;
+; <L>14769<pc>0953-b<k1>Sukra<k2>Sukra
+126983 old <div n="lb">{@3.@} The month Jyeṣṭhā (May -- June),
+126983 new <div n="lb">{@3.@} The month Jyeṣṭha (May -- June),
+;
+; Kriṣṇa -> Kṛṣṇa
+2575 old <div n="lb"><ab>m.</ab> epithet of Kriṣṇa-Viṣṇu (the
+2575 new <div n="lb"><ab>m.</ab> epithet of Kṛṣṇa-Viṣṇu (the
+52875 old <div n="lb">of Kriṣṇa, <ls>MBh.</ls> 13, 7003.
+52875 new <div n="lb">of Kṛṣṇa, <ls>MBh.</ls> 13, 7003.
+54754 old <div n="lb">A name of Kriṣṇa, <ls>MBh.</ls> 12, 1511.
+54754 new <div n="lb">A name of Kṛṣṇa, <ls>MBh.</ls> 12, 1511.
+138320 old <div n="lb">fiddle. {@ -- <ab>Comp.</ab>@} {%Kriṣṇa-,%} {@I.@} <ab>adj.</ab> black-
+138320 new <div n="lb">fiddle. {@ -- <ab>Comp.</ab>@} {%Kṛṣṇa-,%} {@I.@} <ab>adj.</ab> black-
+;
+21307 old <div n="lb">Kṛṣna, or Viṣṇu, <ls>MBh.</ls> 12, 1508.
+21307 new <div n="lb">Kṛṣṇa, or Viṣṇu, <ls>MBh.</ls> 12, 1508.
+;
+;
+99803 old <div n="lb">the universal spirit, Rhāṣāp. 64. {@7.@}
+99803 new <div n="lb">the universal spirit, Bhāṣāp. 64. {@7.@}
+;
+51715 old <div n="lb">power of Tvaṣtṛ, <ls>Bhāg. P.</ls> 8, 11, 35.
+51715 new <div n="lb">power of Tvaṣṭṛ, <ls>Bhāg. P.</ls> 8, 11, 35.
+;
+61084 old <div n="lb">{%+ in,%} <ab>m.</ab> A name of Viṣnu (possessed
+61084 new <div n="lb">{%+ in,%} <ab>m.</ab> A name of Viṣṇu (possessed
+146739 old <div n="lb">{%grīvā%}), <ab>m.</ab> Viṣnu.
+146739 new <div n="lb">{%grīvā%}), <ab>m.</ab> Viṣṇu.
+;ê  -> e10 in Page.
+133383 old {%[Pagê03-a+ 40]%}
+133383 new [Page1003-a+ 40]
+133454 old {#[Pagê03-b+ 43]#}
+133454 new [Page1003-b+ 43]
+134740 old {%[Pagê13-a+ 40]%}
+134740 new [Page1013-a+ 40]
+134970 old {%[Pagê14-b+ 41]%}
+134970 new [Page1014-b+ 41]
+135120 old {%[Pagê15-b+ 41]%}
+135120 new [Page1015-b+ 41]
+135269 old {%[Pagê16-b+ 41]%}
+135269 new [Page1016-b+ 41]
+135481 old {%[Pagê18-a+ 40]%}
+135481 new [Page1018-a+ 40]
+135555 old {%[Pagê18-b+ 39]%}
+135555 new [Page1018-b+ 39]
+136377 old {%[Pagê24-b+ 41]%}
+136377 new [Page1024-b+ 41]
+136721 old {%[Pagê27-a+ 42]%}
+136721 new [Page1027-a+ 42]
+137909 old {%[Pagê36-a+ 43]%}
+137909 new [Page1036-a+ 43]
+138559 old {%[Pagê41-a+ 41]%}
+138559 new [Page1041-a+ 41]
+140162 old {@[Pagê53-a+ 42]@}
+140162 new [Page1053-a+ 42]
+141246 old {%[Pagê62-a+ 41]%}
+141246 new [Page1062-a+ 41]
+143604 old {@[Pagê81-a+ 44]@}
+143604 new [Page1081-a+ 44]
+; ---------------------------------------------------------------
+; Corrections to <pc>
+; -----------------------------------------------------
+; 1002-b -> 1003-a (11 changes)
+133390 old <L>15481<pc>1002-b<k1>saMdarSana<k2>saMdarSana
+133390 new <L>15481<pc>1003-a<k1>saMdarSana<k2>saMdarSana
+;
+133401 old <L>15482<pc>1002-b<k1>saMdAna<k2>saMdAna
+133401 new <L>15482<pc>1003-a<k1>saMdAna<k2>saMdAna
+;
+133409 old <L>15483<pc>1002-b<k1>saMdAnita<k2>saMdAnita
+133409 new <L>15483<pc>1003-a<k1>saMdAnita<k2>saMdAnita
+;
+133414 old <L>15484<pc>1002-b<k1>saMdAninI<k2>saMdAninI
+133414 new <L>15484<pc>1003-a<k1>saMdAninI<k2>saMdAninI
+;
+133419 old <L>15485<pc>1002-b<k1>saMdAva<k2>saMdAva
+133419 new <L>15485<pc>1003-a<k1>saMdAva<k2>saMdAva
+;
+133425 old <L>15486<pc>1002-b<k1>saMdIpana<k2>saMdIpana
+133425 new <L>15486<pc>1003-a<k1>saMdIpana<k2>saMdIpana
+;
+133433 old <L>15487<pc>1002-b<k1>saMdUzaRa<k2>saMdUzaRa
+133433 new <L>15487<pc>1003-a<k1>saMdUzaRa<k2>saMdUzaRa
+;
+133439 old <L>15488<pc>1002-b<k1>saMdeSa<k2>saMdeSa
+133439 new <L>15488<pc>1003-a<k1>saMdeSa<k2>saMdeSa
+;
+133447 old <L>15489<pc>1002-b<k1>saMdeSaka<k2>saMdeSaka
+133447 new <L>15489<pc>1003-a<k1>saMdeSaka<k2>saMdeSaka
+;
+133452 old <L>15490<pc>1002-b<k1>saMdeSahara<k2>saMdeSahara
+133452 new <L>15490<pc>1003-a<k1>saMdeSahara<k2>saMdeSahara
+;
+133460 old <L>15491<pc>1002-b<k1>saMdeha<k2>saMdeha
+133460 new <L>15491<pc>1003-a<k1>saMdeha<k2>saMdeha
+;
+; -----------------------------------------------------
+; 1002-b -> 1003-b (5 changes)
+133469 old <L>15492<pc>1002-b<k1>saMdehadolAsTa<k2>saMdehadolAsTa
+133469 new <L>15492<pc>1003-b<k1>saMdehadolAsTa<k2>saMdehadolAsTa
+;
+133475 old <L>15493<pc>1002-b<k1>saMdoha<k2>saMdoha
+133475 new <L>15493<pc>1003-b<k1>saMdoha<k2>saMdoha
+;
+133480 old <L>15494<pc>1002-b<k1>saMdrAva<k2>saMdrAva
+133480 new <L>15494<pc>1003-b<k1>saMdrAva<k2>saMdrAva
+;
+133485 old <L>15495<pc>1002-b<k1>saMDA<k2>saMDA
+133485 new <L>15495<pc>1003-b<k1>saMDA<k2>saMDA
+;
+133503 old <L>15496<pc>1002-b<k1>saMDAna<k2>saMDAna
+133503 new <L>15496<pc>1003-b<k1>saMDAna<k2>saMDAna
+;
+; -----------------------------------------------------
+; 1012-b -> 1013-a (12 changes)
+134745 old <L>15640<pc>1012-b<k1>samAveSa<k2>samAveSa
+134745 new <L>15640<pc>1013-a<k1>samAveSa<k2>samAveSa
+;
+134751 old <L>15641<pc>1012-b<k1>samASraya<k2>samASraya
+134751 new <L>15641<pc>1013-a<k1>samASraya<k2>samASraya
+;
+134758 old <L>15642<pc>1012-b<k1>samASleza<k2>samASleza
+134758 new <L>15642<pc>1013-a<k1>samASleza<k2>samASleza
+;
+134763 old <L>15643<pc>1012-b<k1>samASvAsa<k2>samASvAsa
+134763 new <L>15643<pc>1013-a<k1>samASvAsa<k2>samASvAsa
+;
+134768 old <L>15644<pc>1012-b<k1>samASvAsana<k2>samASvAsana
+134768 new <L>15644<pc>1013-a<k1>samASvAsana<k2>samASvAsana
+;
+134775 old <L>15645<pc>1012-b<k1>samAsa<k2>samAsa
+134775 new <L>15645<pc>1013-a<k1>samAsa<k2>samAsa
+;
+134784 old <L>15646<pc>1012-b<k1>samAsakti<k2>samAsakti
+134784 new <L>15646<pc>1013-a<k1>samAsakti<k2>samAsakti
+;
+134790 old <L>15647<pc>1012-b<k1>samAsajjana<k2>samAsajjana
+134790 new <L>15647<pc>1013-a<k1>samAsajjana<k2>samAsajjana
+;
+134796 old <L>15648<pc>1012-b<k1>samAsatas<k2>samAsatas
+134796 new <L>15648<pc>1013-a<k1>samAsatas<k2>samAsatas
+;
+134801 old <L>15649<pc>1012-b<k1>samAsavant<k2>samAsavant
+134801 new <L>15649<pc>1013-a<k1>samAsavant<k2>samAsavant
+;
+134807 old <L>15650<pc>1012-b<k1>samAsTa<k2>samAsTa
+134807 new <L>15650<pc>1013-a<k1>samAsTa<k2>samAsTa
+;
+134813 old <L>15651<pc>1012-b<k1>samAharaRa<k2>samAharaRa
+134813 new <L>15651<pc>1013-a<k1>samAharaRa<k2>samAharaRa
+;
+; -----------------------------------------------------
+; 1014-a -> 1014-b (11 changes)
+134975 old <L>15675<pc>1014-a<k1>samIraRa<k2>samIraRa
+134975 new <L>15675<pc>1014-b<k1>samIraRa<k2>samIraRa
+;
+134983 old <L>15676<pc>1014-a<k1>samukzaRa<k2>samukzaRa
+134983 new <L>15676<pc>1014-b<k1>samukzaRa<k2>samukzaRa
+;
+134988 old <L>15677<pc>1014-a<k1>samuccaya<k2>samuccaya
+134988 new <L>15677<pc>1014-b<k1>samuccaya<k2>samuccaya
+;
+134995 old <L>15678<pc>1014-a<k1>samucCeda<k2>samucCeda
+134995 new <L>15678<pc>1014-b<k1>samucCeda<k2>samucCeda
+;
+135001 old <L>15679<pc>1014-a<k1>samucCraya<k2>samucCraya
+135001 new <L>15679<pc>1014-b<k1>samucCraya<k2>samucCraya
+;
+135007 old <L>15680<pc>1014-a<k1>samucCrAya<k2>samucCrAya
+135007 new <L>15680<pc>1014-b<k1>samucCrAya<k2>samucCrAya
+;
+135012 old <L>15681<pc>1014-a<k1>samutkarza<k2>samutkarza
+135012 new <L>15681<pc>1014-b<k1>samutkarza<k2>samutkarza
+;
+135018 old <L>15682<pc>1014-a<k1>samutkrama<k2>samutkrama
+135018 new <L>15682<pc>1014-b<k1>samutkrama<k2>samutkrama
+;
+135023 old <L>15683<pc>1014-a<k1>samutkroSa<k2>samutkroSa
+135023 new <L>15683<pc>1014-b<k1>samutkroSa<k2>samutkroSa
+;
+135029 old <L>15684<pc>1014-a<k1>samutTa<k2>samutTa
+135029 new <L>15684<pc>1014-b<k1>samutTa<k2>samutTa
+;
+135036 old <L>15685<pc>1014-a<k1>samutTAna<k2>samutTAna
+135036 new <L>15685<pc>1014-b<k1>samutTAna<k2>samutTAna
+;
+; -----------------------------------------------------
+; 1015-a -> 1015-b (10 changes)
+135126 old <L>15697<pc>1015-a<k1>samudAgama<k2>samudAgama
+135126 new <L>15697<pc>1015-b<k1>samudAgama<k2>samudAgama
+;
+135131 old <L>15698<pc>1015-a<k1>samudAcAra<k2>samudAcAra
+135131 new <L>15698<pc>1015-b<k1>samudAcAra<k2>samudAcAra
+;
+135138 old <L>15699<pc>1015-a<k1>samudAya<k2>samudAya
+135138 new <L>15699<pc>1015-b<k1>samudAya<k2>samudAya
+;
+135142 old <L>15700<pc>1015-a<k1>samudIraRa<k2>samudIraRa
+135142 new <L>15700<pc>1015-b<k1>samudIraRa<k2>samudIraRa
+;
+135148 old <L>15701<pc>1015-a<k1>samudga<k2>samudga
+135148 new <L>15701<pc>1015-b<k1>samudga<k2>samudga
+;
+135155 old <L>15702<pc>1015-a<k1>samudgaka<k2>samudgaka
+135155 new <L>15702<pc>1015-b<k1>samudgaka<k2>samudgaka
+;
+135160 old <L>15703<pc>1015-a<k1>samuddeSa<k2>samuddeSa
+135160 new <L>15703<pc>1015-b<k1>samuddeSa<k2>samuddeSa
+;
+135166 old <L>15704<pc>1015-a<k1>samudDaraRa<k2>samudDaraRa
+135166 new <L>15704<pc>1015-b<k1>samudDaraRa<k2>samudDaraRa
+;
+135174 old <L>15705<pc>1015-a<k1>samudDartf<k2>samudDartf
+135174 new <L>15705<pc>1015-b<k1>samudDartf<k2>samudDartf
+;
+135181 old <L>15706<pc>1015-a<k1>samudBava<k2>samudBava
+135181 new <L>15706<pc>1015-b<k1>samudBava<k2>samudBava
+;
+; -----------------------------------------------------
+; 1016-a -> 1016-b (10 changes)
+135274 old <L>15719<pc>1016-a<k1>samupArjana<k2>samupArjana
+135274 new <L>15719<pc>1016-b<k1>samupArjana<k2>samupArjana
+;
+135280 old <L>15720<pc>1016-a<k1>samUra<k2>samUra
+135280 new <L>15720<pc>1016-b<k1>samUra<k2>samUra
+;
+135285 old <L>15721<pc>1016-a<k1>samUha<k2>samUha
+135285 new <L>15721<pc>1016-b<k1>samUha<k2>samUha
+;
+135293 old <L>15722<pc>1016-a<k1>samUhana<k2>samUhana
+135293 new <L>15722<pc>1016-b<k1>samUhana<k2>samUhana
+;
+135299 old <L>15723<pc>1016-a<k1>samfdDi<k2>samfdDi
+135299 new <L>15723<pc>1016-b<k1>samfdDi<k2>samfdDi
+;
+135310 old <L>15724<pc>1016-a<k1>samfdDin<k2>samfdDin
+135310 new <L>15724<pc>1016-b<k1>samfdDin<k2>samfdDin
+;
+135316 old <L>15725<pc>1016-a<k1>samokas<k2>samokas
+135316 new <L>15725<pc>1016-b<k1>samokas<k2>samokas
+;
+135321 old <L>15726<pc>1016-a<k1>samodaka<k2>samodaka
+135321 new <L>15726<pc>1016-b<k1>samodaka<k2>samodaka
+;
+135327 old <L>15727<pc>1016-a<k1>saMpatti<k2>saMpatti
+135327 new <L>15727<pc>1016-b<k1>saMpatti<k2>saMpatti
+;
+135336 old <L>15728<pc>1016-a<k1>saMpad<k2>saMpad
+135336 new <L>15728<pc>1016-b<k1>saMpad<k2>saMpad
+;
+; -----------------------------------------------------
+; 1017-b -> 1018-a (11 changes)
+135486 old <L>15747<pc>1017-b<k1>saMpratApana<k2>saMpratApana
+135486 new <L>15747<pc>1018-a<k1>saMpratApana<k2>saMpratApana
+;
+135493 old <L>15748<pc>1017-b<k1>saMprati<k2>saMprati
+135493 new <L>15748<pc>1018-a<k1>saMprati<k2>saMprati
+;
+135499 old <L>15749<pc>1017-b<k1>saMpratipatti<k2>saMpratipatti
+135499 new <L>15749<pc>1018-a<k1>saMpratipatti<k2>saMpratipatti
+;
+135507 old <L>15750<pc>1017-b<k1>saMpratiroDaka<k2>saMpratiroDaka
+135507 new <L>15750<pc>1018-a<k1>saMpratiroDaka<k2>saMpratiroDaka
+;
+135513 old <L>15751<pc>1017-b<k1>saMpratIti<k2>saMpratIti
+135513 new <L>15751<pc>1018-a<k1>saMpratIti<k2>saMpratIti
+;
+135518 old <L>15752<pc>1017-b<k1>saMpradAtf<k2>saMpradAtf
+135518 new <L>15752<pc>1018-a<k1>saMpradAtf<k2>saMpradAtf
+;
+135523 old <L>15753<pc>1017-b<k1>saMpradAna<k2>saMpradAna
+135523 new <L>15753<pc>1018-a<k1>saMpradAna<k2>saMpradAna
+;
+135530 old <L>15754<pc>1017-b<k1>saMpradAya<k2>saMpradAya
+135530 new <L>15754<pc>1018-a<k1>saMpradAya<k2>saMpradAya
+;
+135540 old <L>15755<pc>1017-b<k1>saMpraDAraRA<k2>saMpraDAraRA
+135540 new <L>15755<pc>1018-a<k1>saMpraDAraRA<k2>saMpraDAraRA
+;
+135547 old <L>15756<pc>1017-b<k1>saMpramoza<k2>saMpramoza
+135547 new <L>15756<pc>1018-a<k1>saMpramoza<k2>saMpramoza
+;
+135553 old <L>15757<pc>1017-b<k1>saMprayoga<k2>saMprayoga
+135553 new <L>15757<pc>1018-a<k1>saMprayoga<k2>saMprayoga
+;
+; -----------------------------------------------------
+; 1017-b -> 1018-b (11 changes)
+135562 old <L>15758<pc>1017-b<k1>saMprayogin<k2>saMprayogin
+135562 new <L>15758<pc>1018-b<k1>saMprayogin<k2>saMprayogin
+;
+135569 old <L>15759<pc>1017-b<k1>saMpraveSa<k2>saMpraveSa
+135569 new <L>15759<pc>1018-b<k1>saMpraveSa<k2>saMpraveSa
+;
+135574 old <L>15760<pc>1017-b<k1>saMpraSna<k2>saMpraSna
+135574 new <L>15760<pc>1018-b<k1>saMpraSna<k2>saMpraSna
+;
+135579 old <L>15761<pc>1017-b<k1>saMprasAda<k2>saMprasAda
+135579 new <L>15761<pc>1018-b<k1>saMprasAda<k2>saMprasAda
+;
+135586 old <L>15762<pc>1017-b<k1>saMprahAra<k2>saMprahAra
+135586 new <L>15762<pc>1018-b<k1>saMprahAra<k2>saMprahAra
+;
+135594 old <L>15763<pc>1017-b<k1>saMprApti<k2>saMprApti
+135594 new <L>15763<pc>1018-b<k1>saMprApti<k2>saMprApti
+;
+135601 old <L>15764<pc>1017-b<k1>saMprIti<k2>saMprIti
+135601 new <L>15764<pc>1018-b<k1>saMprIti<k2>saMprIti
+;
+135607 old <L>15765<pc>1017-b<k1>saMprezaRa<k2>saMprezaRa
+135607 new <L>15765<pc>1018-b<k1>saMprezaRa<k2>saMprezaRa
+;
+135612 old <L>15766<pc>1017-b<k1>saMplava<k2>saMplava
+135612 new <L>15766<pc>1018-b<k1>saMplava<k2>saMplava
+;
+135621 old <L>15767<pc>1017-b<k1>saMPAla<k2>saMPAla
+135621 new <L>15767<pc>1018-b<k1>saMPAla<k2>saMPAla
+;
+135626 old <L>15768<pc>1017-b<k1>samb<k2>samb
+135626 new <L>15768<pc>1018-b<k1>samb<k2>samb
+;
+; -----------------------------------------------------
+; 1024-a -> 1024-b (10 changes)
+136383 old <L>15858<pc>1024-a<k1>sarvajit<k2>sarvajit
+136383 new <L>15858<pc>1024-b<k1>sarvajit<k2>sarvajit
+;
+136389 old <L>15859<pc>1024-a<k1>sarvajYa<k2>sarvajYa
+136389 new <L>15859<pc>1024-b<k1>sarvajYa<k2>sarvajYa
+;
+136396 old <L>15860<pc>1024-a<k1>sarvajYAnamaya<k2>sarvajYAnamaya
+136396 new <L>15860<pc>1024-b<k1>sarvajYAnamaya<k2>sarvajYAnamaya
+;
+136402 old <L>15861<pc>1024-a<k1>sarvatas<k2>sarvatas
+136402 new <L>15861<pc>1024-b<k1>sarvatas<k2>sarvatas
+;
+136412 old <L>15862<pc>1024-a<k1>sarvatejomaya<k2>sarvatejomaya
+136412 new <L>15862<pc>1024-b<k1>sarvatejomaya<k2>sarvatejomaya
+;
+136418 old <L>15863<pc>1024-a<k1>sarvatodikka<k2>sarvatodikka
+136418 new <L>15863<pc>1024-b<k1>sarvatodikka<k2>sarvatodikka
+;
+136424 old <L>15864<pc>1024-a<k1>sarvatodiSam<k2>sarvatodiSam
+136424 new <L>15864<pc>1024-b<k1>sarvatodiSam<k2>sarvatodiSam
+;
+136430 old <L>15865<pc>1024-a<k1>sarvatra<k2>sarvatra
+136430 new <L>15865<pc>1024-b<k1>sarvatra<k2>sarvatra
+;
+136438 old <L>15866<pc>1024-a<k1>sarvaTA<k2>sarvaTA
+136438 new <L>15866<pc>1024-b<k1>sarvaTA<k2>sarvaTA
+;
+136447 old <L>15867<pc>1024-a<k1>sarvadA<k2>sarvadA
+136447 new <L>15867<pc>1024-b<k1>sarvadA<k2>sarvadA
+;
+; -----------------------------------------------------
+; 1026-b -> 1027-a (2 changes)
+136747 old <L>15901<pc>1026-b<k1>sah<k2>sah
+136747 new <L>15901<pc>1027-a<k1>sah<k2>sah
+;
+136752 old <L>15902<pc>1026-b<k1>saha<k2>saha
+136752 new <L>15902<pc>1027-a<k1>saha<k2>saha
+;
+; -----------------------------------------------------
+; 1035-b -> 1036-a (5 changes)
+137918 old <L>16036<pc>1035-b<k1>sAmaja<k2>sAmaja
+137918 new <L>16036<pc>1036-a<k1>sAmaja<k2>sAmaja
+;
+137924 old <L>16037<pc>1035-b<k1>sAmaYjasya<k2>sAmaYjasya
+137924 new <L>16037<pc>1036-a<k1>sAmaYjasya<k2>sAmaYjasya
+;
+137929 old <L>16038<pc>1035-b<k1>sAman<k2>sAman
+137929 new <L>16038<pc>1036-a<k1>sAman<k2>sAman
+;
+137951 old <L>16039<pc>1035-b<k1>sAmanta<k2>sAmanta
+137951 new <L>16039<pc>1036-a<k1>sAmanta<k2>sAmanta
+;
+137964 old <L>16040<pc>1035-b<k1>sAmayika<k2>sAmayika
+137964 new <L>16040<pc>1036-a<k1>sAmayika<k2>sAmayika
+;
+; -----------------------------------------------------
+; 1040-b -> 1041-a (11 changes)
+138564 old <L>16105<pc>1040-b<k1>sArzapa<k2>sArzapa
+138564 new <L>16105<pc>1041-a<k1>sArzapa<k2>sArzapa
+;
+138570 old <L>16106<pc>1040-b<k1>sArzwitA<k2>sArzwitA
+138570 new <L>16106<pc>1041-a<k1>sArzwitA<k2>sArzwitA
+;
+138575 old <L>16107<pc>1040-b<k1>sAla<k2>sAla
+138575 new <L>16107<pc>1041-a<k1>sAla<k2>sAla
+;
+138584 old <L>16108<pc>1040-b<k1>sAlaBaYjikA<k2>sAlaBaYjikA
+138584 new <L>16108<pc>1041-a<k1>sAlaBaYjikA<k2>sAlaBaYjikA
+;
+138589 old <L>16109<pc>1040-b<k1>sAlokya<k2>sAlokya
+138589 new <L>16109<pc>1041-a<k1>sAlokya<k2>sAlokya
+;
+138595 old <L>16110<pc>1040-b<k1>sAlva<k2>sAlva
+138595 new <L>16110<pc>1041-a<k1>sAlva<k2>sAlva
+;
+138600 old <L>16111<pc>1040-b<k1>sAlvahan<k2>sAlvahan
+138600 new <L>16111<pc>1041-a<k1>sAlvahan<k2>sAlvahan
+;
+138605 old <L>16112<pc>1040-b<k1>sAvaDAnatA<k2>sAvaDAnatA
+138605 new <L>16112<pc>1041-a<k1>sAvaDAnatA<k2>sAvaDAnatA
+;
+138611 old <L>16113<pc>1040-b<k1>sAvana<k2>sAvana
+138611 new <L>16113<pc>1041-a<k1>sAvana<k2>sAvana
+;
+138619 old <L>16114<pc>1040-b<k1>sAvarRi<k2>sAvarRi
+138619 new <L>16114<pc>1041-a<k1>sAvarRi<k2>sAvarRi
+;
+138631 old <L>16115<pc>1040-b<k1>sAvarRya<k2>sAvarRya
+138631 new <L>16115<pc>1041-a<k1>sAvarRya<k2>sAvarRya
+;
+; -----------------------------------------------------
+; 1052-b -> 1053-a (6 changes)
+140167 old <L>16292<pc>1052-b<k1>sUtaka<k2>sUtaka
+140167 new <L>16292<pc>1053-a<k1>sUtaka<k2>sUtaka
+;
+140177 old <L>16293<pc>1052-b<k1>sUtatva<k2>sUtatva
+140177 new <L>16293<pc>1053-a<k1>sUtatva<k2>sUtatva
+;
+140182 old <L>16294<pc>1052-b<k1>sUti<k2>sUti
+140182 new <L>16294<pc>1053-a<k1>sUti<k2>sUti
+;
+140189 old <L>16295<pc>1052-b<k1>sUtyA<k2>sUtyA
+140189 new <L>16295<pc>1053-a<k1>sUtyA<k2>sUtyA
+;
+140194 old <L>16296<pc>1052-b<k1>sUtr<k2>sUtr
+140194 new <L>16296<pc>1053-a<k1>sUtr<k2>sUtr
+;
+140207 old <L>16297<pc>1052-b<k1>sUtra<k2>sUtra
+140207 new <L>16297<pc>1053-a<k1>sUtra<k2>sUtra
+;
+; -----------------------------------------------------
+; 1061-b -> 1062-a (7 changes)
+141265 old <L>16398<pc>1061-b<k1>soQf<k2>soQf
+141265 new <L>16398<pc>1062-a<k1>soQf<k2>soQf
+;
+141271 old <L>16399<pc>1061-b<k1>sotsAhatA<k2>sotsAhatA
+141271 new <L>16399<pc>1062-a<k1>sotsAhatA<k2>sotsAhatA
+;
+141277 old <L>16400<pc>1061-b<k1>sodarya<k2>sodarya
+141277 new <L>16400<pc>1062-a<k1>sodarya<k2>sodarya
+;
+141284 old <L>16401<pc>1061-b<k1>sonaha<k2>sonaha
+141284 new <L>16401<pc>1062-a<k1>sonaha<k2>sonaha
+;
+141288 old <L>16402<pc>1061-b<k1>sopAka<k2>sopAka
+141288 new <L>16402<pc>1062-a<k1>sopAka<k2>sopAka
+;
+141297 old <L>16403<pc>1061-b<k1>sopADika<k2>sopADika
+141297 new <L>16403<pc>1062-a<k1>sopADika<k2>sopADika
+;
+141303 old <L>16404<pc>1061-b<k1>sopAna<k2>sopAna
+141303 new <L>16404<pc>1062-a<k1>sopAna<k2>sopAna
+;
+; -----------------------------------------------------
+; 1080-b -> 1081-a (6 changes)
+143615 old <L>16626<pc>1080-b<k1>sTitimant<k2>sTitimant
+143615 new <L>16626<pc>1081-a<k1>sTitimant<k2>sTitimant
+;
+143621 old <L>16627<pc>1080-b<k1>sTira<k2>sTira
+143621 new <L>16627<pc>1081-a<k1>sTira<k2>sTira
+;
+143648 old <L>16628<pc>1080-b<k1>sTiratA<k2>sTiratA
+143648 new <L>16628<pc>1081-a<k1>sTiratA<k2>sTiratA
+;
+143655 old <L>16629<pc>1080-b<k1>sTiratva<k2>sTiratva
+143655 new <L>16629<pc>1081-a<k1>sTiratva<k2>sTiratva
+;
+143661 old <L>16630<pc>1080-b<k1>sTuq<k2>sTuq
+143661 new <L>16630<pc>1081-a<k1>sTuq<k2>sTuq
+;
+143665 old <L>16631<pc>1080-b<k1>sTURA<k2>sTURA
+143665 new <L>16631<pc>1081-a<k1>sTURA<k2>sTURA
+;
+; -------------------------------------------------
+; <L>7623<pc>0480-b<k1>niryUha<k2>niryUha
+64473 old <div n="lb"><ls>Hariv.</ls> 5021. {@4.@} Extracter e, <ls>Rām.</ls>
+64473 new <div n="lb"><ls>Hariv.</ls> 5021. {@4.@} Extracted juice, <ls>Rām.</ls>
+;
+; spurious greek text
+123079 old <H>{#Sa#} {%Ś.%} = <lang n="greek"></lang>
+123079 new <H>{#Sa#} {%Ś%}.
+;

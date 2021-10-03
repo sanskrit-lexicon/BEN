@@ -1,0 +1,156 @@
+; 1002-b -> 1003-a
+133390:<L>15481<pc>1002-b<k1>saMdarSana<k2>saMdarSana
+133401:<L>15482<pc>1002-b<k1>saMdAna<k2>saMdAna
+133409:<L>15483<pc>1002-b<k1>saMdAnita<k2>saMdAnita
+133414:<L>15484<pc>1002-b<k1>saMdAninI<k2>saMdAninI
+133419:<L>15485<pc>1002-b<k1>saMdAva<k2>saMdAva
+133425:<L>15486<pc>1002-b<k1>saMdIpana<k2>saMdIpana
+133433:<L>15487<pc>1002-b<k1>saMdUzaRa<k2>saMdUzaRa
+133439:<L>15488<pc>1002-b<k1>saMdeSa<k2>saMdeSa
+133447:<L>15489<pc>1002-b<k1>saMdeSaka<k2>saMdeSaka
+133452:<L>15490<pc>1002-b<k1>saMdeSahara<k2>saMdeSahara
+133460:<L>15491<pc>1002-b<k1>saMdeha<k2>saMdeha
+; 1002-b -> 1003-b
+133469:<L>15492<pc>1002-b<k1>saMdehadolAsTa<k2>saMdehadolAsTa
+133475:<L>15493<pc>1002-b<k1>saMdoha<k2>saMdoha
+133480:<L>15494<pc>1002-b<k1>saMdrAva<k2>saMdrAva
+133485:<L>15495<pc>1002-b<k1>saMDA<k2>saMDA
+133503:<L>15496<pc>1002-b<k1>saMDAna<k2>saMDAna
+; 1012-b -> 1013-a
+134745:<L>15640<pc>1012-b<k1>samAveSa<k2>samAveSa
+134751:<L>15641<pc>1012-b<k1>samASraya<k2>samASraya
+134758:<L>15642<pc>1012-b<k1>samASleza<k2>samASleza
+134763:<L>15643<pc>1012-b<k1>samASvAsa<k2>samASvAsa
+134768:<L>15644<pc>1012-b<k1>samASvAsana<k2>samASvAsana
+134775:<L>15645<pc>1012-b<k1>samAsa<k2>samAsa
+134784:<L>15646<pc>1012-b<k1>samAsakti<k2>samAsakti
+134790:<L>15647<pc>1012-b<k1>samAsajjana<k2>samAsajjana
+134796:<L>15648<pc>1012-b<k1>samAsatas<k2>samAsatas
+134801:<L>15649<pc>1012-b<k1>samAsavant<k2>samAsavant
+134807:<L>15650<pc>1012-b<k1>samAsTa<k2>samAsTa
+134813:<L>15651<pc>1012-b<k1>samAharaRa<k2>samAharaRa
+; 1012-b -> 1013-b
+134821:<L>15652<pc>1013-b<k1>samAhartf<k2>samAhartf
+134828:<L>15653<pc>1013-b<k1>samAhAra<k2>samAhAra
+134834:<L>15654<pc>1013-b<k1>samAhfti<k2>samAhfti
+134839:<L>15655<pc>1013-b<k1>samAhvaya<k2>samAhvaya
+134847:<L>15656<pc>1013-b<k1>samAhvAna<k2>samAhvAna
+134853:<L>15657<pc>1013-b<k1>samit<k2>samit
+134858:<L>15658<pc>1013-b<k1>samitA<k2>samitA
+134866:<L>15659<pc>1013-b<k1>samiti<k2>samiti
+134874:<L>15660<pc>1013-b<k1>samitiMjaya<k2>samitiMjaya
+134881:<L>15661<pc>1013-b<k1>samiD<k2>samiD
+134887:<L>15662<pc>1013-b<k1>saminDana<k2>saminDana
+134892:<L>15663<pc>1013-b<k1>samira<k2>samira
+; 1014-a -> 1014-b
+134975:<L>15675<pc>1014-a<k1>samIraRa<k2>samIraRa
+134983:<L>15676<pc>1014-a<k1>samukzaRa<k2>samukzaRa
+134988:<L>15677<pc>1014-a<k1>samuccaya<k2>samuccaya
+134995:<L>15678<pc>1014-a<k1>samucCeda<k2>samucCeda
+135001:<L>15679<pc>1014-a<k1>samucCraya<k2>samucCraya
+135007:<L>15680<pc>1014-a<k1>samucCrAya<k2>samucCrAya
+135012:<L>15681<pc>1014-a<k1>samutkarza<k2>samutkarza
+135018:<L>15682<pc>1014-a<k1>samutkrama<k2>samutkrama
+135023:<L>15683<pc>1014-a<k1>samutkroSa<k2>samutkroSa
+135029:<L>15684<pc>1014-a<k1>samutTa<k2>samutTa
+135036:<L>15685<pc>1014-a<k1>samutTAna<k2>samutTAna
+; 1015-a -> 1015-b
+135126:<L>15697<pc>1015-a<k1>samudAgama<k2>samudAgama
+135131:<L>15698<pc>1015-a<k1>samudAcAra<k2>samudAcAra
+135138:<L>15699<pc>1015-a<k1>samudAya<k2>samudAya
+135142:<L>15700<pc>1015-a<k1>samudIraRa<k2>samudIraRa
+135148:<L>15701<pc>1015-a<k1>samudga<k2>samudga
+135155:<L>15702<pc>1015-a<k1>samudgaka<k2>samudgaka
+135160:<L>15703<pc>1015-a<k1>samuddeSa<k2>samuddeSa
+135166:<L>15704<pc>1015-a<k1>samudDaraRa<k2>samudDaraRa
+135174:<L>15705<pc>1015-a<k1>samudDartf<k2>samudDartf
+135181:<L>15706<pc>1015-a<k1>samudBava<k2>samudBava
+; 1016-a -> 1016-b
+135274:<L>15719<pc>1016-a<k1>samupArjana<k2>samupArjana
+135280:<L>15720<pc>1016-a<k1>samUra<k2>samUra
+135285:<L>15721<pc>1016-a<k1>samUha<k2>samUha
+135293:<L>15722<pc>1016-a<k1>samUhana<k2>samUhana
+135299:<L>15723<pc>1016-a<k1>samfdDi<k2>samfdDi
+135310:<L>15724<pc>1016-a<k1>samfdDin<k2>samfdDin
+135316:<L>15725<pc>1016-a<k1>samokas<k2>samokas
+135321:<L>15726<pc>1016-a<k1>samodaka<k2>samodaka
+135327:<L>15727<pc>1016-a<k1>saMpatti<k2>saMpatti
+135336:<L>15728<pc>1016-a<k1>saMpad<k2>saMpad
+; 1017-b -> 1018-a
+135486:<L>15747<pc>1017-b<k1>saMpratApana<k2>saMpratApana
+135493:<L>15748<pc>1017-b<k1>saMprati<k2>saMprati
+135499:<L>15749<pc>1017-b<k1>saMpratipatti<k2>saMpratipatti
+135507:<L>15750<pc>1017-b<k1>saMpratiroDaka<k2>saMpratiroDaka
+135513:<L>15751<pc>1017-b<k1>saMpratIti<k2>saMpratIti
+135518:<L>15752<pc>1017-b<k1>saMpradAtf<k2>saMpradAtf
+135523:<L>15753<pc>1017-b<k1>saMpradAna<k2>saMpradAna
+135530:<L>15754<pc>1017-b<k1>saMpradAya<k2>saMpradAya
+135540:<L>15755<pc>1017-b<k1>saMpraDAraRA<k2>saMpraDAraRA
+135547:<L>15756<pc>1017-b<k1>saMpramoza<k2>saMpramoza
+135553:<L>15757<pc>1017-b<k1>saMprayoga<k2>saMprayoga
+; 1017-b -> 1018-b
+135562:<L>15758<pc>1017-b<k1>saMprayogin<k2>saMprayogin
+135569:<L>15759<pc>1017-b<k1>saMpraveSa<k2>saMpraveSa
+135574:<L>15760<pc>1017-b<k1>saMpraSna<k2>saMpraSna
+135579:<L>15761<pc>1017-b<k1>saMprasAda<k2>saMprasAda
+135586:<L>15762<pc>1017-b<k1>saMprahAra<k2>saMprahAra
+135594:<L>15763<pc>1017-b<k1>saMprApti<k2>saMprApti
+135601:<L>15764<pc>1017-b<k1>saMprIti<k2>saMprIti
+135607:<L>15765<pc>1017-b<k1>saMprezaRa<k2>saMprezaRa
+135612:<L>15766<pc>1017-b<k1>saMplava<k2>saMplava
+135621:<L>15767<pc>1017-b<k1>saMPAla<k2>saMPAla
+135626:<L>15768<pc>1017-b<k1>samb<k2>samb
+; 1024-a -> 1024-b
+136383:<L>15858<pc>1024-a<k1>sarvajit<k2>sarvajit
+136389:<L>15859<pc>1024-a<k1>sarvajYa<k2>sarvajYa
+136396:<L>15860<pc>1024-a<k1>sarvajYAnamaya<k2>sarvajYAnamaya
+136402:<L>15861<pc>1024-a<k1>sarvatas<k2>sarvatas
+136412:<L>15862<pc>1024-a<k1>sarvatejomaya<k2>sarvatejomaya
+136418:<L>15863<pc>1024-a<k1>sarvatodikka<k2>sarvatodikka
+136424:<L>15864<pc>1024-a<k1>sarvatodiSam<k2>sarvatodiSam
+136430:<L>15865<pc>1024-a<k1>sarvatra<k2>sarvatra
+136438:<L>15866<pc>1024-a<k1>sarvaTA<k2>sarvaTA
+136447:<L>15867<pc>1024-a<k1>sarvadA<k2>sarvadA
+; 1026-b -> 1027-a
+136747:<L>15901<pc>1026-b<k1>sah<k2>sah
+136752:<L>15902<pc>1026-b<k1>saha<k2>saha
+; 1035-b -> 1036-a
+137918:<L>16036<pc>1035-b<k1>sAmaja<k2>sAmaja
+137924:<L>16037<pc>1035-b<k1>sAmaYjasya<k2>sAmaYjasya
+137929:<L>16038<pc>1035-b<k1>sAman<k2>sAman
+137951:<L>16039<pc>1035-b<k1>sAmanta<k2>sAmanta
+137964:<L>16040<pc>1035-b<k1>sAmayika<k2>sAmayika
+; 1040-b -> 1041-a
+138564:<L>16105<pc>1040-b<k1>sArzapa<k2>sArzapa
+138570:<L>16106<pc>1040-b<k1>sArzwitA<k2>sArzwitA
+138575:<L>16107<pc>1040-b<k1>sAla<k2>sAla
+138584:<L>16108<pc>1040-b<k1>sAlaBaYjikA<k2>sAlaBaYjikA
+138589:<L>16109<pc>1040-b<k1>sAlokya<k2>sAlokya
+138595:<L>16110<pc>1040-b<k1>sAlva<k2>sAlva
+138600:<L>16111<pc>1040-b<k1>sAlvahan<k2>sAlvahan
+138605:<L>16112<pc>1040-b<k1>sAvaDAnatA<k2>sAvaDAnatA
+138611:<L>16113<pc>1040-b<k1>sAvana<k2>sAvana
+138619:<L>16114<pc>1040-b<k1>sAvarRi<k2>sAvarRi
+138631:<L>16115<pc>1040-b<k1>sAvarRya<k2>sAvarRya
+; 1052-b -> 1053-a
+140167:<L>16292<pc>1052-b<k1>sUtaka<k2>sUtaka
+140177:<L>16293<pc>1052-b<k1>sUtatva<k2>sUtatva
+140182:<L>16294<pc>1052-b<k1>sUti<k2>sUti
+140189:<L>16295<pc>1052-b<k1>sUtyA<k2>sUtyA
+140194:<L>16296<pc>1052-b<k1>sUtr<k2>sUtr
+140207:<L>16297<pc>1052-b<k1>sUtra<k2>sUtra
+; 1061-b -> 1062-a
+141265:<L>16398<pc>1061-b<k1>soQf<k2>soQf
+141271:<L>16399<pc>1061-b<k1>sotsAhatA<k2>sotsAhatA
+141277:<L>16400<pc>1061-b<k1>sodarya<k2>sodarya
+141284:<L>16401<pc>1061-b<k1>sonaha<k2>sonaha
+141288:<L>16402<pc>1061-b<k1>sopAka<k2>sopAka
+141297:<L>16403<pc>1061-b<k1>sopADika<k2>sopADika
+141303:<L>16404<pc>1061-b<k1>sopAna<k2>sopAna
+; 1080-b -> 1081-a
+143615:<L>16626<pc>1080-b<k1>sTitimant<k2>sTitimant
+143621:<L>16627<pc>1080-b<k1>sTira<k2>sTira
+143648:<L>16628<pc>1080-b<k1>sTiratA<k2>sTiratA
+143655:<L>16629<pc>1080-b<k1>sTiratva<k2>sTiratva
+143661:<L>16630<pc>1080-b<k1>sTuq<k2>sTuq
+143665:<L>16631<pc>1080-b<k1>sTURA<k2>sTURA
