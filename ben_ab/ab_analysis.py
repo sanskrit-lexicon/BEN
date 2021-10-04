@@ -57,6 +57,8 @@ def adjust_cologne(inputfile, outputfile):
             lin = lin.replace('<ab>Caus.</ab>', '--<ab>Caus.</ab>')
             lin = lin.replace('-- <ab>Cf.</ab>', '--<ab>Cf.</ab>')
             lin = lin.replace('-- With', '--With')
+            lin = lin.replace('{#†', '†{#')
+            lin = lin.replace('-%} {%', '')
             fout.write(lin)
     fin.close()
     fout.close()
