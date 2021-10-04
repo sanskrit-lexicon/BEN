@@ -36,6 +36,8 @@ def adjust_ab(inputfile, outputfile):
             fout.write(lin)
         else:
             lin = lin.replace('<lang n="greek">???</lang>', '<lang n="greek"></lang>')
+            lin = re.sub('<ls>(.*?)</ls>', '\g<1>', lin)
+            lin = re.sub('<ab>(.*?)</ab>', '\g<1>', lin)
             fout.write(lin)
     fin.close()
     fout.close()
@@ -59,6 +61,8 @@ def adjust_cologne(inputfile, outputfile):
             lin = lin.replace('-- With', '--With')
             lin = lin.replace('{#†', '†{#')
             lin = lin.replace('-%} {%', '')
+            lin = re.sub('<ls>(.*?)</ls>', '\g<1>', lin)
+            lin = re.sub('<ab>(.*?)</ab>', '\g<1>', lin)
             fout.write(lin)
     fin.close()
     fout.close()
