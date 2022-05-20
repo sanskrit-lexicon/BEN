@@ -132,3 +132,21 @@ This can be applied to different language names
 python proof.py greek temp_ben_5.txt proof_greek.txt
 
 ==============================================================
+temp_ben_6.txt
+two additional corrections,
+  Ref: https://github.com/sanskrit-lexicon/BEN/issues/6#issuecomment-1133194534
+   and next comment
+python diff_to_changes.py temp_ben_5.txt temp_ben_6.txt change_6.txt
+2 changes
+python proof.py greek temp_ben_6.txt proof_greek.txt
+
+install into csl-orig and check validity
+cp temp_ben_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/ben/ben.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh ben  ../../ben
+sh xmlchk_xampp.sh ben
+  OK as hoped!
+
+cd /c/xampp/htdocs/sanskrit-lexicon/ben/greek
+
+==============================================================

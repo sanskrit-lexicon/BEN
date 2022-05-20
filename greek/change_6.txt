@@ -1,0 +1,6 @@
+408 old n. {@1.@} Pain. {@2.@} Sin. -- <ab>Cf.</ab> <lang n="greek">ἄχνυμαι ἄχος, ἀκαχεῖν, ἄγος</lang>
+408 new n. {@1.@} Pain. {@2.@} Sin. -- <ab>Cf.</ab> <lang n="greek">ἄχνυμαι, ἄχος, ἀκαχεῖν, ἄγος</lang>
+;-----------------
+129022 old probably <lang n="greek">κρανρος</lang>, perhaps <lang n="greek">κέραμος, κέρνον</lang>
+129022 new probably <lang n="greek">κραῦρος</lang>, perhaps <lang n="greek">κέραμος, κέρνον</lang>
+;-----------------
