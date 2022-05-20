@@ -1,0 +1,9 @@
+73 old  --<ab>Cf.</ab> <lang n="greek">ἄχνυμαι</lang> <lang n="greek">ἄχος, ἀκαχεῖν, ἄγος</lang> and <lang n="greek">έγγύ</lang> corresponding to <ab>Ved.</ab> {%aṃhu%}; <ab>Goth.</ab> aggvus <ab>Lat.</ab> angustus, angere, anxius, <ab>etc.</ab>
+73 new  --<ab>Cf.</ab> <lang n="greek">ἄχνυμαι ἄχος, ἀκαχεῖν, ἄγος</lang> and <lang n="greek">έγγύ</lang> corresponding to <ab>Ved.</ab> {%aṃhu%}; <ab>Goth.</ab> aggvus <ab>Lat.</ab> angustus, angere, anxius, <ab>etc.</ab>
+;-----------------
+75597 old  --<ab>Cf.</ab> <lang n="greek">κρίϐανος, κρίϐανον, κλίϐανος, κριϐάνη, κράμϐος, καρτός, κάρϕω, κάρδοπος</lang>, perhaps <lang n="greek">κέραμος, κέρνον</lang>; <ab>Lat.</ab> cremare, carbo, probably calere, cinis; <ab>Goth.</ab> hauri, hlaibs; <ab>A.S.</ab> heordh, hláf, haerefaest, haerfest, Ripe.
+75597 new  --<ab>Cf.</ab> <lang n="greek">κρίϐανος, κρίϐανον, κλίϐανος, κριϐάνη, κράμϐος, καρτός, κάρϕω, κάρδοπος</lang>, probably <lang n="greek">κρανρος</lang>, perhaps <lang n="greek">κέραμος, κέρνον</lang>; <ab>Lat.</ab> cremare, carbo, probably calere, cinis; <ab>Goth.</ab> hauri, hlaibs; <ab>A.S.</ab> heordh, hláf, haerefaest, haerfest, Ripe.
+;-----------------
+75671 old  --<ab>Cf.</ab> {%śaraṇa%}, and <ab>Goth.</ab> hulth; <ab>A.S.</ab> hold; perhaps <ab>Goth.</ab> hail; <ab>A.S.</ab> hál; perhaps <ab>Lat.</ab> clemens; to the original signification seem to belong, <lang n="greek">κλίνω, κλισία, κλιτύς; <ab>Lat.</ab> in-clinare, clivus; <ab>Goth.</ab> hlains, hleithra, hlija; <ab>A.S.</ab> hlynian, hlidh.
+75671 new  --<ab>Cf.</ab> {%śaraṇa%}, and <ab>Goth.</ab> hulth; <ab>A.S.</ab> hold; perhaps <ab>Goth.</ab> hail; <ab>A.S.</ab> hál; perhaps <ab>Lat.</ab> clemens; to the original signification seem to belong, <lang n="greek">κλίνω, κλισία, κλιτύς</lang>; <ab>Lat.</ab> in-clinare, clivus; <ab>Goth.</ab> hlains, hleithra, hlija; <ab>A.S.</ab> hlynian, hlidh.
+;-----------------

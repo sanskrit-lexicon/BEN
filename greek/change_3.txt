@@ -1,0 +1,180 @@
+9567 old est; <ab>Goth.</ab> im, ist; <ab>A.S.</ab> ëom, is. <lang n="greek"></lang>
+9567 new est; <ab>Goth.</ab> im, ist; <ab>A.S.</ab> ëom, is.
+;-----------------
+19539 old 3790. -- <ab>Cf.</ab> <lang n="greek">ἄρκτος</lang> <ab>Lat.</ab> ursus.
+19539 new 3790. -- <ab>Cf.</ab> <lang n="greek"></lang> <ab>Lat.</ab> ursus.
+;-----------------
+31570 old <lang n="greek"></lang> <ab>denomin.</ab>, <lang n="greek"></lang> etc., <lang n="greek"></lang>-
+31570 new <lang n="greek"></lang> <ab>denomin.</ab>, <lang n="greek"></lang> etc., <lang n="greek"></lang>
+;-----------------
+31571 old <lang n="greek"></lang> (<ab>cf.</ab> <ab>ved.</ab> {%krāvan,%} <ab>i. e.</ab> {%kram +%}
+31571 new <xlang n="greek"></lang> (<ab>cf.</ab> <ab>ved.</ab> {%krāvan,%} <ab>i. e.</ab> {%kram +%}
+;-----------------
+32316 old <lang n="greek"></lang> <ab>i. e.</ab> {%krav + tvan,%} <lang n="greek"></lang>
+32316 new <lang n="greek"></lang> <ab>i. e.</ab> <lang n="greek"></lang> + {%tvan,%} <lang n="greek"></lang>
+;-----------------
+32529 old forest, <ls>Rām.</ls> 2, 30, 42. -- <ab>Cf.</ab> <lang n="greek"></lang> + <lang n="greek"></lang>
+32529 new forest, <ls>Rām.</ls> 2, 30, 42. -- <ab>Cf.</ab> <lang n="greek"></lang>
+;-----------------
+35616 old <ab>O.H.G.</ab> kela; <ab>A.S.</ab> ceolr, <lang n="greek"></lang>
+35616 new <ab>O.H.G.</ab> kela; <ab>A.S.</ab> ceolr, etc.
+;-----------------
+36301 old name of Śiva, <ls>Bhāg. P.</ls> 2, 1, 35. <lang n="greek"></lang>
+36301 new name of Śiva, <ls>Bhāg. P.</ls> 2, 1, 35.
+;-----------------
+37176 old original {%garṇā;%} <lang n="greek"></lang>
+37176 new original {%garṇā;%} <lang n="greek"></lang> for
+;-----------------
+37177 old <xlang n="greek"></lang> <ab>O.H.G.</ab> queran, to moan, and
+37177 new <lang n="greek"></lang> <ab>O.H.G.</ab> queran, to moan, and
+;-----------------
+38040 old <xlang n="greek"></lang> etc.; perhaps also <lang n="greek"></lang>-
+38040 new <xlang n="greek"></lang> etc.; perhaps also <lang n="greek"></lang>
+;-----------------
+38041 old <lang n="greek"></lang> <ab>Lat.</ab> grex, congrego, brachium,
+38041 new <xlang n="greek"></lang> <ab>Lat.</ab> grex, congrego, brachium,
+;-----------------
+39741 old fourth part, <ls>MBh.</ls> 1, 1822 -- <ab>Cf.</ab> <lang n="greek"></lang>-
+39741 new fourth part, <ls>MBh.</ls> 1, 1822 -- <ab>Cf.</ab> <lang n="greek"></lang>
+;-----------------
+39742 old <lang n="greek"></lang> <ab>Lat.</ab> quartus; <ab>O.H.G.</ab> fiordo; <ab>A.S.</ab>
+39742 new <xlang n="greek"></lang> <ab>Lat.</ab> quartus; <ab>O.H.G.</ab> fiordo; <ab>A.S.</ab>
+;-----------------
+41150 old 4. -- With {#A#} {%ā,%} {@1.@} To heap on, Bhā<lang n="greek"></lang> 
+41150 new 4. -- With {#A#} {%ā,%} {@1.@} To heap on, Bhāg.
+;-----------------
+43134 old <xlang n="greek"></lang> (for <lang n="greek"></lang>
+43134 new <xlang n="greek"></lang> (for <lang n="greek"></lang>),
+;-----------------
+43135 old <xlang n="greek"></lang>
+43135 new <lang n="greek"></lang>, 
+;-----------------
+44541 old <ab>sing.</ab> 3, {%ajīgar,%} <ls>Chr.</ls> 294, <lang n="greek"></lang> = <ls>Rigv.</ls> i.
+44541 new <ab>sing.</ab> 3, {%ajīgar,%} <ls>Chr.</ls> 294, 6 = <ls>Rigv.</ls> i.
+;-----------------
+46140 old <ab>Cf.</ab>
+46140 new <ab>Cf.</ab> <lang n="greek"></lang>.
+;-----------------
+54267 old inchoat. <lang n="greek"></lang> for + <lang n="greek"></lang>; <ab>Lat.</ab>
+54267 new inchoat. <lang n="greek"></lang> for <lang n="greek"></lang>), <lang n="greek"></lang>; <ab>Lat.</ab>
+;-----------------
+54618 old <lang n="greek"></lang> etc., probably
+54618 new <xlang n="greek"></lang> etc., probably
+;-----------------
+55797 old picio, specto; <lang n="greek"></lang>
+55797 new picio, specto; <lang n="greek"></lang>,
+;-----------------
+55798 old c., <lang n="greek"></lang> 
+55798 new etc., <lang n="greek"></lang> 
+;-----------------
+55801 old <lang n="greek"></lang> etc.; <ab>O.H.G.</ab>
+55801 new <xlang n="greek"></lang> etc.; <ab>O.H.G.</ab>
+;-----------------
+62405 old (for <lang n="greek"></lang>), (for <lang n="greek"></lang>
+62405 new (for <lang n="greek"></lang>), <lang n="greek"></lang> (for <lang n="greek"></lang>
+;-----------------
+69141 old <lang n="greek"></lang> <ab>Lat.</ab> per, e. g. in per-dere, per-
+69141 new <xlang n="greek"></lang> <ab>Lat.</ab> per, e. g. in per-dere, per-
+;-----------------
+71306 old fearn; perhaps <lang n="greek"></lang> 
+71306 new fearn; perhaps <lang n="greek"></lang>; 
+;-----------------
+71309 old <lang n="greek"></lang> perhaps <ab>Lat.</ab> penna (but <ab>cf.</ab>
+71309 new <xlang n="greek"></lang> perhaps <ab>Lat.</ab> penna (but <ab>cf.</ab>
+;-----------------
+74527 old master of courtesans. <lang n="greek"></lang>
+74527 new master of courtesans.
+;-----------------
+84050 old <lang n="greek"></lang> probably <lang n="greek"></lang>
+84050 new <xlang n="greek"></lang> probably <lang n="greek"></lang>
+;-----------------
+84720 old mani-festus; <lang n="greek"></lang> (for <lang n="greek"></lang>
+84720 new mani-festus; <lang n="greek"></lang> (for <lang n="greek"></lang>),
+;-----------------
+84721 old <xlang n="greek"></lang>
+84721 new <lang n="greek"></lang>.
+;-----------------
+87301 old <lang n="greek"></lang>
+87301 new <lang n="greek"></lang>;
+;-----------------
+87304 old <lang n="greek"></lang> <lang n="greek"></lang> (for <lang n="greek"></lang>) <lang n="greek"></lang>-
+87304 new <lang n="greek"></lang>), <lang n="greek"></lang> (for <lang n="greek"></lang>) <lang n="greek"></lang>
+;-----------------
+87305 old <lang n="greek"></lang> etc.; <ab>Lat.</ab> focus, februus (from
+87305 new <xlang n="greek"></lang> etc.; <ab>Lat.</ab> focus, februus (from
+;-----------------
+93173 old <lang n="greek"></lang> <ab>Lat.</ab>
+93173 new <xlang n="greek"></lang> <ab>Lat.</ab>
+;-----------------
+96791 old <lang n="greek"></lang> (for original <lang n="greek"></lang> <ab>ptcple.</ab> of
+96791 new <xlang n="greek"></lang> (for original <lang n="greek"></lang> <ab>ptcple.</ab> of
+;-----------------
+106125 old anoint, <ls>MBh.</ls> 1, 4950. -- <ab>Cf.</ab> <lang n="greek"></lang>-
+106125 new anoint, <ls>MBh.</ls> 1, 4950. -- <ab>Cf.</ab> <lang n="greek"></lang>;
+;-----------------
+106126 old <lang n="greek"></lang> <ab>Lat.</ab> limpidus, lip-
+106126 new <xlang n="greek"></lang> <ab>Lat.</ab> limpidus, lip-
+;-----------------
+110690 old <xlang n="greek"></lang> de-
+110690 new (<lang n="greek"></lang> de-
+;-----------------
+119392 old <xlang n="greek"></lang>
+119392 new (<lang n="greek"></lang>
+;-----------------
+120204 old Probably akin to <ab>Lat.</ab> volvo; <lang n="greek"></lang> 
+120204 new Probably akin to <ab>Lat.</ab> volvo; <lang n="greek"></lang>,
+;-----------------
+120207 old <lang n="greek"></lang> etc.; <ab>O.H.G.</ab> wuoljan; <ab>Goth.</ab>
+120207 new <xlang n="greek"></lang> etc.; <ab>O.H.G.</ab> wuoljan; <ab>Goth.</ab>
+;-----------------
+124646 old {%+ van,%} <ab>cf.</ab> <lang n="greek"></lang> + <lang n="greek"></lang>), <ab>m.</ab> {@1.@} An
+124646 new {%+ van,%} <ab>cf.</ab> <lang n="greek"></lang>), <ab>m.</ab> {@1.@} An
+;-----------------
+129020 old <ab>Cf.</ab> <lang n="greek"></lang>-
+129020 new <ab>Cf.</ab> <lang n="greek"></lang>
+;-----------------
+129021 old <lang n="greek"></lang>
+129021 new <xlang n="greek"></lang>
+;-----------------
+129022 old probably <lang n="greek"></lang> perhaps <lang n="greek"></lang>-
+129022 new probably <lang n="greek"></lang>, perhaps <lang n="greek"></lang>
+;-----------------
+129023 old <lang n="greek"></lang> <ab>Lat.</ab> cremare, carbo, probably
+129023 new <xlang n="greek"></lang> <ab>Lat.</ab> cremare, carbo, probably
+;-----------------
+129230 old tion seem to belong, <lang n="greek"></lang>-
+129230 new tion seem to belong, <lang n="greek"></lang>;
+;-----------------
+129231 old <lang n="greek"></lang> <ab>Lat.</ab> in-clinare, clivus; <ab>Goth.</ab>
+129231 new <xlang n="greek"></lang> <ab>Lat.</ab> in-clinare, clivus; <ab>Goth.</ab>
+;-----------------
+130150 old {%chūna,%} Swelled, swollen. -- <ab>Cf.</ab> <lang n="greek"></lang>
+130150 new {%chūna,%} Swelled, swollen. -- <ab>Cf.</ab> 
+;-----------------
+130151 old <xlang n="greek"></lang>
+130151 new <lang n="greek"></lang>
+;-----------------
+130152 old <xlang n="greek"></lang>
+130152 new and <lang n="greek"></lang>
+;-----------------
+130506 old <xlang n="greek"></lang>
+130506 new in <lang n="greek"></lang>
+;-----------------
+130508 old <lang n="greek"></lang> (e. g. in <lang n="greek"></lang>); <ab>Lat.</ab> sum = eum,
+130508 new <lang n="greek"></lang> (e. g. in <lang n="greek"></lang>), <lang n="greek"></lang> (<ab>e. g.</ab> in <lang n="greek"></lang>); <ab>Lat.</ab> sum = eum,
+;-----------------
+141890 old <ab>Lat.</ab> scandere; <lang n="greek"></lang>
+141890 new <ab>Lat.</ab> scandere; <lang n="greek"></lang> (<lang n="greek"></lang>
+;-----------------
+142030 old <lang n="greek"></lang>.
+142030 new <lang n="greek"></lang>); <lang n="greek"></lang>.
+;-----------------
+143525 old with <lang n="greek"></lang> for <lang n="greek"></lang>). {@I.@} <ab>adj.</ab> {@1.@} Fixed, stable,
+143525 new with {%r%} for {%n%}). {@I.@} <ab>adj.</ab> {@1.@} Fixed, stable,
+;-----------------
+144049 old <xlang n="greek"></lang> by the influence of <lang n="greek"></lang>); <ab>Lat.</ab>
+144049 new (<lang n="greek"></lang> by the influence of <lang n="greek"></lang>); <ab>Lat.</ab>
+;-----------------
+144654 old <ab>Cf.</ab> <lang n="greek"></lang> (<ab>i. e.</ab> <lang n="greek"></lang> + <lang n="greek"></lang> the <ab>Sskr.</ab> {%ph%}
+144654 new <ab>Cf.</ab> <lang n="greek"></lang> (<ab>i. e.</ab> <lang n="greek"></lang> the <ab>Sskr.</ab> {%ph%}
+;-----------------

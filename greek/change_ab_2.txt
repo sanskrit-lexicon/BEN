@@ -1,0 +1,15 @@
+2493 old <L>516<pc>0026-b<k1>ano~kfta<k2>ano~kfta
+2493 new <L>516<pc>0026-b<k1>anoMkfta<k2>anoMkfta
+;-----------------
+2494 old {#ano~kfta#}¦ {%anoṃkṛta%}, <ab>i. e.</ab> {%an-om-kṛta%}, <ab>adj.</ab> Not accompanied by the mystical syllable {%om%}, <ls>Man.</ls> 2, 74.
+2494 new {#anoMkfta#}¦ {%anoṃkṛta%}, <ab>i. e.</ab> {%an-om-kṛta%}, <ab>adj.</ab> Not accompanied by the mystical syllable {%om%}, <ls>Man.</ls> 2, 74.
+;-----------------
+6173 old  <LEND>
+6173 new <LEND>
+;-----------------
+18925 old <L>3814<pc>0220-a<k1>ko~kAra<k2>ko~kAra
+18925 new <L>3814<pc>0220-a<k1>koMkAra<k2>koMkAra
+;-----------------
+18926 old {#ko~kAra#}¦ {%koṃ-kāra%}, <ab>m.</ab> The sound {%kom%}, <ls>Pañc.</ls> 158, 7.
+18926 new {#koMkAra#}¦ {%koṃ-kāra%}, <ab>m.</ab> The sound {%kom%}, <ls>Pañc.</ls> 158, 7.
+;-----------------
