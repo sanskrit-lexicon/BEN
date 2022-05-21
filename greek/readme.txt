@@ -150,3 +150,22 @@ sh xmlchk_xampp.sh ben
 cd /c/xampp/htdocs/sanskrit-lexicon/ben/greek
 
 ==============================================================
+punctuation
+Often, the punctuation character following the Greek text
+is missing in csl version.
+python punct.py temp_ben_6.txt temp_ben_ab_3_slp1.txt change_7.txt
+744 changes
+
+python updateByLine.py temp_ben_6.txt change_7.txt temp_ben_7.txt
+
+install into csl-orig and check validity
+cp temp_ben_7.txt /c/xampp/htdocs/cologne/csl-orig/v02/ben/ben.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh ben  ../../ben
+sh xmlchk_xampp.sh ben
+  OK as hoped!
+
+
+cd /c/xampp/htdocs/sanskrit-lexicon/ben/greek
+python proof.py greek temp_ben_7.txt proof_greek.txt
+==============================================================
