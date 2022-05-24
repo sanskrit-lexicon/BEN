@@ -158,6 +158,14 @@ python punct.py temp_ben_6.txt temp_ben_ab_3_slp1.txt change_7.txt
 
 python updateByLine.py temp_ben_6.txt change_7.txt temp_ben_7.txt
 
+==================================================================
+modify basicdisplay.php so 'ben' is in the list of dictionaries with Greek filled in.
+This modifies basicdisplay.php  in
+  csl-websanlexicon/v02/makotemplates/web/webtc AND
+  csl-apidev/basicdisplay.php
+
+
+==================================================================
 install into csl-orig and check validity
 cp temp_ben_7.txt /c/xampp/htdocs/cologne/csl-orig/v02/ben/ben.txt
 cd /c/xampp/htdocs/cologne/csl-pywork/v02
@@ -169,3 +177,15 @@ sh xmlchk_xampp.sh ben
 cd /c/xampp/htdocs/sanskrit-lexicon/ben/greek
 python proof.py greek temp_ben_7.txt proof_greek.txt
 ==============================================================
+temp_ben_8
+fill in greek text from Andhrabharati's ben_Addenda.txt.
+Refer #6
+install into csl-orig and check validity
+cp temp_ben_8.txt /c/xampp/htdocs/cologne/csl-orig/v02/ben/ben.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh ben  ../../ben
+sh xmlchk_xampp.sh ben
+  OK as hoped!
+
+
+cd /c/xampp/htdocs/sanskrit-lexicon/ben/greek
