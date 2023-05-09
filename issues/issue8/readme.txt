@@ -23,7 +23,7 @@ cp temp_ben_0.txt temp_ben_1.txt
 # *************************************************************** **********
 # Make corrections to temp_ben_1.txt
 # *************************************************************************
-This is the main task.
+This is the main task for Anna.
 edit temp_ben_1.txt.
 Greek text is identified by '<lang n="greek">X</lang>'.
 There are 1265  instances in 1078 lines  of greek text in temp_ben_1.txt.
@@ -60,41 +60,15 @@ Notes:
    But Jim can recreate a copy of Anna's temp_ben_1.txt from change_1.txt.
 
 
-@ list 'slav.' instances in ben.txt
- python extract_slav.py temp_ben_0.txt extract_slav.txt
- select 182 entries matching "slav."
-# *************************************************************************
-russ.strings.txt, slav.strings.txt, Modified.strings.txt
-  Prepared by Andhrabharati
-# *************************************************************************
+******************************************************************
+Install revisions (Jim's task)
+Based on Anna's change_1.txt
+******************************************************************
+git pull  # to get change_1.txt from Anna
+python updateByLine.py temp_ben_0.txt change_1.txt temp_ben_1.txt
 
----------------------------------------------------
-Modified.strings.txt has just the changes, for Slavonic, russian, and
-one arabic.
-Some of the differences are hard to discern. Thus,
-dump the unicode character information.
-python unicode_dump.py Modified.strings.txt Modified.strings_uni.txt
-------------------
-temp_ben_1.txt
- manual correction of russian in Modified.strings_uni.txt.
-# generate change file.
-python diff_to_changes_dict.py temp_ben_0.txt temp_ben_1.txt change_1.txt
-6 changes written to change_1.txt
-
-# *************************************************************************
-temp_ben_2.txt
- manual correction of the modified slavonic strings,
- and 1 arabic string.
-python diff_to_changes_dict.py temp_ben_1.txt temp_ben_2.txt change_2.txt
-32 changes written to change_2.txt
-
-# *************************************************************************
-# Installation of temp_ben_2.txt (Jim)
-# *************************************************************************
-
-# install into csl-orig
 # a. copy to csl-orig
-cp temp_ben_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/ben/ben.txt
+cp temp_ben_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/ben/ben.txt
 
 # b. Recreate local displays
 cd /c/xampp/htdocs/cologne/csl-pywork/v02
@@ -109,8 +83,8 @@ sh xmlchk_xampp.sh ben
 cd /c/xampp/htdocs/cologne/csl-orig/
 git pull
 git add .  # v02/ben/ben.txt
-git commit -m "ben. russian and slavonic corrections from Modified.strings..
- Ref: https://github.com/sanskrit-lexicon/BEN/issues/5"
+git commit -m "greek Proofreading
+ Ref: https://github.com/sanskrit-lexicon/BEN/issues/8"
 git push
 ----------------------------------------------------
 update at Cologne
