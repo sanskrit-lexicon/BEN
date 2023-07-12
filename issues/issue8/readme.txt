@@ -106,6 +106,22 @@ update this repository
 cd /c/xampp/htdocs/sanskrit-lexicon/BEN/issues/issue8
 
 # *************************************************************************
+change_2.txt
+Apply additional change (uder 'du' at line 54615)
+python updateByLine.py temp_ben_1.txt change_2.txt temp_ben_2.txt
+1 change transactions from change_2.txt
+
+# a. copy to csl-orig
+cp temp_ben_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/ben/ben.txt
+
+# b. Recreate local displays
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'ben ' redo_xampp_all.sh
+sh generate_dict.sh ben  ../../ben
+
+# c. check xml validity of ben.xml
+sh xmlchk_xampp.sh ben
+# ok.  [If there are errors, they must be corrected]
 
 # *************************************************************************
 # THE END
