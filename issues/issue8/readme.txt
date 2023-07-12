@@ -63,9 +63,16 @@ Notes:
 ******************************************************************
 Install revisions (Jim's task)
 Based on Anna's change_1.txt
+07-12-2023
 ******************************************************************
+------------------------------------------------------------------
+
+The current date of csl
 git pull  # to get change_1.txt from Anna
 python updateByLine.py temp_ben_0.txt change_1.txt temp_ben_1.txt
+151232 lines read from temp_ben_0.txt
+151232 records written to temp_ben_1.txt
+121 change transactions from change_1.txt
 
 # a. copy to csl-orig
 cp temp_ben_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/ben/ben.txt
@@ -83,7 +90,7 @@ sh xmlchk_xampp.sh ben
 cd /c/xampp/htdocs/cologne/csl-orig/
 git pull
 git add .  # v02/ben/ben.txt
-git commit -m "greek Proofreading
+git commit -m "BEN. greek Proofreading
  Ref: https://github.com/sanskrit-lexicon/BEN/issues/8"
 git push
 ----------------------------------------------------
@@ -93,7 +100,7 @@ git pull
 cd ../csl-pywork/v02
 grep 'ben ' redo_cologne_all.sh
 sh generate_dict.sh ben  ../../BENScan/2020/
-cd /c/xampp/htdocs/sanskrit-lexicon/BEN/issues/issue8
+
 ----------------------------------------------------
 update this repository
 cd /c/xampp/htdocs/sanskrit-lexicon/BEN/issues/issue8
