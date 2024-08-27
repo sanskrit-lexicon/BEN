@@ -1,0 +1,323 @@
+ 
+[PageI+ 8]
+<H>A 
+SANSKRIT-ENGLISH
+DICTIONARY
+WITH REFERENCES TO THE BEST EDITION
+OF SANSKRIT AUTHOR AND ETYMOLOGIES
+AND COMPARISONS OF COGNATE WORDS CHIEFLY IN
+GREEK, LATIN, GOTHIC AND ANGLO-SAXON
+THEODORE BENFEY 
+
+[PageII+ 30]
+<H>PREFACE.
+<NI>FOR some years past there has been no Sanskrit Dictionary available
+for the English student. The second edition of that by Wilson,
+published in 1831, has been long exhausted, as also Yates’ Abridg-
+ment, published in Calcutta in 1846. Dr. Goldstücker's excellent
+work has not yet reached the end of the first vowel, and the St.
+Petersburg Dictionary, by Messrs. Böhtlingk and Roth, besides being
+in German, has only just completed the letter {%ph.%}
+<P>The present work aims at supplying this long-felt want. It does
+not exceed the limits of one volume, but at the same time it is hoped
+that it contains all that the student is likely to require. It especially
+includes all the words occurring in the different Chrestomathies and
+Selections generally in use (as Lassen's Anthology, my own Chre-
+stomathy, Bopp's Nala, Johnson's Mahābhārata Selections, &c.),
+and in the texts usually read by students, as the Hitopadeśa, Pañca-
+tantra, Manu's Laws, Śakuntalā, Vikramorvaśī, Uttararāmacarita,
+Mālatīmādhava, and Meghadūta; but it is also believed to contain
+most of the words likely to occur in the general classical literature.
+It does not profess to contain the technical terms of the grammarians
+or philosophers, nor are purely Vaidik words included, except such
+as occur in the extracts given in the above-mentioned Chresto-
+mathies.
+<P>References have been added to the greater part of the meanings,
+and sometimes explanations of passages also; but these latter are
+rarely introduced, for fear of swelling the volume beyond its proper
+size. For the same reason, compound words are generally printed
+in roman type, and arranged alphabctically under their last part.
+Thus the student must look for {%a-maṅgala, au-aṃśa,%} and {%megha-dūta%}
+respectively under {%maṅgala, aṃśa,%} and {%dūta.%} The difficulty arising
+from this source will soon disappear with practice. If a word. as for 
+
+[PageIII+ 33]
+instance {%candraśekhara,%} is not found under {%c,%} its first component
+part {%candra%} will be found; and the student has only to turn to the
+letter {%ś%} to find the remaining part {%śekhara,%} and under it in its place
+the very word he is in search of.
+<P>For the same reason, feminies ending in {%ā, ī, ū, ikā,%} are inserted
+under the corresponding masculines (where there are such) in {%a, i,%}
+{%ṛ, n, nt, añc, as, u, aka;%} while participles, participles used as sub-
+stantives, and absolutives are inserted under the verbs to which they
+belong.
+<P>The etymology of every word is given, where ascertainable; but
+here also, to save space, abbreviations have been used. The several
+parts of a compound word are separated by hyphens, except in the
+case of the grammatical element, which is always preceded by + :
+thus, in p. 2, {%a-karuṇa + tva%} denotes that this word is compounded
+of {%a%} and {%karuṇa,%} with the affix {%tva;%} and similarly, in p. 397, {%dāśa-%}
+{%rathi%} is analysed as {%daśaratha + i.%}
+<P>As Sanskrit is also of the greatest use in the study of Comparative
+Grammar, I have added at the end of the principal articles the
+kindred words in the Greek, Latin, and German (particularly the
+Gothic and Anglo-Saxon) languages.
+<P>I have availed myself of the valuable labours of my predecessors,
+especially the works, already mentioned, of Wilson, Goldstücker,
+Böhtlingk, and Roth (as far as published), besides the Śabdakal-
+padruma of Rāja Rādhākānta Deva, and the various glossaries which
+have been published for special books; but for the latter half some
+of there aids have failed me, and I have been chiefly left to my own
+resources. I must therefore crave the reader's indulgence for the
+deficiencies and shortcomings which he may discover.
+<P>I cannot close this Preface without expressing my sincere thanks
+to Mr. E. B. Cowell and Professor Max Müller, for the assistance
+which they have rendered to me while carrying this work through
+the press.
+GÖTTINGEN: {%Jan.%} 1, 1866. 
+
+[PageIV-a+ 40]
+<H>CONTRACTIONS AND SIGNS.
+<P>adhy. = adhyāya.
+<P>Amar. = Amaruśataka, ed. Calcutt.
+<P>Ānandal. = Ānandalaharī, in Häberlin's
+Sanskrit Anthology.
+<P>Arj. = Arjunasamāgama, an episode of
+the MBh., ed. Bopp.
+<P>A.S. = Anglo-Saxon.
+<P>Ātm. = Ātmanepada.
+<P>Aufr. Ujjvalad. = Ujjvaladatta, ed. Aut-
+rect.
+<P>Bhag. = Bhagavadgītā, ed. Schlegel.
+<P>Bhāg. P. = Bhāgavata-Purāṇa, ed. Bur-
+nouf.
+<P>Bhartṛ. = Bhartṛhari, ed. Bohlen.
+<P>Bhāṣāp. = Bhāṣāpariccheda, in Bib-
+liotheca Indica and in my Sanskrit Chre-
+stomathy.
+<P>Bhaṭṭ. = Bhaṭṭikāvya, ed. Calc.
+<P>Bhaviṣyap. = Bhaviṣya-Purāṇa.
+<P>Böhtl. Chr. = Böhtlingk, Sanskrit Chre-
+stomathy.
+<P>Böhtl. Ind. Spr. = Böhtlingk. Indische
+Sprüce (Indian Sentences).
+<P>Br. = Brockhaus.
+<P>Brāhmaṇ. and Brāhmaṇav. = Brāhmaṇa-
+vilāpa, an episode of the MBh., ed. Bopp.
+<P>Brahmav. P. = Brahmavaivarta-Purāṇa,
+ed. Stenzler.
+<P>Śāk. = Śākuntala, ed. Böhtlingk.
+<P>Śāntiś. = Śāntiśataka, in Häberlin's
+Sanskrit Anthology.
+<P>Śārṅg. Paddh. = Śārṅgadhara-Paddhati
+(MSS. used by Böhtl.).
+<P>Śatr. = Śatruṃjayamāhātmya, ed. A.
+Weber.
+<P>Caus. = Causal.
+<P>Cāṇ. = Cāṇakya, published in Häber-
+lin's Anthology, and by Weber in Berl.
+Monatsb. Hist. Phil. Cl., i. e. in ‘Monthly 
+
+[PageIV-b+ 39]
+Reports of the Berlin Academy of Sciences,
+Class of History and Philology,’ 1864.
+<P>C. = Chezy.
+<P>Cāt. = Cātaka, in Zeitschrift für die
+Kunde des Morgenlands, i. e. ‘Journal for
+the Knowledge of the Orient,’ vol. iv.
+<P>Caur. and Caurap. = Caurapañcā-
+śikā, in Bohlen's ed. of Bhartṛhari.
+<P>Chr. = my Sanskrit Chrestomathy.
+<P>Śiś. = Śiśupālavadha, 2. ed. Calc.; the
+ninth book in my Chr.
+<P>ŚKD. = Śabdakalpadruma.
+<P>Comp. = Compound.
+<P>Śṛṅgārat. = Śṛṅgāratilaks, ed. Gilde-
+meister, in his edition of the Megha-
+dūta.
+<P>Śrut. and Śrutab. = Śrutabodha, ed.
+Brockhaus.
+<P>Śukas. = Śukasaptati (MSS. of St.
+Petersburg).
+<P>Śvet. Up. = Śvetāśvataropaniṣad, in
+Bibliotheca Indica.
+<P>d. = distich.
+<P>Daśak. = Daśakumāracarita, ed. Wil-
+son, partly in my Chr.
+<P>Daśar. = Daśa-Rūpa, ed. Fitz-Edward
+Hall.
+<P>denomin. = denominative.
+<P>desid. = desiderative.
+<P>Dev. = Devīmāhātmya, ed. Poley.
+<P>Draup. = Draupadīpramātha, an episode
+of the MBh., ed. Bopp.
+<P>frequent. = frequentative.
+<P>Ghaṭ. = Ghaṭakarpara, ed. Cale.
+<P>Gīt. = Gītagovinda. ed. Lassen.
+<P>Goth. = Gothic.
+<P>Gött. Gel. Anz. = Göttinger Gelebrte
+Anzeigen, i. e. ‘Scientific Reports published
+in Göttingen.’ 
+
+[PageV-a+ 53]
+<P>Govardh. Āryas. = Govardhana Ārya-
+saptati, ed. Soma Nath Mookerjea.
+<P>Grammar. = Grammarians.
+<P>Häb. and Häberl. Chr. or Anth. =
+Kāvya Sangraha, ‘A Sanskrit Anthology,’
+by John Häberlin.
+<P>Hariv. = Harivaṃśa, ed. Calc.
+<P>Hiḍ. = Hiḍimbavadha, an episode of the
+MBh., ed. Bopp.
+<P>Hit. = Hitopadeśa, ed. of Lassen, and
+when followed by M.M., that of Max
+Müller. When followed by two Arabian
+numerals, the first denotes the page, the
+second the line; when followed by a
+Roman and Arabian numeral, the first
+denotes the book, the second the distich.
+<P>Icel. = Icelandic.
+<P>Indr. = Indralokāgamana, an episode of
+the MBh., ed. Bopp.
+<P>Johns. Sel. = Johnson's Selections from
+the Mahābhārata.
+<P>Kām. and Kāmand. Nītis. = Kāman-
+dakīya Nītisāra, in Bibliotheca Indica.
+<P>Kathās. = Kathāsaritsāgara, ed. Brock-
+haus.
+<P>Kāvya Prak. = Kāvya Prakaśa, 2. ed.
+Calcutta, 1865.
+<P>Kir. and Kirāt. = Kirātārjunīya, 2. ed.
+Calc., 1846, and the fifth book in my Chr.
+<P>Kull. = Kullūka Schol. ed. Man.
+<P>Kumāras. = Kumārasaṃbhava, ed.
+Stenzler.
+<P>Kusumāñj. = Kusumāñjali, ed. Cowell.
+<P>Lalit. = Lalitavistara, in Bibliotheca
+Indica.
+<P>Lass. = Lassen, Anthologia Sanskritica.
+<P>Lass. Pent. = Lassen, Commentatio de
+Pentapotamia Indica.
+<P>Lat. = Latin.
+<P>Mahāv. = Mahāvīracarita, ed. Trithen.
+<P>Mālat. = Mālatīmādhava, ed. Calc.
+<P>Mālav. = Mālavikāgnimitra, ed. Tull-
+berg.
+<P>Man. = Mānavadharmaśāstra, ed. Haugh-
+ton and Lois. (i. e. Loiseleur Deslongchamps).
+Where there is a numeral in brackets, it
+denotes the verse of Jones’ translation.
+<P>Mārk. P. = Mārkaṇḍeya-Purāṇa, in
+Bibliotheca Indica.
+<P>Matsyop. = Matsyopākhyāna, an episode
+of the MBh., ed. Bopp.
+<P>MBh. = Mahābhārata, ed. Calc.
+<P>Megh. = Meghadūta, ed. Gildemeister. 
+
+[PageV-b+ 53]
+<P>Mit. = Mitākṣarā, ed. Calc., 1829.
+<P>Mṛcch. = Mṛcchakaṭikā, ed.
+Stenzler.
+<P>Mudrār. = Mudrārākṣasa, ed. Calc.
+<P>Naiṣ. = Naiṣadhacarita, ed. Calc.
+<P>Nal. = Nala, an episode of the MBh.
+ed. Bopp.; a numeral in brackets denotes
+Böhtlingk's ed. in his Chrestomathy.
+<P>Nalod. = Nalodya, ed. Benary.
+<P>N.H.G. = New High German.
+<P>N.N.L. = New Netherlandis or Dutch.
+<P>Nyāy. S. = Nyāya-Sūtrāṇi of Gotama,
+ed. Calc.
+<P>O.H.G. = Old High German.
+<P>O.N. = Old Norse.
+<P>Padmap. = Padma-Purāṇa, ed. Woll-
+heim.
+<P>Pāṇ. = Pāṇini, ed. Böhtlingk.
+<P>Pañc. = Pañcatantra, ed. Kosegarten;
+the numerals are used on the same system
+as in Hit. When there is added ‘ed. orn.,’
+it denotes the fragment of the recensio
+ornatior, published by Kosegarten.
+<P>Par. = Parasmaipada.
+<P>Part. = particle.
+<P>Pr. = prologue.
+<P>Prab. = Prabodhacandrodaya, ed.
+Brockhaus.
+<P>Prākṛ. = Prākṛt.
+<P>Ragh. = Raghuvaffiśa, ed. Stenzler.
+<P>Rāgh. = Rāghavānanda, Sch. ad Man.
+<P>Rājat. = Rājataraṅgiṇī, ed. Troyer, the
+fifth book in my Chrestomathy.
+<P>Rām. = Rāmāyaṇa, the two first books
+after the ed. of Schlegel; when that of Gor-
+resio is meant, there is added Gorr.; the
+remaining books after Gorresio's.
+<P>Ratnāv. = Ratnāvalī, 2. ed. Calc.
+<P>Rigv. = Rigveda.
+<P>Ṛt. = Ṛtusaṃhāra, ed. Bohlen, the first
+chapter also in Lass., the sixth in my Chre-
+stomathy.
+<P>Sāh. D. = Sāhitya Darpaṇa, in Biblio-
+theca Indica.
+<P>Sāṅkhya Aph. = Sāṅkhya Sūtras, in
+Hall's ed. of Saṅkhya Pravacana Bhāṣya
+in Bibl. Ind.
+<P>Sāv. = Sāvitryupākhyāna, an episode of
+the MBh., ed. Bopp.
+<P>Siddh. K. = Siddhāntakaumudi, ed. Calc.,
+4to.
+<P>Siddh. Mukt. = Siddhānta Muktāvali,
+ed. Roër in Bibl. Ind. 
+
+[PageVI-a+ 23]
+<P>Skandap. Kāśikh. = Kāśikhaṇḍa, a part
+of the Skanda-Purāṇa (MSS.).
+<P>Somadev. Nal. = Somadeva's Nala, pub-
+lished by Brockhaus.
+<P>Ssk. and Sskr. = Sanskrit.
+<P>Suśr. = Suśruta, ed. Calc.; the first
+numeral denotes the vol., the second the
+page, the third the line.
+<P>Sund. = Sundopasundopākhyāna, an epi-
+sode of the MBh., ed. Bopp.
+<P>Swed. = Swedish.
+<P>Upak. = Upakośa, an episode of the
+Kathās., ed. Brockhaus.
+<P>Utt. Rāmac. = Uttara Rāmacarita, 2.
+ed. Calc., 1862.
+<P>Varāh. Bṛh. = Varāhamihira's Bṛhajjā-
+taka.
+<P>Varāh. Bṛh. S. = Varāhamihira's Bṛ-
+hatsaṃhitā.
+<P>Vārt. = Vārtika.
+<P>Vedāntas. = Vedāntasāra, in my Chre-
+stomathy.
+<P>Vikr. = Vikramorvaśī, ed. Bollensen. 
+
+[PageVI-b+ 22]
+<P>Vop. = Vopadeva, ed. Böhtlingk.
+<P>Web. Ind. St. = Weber, Indische Stu-
+dien, i. e. ‘Essaya concerning India.’
+<P>Yājñ. = Yājñavalkya, ed. Stenzler.
+<P>Yogas. = Yogasūtrāṇi, ed. Allahabed,
+1852-53.
+<P>† denotes verbs or meanings for which
+there are no authoritative references.
+<P>' when before, denotes that the word
+occurs only as latter part of a compound;
+when after, as former.
+<P>° denotes abbreviations, which may be
+easily supplied from the context.
+<P>- denotes, in the etymological analysis,
+elements which are to be found in the
+dictionary; in comp. that the word which
+is the subject of the article must be sup-
+plied, as e.g. 1, A, 8, after {%An-%} must be
+added {%aṃśa;%} 51, B, 10 bel., before {%-paṇa%}
+must be added {%ardha.%}
+<P>+ denotes grammatical elements of a word.
+<P>* denotes fictitious forms. 
+
+[Page0001-a+ 29]
+<H>{#a#} {%A.%}
+
