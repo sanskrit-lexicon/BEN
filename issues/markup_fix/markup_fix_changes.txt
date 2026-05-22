@@ -1,0 +1,7 @@
+; markup_fix log for ben.txt
+; nested: 0
+; whitespace: 1
+; changed: 1
+;
+58227 old perly the cow-herd <lang n="greek">κατ̕ἐξοχήν </lang>), <ls>MBh.</ls>
+58227 new perly the cow-herd <lang n="greek">κατ̕ἐξοχήν</lang>), <ls>MBh.</ls>
