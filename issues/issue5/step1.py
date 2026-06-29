@@ -9,15 +9,27 @@ Transformations:
   T4: Unwrap {@ @} around -- <ab>Comp.</ab>
   T4b: Unwrap split {@ @} blocks ({@ --@} {@<ab>Comp.</ab>@} → --<ab>Comp.</ab>)
   T_plus_spacing: Normalize spacing around + signs (a+b → a + b)
-  T2: Move punctuation (, . ;) from inside {%...%} to outside
+  T_roman_comma: Change comma to period after roman numerals before digits (i, 1 → i. 1)
+  T2: Move punctuation (, . ; :) from inside {%...%} to outside
   T3: Move † (dagger) from inside {#...#} to before it
   T8: Split Comp sub-entries onto separate lines with ¦
   T_section_nl: Put ' --' section separators on their own line ( -- → \n --)
-  T_pipe_missing: Add missing '¦' to lines starting with ' {%' (^ {% → ¦ {%)
+  T_with_nl: Put ' -With ' on its own line with double dash ( -With → \n --With)
+  T_pipe_missing: Add missing '¦' to lines starting with '{%' or ' {%' (^{% → ¦ {%)
   T9: Remove trailing space before <LEND> or newline+¦
   T_merge_m: Merge %} + {%m%}[.] into previous block ({%x%} + {%m%}. → {%xm%})
   T10: Merge adjacent {%...%} blocks (%} {% → '')
   T6: Ensure blank line after each <LEND>
+  #63-1: Change single-dash <ab> to double-dash
+  #63-2: Put {% block after digit+period on own line with ¦
+  #63-3: Tag 'etc.' with <ab>...</ab>
+  #63-4: Tag 'VP.' with <ls>...</ls>
+  #63-5: Move + from inside {%...+%} to before {%
+  #63-6: Tag 'Man, N' with <ls>Man.</ls> N
+  #63-7: Tag 'Vedāntas.' with <ls>...</ls>
+  #63-8: Split {%x = y%} into {%x%} + {%y%}
+  #63-9: Move * from inside {%*...%} to before {%
+  #63-10: Join Sanskrit blocks by removing -#} {#
 
 Output:
   derivatives/temp_cdsl_ben1.txt  — CDSL with corrections applied
@@ -95,6 +107,11 @@ def t_plus_spacing(text):
     return text
 
 
+def t_roman_comma_to_period(text):
+    """Change comma to period after roman numerals before digits (e.g. 'i, 1' → 'i. 1')."""
+    return re.sub(r', ([ivx]+), ([0-9])', r', \1. \2', text)
+
+
 def t_merge_m(text):
     """Merge %} + {%m%}[.] into the previous block, removing the +."""
     return re.sub(r'%} \+ \{%m%\}\.?', 'm%}', text)
@@ -106,7 +123,7 @@ def t2_punctuation_outside(text):
     Handles single punctuation ({%a,%} -> {%a%},) and multiple
     consecutive punctuation ({%a,,%} -> {%a%},,).
     """
-    text = re.sub(r'\{%([^}]*?)([,.;]+)%\}', r'{%\1%}\2', text)
+    text = re.sub(r'\{%([^}]*?)([,.;:]+)%\}', r'{%\1%}\2', text)
     return text
 
 
@@ -140,9 +157,19 @@ def t_section_nl(text):
     return re.sub(r' --', '\n --', text)
 
 
+def t_with_nl(text):
+    """Normalize ' -With ' to '\n --With ' (put -With sections on own line with double dash)."""
+    return re.sub(r' -With ', '\n --With ', text)
+
+
 def t_pipe_missing(text):
-    """Prepend '¦' to lines starting with ' {%' (missing pipe separator)."""
-    return re.sub(r'^ \{', '¦ {', text, flags=re.MULTILINE)
+    """Prepend '¦' to lines starting with '{%' (missing pipe separator)."""
+    text = re.sub(r'^ \{', '¦ {', text, flags=re.MULTILINE)
+    text = re.sub(r'^\{', '¦ {', text, flags=re.MULTILINE)
+    # Undo incorrect additions to {# lines (entry body starts with {#...})
+    text = re.sub(r'^¦ \{#', '{#', text, flags=re.MULTILINE)
+    text = re.sub(r'^¦  \{#', '{#', text, flags=re.MULTILINE)
+    return text
 
 
 def t9_trail_space(text):
@@ -163,6 +190,59 @@ def t6_blank_lines(text):
     text = re.sub(r'\n{3,}', '\n\n', text)
     text = re.sub(r'<LEND>\n(?!\n)', '<LEND>\n\n', text)
     return text
+
+
+# ── New transformations (issue #63) ──────────────────────────────────────────
+
+
+def t_dash_ab(text):
+    """Change single-dash + <ab> to double-dash (matching AB)."""
+    return re.sub(r' -<ab>', ' --<ab>', text)
+
+
+def t_num_pipe_pct(text):
+    """Put {% block after digit+period on its own line with ¦."""
+    return re.sub(r'(\d\.) \{%', r'\1\n¦ {%', text)
+
+
+def t_etc_tag(text):
+    """Tag 'etc.' with <ab>...</ab>."""
+    return re.sub(r' etc\.', ' <ab>etc.</ab>', text)
+
+
+def t_vp_tag(text):
+    """Tag 'VP.' with <ls>...</ls>."""
+    return re.sub(r' VP\. ', ' <ls>VP.</ls> ', text)
+
+
+def t_plus_out(text):
+    """Move + from inside {%...+%} to before {%."""
+    return re.sub(r'\{% \+ ', '+ {%', text)
+
+
+def t_man_tag(text):
+    """Tag 'Man,' reference with <ls>...</ls>."""
+    return re.sub(r' Man, (\d)', ' <ls>Man.</ls> \\1', text)
+
+
+def t_vedantas_tag(text):
+    """Tag 'Vedāntas.' with <ls>...</ls>."""
+    return re.sub(r'Vedāntas\. ', '<ls>Vedāntas.</ls> ', text)
+
+
+def t_split_eq(text):
+    """Split {%x = y%} into {%x%} + {%y%}."""
+    return re.sub(r'\{%([^=]+) =([^%]+)%\}', r'\1%} + {%\2%}', text)
+
+
+def t_asterisk_out(text):
+    """Move * from inside {%*...%} to before {%."""
+    return re.sub(r'\{%\*', '*{%', text)
+
+
+def t_join_sanskrit(text):
+    """Join Sanskrit blocks by removing -#} {# boundary."""
+    return re.sub(r'-#} *{#', '', text)
 
 
 def main():
@@ -210,7 +290,7 @@ def main():
     stats['T_plus_spacing: + spacing'] = c_plus_before - c_plus_after
 
     # T2: move punctuation outside {%...%}
-    c2 = len(re.findall(r'\{%[^}]*?[,.;]+%\}', cdsl))
+    c2 = len(re.findall(r'\{%[^}]*?[,.;:]+%\}', cdsl))
     cdsl = t2_punctuation_outside(cdsl)
     stats['T2: punctuation moved out'] = c2
 
@@ -229,8 +309,13 @@ def main():
     cdsl = t_section_nl(cdsl)
     stats['T_section_nl: -- on own line'] = c_sn
 
-    # T_pipe_missing: prepend '¦' to lines starting with ' {%'
-    c_pm = len(re.findall(r'^ \{', cdsl, flags=re.MULTILINE))
+    # T_with_nl: normalize ' -With ' to '\n --With '
+    c_wn = len(re.findall(r' -With ', cdsl))
+    cdsl = t_with_nl(cdsl)
+    stats['T_with_nl: -With to --With'] = c_wn
+
+    # T_pipe_missing: prepend '¦' to lines starting with '{%' or ' {%'
+    c_pm = len(re.findall(r'^ \{', cdsl, flags=re.MULTILINE)) + len(re.findall(r'^\{', cdsl, flags=re.MULTILINE)) - len(re.findall(r'^\{#', cdsl, flags=re.MULTILINE))
     cdsl = t_pipe_missing(cdsl)
     stats['T_pipe_missing: added missing ¦'] = c_pm
 
@@ -248,6 +333,11 @@ def main():
     cdsl = t_merge_m(cdsl)
     stats['T_merge_m: merged m into prev block'] = c_m
 
+    # T_roman_comma_to_period: unify roman numeral notation (', i, 1' → ', i. 1')
+    c_roman = len(re.findall(r', ([ivx]+), ([0-9])', cdsl))
+    cdsl = t_roman_comma_to_period(cdsl)
+    stats['T_roman_comma: roman comma to period'] = c_roman
+
     # T10: merge adjacent {%...%} blocks
     c10 = len(re.findall(r'%} {%', cdsl))
     cdsl = t10_merge_pct_blocks(cdsl)
@@ -257,6 +347,57 @@ def main():
     c6 = len(re.findall(r'<LEND>\n(?!\n)', cdsl))
     cdsl = t6_blank_lines(cdsl)
     stats['T6: blank lines ensured'] = c6
+
+    # ── New transforms (issue #63) ─────────────────────────────────────
+    # 1: change single-dash <ab> to double-dash (matching AB)
+    c_dab = len(re.findall(r' -<ab>', cdsl))
+    cdsl = t_dash_ab(cdsl)
+    stats['1: -<ab> → --<ab>'] = c_dab
+
+    # 2: put {% block after digit+period on own line
+    c_np = len(re.findall(r'\d\. \{%', cdsl))
+    cdsl = t_num_pipe_pct(cdsl)
+    stats['2: \\d. {% → own line with ¦'] = c_np
+
+    # 3: tag 'etc.' with <ab>...</ab>
+    c_etc = len(re.findall(r' etc\.', cdsl))
+    cdsl = t_etc_tag(cdsl)
+    stats['3: etc. tagged'] = c_etc
+
+    # 4: tag 'VP.' with <ls>...</ls>
+    c_vp = len(re.findall(r' VP\. ', cdsl))
+    cdsl = t_vp_tag(cdsl)
+    stats['4: VP. tagged'] = c_vp
+
+    # 5: move + out of {%...+%} to before {%
+    c_po = len(re.findall(r'\{% \+ ', cdsl))
+    cdsl = t_plus_out(cdsl)
+    stats['5: + moved out of {%...%}'] = c_po
+
+    # 6: tag 'Man,' reference with <ls>...</ls>
+    c_man = len(re.findall(r' Man, \d', cdsl))
+    cdsl = t_man_tag(cdsl)
+    stats['6: Man, tagged'] = c_man
+
+    # 7: tag 'Vedāntas.' with <ls>...</ls>
+    c_ved = len(re.findall(r'Vedāntas\. ', cdsl))
+    cdsl = t_vedantas_tag(cdsl)
+    stats['7: Vedāntas. tagged'] = c_ved
+
+    # 8: split {%x = y%} into {%x%} + {%y%}
+    c_eq = len(re.findall(r'\{%[^=]+ =[^%]+%\}', cdsl))
+    cdsl = t_split_eq(cdsl)
+    stats['8: {%...=...%} split'] = c_eq
+
+    # 9: move * out of {%*...%} to before {%
+    c_ast = len(re.findall(r'\{%\*', cdsl))
+    cdsl = t_asterisk_out(cdsl)
+    stats['9: * moved out of {%...%}'] = c_ast
+
+    # 10: join Sanskrit blocks by removing -#} {#
+    c_js = len(re.findall(r'-#} *{#', cdsl))
+    cdsl = t_join_sanskrit(cdsl)
+    stats['10: -#} {# removed'] = c_js
 
     # Write CDSL output
     cdsl_out = os.path.join(DERIV_DIR, 'temp_cdsl_ben1.txt')
@@ -278,7 +419,6 @@ def main():
     # Normalize AB: use ˚ (ring above) instead of ° (degree sign) to match CDSL
     ab_deg_count = ab.count('°')
     ab = ab.replace('°', '˚')
-
     ab_out = os.path.join(DERIV_DIR, 'temp_ab_ben1.txt')
     with open(ab_out, 'w') as f:
         f.write(ab)
@@ -292,9 +432,9 @@ def main():
         print(f"  {k}: {v}")
     print()
     print(f"AB normalizations:")
-    print(f"  Pipe at line start: {ab_norm_pipe}")
-    print(f"  Kriṣ→Kṛṣ:           {ab_kri_count}")
-    print(f"  °→˚:                {ab_deg_count}")
+    print(f"  Pipe at line start:  {ab_norm_pipe}")
+    print(f"  Kriṣ→Kṛṣ:            {ab_kri_count}")
+    print(f"  °→˚:                 {ab_deg_count}")
     print()
     cdsl_size = os.path.getsize(CDSL_FILE)
     mod_size = os.path.getsize(cdsl_out)
