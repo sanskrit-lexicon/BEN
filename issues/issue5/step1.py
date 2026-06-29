@@ -153,8 +153,10 @@ def t8_comp_subentries(text):
 
 
 def t_section_nl(text):
-    """T_section_nl: Put ' --' section separators on their own line."""
-    return re.sub(r' --', '\n --', text)
+    """T_section_nl: Put ' --' section separators on their own line.
+    Skip '{@...@}' blocks (e.g. ' -- {@2.@}') — they should stay inline.
+    """
+    return re.sub(r' --(?!\s*\{@)', '\n --', text)
 
 
 def t_with_nl(text):
@@ -398,6 +400,33 @@ def main():
     c_js = len(re.findall(r'-#} *{#', cdsl))
     cdsl = t_join_sanskrit(cdsl)
     stats['10: -#} {# removed'] = c_js
+
+    # ── New transforms (user 2025-12-20) ──────────────────────────────
+    # 11-12: standardize Cf. and Caus. sections (skip if already on own line)
+    c11 = len(re.findall(r'-*<ab>Cf\.</ab>', cdsl))
+    cdsl = re.sub(
+        r'(\n --)?-*<ab>Cf\.</ab>',
+        lambda m: '\n --<ab>Cf.</ab>' if m.group(1) is None else m.group(0),
+        cdsl,
+    )
+    stats['11: standardize <ab>Cf.</ab>'] = c11
+
+    c12 = len(re.findall(r'-*<ab>Caus\.</ab>', cdsl))
+    cdsl = re.sub(
+        r'(\n --)?-*<ab>Caus\.</ab>',
+        lambda m: '\n --<ab>Caus.</ab>' if m.group(1) is None else m.group(0),
+        cdsl,
+    )
+    stats['12: standardize <ab>Caus.</ab>'] = c12
+
+    # 13: put † roman.page on its own line (skip if already on own line)
+    c13 = len(re.findall(r'† ([ivx]+)\. (\d)', cdsl))
+    cdsl = re.sub(
+        r'(\n --)?† ([ivx]+)\. (\d)',
+        lambda m: '\n --† ' + m.group(2) + '. ' + m.group(3) if m.group(1) is None else m.group(0),
+        cdsl,
+    )
+    stats['13: † roman.page on own line'] = c13
 
     # Write CDSL output
     cdsl_out = os.path.join(DERIV_DIR, 'temp_cdsl_ben1.txt')
