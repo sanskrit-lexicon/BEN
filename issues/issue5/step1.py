@@ -2,7 +2,9 @@
 """step1.py - Apply mechanical transformations to bring CDSL closer to AB.
 
 Transformations:
-  T7: Collapse newlines within entries (-\n → '', \n → ' ')
+  T_join_pct: Merge hyphenated {%...%} blocks across line break (-%}\n{% → '')
+  T0: Join hyphenated line breaks globally (-\n → '')
+  T7: Collapse newlines within entries (\n → ' ')
   T5: Normalize -- separator spacing (-- + → --)
   T4: Unwrap {@ @} around -- <ab>Comp.</ab>
   T2: Move punctuation (, . ;) from inside {%...%} to outside
@@ -28,12 +30,26 @@ AB_FILE = "ben_Main_L2.txt"
 DERIV_DIR = "derivatives"
 
 
+def t_join_pct(text):
+    """T_join_pct: Merge hyphenated {%...%} blocks across line break.
+
+    Handles the case where a hyphenated line break falls exactly
+    at the boundary between two {%...%} blocks.
+    {%abc-%}\n{%def%} → {%abcdef%}
+    """
+    return re.sub(r'-%}\n{%', '', text)
+
+
+def t0_join_hyphens(text):
+    """T0: Join hyphenated line breaks globally before any other transform."""
+    return re.sub(r'-\n', '', text)
+
+
 def t7_collapse_newlines(text):
     """T7: Collapse newlines within entries.
 
     Within each entry (between <L> and <LEND>):
-      - '-\n' → ''  (join hyphenated words)
-      -  '\n' → ' ' (replace other newlines with space)
+        '\n' → ' ' (replace other newlines with space)
     Preserves the <L> header line on its own line and
     keeps <LEND> on its own line.
     """
@@ -43,10 +59,9 @@ def t7_collapse_newlines(text):
             lines = part.split('\n')
             header = lines[0]
             body = '\n'.join(lines[1:])
-            body = re.sub(r'-\n', '', body)
             body = re.sub(r'\n', ' ', body)
             body = re.sub(r' +', ' ', body)
-            parts[i] = header + '\n' + body
+            parts[i] = header + '\n' + body + '\n'
     return ''.join(parts)
 
 
@@ -100,7 +115,7 @@ def t8_comp_subentries(text):
 
 def t9_trail_space(text):
     """T9: Remove trailing space(s) before <LEND>."""
-    return re.sub(r' +<LEND>', '<LEND>', text)
+    return re.sub(r' +\n<LEND>', '\n<LEND>', text)
 
 
 def t10_merge_pct_blocks(text):
@@ -123,12 +138,20 @@ def main():
 
     stats = {}
 
+    # T_join_pct: merge hyphenated {%...%} blocks across line break
+    cjp = len(re.findall(r'-%}\n{%', cdsl))
+    cdsl = t_join_pct(cdsl)
+    stats['T_join_pct: merged hyphenated {% blocks'] = cjp
+
+    # T0: join hyphenated line breaks globally (before any other transform)
+    c0 = len(re.findall(r'-\n[a-z]', cdsl))
+    cdsl = t0_join_hyphens(cdsl)
+    stats['T0: hyphenated words joined'] = c0
+
     # T7: collapse newlines within entries
-    c7a = len(re.findall(r'-\n[a-z]', cdsl))
-    c7b = len(re.findall(r'(?<!<LEND>)\n(?!<L>)', cdsl))
+    c7 = len(re.findall(r'(?<!<LEND>)\n(?!<L>)', cdsl))
     cdsl = t7_collapse_newlines(cdsl)
-    stats['T7: hyphenated words joined'] = c7a
-    stats['T7: newlines collapsed'] = c7b
+    stats['T7: newlines collapsed'] = c7
 
     # T5: normalize -- spacing
     c5 = len(re.findall(r'-- +', cdsl))
@@ -156,7 +179,7 @@ def main():
     stats['T8: Comp sub-entries split'] = c8
 
     # T9: remove trailing space before <LEND>
-    c9 = len(re.findall(r' +<LEND>', cdsl))
+    c9 = len(re.findall(r' +\n<LEND>', cdsl))
     cdsl = t9_trail_space(cdsl)
     stats['T9: trailing space before LEND'] = c9
 
