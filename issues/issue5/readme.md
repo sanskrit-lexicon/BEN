@@ -9,10 +9,6 @@ Occurrence of Kriṣṇa in ben_Main_L2.txt means that it was taken before 03 Oc
 Going backwards, b4f5ddd in csl-orig seems to be the commit on which the first csl-devanagari version was created on 03 September 2021.
 We take this as the base for now.
 
-cd /path/to/csl-orig
-git show b4f5ddd:v02/ben/ben.txt > temp_ben_b4f5ddd.txt
-mv temp_ben_b4f5ddd.txt /path/to/BEN/issues/issue5/temp_ben_b4f5ddd.txt
-
 # csl-devanagari file
 
 cd /path/to/csl-devanagari
