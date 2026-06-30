@@ -275,3 +275,11 @@ Boll.	<id>Boll.</id> <disp>Bollensen</disp>
 Lenz.	<id>Lenz.</id> <disp>Lenz</disp>
 Will.	<id>Will.</id> <disp>Will</disp>
 Fest.	<id>Fest.</id> <disp>Festus</disp>
+MS.	<id>MS.</id> <disp>manuscript</disp>
+O.S.	<id>O.S.</id> <disp>Old Saxon</disp>
+rec. orn.	<id>rec. orn.</id> <disp>recensio ornatior (Kosegarten's ornate recension of Pañcatantra)</disp>
+rec.	<id>rec.</id> <disp>recensio (recension)</disp>
+Mr.	<id>Mr.</id> <disp>Mister (place holder for a name)</disp>
+Narr.	<id>Narr.</id> <disp>Narrative (story number)</disp>
+T.	<id>T.</id> <disp>Theodor (Benfey)</disp>
+organ.	<id>organ.</id> <disp>organic (original form)</disp>
