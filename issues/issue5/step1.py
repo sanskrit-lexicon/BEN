@@ -43,7 +43,7 @@ import re
 import os
 
 CDSL_FILE = "temp_base_ben.txt"
-AB_FILE = "ben_Main_L2.txt"
+AB_FILE = "BEN_main_L2a.txt"
 DERIV_DIR = "derivatives"
 
 
