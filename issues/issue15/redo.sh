@@ -5,6 +5,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 echo "=== Copying source files ==="
 cp /Users/Shared/sanskrit-lexicon/csl-orig/v02/ben/ben.txt "$SCRIPT_DIR/temp_ben_0.txt"
+# Upstream baseline (114 entries). Our expanded version is ls_input.txt
 cp "/Users/Shared/sanskrit-lexicon/csl-pywork/v02/distinctfiles/ben/pywork/benauth/tooltip.txt" "$SCRIPT_DIR/temp_ls_input.txt"
 
 echo ""

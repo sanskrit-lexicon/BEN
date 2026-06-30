@@ -12,7 +12,7 @@ from collections import Counter
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 LS_INPUT = os.path.join(SCRIPT_DIR, "temp_ben_0.txt")
-LS_EXPANSIONS = os.path.join(SCRIPT_DIR, "temp_ls_input.txt")
+LS_EXPANSIONS = os.path.join(SCRIPT_DIR, "ls_input.txt")
 LS_PATTERN = re.compile(r"<ls>([^<]+)</ls>")
 
 def main():
@@ -41,7 +41,7 @@ def main():
     print("=== <ls> tag expansion coverage ===")
     print()
     print(f"Unique <ls> values in ben.txt:     {len(ben_ls_values)}")
-    print(f"Entries in temp_ls_input.txt:       {len(expansion_ls_values)}")
+    print(f"Entries in ls_input.txt:             {len(expansion_ls_values)}")
     print()
     print(f"Have expansion:     {len(have_expansion):>3}  ({len(have_expansion)/len(ben_ls_values)*100:>5.1f}%)")
     print(f"No expansion:       {len(no_expansion):>3}  ({len(no_expansion)/len(ben_ls_values)*100:>5.1f}%)")
