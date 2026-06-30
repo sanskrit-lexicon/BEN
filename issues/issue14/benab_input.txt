@@ -228,7 +228,6 @@ Ptcple.	<id>Ptcple.</id> <disp>participle</disp>
 q.	<id>q.</id> <disp>quod (which)</disp>
 q. v.	<id>q. v.</id> <disp>quod vide (which see)</disp>
 r.	<id>r.</id> <disp>reading</disp>
-rec.	<id>rec.</id> <disp>recensio (recension)</disp>
 rec. orn.	<id>rec. orn.</id> <disp>recensio ornatior (Kosegarten's ornate recension of Pañcatantra)</disp>
 red.	<id>red.</id> <disp>reduplicated</disp>
 redupl.	<id>redupl.</id> <disp>reduplicated</disp>
@@ -262,7 +261,6 @@ Superl.	<id>Superl.</id> <disp>superlative</disp>
 Superlat.	<id>Superlat.</id> <disp>superlative</disp>
 Suppl.	<id>Suppl.</id> <disp>supplement</disp>
 suppl.	<id>suppl.</id> <disp>supplement</disp>
-Swed.	<id>Swed.</id> <disp>Swedish.</disp>
 T.	<id>T.</id> <disp>Theodor (Benfey)</disp>
 Tacit.	<id>Tacit.</id> <disp>Tacitus</disp>
 transl.	<id>transl.</id> <disp>translation</disp>
