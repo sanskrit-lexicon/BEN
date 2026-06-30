@@ -33,14 +33,15 @@ This runs 3 scripts:
 `step1.py`: CDSL transformations + AB normalization
 `step2.py`: abbreviation tagging.
 `step3.py`: page line numbers into AB
+`step4.py`: Add Greek tags from CDSL to AB version, as CDSL greek tags are proof-read.
 
-At the end of the three scripts, we get two files
+At the end of the four scripts, we get two files
 
-`derivatives/temp_cdsl_ben3.txt` and `derivatives/temp_ab_ben3.txt`.
+`derivatives/temp_cdsl_ben3.txt` and `derivatives/temp_ab_ben4.txt`.
 
 Analyse the differences by
 
-`vimdiff derivatives/temp_cdsl_ben3.txt derivatives/temp_ab_ben3.txt`
+`vimdiff derivatives/temp_cdsl_ben3.txt derivatives/temp_ab_ben4.txt`
 
 These are mainly cases where there are genuine differences between CDSL and AB version. Noise has been weeded out.
 
@@ -96,6 +97,18 @@ git commit -m 'Line counts added after page number in AB version. See https://gi
 git push
 ```
 
+### Add step4 output to csl-devanagari
+
+```
+cd /Users/Shared/sanskrit-lexicon/csl-devanagari
+cp /Users/Shared/other-sanskrit-lexicon-repos/BEN/issues/issue5/derivatives/temp_ab_ben3.txt v02/ben/ben.txt
+git diff --word-diff-regex=.
+git status
+git add .
+git commit -m 'Greek tags reintroduced from CDSL version. See https://github.com/sanskrit-lexicon/BEN/issues/5'
+git push
+```
+
 ### Add BEN_Main_L2a.txt data
 
 This file had 15 differences from ben_Main_L2.txt file. step1.py was modified to use BEN_Main_L2a.txt file as input and `redo.sh` was run, generating the file temp_ab_ben3.txt incorporating all the 15 changes.
@@ -145,4 +158,46 @@ diff /Users/Shared/sanskrit-lexicon/csl-devanagari/slp1/ben.txt /Users/Shared/sa
 <  --<ab>Cf.</ab> {%śaraṇa%}, and <ab>Goth.</ab> hulth; <ab>A.S.</ab> hold; perhaps <ab>Goth.</ab> hail; <ab>A.S.</ab> hál; perhaps <ab>Lat.</ab> clemens; to the original signification seem to belong, <lang n="greek">κλίνω, κλισία, κλιτύς; <ab>Lat.</ab> in-clinare, clivus; <ab>Goth.</ab> hlains, hleithra, hlija; <ab>A.S.</ab> hlynian, hlidh.
 ---
 >  --<ab>Cf.</ab> {%śaraṇa%}, and <ab>Goth.</ab> hulth; <ab>A.S.</ab> hold; perhaps <ab>Goth.</ab> hail; <ab>A.S.</ab> hál; perhaps <ab>Lat.</ab> clemens; to the original signification seem to belong, <lang n="greek">κλίνω, κλισία, κλιτύς</lang>; <ab>Lat.</ab> in-clinare, clivus; <ab>Goth.</ab> hlains, hleithra, hlija; <ab>A.S.</ab> hlynian, hlidh.
+```
+
+# Manually add changes made to csl-orig/v02/ben/ben.txt from September 2021 to June 2026
+
+Studied the history of changes to csl-orig/v02/ben/ben.txt file by looking at <https://github.com/sanskrit-lexicon/csl-orig/commits/main/v02/ben/ben.txt>.
+It is not sure when the file was taken by Andhrabharati.
+Therefore, a guess was made.
+Occurrence of 'ἄρκτος' in BEN_Main_L2a.txt suggests that it was taken after <https://github.com/sanskrit-lexicon/csl-orig/commit/6f4d89c1d5f28070d565140f922bff4b4907c08b> and presence of 'Kriṣṇa' suggests that it was taken before <https://github.com/sanskrit-lexicon/csl-orig/commit/2cdcc5e720865413c4308a068fbbb9a21944c086>.
+
+Therefore, the following commits were checked for any changes which may have been made in csl-orig after the file was taken by AB i.e. commit 6f4d89c1d5f28070d565140f922bff4b4907c08b
+
+```
+338005a BEN corrections per #745
+e2ed7bb BEN: trim trailing space inside <lang n="greek"> at line 58227
+2a9adf2 AP, AP90, BEN, BHS update for printchanges
+3b990c8 chh->ch. close #197
+ad874b2 BEN ring above
+2e04143 BEN changes per https://github.com/sanskrit-lexicon/csl-corrections/issues/75
+a7e3461 BEN, PWG  drohin. Ref: https://github.com/sanskrit-lexicon/PWG/issues/135#issuecomment-2857066545
+090fa03 BEN: Lbody groups. Ref: https://github.com/sanskrit-lexicon/BEN/tree/master/issues/issue9
+7a627f2 BEN. L=6526  'du' Ref: https://github.com/sanskrit-lexicon/BEN/issues/8
+de40d4d BEN. greek Proofreading  Ref: https://github.com/sanskrit-lexicon/BEN/issues/8
+293922d BEN: Greek text in addenda. Ref: https://github.com/sanskrit-lexicon/BEN/issues/6
+9cc52c9 BEN: punctuation after greek text fragments. Ref: https://github.com/sanskrit-lexicon/BEN/issues/6
+f55236e BEN: 2 additional greek corrections.
+4a2dbf7 BEN: Greek text added. Ref: https://github.com/sanskrit-lexicon/BEN/issues/6
+32601aa BEN: remove <div n='lb'> markup. Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+d28a8af BEN: insert <div n='lb'> at lines starting with '<lang'.  This in preparation for removing all <div n='lb'>. Ref https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+5f62bda handled suggestion made in https://github.com/sanskrit-lexicon/csl-orig/issues/633#issuecomment-932992049
+0cbf4fa typo correction
+2cdcc5e BEN corrections. Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/33
+```
+
+They were manually corrected in csl-orig/v02/ben/ben.txt
+
+```
+commit 447359963158cfd494d3a2285ddccf1a0bbfd83b (HEAD -> main, origin/main, origin/HEAD)
+Author: Dr. Dhaval Patel <drdhaval2785@gmail.com>
+Date:   Tue Jun 30 14:37:02 2026 +0530
+
+    csl-orig corrections from the diverging commit carried back into AB which is now on CDSL. See https://github.com/sanskrit-lexicon/BEN/issues/5
+
 ```
