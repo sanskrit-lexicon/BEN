@@ -22,7 +22,6 @@ Bhāg. P.	Bhāgavata-Purāṇa, ed. Burnouf.
 Bhāṣāp.	Bhāṣāpariccheda, in Bibliotheca Indica and in my Sanskrit Chrestomathy.
 Br.	Brockhaus.
 Brahmav.	Brahmavaivarta(-Purāṇa).
-Brahmav. P.	Brahmavaivarta-Purāṇa, ed. Stenzler.
 Brahmavaiv. P.	Brahmavaivarta-Purāṇa, ed. Stenzler.
 Brāhmaṇ.	Brāhmaṇavilāpa, an episode of the MBh., ed. Bopp.
 Brāhmaṇav.	Brāhmaṇavilāpa, an episode of the MBh., ed. Bopp.
@@ -55,7 +54,7 @@ Gorr.	Gaspare Gorresio, Italian Orientalist and Indologist
 Govardh. Āryā Sapt.	Govardhana Āryāsaptaśatī, ed. Soma Nath Mookerjea.
 Govardh. Āryā Saptaśatī	Govardhana Āryāsaptaśatī, ed. Soma Nath Mookerjea.
 Govardhana, Āryā Sapt.	Govardhana Āryāsaptaśatī, ed. Soma Nath Mookerjea.
-Gött. Gel. Anz.	Göttinger Gelehrte Anzeigen, i. e. ‘Scientific Reports published in Göttingen.’ 
+Gött. Gel. Anz.	Göttinger Gelehrte Anzeigen, i. e. ‘Scientific Reports published in Göttingen.’
 Götting. Gel. Anz.	Göttinger Gelehrte Anzeigen.
 Gīt.	Gītagovinda. ed. Lassen.
 Haeb. Anth.	Häberlin's Anthology (Kāvya Saṅgraha).
@@ -95,7 +94,6 @@ Kuśumāñjali	Kusumāñjali, ed. Cowell.
 Kām. Nītis.	Kāmandakīya Nītisāra, in Bibliotheca Indica.
 Kāmand. Nītis.	Kāmandakīya Nītisāra, in Bibliotheca Indica.
 Kātyāyana S.	Kātyāyana Śrauta Sūtra.
-Kāvya Pr.	Kāvya Prakaśa, 2. ed. Calcutta, 1865.
 Kāvya Prak.	Kāvya Prakaśa, 2. ed. Calcutta, 1865.
 Kāśīkh.	Kāśīkhaṇḍa (part of Skanda-Purāṇa).
 Kūmar.	Kumārasaṃbhava, ed. Stenzler.
@@ -115,7 +113,7 @@ Mallin.	Mallinātha (commentator of Kirātārjunīya etc.).
 Man.	Mānavadharmaśāstra, ed. Haughton and Lois. (i. e. Loiseleur Deslongchamps). Where there is a numeral in brackets, it denotes the verse of Jones’ translation.
 Mark. P.	Mārkaṇḍeya-Purāṇa.
 Matsyop.	Matsyopākhyāna, an episode of the MBh., ed. Bopp.
-Megh.	Meghadūta, ed. Gildemeister. 
+Megh.	Meghadūta, ed. Gildemeister.
 Mit.	Mitākṣarā, ed. Calc., 1829.
 Monatsb. Berl. Ak. Hist. Phil.	Monatsberichte der Berliner Akademie, Historisch-Philologische Klasse.
 Monatsb. d. Berl. Ak. Hist. Phil.	Monatsberichte der Berliner Akademie, Historisch-Philologische Klasse.
@@ -156,9 +154,8 @@ Rām.	Rāmāyaṇa, the two first books after the ed. of Schlegel; when that of 
 Rāmatap. Up.	Rāmatāpanīya Upaniṣad.
 Schl.	Friedrich Schlegel, German Romantic philosopher and linguist
 Siddh. K.	Siddhāntakaumudi, ed. Calc., 4to.
-Siddh. Mukt.	Siddhānta Muktāvali, ed. Roër in Bibl. Ind. 
+Siddh. Mukt.	Siddhānta Muktāvali, ed. Roër in Bibl. Ind.
 Skanda P., Kāśīkh.	Skanda-Purāṇa, Kāśīkhaṇḍa.
-Skandap. Kāśikh.	Kāśikhaṇḍa, a part of the Skanda-Purāṇa (MSS.).
 Skandap., Kāśīkh.	Skanda-Purāṇa, Kāśīkhaṇḍa.
 Somad. Nal.	Somadeva's Nala, published by Brockhaus.
 Spec. of the Theatre of the Hind.	Wilson, Specimens of the Theatre of the Hindus.
@@ -188,7 +185,7 @@ Vedānt.	Vedānta (Vedāntasāra etc.).
 Vedāntas.	Vedāntasāra, in my Chrestomathy.
 Vetālap.	Vetālapañcaviṃśati.
 Vetālapañcav.	Vetālapañcaviṃśati.
-Vikr.	Vikramorvaśī, ed. Bollensen. 
+Vikr.	Vikramorvaśī, ed. Bollensen.
 Viṣṇu P.	Viṣṇu Purāṇa.
 Vop.	Vopadeva, ed. Böhtlingk.
 Vāmanap.	Vāmanapurāṇa.
