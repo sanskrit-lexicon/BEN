@@ -112,3 +112,112 @@ Vop.	Vopadeva, ed. Böhtlingk.
 Ind. St.	Weber, Indische Studien, i. e. ‘Essays concerning India.’
 Yājñ.	Yājñavalkya, ed. Stenzler.
 Yogas.	Yogasūtrāṇi, ed. Allahabad, 1852-53.
+
+Ait. Br.	Aitareya Brāhmaṇa.
+Amarak.	Amarakośa.
+Amarakoṣa	Amarakośa.
+Anth.	Anthology (Häberlin's Kāvya Saṅgraha).
+Arji Bordschi	Arji Bordschi (Mongolian work?).
+Atharv.-Ved.	Atharva-Veda.
+Atharva-V.	Atharva-Veda.
+Berl. Handschriften	Berliner Handschriften (Berlin manuscripts).
+Berl. Monatsb.	Berliner Monatsberichte (Monthly Reports of the Berlin Academy of Sciences).
+Berol.	Berlin (manuscript).
+Bhagav.	Bhāgavata(-Purāṇa).
+Bharata	Bharata (author of Nāṭyaśāstra).
+Bhaṭṭik.	Bhaṭṭikāvya, ed. Calcutta.
+Bhāg.	Bhāgavata(-Purāṇa).
+Brahmav.	Brahmavaivarta(-Purāṇa).
+Brahmavaiv. P.	Brahmavaivarta-Purāṇa, ed. Stenzler.
+Böhtl. Roth.	Böhtlingk and Roth, Sanskrit Wörterbuch.
+Böhtl. Roth. Sskr. Wörterbuch.	Böhtlingk and Roth, Sanskrit Wörterbuch.
+Bālab.	Bālabhārata.
+Bṛh. Ār. Up.	Bṛhadāraṇyaka Upaniṣad.
+Bṛhaspati	Bṛhaspati (author of Bṛhaspati Smṛti).
+Chānd. Up.	Chāndogya Upaniṣad, in Bibliotheca Indica.
+cod. Berol.	codex Berolinensis (Berlin manuscript).
+cod. Petersb.	codex Petropolitanus (St. Petersburg manuscript).
+Colebr. Essays	Colebrooke's Essays.
+Cāṭ.	Cāṭaka, in Zeitschrift für die Kunde des Morgenlands, vol. iv.
+Daśarūp.	Daśarūpa, ed. Fitz-Edward Hall.
+Dhūrtas.	Dhūrtasamāgama, a play or narrative.
+Episod. MBh. de Śakuntala	Episode of the Mahābhārata de Śakuntala.
+Fausböll, Dhammap.	Fausböll, Dhammapada.
+Ghaṭak.	Ghaṭakarpara.
+Götting. Gel. Anz.	Göttinger Gelehrte Anzeigen.
+Haeb. Anth.	Häberlin's Anthology (Kāvya Saṅgraha).
+Hemac.	Hemacandra (Jain author of Abhidhānacintāmaṇi etc.).
+Hind. Th.	Wilson, The Hindu Theatre (Theatre of the Hindus).
+Hind. Theat.	Wilson, The Hindu Theatre (Theatre of the Hindus).
+Hind. Theatr.	Wilson, The Hindu Theatre (Theatre of the Hindus).
+Hindu Dr.	Wilson, Hindu Drama.
+Hit. pr.	Hitopadeśa, prologue.
+Introd. à l'Hist. du Buddh.	Burnouf, Introduction à l'Histoire du Buddhisme Indien.
+Jaṭādh.	Jaṭādhara (author of Vākyaratnāvalī etc.).
+Johns.	Johnson's Selections from the Mahābhārata.
+Journ. As.	Journal Asiatique.
+Journ. of the German Oriental Society	Journal of the German Oriental Society (Zeitschrift der Deutschen Morgenländischen Gesellschaft).
+Kathā.	Kathāsaritsāgara (abbreviated).
+Kirātārj.	Kirātārjunīya, 2. ed. Calcutta, 1846.
+Kos.	Kośa (lexicon).
+Kusumāñjali	Kusumāñjali, ed. Cowell.
+Kuśumāñjali	Kusumāñjali, ed. Cowell.
+Kātyāyana S.	Kātyāyana Śrauta Sūtra.
+Kāśīkh.	Kāśīkhaṇḍa (part of Skanda-Purāṇa).
+Kūmar.	Kumārasaṃbhava, ed. Stenzler.
+Lass. Anth.	Lassen, Anthologia Sanskritica.
+Lenz. App. cr.	Lenz, Appendix critica.
+M.	Manu (Mānavadharmaśāstra).
+M. Müller, Anc. Sskr. Lit.	Max Müller, Ancient Sanskrit Literature.
+Mah.	Mahābhārata.
+Mallin.	Mallinātha (commentator of Kirātārjunīya etc.).
+Mark. P.	Mārkaṇḍeya-Purāṇa.
+Monatsb. Berl. Ak. Hist. Phil.	Monatsberichte der Berliner Akademie, Historisch-Philologische Klasse.
+Monatsb. d. Berl. Ak. d. Wiss.	Monatsberichte der Berliner Akademie der Wissenschaften (Monthly Reports of the Berlin Academy of Sciences).
+Monatsb. d. Berl. Ak. Hist. Phil.	Monatsberichte der Berliner Akademie, Historisch-Philologische Klasse.
+Monatsber. Berl. Ak. Hist. Phil.	Monatsberichte der Berliner Akademie, Historisch-Philologische Klasse.
+Monatsber. der Berliner Ak. Hist. Phil.	Monatsberichte der Berliner Akademie, Historisch-Philologische Klasse.
+Mricch.	Mṛcchakaṭikā, ed. Stenzler.
+Mém. sur les Contrées Occident., par Hiouen Thsang.	Mémoire sur les Contrées Occidentales, par Hiouen Thsang (Xuanzang's memoirs).
+Māl.	Mālatīmādhava, ed. Calcutta.
+Mālatīm.	Mālatīmādhava, ed. Calcutta.
+Mān.	Mānava(-dharmaśāstra).
+Navar.	Navarātra, an episode or text.
+Pañc. pr.	Pañcatantra, prologue.
+pr.	prologue.
+Prātiś.	Prātiśākhya.
+Pānch.	Pañcatantra.
+Pārask.	Pāraskara Gṛhya Sūtra.
+Pāraskara Gṛ. S.	Pāraskara Gṛhya Sūtra.
+R.	Rāmāyaṇa.
+Rāmatap. Up.	Rāmatāpanīya Upaniṣad.
+Skanda P., Kāśīkh.	Skanda-Purāṇa, Kāśīkhaṇḍa.
+Skandap., Kāśīkh.	Skanda-Purāṇa, Kāśīkhaṇḍa.
+Somad. Nal.	Somadeva's Nala, published by Brockhaus.
+Spec. of the Theatre of the Hind.	Wilson, Specimens of the Theatre of the Hindus.
+Stenzler	Stenzler (Indologist, editor of several Sanskrit texts).
+Sāhitya Darp.	Sāhitya Darpaṇa.
+Sāṅkhyak.	Sāṅkhya(kārikā).
+Sūryas.	Sūryasiddhānta.
+Tarkasaṃgr.	Tarkasaṃgraha.
+Tattvas.	Tattvasamāsa.
+Th. of the Hind.	Wilson, Theatre of the Hindus.
+Trans. of the R.A.S.	Transactions of the Royal Asiatic Society.
+Uttararāmac.	Uttara Rāmacarita, 2. ed. Calcutta, 1862.
+Vedānt.	Vedānta (Vedāntasāra etc.).
+Vetālap.	Vetālapañcaviṃśati.
+Vetālapañcav.	Vetālapañcaviṃśati.
+Viṣṇu P.	Viṣṇu Purāṇa.
+VP.	Viṣṇu Purāṇa.
+VS.	Vājasaneyi Saṃhitā.
+Vāmanap.	Vāmanapurāṇa.
+Vāsav.	Vāsavadattā, ed. Fitz-Edward Hall.
+Vāsavad.	Vāsavadattā, ed. Fitz-Edward Hall.
+Yoga.	Yoga(sūtra).
+Āśval. S.	Āśvalāyana Śrauta Sūtra.
+Āśvalāy. Gṛhyas.	Āśvalāyana Gṛhya Sūtra.
+Śakuntalop.	Śakuntalopākhyāna, an episode of the MBh..
+Śrutab.	Śrutabodha, ed. Brockhaus.
+Śukasapt.	Śukasaptati (MSS. of St. Petersburg).
+Śātr.	Śatruṃjayamāhātmya, ed. A. Weber.
+Śāṇḍilyas.	Śāṇḍilyasūtra.
