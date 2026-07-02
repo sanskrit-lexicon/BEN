@@ -1,6 +1,6 @@
 Trailing Digit Block Analysis for <ls> tags
 ======================================================================
-Total matches: 37721
+Total matches: 37720
 Total sources: 150
 
 Source                               Total  1-blk  2-blk  3-blk  4+blk  Consistent?
@@ -15,7 +15,7 @@ Rājat.                                1245      1   1242      2      0         
 Ragh.                                  845      0    845      0      0            ✓
 Suśr.                                  759      0      1    758      0            ✓
 Bhartṛ.                                718      0    717      1      0            ✓
-Kathās.                                673      5    668      0      0            ✓
+Kathās.                                672      0    672      0      0            ✓
 Hariv.                                 658    657      1      0      0            ✓
 Utt. Rāmac.                            658      4    654      0      0            ✓
 Lass.                                  486      4    482      0      0            ✓
@@ -371,23 +371,6 @@ Source: Bhartṛ. (1 non-conforming out of 718, 99.9% 2-blk)
 ────────────────────────────────────────────────────────────
   3 blks: <ls>Bhartṛ.</ls> 2, 91, 99
   LINE: {#vipula#}¦ {%vipula%} (<ab>cf.</ab> {%pul%}), {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%lā%}. {@1.@} Large, great, <ls>Pañc.</ls> i. <ab>d.</ab> 18; v. <ab>d.</ab> 5; <ls>Bhartṛ.</ls> 2, 91, 99; <ls>Rām.</ls> 3, 54, 28. {@2.@} Broad. {@3.@} Deep. {@II.@} <ab>m.</ab> {@1.@} The mountain Meru. {@2.@} The Himālaya mountain. {@3.@} A respectable man. {@III.@} <ab>f.</ab> {%lā%}, The earth.
-
-Source: Kathās. (5 non-conforming out of 673, 99.3% 2-blk)
-────────────────────────────────────────────────────────────
-  1 blk: <ls>Kathās.</ls> 20
-  LINE: {#kalyARin#}¦ {%kalyāṇin%}, <ab>i. e.</ab> {%kalyāṇa + in%}, <ab>adj.</ab> <ab>f.</ab> {%nī%}, Blessed, <ls>Kathās.</ls> 20.
-
-  1 blk: <ls>Kathās.</ls> 135
-  LINE: {#dIpra#}¦ {%dīp + ra%}, <ab>adj.</ab> Shining, <ls>Kathās.</ls> 135.
-
-  1 blk: <ls>Kathās.</ls> 34
-  LINE: {#paYcapuzpamaya#}¦ {%pañcapuṣpamaya%}, <ab>i. e.</ab> {%pañcan-puṣpa + maya%}, <ab>adj.</ab>, <ab>f.</ab> {%yī%}, Consisting of five flowers, <ls>Kathās.</ls> 34. 232.
-
-  1 blk: <ls>Kathās.</ls> 23
-  LINE: {#pUrRapAtramaya#}¦ {%pūrṇa-pātra + maya%} (<ab>cf.</ab> [Page0568-b + 43] {%pātra%}), <ab>adj.</ab>, <ab>f.</ab> {%yī%}. {@1.@} Consisting in a {%pūrṇa-pātra%}, <ls>MBh.</ls> 12, 2306. {@2.@} Concerning full cups. <ls>Kathās.</ls> 23. 84 (? <ab>Brockh.</ab>, Consisting in a poem).
-
-  1 blk: <ls>Kathās.</ls> 22
-  LINE: {#hArin#}¦ {%hārin%}, <ab>i. e.</ab> {%hṛ + in%}, <ab>adj.</ab>, <ab>f.</ab> {%iṇī%}, {@1.@} Taking, <ls>Man.</ls> 8, 308. {@2.@} Robbing, <ls>Pañc.</ls> i. <ab>d.</ab> 31. {@3.@} Agitating (with <ab>gen.</ab>), <ls>Man.</ls> 12, 28. {@4.@} Captivating, <ls>Śāk.</ls> <ab>d.</ab> 5; charming, <ls>Pañc.</ls> i. <ab>d.</ab> 303; <ls>Daśak.</ls> in <ls>Chr.</ls> 196, 19; delighting, <ls>Böhtl. Ind. Spr.</ls> 3288. {@5.@} Pleasant, <ls>Kathās.</ls> 22. 103. {@6.@} Bringing, <ls>Śāk.</ls> 61, 9.
 
 Source: Hariv. (1 non-conforming out of 658, 99.8% 1-blk)
 ────────────────────────────────────────────────────────────
@@ -767,15 +750,9 @@ Bhartṛ. (718 total)
     3 blk: <ls>Bhartṛ.</ls> 2, 91, 99
 
 ────────────────────────────────────────────────────────────
-Kathās. (673 total)
+Kathās. (672 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            5 (  0.7%)
-  2 digit blocks         668 ( 99.3%)
-  Pattern variants:
-    2 blk: <ls>Kathās.</ls> 25, 130
-    2 blk: <ls>Kathās.</ls> 5, 49
-    1 blk: <ls>Kathās.</ls> 20
-    1 blk: <ls>Kathās.</ls> 135
+  2 digit blocks         672 (100.0%)
 
 ────────────────────────────────────────────────────────────
 Hariv. (658 total)
