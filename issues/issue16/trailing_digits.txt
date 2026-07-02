@@ -14,7 +14,7 @@ Bhāg. P.                              1825      0      3   1822      0         
 Rājat.                                1245      1   1242      2      0            ✓
 Ragh.                                  845      0    845      0      0            ✓
 Suśr.                                  759      0      1    758      0            ✓
-Bhartṛ.                                718      4    713      1      0            ✓
+Bhartṛ.                                718      0    717      1      0            ✓
 Kathās.                                673      5    668      0      0            ✓
 Hariv.                                 658    657      1      0      0            ✓
 Utt. Rāmac.                            658      4    654      0      0            ✓
@@ -367,22 +367,10 @@ Source: Suśr. (1 non-conforming out of 759, 99.9% 3-blk)
   2 blks: <ls>Suśr.</ls> 2, 157
   LINE: ¦ {%kliṣṭa%}, {@1.@} Afflicted, <ls>Śāk.</ls> <ab>d.</ab> 58, <ls>Rām.</ls> 3, 58, 15. {@2.@} Hurt, <ls>Rām.</ls> 3, 58, 12. {@3.@} Wasted, <ls>Suśr.</ls> 2, 157. {@4.@} Painful, <ls>Pañc.</ls> i. <ab>d.</ab> 12.
 
-Source: Bhartṛ. (5 non-conforming out of 718, 99.3% 2-blk)
+Source: Bhartṛ. (1 non-conforming out of 718, 99.9% 2-blk)
 ────────────────────────────────────────────────────────────
-  1 blk: <ls>Bhartṛ.</ls> 1
-  LINE:  --With {#saMvi#} {%sam-vi%}, {@1.@} To dispose, <ls>MBh.</ls> 3, 8806. {@2.@} To order, <ls>Hariv.</ls> 8663. {@3.@} To mind, <ls>MBh.</ls> 12, 4730. {@4.@} To act, <ls>Pañc.</ls> 12, 21. {@5.@} To render, <ls>Bhartṛ.</ls> 1. 66. {@5.@} To put on, <ls>MBh.</ls> 2, 1510.
-
-  1 blk: <ls>Bhartṛ.</ls> 2
-  LINE: {#yuvan#}¦ {%yuvan%} (for {%yavan%}, <ab>cf.</ab> <ab>comparat.</ab> {%yavīyaṃs, u%} by the influence of {%v%}), {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%vatī%} and {%yāni%}, <ab>comparat.</ab> {%yavīyaṃs%}, <ab>superl.</ab> {%yaviṣṭha%}, Young, <ls>Chr.</ls> 293, 4 = <ls>Rigv.</ls> i. 87, 4. {@II.@} <ab>m.</ab> A young man, <ls>Ṛt.</ls> 6, 20. {@III.@} <ab>f.</ab> {%vatī̆%} or {%yūnī%}, A young woman. <ls>Bhartṛ.</ls> 2. 60; <ls>Pañc.</ls> [Page0748-b + 39] 158. 3; <ls>Sāv.</ls> 2, 24.
-
-  1 blk: <ls>Bhartṛ.</ls> 3
-  LINE: {#lava#}¦ {%lava%}, <ab>i. e.</ab> {%lū + a%}, {@I.@} <ab>m.</ab> {@1.@} Cutting, <ls>Daśak.</ls> in <ls>Chr.</ls> 198, 17. {@2.@} Plucking, <ls>Nal.</ls> 2, 30. {@3.@} Reaping. {@4.@} Smallness, <ls>Bhartṛ.</ls> 3. 100; <ls>Vikr.</ls> <ab>d.</ab> 118 ({%aparādha-%}, A very small fault); a little, <ls>Hit.</ls> iv. <ab>d.</ab> 76 (but <ab>cf.</ab> <ls>Böhtl. Ind. Spr.</ls> 3265); a piece, <ls>Vikr.</ls> <ab>d.</ab> 125; a drop, <ls>Kir.</ls> 5, 44. {@5.@} Hair, <ls>Ragh.</ls> 15, 32; wool, <ls>Man.</ls> 8, 151. {@6.@} A minute, and also a larger division of time. {@7.@} A kind of quail. {@8.@} One of Rāma's sons, <ls>Utt. Rāmac.</ls> 85, 8. {@II.@} <ab>n.</ab> {@1.@} The nutmeg. {@2.@} Cloves.
-
   3 blks: <ls>Bhartṛ.</ls> 2, 91, 99
   LINE: {#vipula#}¦ {%vipula%} (<ab>cf.</ab> {%pul%}), {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%lā%}. {@1.@} Large, great, <ls>Pañc.</ls> i. <ab>d.</ab> 18; v. <ab>d.</ab> 5; <ls>Bhartṛ.</ls> 2, 91, 99; <ls>Rām.</ls> 3, 54, 28. {@2.@} Broad. {@3.@} Deep. {@II.@} <ab>m.</ab> {@1.@} The mountain Meru. {@2.@} The Himālaya mountain. {@3.@} A respectable man. {@III.@} <ab>f.</ab> {%lā%}, The earth.
-
-  1 blk: <ls>Bhartṛ.</ls> 2
-  LINE: {#SAnti#}¦ {%śānti%}, <ab>i. e.</ab> {%śam + ti%}, <ab>f.</ab> {@1.@} Quiet, the absence of passion, and indifference to objects of pleasure or pain, <ls>Hit.</ls> 78, 8, <ab>M.M.</ab>; iii. <ab>d.</ab> 4. {@2.@} Felicity, <ls>Lass.</ls> 96, 12. {@3.@} Rest, repose, <ls>Mālat.</ls> 87, 6. {@4.@} Ceasing, <ls>Hit.</ls> iii. <ab>d.</ab> 88. {@5.@} Causing to cease, <ls>Mālat.</ls> 128, 3; remission, alleviation, soothing, <ls>Śṛṅgārat.</ls> 14; <ls>Śāk.</ls> 31, 11; <ls>Vikr.</ls> <ab>d.</ab> 24. {@6.@} Appeasing (the stomach), <ls>Bhartṛ.</ls> 2. 23. {@7.@} Expiatory rites to avert evil <ls>Rām.</ls> 1, 11, 14. {@8.@} Preservation, <ls>Pañc.</ls> 89, 5; 90, 4.
 
 Source: Kathās. (5 non-conforming out of 673, 99.3% 2-blk)
 ────────────────────────────────────────────────────────────
@@ -771,14 +759,11 @@ Suśr. (759 total)
 ────────────────────────────────────────────────────────────
 Bhartṛ. (718 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            4 (  0.6%)
-  2 digit blocks         713 ( 99.3%)
+  2 digit blocks         717 ( 99.9%)
   3 digit blocks           1 (  0.1%)
   Pattern variants:
     2 blk: <ls>Bhartṛ.</ls> 2, 44
     2 blk: <ls>Bhartṛ.</ls> 2, 23
-    1 blk: <ls>Bhartṛ.</ls> 1
-    1 blk: <ls>Bhartṛ.</ls> 2
     3 blk: <ls>Bhartṛ.</ls> 2, 91, 99
 
 ────────────────────────────────────────────────────────────
