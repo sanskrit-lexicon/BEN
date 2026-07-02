@@ -12,7 +12,7 @@ Pañc.                                 2582      1   2578      2      1         
 Chr.                                  2152      8   2143      1      0            ✓
 Bhāg. P.                              1825      0      3   1822      0            ✓
 Rājat.                                1245      1   1242      2      0            ✓
-Ragh.                                  845      7    838      0      0            ✓
+Ragh.                                  845      0    845      0      0            ✓
 Suśr.                                  759      3     10    746      0            ✓
 Bhartṛ.                                718      4    713      1      0            ✓
 Kathās.                                673      5    668      0      0            ✓
@@ -361,29 +361,6 @@ Source: Rājat. (3 non-conforming out of 1245, 99.8% 2-blk)
 
   3 blks: <ls>Rājat.</ls> 5, 69, 23
   LINE: ¦ {%Jagatī-, bhū-, mahī-%}, <ab>m.</ab> a king, <ls>Rām.</ls> 2, 103, 17; <ls>Rājat.</ls> 5, 69, 23.
-
-Source: Ragh. (7 non-conforming out of 845, 99.2% 2-blk)
-────────────────────────────────────────────────────────────
-  1 blk: <ls>Ragh.</ls> 18
-  LINE:  --With {#pari#} {%pari%}, {@1.@} To [Page0216-a + 41] surround, <ls>MBh.</ls> 4, 585. {@2.@} To deliver, <ls>Ragh.</ls> 18. 32.
-
-  1 blk: <ls>Ragh.</ls> 2
-  LINE: ¦ {%klānta%}, {@1.@} Fatigued. <ls>Rām.</ls> 2, 42, 19. {@2.@} Exhausted, <ls>Ragh.</ls> 2. 13. {@3.@} Withered, <ls>Śāk.</ls> <ab>d.</ab> 66. {@4.@} Thin, <ls>Śāk.</ls> <ab>d.</ab> 58.
-
-  1 blk: <ls>Ragh.</ls> 10
-  LINE: {#gurutva#}¦ {%guru + tva%}, <ab>n.</ab> {@1.@} Heaviness, <ls>Pañc.</ls> 247, 13. {@2.@} Dignity, <ls>Ragh.</ls> 10. 65. {@3.@} The condition of a teacher, <ls>Chr.</ls> 22, 21.
-
-  1 blk: <ls>Ragh.</ls> 12
-  LINE: ¦ {%Durvārttā%}, <ab>i. e.</ab> {%dus-%}, <ab>f.</ab> bad tidings, <ab>Sch.</ab> ad <ls>Ragh.</ls> 12. 51.
-
-  1 blk: <ls>Ragh.</ls> 8
-  LINE: {#SuBaMyu#}¦ {%śubhaṃyu%}, <ab>i. e.</ab> {%śubha + m + yu%}, <ab>adj.</ab> Happy, prosperous, <ls>Ragh.</ls> 8. 6.
-
-  1 blk: <ls>Ragh.</ls> 3
-  LINE: ¦ {%Aṅtaḥsalila%}, <ab>i. e.</ab> {%antar-%}, <ab>adj.</ab>, <ab>f.</ab> {%lā%}, containing water, <ls>Ragh.</ls> 3. 9.
-
-  1 blk: <ls>Ragh.</ls> 19
-  LINE: {#hfdayaMgama#}¦ {%hṛdayaṃgama%}, <ab>i. e.</ab> {%hṛdaya + m-gam + a%}, <ab>adj.</ab> {@1.@} Affecting. {@2.@} Touching the heart, sweet, <ls>Ragh.</ls> 19. 13. {@3.@} Dear, <ls>Utt. Rāmac.</ls> 103, 5; <ls>Rājat.</ls> 5, 79.
 
 Source: Suśr. (13 non-conforming out of 759, 98.3% 3-blk)
 ────────────────────────────────────────────────────────────
@@ -815,13 +792,7 @@ Rājat. (1245 total)
 ────────────────────────────────────────────────────────────
 Ragh. (845 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            7 (  0.8%)
-  2 digit blocks         838 ( 99.2%)
-  Pattern variants:
-    2 blk: <ls>Ragh.</ls> 5, 71
-    2 blk: <ls>Ragh.</ls> 18, 6
-    1 blk: <ls>Ragh.</ls> 18
-    1 blk: <ls>Ragh.</ls> 2
+  2 digit blocks         845 (100.0%)
 
 ────────────────────────────────────────────────────────────
 Suśr. (759 total)
