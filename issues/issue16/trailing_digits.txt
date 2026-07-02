@@ -13,7 +13,7 @@ Chr.                                  2152      8   2143      1      0          
 Bhāg. P.                              1825      0      3   1822      0            ✓
 Rājat.                                1245      1   1242      2      0            ✓
 Ragh.                                  845      0    845      0      0            ✓
-Suśr.                                  759      3     10    746      0            ✓
+Suśr.                                  759      0      1    758      0            ✓
 Bhartṛ.                                718      4    713      1      0            ✓
 Kathās.                                673      5    668      0      0            ✓
 Hariv.                                 658    657      1      0      0            ✓
@@ -362,46 +362,10 @@ Source: Rājat. (3 non-conforming out of 1245, 99.8% 2-blk)
   3 blks: <ls>Rājat.</ls> 5, 69, 23
   LINE: ¦ {%Jagatī-, bhū-, mahī-%}, <ab>m.</ab> a king, <ls>Rām.</ls> 2, 103, 17; <ls>Rājat.</ls> 5, 69, 23.
 
-Source: Suśr. (13 non-conforming out of 759, 98.3% 3-blk)
+Source: Suśr. (1 non-conforming out of 759, 99.9% 3-blk)
 ────────────────────────────────────────────────────────────
-  2 blks: <ls>Suśr.</ls> 204, 5
-  LINE: ¦ {%Jana%} <ab>m.</ab> an uninhabited country, <ls>Suśr.</ls> 204, 5.
-
-  2 blks: <ls>Suśr.</ls> 2, 469
-  LINE: {#kAleyaka#}¦ {%kāleya + ka%}, {@I.@} <ab>n.</ab> A yellow fragrant wood, <ls>Suśr.</ls> 1, 146, 3. {@II.@} <ab>m.</ab> {@1.@} One of the interior parts of the body not yet identified, <ls>Suśr.</ls> 1, 208, 3. {@2.@} A kind of jaundice, <ls>Suśr.</ls> 2, 469. 4.
-
-  2 blks: <ls>Suśr.</ls> 1, 292
-  LINE: {#kunaKa#}¦ {%ku-nakha%}, <ab>m.</ab> A disorder of the finger nails (<ab>cf.</ab> the next), <ls>Suśr.</ls> 1, 292. 9.
-
-  2 blks: <ls>Suśr.</ls> 1, 362
-  LINE: {#kUR#}¦ {%KŪṆ%} (derived from {%kuṣṇā%}, the base of the present of {%kuṣ%}), i. 10, <ab>Par.</ab>, <ab>Ātm.</ab> To contract; {%kūṇita%}, <ls>Suśr.</ls> 1, 362. 1.
-
-  2 blks: <ls>Suśr.</ls> 1, 269
-  LINE: {#koca#}¦ {%koca%}, <ab>i. e.</ab> {%kuc + a%}, <ab>m.</ab> Shrinking, <ls>Suśr.</ls> 1, 269. 1.
-
   2 blks: <ls>Suśr.</ls> 2, 157
   LINE: ¦ {%kliṣṭa%}, {@1.@} Afflicted, <ls>Śāk.</ls> <ab>d.</ab> 58, <ls>Rām.</ls> 3, 58, 15. {@2.@} Hurt, <ls>Rām.</ls> 3, 58, 12. {@3.@} Wasted, <ls>Suśr.</ls> 2, 157. {@4.@} Painful, <ls>Pañc.</ls> i. <ab>d.</ab> 12.
-
-  1 blk: <ls>Suśr.</ls> 2
-  LINE: {#gardaBa#}¦ {%gardabha%} {@I.@} <ab>m.</ab> An ass, <ls>Man.</ls> 8, 298. {@II.@} <ab>f.</ab> {%bhī%}. {@1.@} A she ass, <ls>MBh.</ls> 13, 1827. {@2.@} An insect, a kind of beetle living in cow-dung. <ls>Suśr.</ls> 2. 288, 3.
-
-  1 blk: <ls>Suśr.</ls> 1
-  LINE: {#cezwAvant#}¦ {%ceṣṭā + vant%}, <ab>adj.</ab>, <ab>f.</ab> {%vatī%}, Moveable, <ls>Suśr.</ls> 1. 340, 3.
-
-  2 blks: <ls>Suśr.</ls> 2, 505
-  LINE: {#truwi#}¦ {%truṭ + i%}, <ab>f.</ab> {@1.@} A moment as measure of time, <ls>MBh.</ls> 1, 1292. {@2.@} Small cardamoms, <ls>Suśr.</ls> 2, 505. 1.
-
-  2 blks: <ls>Suśr.</ls> 1, 42
-  LINE:  --With {#pra#} {%pra%}, {@1.@} To smear, <ls>Bhag.</ls> 2, 5. {@2.@} To anoint, <ls>Suśr.</ls> 1, 42. 19.
-
-  2 blks: <ls>Suśr.</ls> 1, 374
-  LINE:  --<ab>Caus.</ab> To blow up, to cause to swell, <ls>Suśr.</ls> 1, 374. 5.
-
-  1 blk: <ls>Suśr.</ls> 2
-  LINE: {#niSA#}¦ {%niśā%}, probably from {%ni-śī%}, (<ab>cf.</ab> {%niśitha%}), <ab>f.</ab> {@1.@} Night, <ls>Man.</ls> 11, 223. {@2.@} A dream, <ls>MBh.</ls> 5, 7252. {@3.@} Turmeric, Curcuma, <ls>Suśr.</ls> 2. 208, 14.
-
-  2 blks: <ls>Suśr.</ls> 1, 332
-  LINE: ¦ {%Ud-%}, {@I.@} <ab>n.</ab> pressure, a pressing pain, <ls>Suśr.</ls> 1, 332. 2. {@II.@} <ab>adj.</ab> of which the band is loosened (as hair), <ls>Ragh.</ls> 7, 6.
 
 Source: Bhartṛ. (5 non-conforming out of 718, 99.3% 2-blk)
 ────────────────────────────────────────────────────────────
@@ -797,16 +761,12 @@ Ragh. (845 total)
 ────────────────────────────────────────────────────────────
 Suśr. (759 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            3 (  0.4%)
-  2 digit blocks          10 (  1.3%)
-  3 digit blocks         746 ( 98.3%)
+  2 digit blocks           1 (  0.1%)
+  3 digit blocks         758 ( 99.9%)
   Pattern variants:
     3 blk: <ls>Suśr.</ls> 1, 114, 19
     3 blk: <ls>Suśr.</ls> 2, 32, 1
-    2 blk: <ls>Suśr.</ls> 204, 5
-    2 blk: <ls>Suśr.</ls> 2, 469
-    1 blk: <ls>Suśr.</ls> 2
-    1 blk: <ls>Suśr.</ls> 1
+    2 blk: <ls>Suśr.</ls> 2, 157
 
 ────────────────────────────────────────────────────────────
 Bhartṛ. (718 total)
