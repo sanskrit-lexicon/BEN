@@ -38,7 +38,7 @@ Prab.                                  204      0    204      0      0          
 Bhaṭṭ.                                 160      0    160      0      0            ✓
 Mārk. P.                               152      0    151      1      0            ✓
 Kumāras.                               147      0    147      0      0            ✓
-Draup.                                 130      1    129      0      0            ✓
+Draup.                                 130      0    130      0      0            ✓
 Arj.                                   121      0    121      0      0            ✓
 Gīt.                                   117      0    117      0      0            ✓
 Sāv.                                   116      0    116      0      0            ✓
@@ -455,11 +455,6 @@ Source: Mārk. P. (1 non-conforming out of 152, 99.3% 2-blk)
   3 blks: <ls>Mārk. P.</ls> 5, 31, 21
   LINE: {#dozin#}¦ {%doṣin%}, <ab>i. e.</ab> {%doṣa + n%}, <ab>adj.</ab> Becoming defiled, <ls>Mārk. P.</ls> 5, 31, 21.
 
-Source: Draup. (1 non-conforming out of 130, 99.2% 2-blk)
-────────────────────────────────────────────────────────────
-  1 blk: <ls>Draup.</ls> 8
-  LINE: {#Buja#}¦ 1. {%bhuj + a%}, <ab>m.</ab>, and <ab>f.</ab> {%jā%}. {@1.@} The arm, <ls>Pañc.</ls> 215, 7. {@2.@} The hand, <ls>Hiḍ.</ls> 1, 2. {@3.@} The proboscis of an elephant, <ls>Draup.</ls> 8. 21. {@4.@} A bending.
-
 Source: Mālav. (2 non-conforming out of 113, 98.2% 2-blk)
 ────────────────────────────────────────────────────────────
   1 blk: <ls>Mālav.</ls> 10
@@ -809,12 +804,7 @@ Kumāras. (147 total)
 ────────────────────────────────────────────────────────────
 Draup. (130 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            1 (  0.8%)
-  2 digit blocks         129 ( 99.2%)
-  Pattern variants:
-    2 blk: <ls>Draup.</ls> 6, 21
-    2 blk: <ls>Draup.</ls> 6, 8
-    1 blk: <ls>Draup.</ls> 8
+  2 digit blocks         130 (100.0%)
 
 ────────────────────────────────────────────────────────────
 Arj. (121 total)
