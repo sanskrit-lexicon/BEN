@@ -23,7 +23,7 @@ Yājñ.                                  485      0    485      0      0        
 Megh.                                  445    443      2      0      0            ✓
 Śiś.                                   442      0    442      0      0            ✓
 Vikr.                                  434      3    429      2      0            ✓
-Nal.                                   433      4    429      0      0            ✓
+Nal.                                   433      0    433      0      0            ✓
 Hit.                                   418      3    414      1      0            ✓
 Śāk.                                   414      4    410      0      0            ✓
 Kir.                                   398      3    393      1      1            ✓
@@ -402,20 +402,6 @@ Source: Vikr. (5 non-conforming out of 434, 98.8% 2-blk)
   3 blks: <ls>Vikr.</ls> 8, 81, 11
   LINE: {#vand#}¦ {%VAND%} (akin to {%vad%}), i. 1. <ab>Ātm.</ab> {@1.@} To salute respectfully, <ls>Vikr.</ls> 8, 81, 11; <ls>MBh.</ls> 2, 23. {@2.@} To praise, <ls>Rām.</ls> 2, 16, 27. {@3.@} To venerate, <ls>Megh.</ls> 12.
 
-Source: Nal. (4 non-conforming out of 433, 99.1% 2-blk)
-────────────────────────────────────────────────────────────
-  1 blk: <ls>Nal.</ls> 4
-  LINE: {#grAma#}¦ {%grāma%}, <ab>i. e.</ab> {%grah + ma%}, <ab>m.</ab> {@1.@} A village, <ls>Man.</ls> 4, 107 (<ab>n.</ab> <ls>Rām.</ls> 2, 57, 4). {@2.@} A villager, <ls>Man.</ls> 8, 258 (? perhaps is to be read {%grāmasām˚%}). {@3.@} As latter part of a <ab>comp.</ab> word. A multitude, <ls>Nal.</ls> 4. 10. {@4.@} A scale in music, <ls>Mārk. P.</ls> 23, 52.
-
-  1 blk: <ls>Nal.</ls> 22
-  LINE: {#prativAkya#}¦ {%prati-vākya%}, <ab>n.</ab> An answer, <ls>Nal.</ls> 22. 4.
-
-  1 blk: <ls>Nal.</ls> 9
-  LINE: {#vEzamya#}¦ {%vaiṣamya%}, <ab>i. e.</ab> {%viṣama + ya%}, <ab>n.</ab> {@1.@} Inequality, unevenness. {@2.@} Solitariness. {@3.@} Difficulty. {@4.@} Misery, distress, <ls>Nal.</ls> 9. 20.
-
-  1 blk: <ls>Nal.</ls> 13
-  LINE: {#sOganDika#}¦ {%saugandhika%}, <ab>i. e.</ab> {%saugandha + ika%}, {@I.@} <ab>adj.</ab> Fragrant, <ls>Nal.</ls> 13. 2. {@II.@} <ab>m.</ab> {@1.@} A dealer in perfumes. {@2.@} Sulphur. {@III.@} <ab>n.</ab> {@1.@} The white water lily, <ls>Indr.</ls> 2, 2. {@2.@} A fragrant grass. {@3.@} A ruby.
-
 Source: Hit. (4 non-conforming out of 418, 99.0% 2-blk)
 ────────────────────────────────────────────────────────────
   1 blk: <ls>Hit.</ls> 85
@@ -770,13 +756,7 @@ Vikr. (434 total)
 ────────────────────────────────────────────────────────────
 Nal. (433 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            4 (  0.9%)
-  2 digit blocks         429 ( 99.1%)
-  Pattern variants:
-    2 blk: <ls>Nal.</ls> 12, 45
-    2 blk: <ls>Nal.</ls> 17, 8
-    1 blk: <ls>Nal.</ls> 4
-    1 blk: <ls>Nal.</ls> 22
+  2 digit blocks         433 (100.0%)
 
 ────────────────────────────────────────────────────────────
 Hit. (418 total)
