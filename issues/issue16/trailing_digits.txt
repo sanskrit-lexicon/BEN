@@ -43,7 +43,7 @@ Arj.                                   121      0    121      0      0          
 Gīt.                                   117      0    117      0      0            ✓
 Sāv.                                   116      0    116      0      0            ✓
 Mālav.                                 113      1    112      0      0            ✓
-Indr.                                  113      3    110      0      0            ✓
+Indr.                                  113      0    113      0      0            ✓
 Hiḍ.                                    86      0     86      0      0            ✓
 Kām. Nītis.                             82      1     80      1      0            ✓
 Daśak.                                  76      2     74      0      0            ✓
@@ -460,17 +460,6 @@ Source: Mālav. (1 non-conforming out of 113, 99.1% 2-blk)
   1 blk: <ls>Mālav.</ls> 24
   LINE: {#nitambin#}¦ {%nitambin%}, <ab>i. e.</ab> {%nitamba + in%}, <ab>adj.</ab>, <ab>f.</ab> {%nī%}. {@1.@} Latter part of <ab>comp. adj.</ab> Having buttocks, <ab>e. g.</ab> {%cāru-pīna-nitamba + in%}, Having beautiful big buttocks, <ls>Mārk. P.</ls> 17, 20. {@2.@} Having beautiful buttocks, <ls>Mālav.</ls> 24. {@3.@} Having beautiful slopes, <ls>Rājat.</ls> 2, 121.
 
-Source: Indr. (3 non-conforming out of 113, 97.3% 2-blk)
-────────────────────────────────────────────────────────────
-  1 blk: <ls>Indr.</ls> 5
-  LINE: {#pravara#}¦ {%pravara%}, <ab>i. e.</ab> {%pra-vara%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%rā%}, Best, <ls>Indr.</ls> 5. 20; exalted, <ls>Pañc.</ls> 3, 10; <ls>Man.</ls> 3, 167; chief, <ls>Man.</ls> 9, 67. {@II.@} <ab>m.</ab> {@1.@} A Muni who contributes to the credit of a particular family ({%gotra%}). {@2.@} One of the forty-nine gotras, as opposed to the eight principal, <ls>Āśval. S.</ls> <ab>ap.</ab> <ls>M. Müller, Anc. Sskr. Lit.</ls> 380. <ab>n.</ab> 1.; <ab>cf.</ab> Weber, <ls>Berl. Handschriften</ls>, p. 59, 60; <ls>Kusumāñj.</ls> 3, 19. {@III.@} <ab>n.</ab> A family.
-
-  1 blk: <ls>Indr.</ls> 4
-  LINE: {#priyaMvada#}¦ {%priyaṃvada%}, <ab>i. e.</ab> {%priya + m-vad + a%}, {@I.@} <ab>adj.</ab> {@1.@} Speaking what is agreeable, <ls>Hit.</ls> iii. <ab>d.</ab> 103. {@2.@} Sweet speaking, <ls>Indr.</ls> 4. 11. {@II.@} <ab>m.</ab> A proper name, <ls>Ragh.</ls> 3, 53. {@III.@} <ab>f.</ab> {%dā%}, A proper name, <ls>Śāk.</ls> 10, 15.
-
-  1 blk: <ls>Indr.</ls> 3
-  LINE:  {@I.@} At the end of Tatpuruṣa <ab>comp.</ab> it may become <ab>n.</ab>; <ab>e. g.</ab> {%brāṇmaṇa-senā%}, <ab>f.</ab>, or {%-sena%}, <ab>n.</ab>, <ls>Pāṇ.</ls> ii. 4, 25. {@II.@} {%Indra-%} and {%Citra-sena%}, <ab>m.</ab> proper names, <ls>Draup.</ls> 8, 15; <ls>Indr.</ls> 3. 8.
-
 Source: Kām. Nītis. (2 non-conforming out of 82, 97.6% 2-blk)
 ────────────────────────────────────────────────────────────
   1 blk: <ls>Kām. Nītis.</ls> 4
@@ -831,13 +820,7 @@ Mālav. (113 total)
 ────────────────────────────────────────────────────────────
 Indr. (113 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            3 (  2.7%)
-  2 digit blocks         110 ( 97.3%)
-  Pattern variants:
-    2 blk: <ls>Indr.</ls> 2, 8
-    2 blk: <ls>Indr.</ls> 1, 10
-    1 blk: <ls>Indr.</ls> 5
-    1 blk: <ls>Indr.</ls> 4
+  2 digit blocks         113 (100.0%)
 
 ────────────────────────────────────────────────────────────
 Hiḍ. (86 total)
