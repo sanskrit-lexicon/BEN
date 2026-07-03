@@ -25,7 +25,7 @@ Megh.                                  445    443      2      0      0          
 Vikr.                                  434      3    429      2      0            ✓
 Nal.                                   433      0    433      0      0            ✓
 Hit.                                   416      0    415      1      0            ✓
-Śāk.                                   414      4    410      0      0            ✓
+Śāk.                                   414      2    412      0      0            ✓
 Kir.                                   398      3    393      1      1            ✓
 Bhag.                                  387      2    383      2      0            ✓
 Böhtl. Ind. Spr.                       326    325      1      0      0            ✓
@@ -407,19 +407,13 @@ Source: Hit. (1 non-conforming out of 416, 99.8% 2-blk)
   3 blks: <ls>Hit.</ls> 115, 1, 9
   LINE: {#maRqapikA#}¦ {%maṇḍapikā%}, <ab>i. e.</ab> {%maṇḍapa + ka%}, <ab>f.</ab> A small shop, <ls>Hit.</ls> 115, 1, 9.
 
-Source: Śāk. (4 non-conforming out of 414, 99.0% 2-blk)
+Source: Śāk. (2 non-conforming out of 414, 99.5% 2-blk)
 ────────────────────────────────────────────────────────────
   1 blk: <ls>Śāk.</ls> 106
   LINE:  --In disjunctive questions we find, {%kim--kiṃ vā%}, <ls>Śṛṅgārat.</ls> 7. {%kim--kiṃ vā--kiṃ vā%}, <ls>Pañc.</ls> 34, 15 ({%tat kim...śastreṇa mārayāmi, kiṃ vā viṣam prayacchāmi, kiṃ vā paśudharmeṇa vyāpādayāmi%}, Shall I kill him with a knife, or shall I give him poison, or shall I kill him like a beast?). {%kim--kim--vā--atha%}, <ls>Mṛcch.</ls> 171, 14. {%kim--uta%}, <ls>Mṛcch.</ls> 147, 22. {%kim--uta vā%}, <ls>Pañc.</ls> 68, 14. {%kim--uta--uta%}, <ls>Bhartṛ.</ls> 3, 77. {%kim--uta--atha vā%}, <ls>Kathās.</ls> 17, 112. {%kim--uta--āho svid%}, <ls>Śāk.</ls> 106. {%kim--atha vā--uta%}, <ls>Rām.</ls> 5, 51, 7. {%kim%} is sometimes the former part of a compound word, <ab>e. g.</ab> {%kiṃrūpa%}, <ab>adj.</ab> How shaped? <ls>Pañc.</ls> 258, 13. {%kiṃcid%} is also the latter part of compound words, <ab>e. g.</ab> {%kiṃcijjña%}, <ab>adj.</ab> Knowing a little, <ls>Bhartṛ.</ls> 2, 8. {%a-kiṃcid%}, Nothing at all, <ls>MBh.</ls> 13, 2334. {@IV.@} {%kena%}, <ab>instr.</ab> How so? <ls>Rām.</ls> 6, 12, 4.
 
   1 blk: <ls>Śāk.</ls> 6
   LINE: {#keSa#}¦ {%keśa%}, <ab>m.</ab> {@1.@} Hair, <ls>Hit.</ls> i. <ab>d.</ab> 102. {@2.@} A lion's mane, <ab>Sch.</ab> ad <ls>Śāk.</ls> 6.
-
-  1 blk: <ls>Śāk.</ls> 1
-  LINE: {#BraMSin#}¦ {%bhraṃś + in%}, {#BraMsin#} {%bhraṃs + in%}, <ab>adj.</ab>, <ab>f.</ab> {%nī%}. {@1.@} Falling, <ls>Megh.</ls> 30; <ls>Śāk.</ls> 1. 7. {@2.@} Causing to fall ({%sva-artha-%}, injuring, or detrimental to, our interest), <ls>Pañc.</ls> 248, 18.
-
-  1 blk: <ls>Śāk.</ls> 83
-  LINE:  --With {#pari#} {%pari%}, {@1.@} To wipe, <ls>MBh.</ls> 3, 584. {@2.@} To touch, <ls>Śāk.</ls> 83. 7.
 
 Source: Kir. (5 non-conforming out of 398, 98.7% 2-blk)
 ────────────────────────────────────────────────────────────
@@ -762,8 +756,8 @@ Hit. (416 total)
 ────────────────────────────────────────────────────────────
 Śāk. (414 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            4 (  1.0%)
-  2 digit blocks         410 ( 99.0%)
+  1 digit block            2 (  0.5%)
+  2 digit blocks         412 ( 99.5%)
   Pattern variants:
     2 blk: <ls>Śāk.</ls> 7, 10
     2 blk: <ls>Śāk.</ls> 60, 18
