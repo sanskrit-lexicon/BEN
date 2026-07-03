@@ -33,7 +33,7 @@ Mālat.                                 322      0    322      0      0         
 Bhāṣāp.                                296    291      5      0      0            ✓
 Ṛt.                                    221      0    221      0      0            ✓
 Mṛcch.                                 219      0    219      0      0            ✓
-Johns. Sel.                            213      2    211      0      0            ✓
+Johns. Sel.                            213      0    213      0      0            ✓
 Prab.                                  204      0    204      0      0            ✓
 Bhaṭṭ.                                 160      0    160      0      0            ✓
 Mārk. P.                               152      0    151      1      0            ✓
@@ -450,14 +450,6 @@ Source: Bhāṣāp. (5 non-conforming out of 296, 98.3% 1-blk)
   2 blks: <ls>Bhāṣāp.</ls> 1, 58
   LINE: {#samavAya#}¦ {%samavāya%}, <ab>i. e.</ab> {%sam-ava-i + a%}, <ab>m.</ab> {@1.@} Multitude, <ls>Pañc.</ls> 130, 7; aggregate; meeting, <ls>Daśak.</ls> in <ls>Chr.</ls> 180, 14. {@2.@} Assembly, <ls>Man.</ls> 4, 108. {@3.@} Intimate and constant relation, <ls>Bhāṣāp.</ls> 1, 58; as of yarn and the cloth made of it, the individual and its species, <ab>etc.</ab> {@4.@} Intimate union, <ls>Śāk.</ls> 108, 10; union, <ls>Pañc.</ls> i. <ab>d.</ab> 376.
 
-Source: Johns. Sel. (2 non-conforming out of 213, 99.1% 2-blk)
-────────────────────────────────────────────────────────────
-  1 blk: <ls>Johns. Sel.</ls> 47
-  LINE:  --With {#vyA#} {%vi-ā%}, {@1.@} <ab>Ātm.</ab> To exert one's power, <ls>MBh.</ls> 3, 12740. {@2.@} To fight, <ls>Mṛcch.</ls> 202, 7; <ab>Ātm.</ab>, <ls>Bhaṭṭ.</ls> 6, 119. {@3.@} To open wide one's eyes, <ls>Johns. Sel.</ls> 47. 76. {%vyāyata%}, Long. {@2.@} Excessive. {@3.@} Busy. {@4.@} Hard, firm.
-
-  1 blk: <ls>Johns. Sel.</ls> 55
-  LINE: 1. {#yuD#}¦ {%YUDH%} (akin to 1. {%yu%}), i. 4, <ab>Ātm.</ab> (also <ab>Par.</ab>, <ls>MBh.</ls> 1, 7119). {@1.@} To fight, to contend in battle, <ls>Man.</ls> 7, 89; impersonal <ab>pass.</ab>, <ls>Hit.</ls> iii. <ab>d.</ab> 88. {@2.@} To oppose, <ls>Johns. Sel.</ls> 55. 145. {%yuddha%}, <ab>n.</ab> {@1.@} The use of arms, <ls>Man.</ls> 3, 162. {@2.@} War, battle, <ls>Pañc.</ls> 87, 15.
-
 Source: Mārk. P. (1 non-conforming out of 152, 99.3% 2-blk)
 ────────────────────────────────────────────────────────────
   3 blks: <ls>Mārk. P.</ls> 5, 31, 21
@@ -795,13 +787,7 @@ Mṛcch. (219 total)
 ────────────────────────────────────────────────────────────
 Johns. Sel. (213 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            2 (  0.9%)
-  2 digit blocks         211 ( 99.1%)
-  Pattern variants:
-    2 blk: <ls>Johns. Sel.</ls> 46, 74
-    2 blk: <ls>Johns. Sel.</ls> 37, 20
-    1 blk: <ls>Johns. Sel.</ls> 47
-    1 blk: <ls>Johns. Sel.</ls> 55
+  2 digit blocks         213 (100.0%)
 
 ────────────────────────────────────────────────────────────
 Prab. (204 total)
