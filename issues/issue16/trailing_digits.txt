@@ -27,7 +27,7 @@ Nal.                                   433      0    433      0      0          
 Hit.                                   416      0    415      1      0            ✓
 Śāk.                                   414      2    412      0      0            ✓
 Kir.                                   398      0    397      1      0            ✓
-Bhag.                                  387      2    383      2      0            ✓
+Bhag.                                  387      0    385      2      0            ✓
 Böhtl. Ind. Spr.                       326    325      1      0      0            ✓
 Mālat.                                 322      0    322      0      0            ✓
 Bhāṣāp.                                296    291      5      0      0            ✓
@@ -420,19 +420,13 @@ Source: Kir. (1 non-conforming out of 398, 99.7% 2-blk)
   3 blks: <ls>Kir.</ls> 4, 22, 25
   LINE: {#saMstava#}¦ {%saṃstava%}, <ab>i. e.</ab> {%sam-stu + a%}, <ab>m.</ab> {@1.@} Praise, <ls>Pañc.</ls> iv. <ab>d.</ab> 60. {@2.@} Acquaintance, <ls>Kir.</ls> 4, 22, 25.
 
-Source: Bhag. (4 non-conforming out of 387, 99.0% 2-blk)
+Source: Bhag. (2 non-conforming out of 387, 99.5% 2-blk)
 ────────────────────────────────────────────────────────────
-  1 blk: <ls>Bhag.</ls> 2
-  LINE:  --With the <ab>prep.</ab> {%abhī%}, {@1.@} To be pleased, <ls>Bhag.</ls> 2. 57. {@2.@} To be pleased with (<ab>acc.</ab>), <ls>Man.</ls> 6, 45. {@3.@} To desire, <ls>MBh.</ls> 13, 6655. {@4.@} To salute, <ls>Pañc.</ls> 57, 18; with {%na%}, sometimes To receive unkindly, <ls>MBh.</ls> 14, 134. {@5.@} To take leave from (<ab>acc.</ab>), <ls>MBh.</ls> 1, 5751. {@6.@} To approve, <ls>Rām.</ls> 4, 10, 33; <ls>Śāk.</ls> <ab>d.</ab> 71. {@7.@} To acknowledge, <ls>Man.</ls> 8, 54. {@8.@} With {%na%}; sometimes To refuse. <ls>MBh.</ls> 5, 7505.
-
   3 blks: <ls>Bhag.</ls> 9, 16, 37
   LINE:  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%āpanna%}, {@1.@} Unfortunate. {@2.@} Having obtained, <ls>Bhag.</ls> 9, 16, 37. {@3.@} Obtained, <ls>Rām.</ls> 2, 43, 31 <ls>Gorr.</ls>
 
   3 blks: <ls>Bhag.</ls> 8, 2, 27
   LINE: {#pArzRigraha#}¦ {%pārṣṇi-graha%}, <ab>adj.</ab> Seizing from behind, <ls>Bhag.</ls> 8, 2, 27.
-
-  1 blk: <ls>Bhag.</ls> 11
-  LINE: 1. {#viS#}¦ {%VIŚ%}, i. 6, <ab>Par.</ab> (in epic poetry also <ab>Ātm.</ab>, <ls>Rām.</ls> 2, 43, 6), {@1.@} To enter, <ls>Hit.</ls> ii. <ab>d.</ab> 48. {@2.@} To enter in (with <ab>acc.</ab>), <ls>Bhag.</ls> 11. 29. {@3.@} To pierce, <ls>Rājat.</ls> 5, 217. {@4.@} To begin, <ls>Rām.</ls> 1, 11, 20. {@5.@} To sit down, <ls>Rām.</ls> 2, 82, 2.
 
 Source: Böhtl. Ind. Spr. (1 non-conforming out of 326, 99.7% 1-blk)
 ────────────────────────────────────────────────────────────
@@ -765,16 +759,13 @@ Kir. (398 total)
 ────────────────────────────────────────────────────────────
 Bhag. (387 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            2 (  0.5%)
-  2 digit blocks         383 ( 99.0%)
+  2 digit blocks         385 ( 99.5%)
   3 digit blocks           2 (  0.5%)
   Pattern variants:
     2 blk: <ls>Bhag.</ls> 18, 16
     2 blk: <ls>Bhag.</ls> 6, 12
-    1 blk: <ls>Bhag.</ls> 2
     3 blk: <ls>Bhag.</ls> 9, 16, 37
     3 blk: <ls>Bhag.</ls> 8, 2, 27
-    1 blk: <ls>Bhag.</ls> 11
 
 ────────────────────────────────────────────────────────────
 Böhtl. Ind. Spr. (326 total)
