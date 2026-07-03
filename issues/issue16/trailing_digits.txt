@@ -21,8 +21,8 @@ Utt. Rāmac.                            658      0    658      0      0         
 Lass.                                  485      0    485      0      0            ✓
 Yājñ.                                  485      0    485      0      0            ✓
 Megh.                                  445    443      2      0      0            ✓
-Śiś.                                   442      1    441      0      0            ✓
-Vikr.                                  434      6    426      2      0            ✓
+Śiś.                                   442      0    442      0      0            ✓
+Vikr.                                  434      3    429      2      0            ✓
 Nal.                                   433      4    429      0      0            ✓
 Hit.                                   418      3    414      1      0            ✓
 Śāk.                                   414      4    410      0      0            ✓
@@ -385,12 +385,7 @@ Source: Megh. (2 non-conforming out of 445, 99.6% 1-blk)
   2 blks: <ls>Megh.</ls> 82, 88
   LINE: {#lamba#}¦ {%lamb + a%}, {@I.@} <ab>adj.</ab> {@1.@} Depending, <ls>Megh.</ls> 82, 88. {@2.@} Long, <ls>Böhtl. Ind. Spr.</ls> 1210; <ls>Śāk.</ls> 87, 15 (<ab>Prākṛ.</ab>). {@3.@} Expanded, large, <ls>Hiḍ.</ls> 2, 3. {@4.@} Spacious. {@II.@} <ab>m.</ab> {@1.@} A bribe. {@2.@} Moving a man at a sort of backgammon. {@III.@} <ab>f.</ab> {%bā%}. {@1.@} Lakṣmī. {@2.@} Durgā. {@3.@} A bitter gourd.
 
-Source: Śiś. (1 non-conforming out of 442, 99.8% 2-blk)
-────────────────────────────────────────────────────────────
-  1 blk: <ls>Śiś.</ls> 9
-  LINE: {#saMhatatA#}¦ {%saṃhata + tā%}, <ab>f.</ab>, and {#saMhatatva#} {%saṃhata + tva%}, <ab>n.</ab> (<ab>vb.</ab> {%han%}), {@1.@} Close approximation, contact, <ls>Śiś.</ls> 9. 44 ({%tā%}, and agreement). {@2.@} Compactness. {@3.@} Combination. {@4.@} Union, <ls>Hit.</ls> iv. <ab>d.</ab> 26 ({%tva%}); agreement (see {@1.@}).
-
-Source: Vikr. (8 non-conforming out of 434, 98.2% 2-blk)
+Source: Vikr. (5 non-conforming out of 434, 98.8% 2-blk)
 ────────────────────────────────────────────────────────────
   1 blk: <ls>Vikr.</ls> 76
   LINE: {#upanayana#}¦ {%upanayana%}, <ab>i. e.</ab> {%upa-nī + ana%}, <ab>n.</ab> 1. Bringing, <ls>Vikr.</ls> 76. {@2.@} The initiation of the three first classes, <ls>Man.</ls> 2, 108.
@@ -398,20 +393,11 @@ Source: Vikr. (8 non-conforming out of 434, 98.2% 2-blk)
   1 blk: <ls>Vikr.</ls> 64
   LINE: {#caturasraka#}¦ {%catur-asra + ka%}, <ab>m.</ab> and <ab>comp.</ab> {%ardha-, dvi-%}, <ab>m.</ab> The names of different postures, <ls>Vikr.</ls> 64.
 
-  1 blk: <ls>Vikr.</ls> 35
-  LINE: {#mandira#}¦ {%mandira%}, {@I.@} <ab>m.</ab> {@1.@} The sea. {@2.@} The back of the knee. {@II.@} <ab>f.</ab> {%rā%}, A stable. {@III.@} <ab>f.</ab> {%rā%}, and <ab>n.</ab> A house, <ls>Hit.</ls> ii. <ab>d.</ab> 126 (<ab>n.</ab>); a palace, <ls>Vikr.</ls> 35. 2; <ls>Kathās.</ls> 26, 283 (<ab>f.</ab>). {@IV.@} <ab>n.</ab> {@1.@} A town. {@2.@} A temple.
-
   1 blk: <ls>Vikr.</ls> 41
   LINE: {#mUla#}¦ {%mūla%} (<ab>vb.</ab> {%mah%}), {@I.@} <ab>n.</ab> {@1.@} The root of a tree, <ls>Vikr.</ls> 41; root (figuratively), <ls>Pañc.</ls> ii. <ab>d.</ab> 23. {@2.@} An eatable root, <ls>Utt. Rāmac.</ls> 33, 8. {@3.@} The lowest part, <ls>Megh.</ls> 77. {@4.@} Origin. {@5.@} Cause, <ls>Utt. Rāmac.</ls> 5, 1. {@6.@} The vendor, <ls>Man.</ls> 8, 202. {@7.@} Commencement; {%ā mūlāt%}, From its beginning, <ls>Kathās.</ls> 22, 98. {@8.@} Capital, principal. {@9.@} The original text of any work, as opposed to its <ab>comment.</ab> {@10.@} Own. {@11.@} One's own kingdom, <ls>Man.</ls> 7, 184. {@12.@} Near, proximate. {@13.@} The root of the Arum campanulatum. {@II.@} <ab>m.</ab> and <ab>n.</ab> The nineteenth lunar asterism, <ls>Lass.</ls> 16, 18. {@III.@} <ab>f.</ab> {%lī%} (<ab>cf.</ab> {%muśalī%}, <ab>s. v.</ab> {%muśala%}), A small house-lizard.
 
   3 blks: <ls>Vikr.</ls> 37, 7, 8
   LINE: {#yaTA#}¦ {%ya + thā%} ({%yad)%}, <ab>adv.</ab> {@1.@} In which manner, like, as, <ls>Hit. pr.</ls> 38, <ab>M.M.</ab>; <ls>Chr.</ls> 8, 25; with following {%tad eram%}, As--just so, <ls>Vikr.</ls> 37, 7, 8. {@2.@} With following {%tathā%}, In every way, <ls>Hit.</ls> ii. <ab>d.</ab> 138. {@3.@} As truly as (a form of asseveration), <ls>Chr.</ls> 7, 16 (literally: ‘As truly I love nobody but thee, so truly I touch my head,’ <ab>i. e.</ab> ‘As I touch my head, so I [Page0733-a + 42] love nobody but thee’). {@4.@} In order that, that, <ls>Chr.</ls> 12, 30. {@5.@} It is used often as introduction to a direct sentence, <ls>Śāk.</ls> 7, 1, <ab>bel.</ab> {%jñāyate yathāyam ābhogas tapovanasyeti%}, ‘One perceives these are the environs of a forest of ascetics.’ {@6.@} Doubled, {%yathāyathā%}, In what proportion, <ls>Man.</ls> 4, 20. {@7.@} Very often it is the former part of <ab>comp.</ab> <ab>adv.</ab>, of which the latter part has the form of an <ab>acc.</ab> <ab>sing.</ab> <ab>n.</ab>; they may be resolved by supplying ‘is,’ and generally translated by ‘according to that which is implied by the latter part,’ <ab>e. g.</ab> {%yathā-kāma + m%}, literally, ‘as is desire,’ ‘according to one's wish,’ ‘at pleasure, ad libitum,’ <ls>Chr.</ls> 56, 17. {%yathā-yatha + m%}, <ab>adv.</ab> Properly, suitably (<ls>ŚKD.</ls>).
-
-  1 blk: <ls>Vikr.</ls> 78
-  LINE: ¦ {%Ā-%}, <ab>adj.</ab> 1. reddish, <ls>Vikr.</ls> 78. 2. red, <ls>Pañc.</ls> 64, 15.
-
-  1 blk: <ls>Vikr.</ls> 5
-  LINE: ¦ {%Ratha-%}, <ab>adj.</ab> mounted on a chariot, <ls>Vikr.</ls> 5. 4.
 
   3 blks: <ls>Vikr.</ls> 8, 81, 11
   LINE: {#vand#}¦ {%VAND%} (akin to {%vad%}), i. 1. <ab>Ātm.</ab> {@1.@} To salute respectfully, <ls>Vikr.</ls> 8, 81, 11; <ls>MBh.</ls> 2, 23. {@2.@} To praise, <ls>Rām.</ls> 2, 16, 27. {@3.@} To venerate, <ls>Megh.</ls> 12.
@@ -765,18 +751,13 @@ Megh. (445 total)
 ────────────────────────────────────────────────────────────
 Śiś. (442 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            1 (  0.2%)
-  2 digit blocks         441 ( 99.8%)
-  Pattern variants:
-    2 blk: <ls>Śiś.</ls> 5, 81
-    2 blk: <ls>Śiś.</ls> 4, 66
-    1 blk: <ls>Śiś.</ls> 9
+  2 digit blocks         442 (100.0%)
 
 ────────────────────────────────────────────────────────────
 Vikr. (434 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            6 (  1.4%)
-  2 digit blocks         426 ( 98.2%)
+  1 digit block            3 (  0.7%)
+  2 digit blocks         429 ( 98.8%)
   3 digit blocks           2 (  0.5%)
   Pattern variants:
     2 blk: <ls>Vikr.</ls> 55, 10
