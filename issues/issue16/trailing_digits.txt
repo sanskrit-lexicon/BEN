@@ -37,7 +37,7 @@ Johns. Sel.                            213      0    213      0      0          
 Prab.                                  204      0    204      0      0            ✓
 Bhaṭṭ.                                 160      0    160      0      0            ✓
 Mārk. P.                               152      0    151      1      0            ✓
-Kumāras.                               147      2    145      0      0            ✓
+Kumāras.                               147      0    147      0      0            ✓
 Draup.                                 130      1    129      0      0            ✓
 Arj.                                   121      0    121      0      0            ✓
 Gīt.                                   117      0    117      0      0            ✓
@@ -455,14 +455,6 @@ Source: Mārk. P. (1 non-conforming out of 152, 99.3% 2-blk)
   3 blks: <ls>Mārk. P.</ls> 5, 31, 21
   LINE: {#dozin#}¦ {%doṣin%}, <ab>i. e.</ab> {%doṣa + n%}, <ab>adj.</ab> Becoming defiled, <ls>Mārk. P.</ls> 5, 31, 21.
 
-Source: Kumāras. (2 non-conforming out of 147, 98.6% 2-blk)
-────────────────────────────────────────────────────────────
-  1 blk: <ls>Kumāras.</ls> 7
-  LINE:  --With {#prati#} {%prati%}, {@1.@} To salute. <ls>MBh.</ls> 5, 1806. {@2.@} To salute in one's turn, <ls>Man.</ls> 7, 146. {@3.@} To show one's satisfaction, <ls>MBh.</ls> 13, 426. {@4.@} To favour, <ls>Kumāras.</ls> 7. 87. {@5.@} To [Page0456-a + 44] receive joyfully, <ls>MBh.</ls> 1, 7253. {@6.@} With {%na%}, To refuse, 3673. {%a-prati-nandita%}, Disowned, <ls>Bhāg.</ls> 4, 4, 8.
-
-  1 blk: <ls>Kumāras.</ls> 7
-  LINE:  --<ab>Caus.</ab> {@1.@} To order to bow to, <ls>Kumāras.</ls> 7. 27. {@2.@} To bend, <ls>Mālav.</ls> <ab>d.</ab> 47. {@3.@} To give. respectfully, <ls>Amar.</ls> 82.
-
 Source: Draup. (1 non-conforming out of 130, 99.2% 2-blk)
 ────────────────────────────────────────────────────────────
   1 blk: <ls>Draup.</ls> 8
@@ -812,13 +804,7 @@ Mārk. P. (152 total)
 ────────────────────────────────────────────────────────────
 Kumāras. (147 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            2 (  1.4%)
-  2 digit blocks         145 ( 98.6%)
-  Pattern variants:
-    2 blk: <ls>Kumāras.</ls> 5, 72
-    2 blk: <ls>Kumāras.</ls> 7, 29
-    1 blk: <ls>Kumāras.</ls> 7
-    1 blk: <ls>Kumāras.</ls> 7
+  2 digit blocks         147 (100.0%)
 
 ────────────────────────────────────────────────────────────
 Draup. (130 total)
