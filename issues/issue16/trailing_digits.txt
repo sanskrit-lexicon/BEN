@@ -42,7 +42,7 @@ Draup.                                 130      0    130      0      0          
 Arj.                                   121      0    121      0      0            ✓
 Gīt.                                   117      0    117      0      0            ✓
 Sāv.                                   116      0    116      0      0            ✓
-Mālav.                                 113      2    111      0      0            ✓
+Mālav.                                 113      1    112      0      0            ✓
 Indr.                                  113      3    110      0      0            ✓
 Hiḍ.                                    86      0     86      0      0            ✓
 Kām. Nītis.                             82      1     80      1      0            ✓
@@ -455,11 +455,8 @@ Source: Mārk. P. (1 non-conforming out of 152, 99.3% 2-blk)
   3 blks: <ls>Mārk. P.</ls> 5, 31, 21
   LINE: {#dozin#}¦ {%doṣin%}, <ab>i. e.</ab> {%doṣa + n%}, <ab>adj.</ab> Becoming defiled, <ls>Mārk. P.</ls> 5, 31, 21.
 
-Source: Mālav. (2 non-conforming out of 113, 98.2% 2-blk)
+Source: Mālav. (1 non-conforming out of 113, 99.1% 2-blk)
 ────────────────────────────────────────────────────────────
-  1 blk: <ls>Mālav.</ls> 10
-  LINE:  --<ab>Ptcple.</ab> of the <ab>fut.</ab> <ab>pass.</ab> {%upeya%}, To be expedited, <ls>Man.</ls> 7, 215. <ab>n.</ab> Aim, <ls>Mālav.</ls> 10. 3.
-
   1 blk: <ls>Mālav.</ls> 24
   LINE: {#nitambin#}¦ {%nitambin%}, <ab>i. e.</ab> {%nitamba + in%}, <ab>adj.</ab>, <ab>f.</ab> {%nī%}. {@1.@} Latter part of <ab>comp. adj.</ab> Having buttocks, <ab>e. g.</ab> {%cāru-pīna-nitamba + in%}, Having beautiful big buttocks, <ls>Mārk. P.</ls> 17, 20. {@2.@} Having beautiful buttocks, <ls>Mālav.</ls> 24. {@3.@} Having beautiful slopes, <ls>Rājat.</ls> 2, 121.
 
@@ -824,12 +821,11 @@ Sāv. (116 total)
 ────────────────────────────────────────────────────────────
 Mālav. (113 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            2 (  1.8%)
-  2 digit blocks         111 ( 98.2%)
+  1 digit block            1 (  0.9%)
+  2 digit blocks         112 ( 99.1%)
   Pattern variants:
     2 blk: <ls>Mālav.</ls> 10, 8
     2 blk: <ls>Mālav.</ls> 20, 10
-    1 blk: <ls>Mālav.</ls> 10
     1 blk: <ls>Mālav.</ls> 24
 
 ────────────────────────────────────────────────────────────
