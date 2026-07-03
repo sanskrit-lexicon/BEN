@@ -31,7 +31,7 @@ Bhag.                                  387      0    385      2      0          
 Böhtl. Ind. Spr.                       326    325      1      0      0            ✓
 Mālat.                                 322      0    322      0      0            ✓
 Bhāṣāp.                                296    291      5      0      0            ✓
-Ṛt.                                    221      3    218      0      0            ✓
+Ṛt.                                    221      0    221      0      0            ✓
 Mṛcch.                                 219      0    219      0      0            ✓
 Johns. Sel.                            213      2    211      0      0            ✓
 Prab.                                  204      0    204      0      0            ✓
@@ -450,17 +450,6 @@ Source: Bhāṣāp. (5 non-conforming out of 296, 98.3% 1-blk)
   2 blks: <ls>Bhāṣāp.</ls> 1, 58
   LINE: {#samavAya#}¦ {%samavāya%}, <ab>i. e.</ab> {%sam-ava-i + a%}, <ab>m.</ab> {@1.@} Multitude, <ls>Pañc.</ls> 130, 7; aggregate; meeting, <ls>Daśak.</ls> in <ls>Chr.</ls> 180, 14. {@2.@} Assembly, <ls>Man.</ls> 4, 108. {@3.@} Intimate and constant relation, <ls>Bhāṣāp.</ls> 1, 58; as of yarn and the cloth made of it, the individual and its species, <ab>etc.</ab> {@4.@} Intimate union, <ls>Śāk.</ls> 108, 10; union, <ls>Pañc.</ls> i. <ab>d.</ab> 376.
 
-Source: Ṛt. (3 non-conforming out of 221, 98.6% 2-blk)
-────────────────────────────────────────────────────────────
-  1 blk: <ls>Ṛt.</ls> 1
-  LINE: ¦ {%Su-tantrī%}, <ab>adj.</ab>, <ab>n.</ab> {%tri%}, Melodious. <ls>Ṛt.</ls> 1. 3.
-
-  1 blk: <ls>Ṛt.</ls> 6
-  LINE: {#lAkzA#}¦ {%lākṣā%}, <ab>i. e.</ab> {%lakṣa%} = {%lakta%} in {%laktaka%} (<ab>q.</ab> <ab>cf.</ab>), + {%a%}, <ab>f.</ab> Lac, the animal dye, <ls>Ṛt.</ls> 6. 13.
-
-  1 blk: <ls>Ṛt.</ls> 1
-  LINE: ¦ {%A-sahya%}, <ab>adj.</ab> 1. insupportable, <ls>Ṛt.</ls> 1. 10. 2. unconquerable, <ls>Ragh.</ls> 18, 24.
-
 Source: Johns. Sel. (2 non-conforming out of 213, 99.1% 2-blk)
 ────────────────────────────────────────────────────────────
   1 blk: <ls>Johns. Sel.</ls> 47
@@ -796,13 +785,7 @@ Bhāṣāp. (296 total)
 ────────────────────────────────────────────────────────────
 Ṛt. (221 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            3 (  1.4%)
-  2 digit blocks         218 ( 98.6%)
-  Pattern variants:
-    2 blk: <ls>Ṛt.</ls> 6, 19
-    2 blk: <ls>Ṛt.</ls> 6, 14
-    1 blk: <ls>Ṛt.</ls> 1
-    1 blk: <ls>Ṛt.</ls> 6
+  2 digit blocks         221 (100.0%)
 
 ────────────────────────────────────────────────────────────
 Mṛcch. (219 total)
