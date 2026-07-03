@@ -17,7 +17,7 @@ Suśr.                                  759      0      1    758      0         
 Bhartṛ.                                718      0    717      1      0            ✓
 Kathās.                                672      0    672      0      0            ✓
 Hariv.                                 658    657      1      0      0            ✓
-Utt. Rāmac.                            658      4    654      0      0            ✓
+Utt. Rāmac.                            658      0    658      0      0            ✓
 Lass.                                  486      4    482      0      0            ✓
 Yājñ.                                  485      0    485      0      0            ✓
 Megh.                                  445    443      2      0      0            ✓
@@ -376,20 +376,6 @@ Source: Hariv. (1 non-conforming out of 658, 99.8% 1-blk)
 ────────────────────────────────────────────────────────────
   2 blks: <ls>Hariv.</ls> 1, 11126
   LINE:  --With {#pravi#} {%pra-vi%}, {@1.@} To tremble, <ls>MBh.</ls> 1, 1184. {@2.@} To become unsteady, <ls>Hariv.</ls> 1, 11126. {@3.@} To deviate, <ls>Bhartṛ.</ls> 2, 81.
-
-Source: Utt. Rāmac. (4 non-conforming out of 658, 99.4% 2-blk)
-────────────────────────────────────────────────────────────
-  1 blk: <ls>Utt. Rāmac.</ls> 152
-  LINE: {#praSraya#}¦ {%praśraya%}, <ab>i. e.</ab> {%pra-śri + a%}, <ab>m.</ab> {@1.@} Affection, love, <ls>Pañc.</ls> ii. <ab>d.</ab> 2. {@2.@} Affectionate behaviour. {@3.@} Civility, modesty, <ls>Indr.</ls> 2, 21. {@4.@} Respect, <ls>Utt. Rāmac.</ls> 152. 4.
-
-  1 blk: <ls>Utt. Rāmac.</ls> 144
-  LINE: ¦ {%Sa-rabhasa + m%}} <ab>adv.</ab> 1. quickly <ls>Utt. Rāmac.</ls> 144. 11. 2. passionate <ls>Lass.</ls> 24, 15.
-
-  1 blk: <ls>Utt. Rāmac.</ls> 30
-  LINE:  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%vajrakīlayita%}, Struck as by thunderbolts, <ls>Utt. Rāmac.</ls> 30. 2.
-
-  1 blk: <ls>Utt. Rāmac.</ls> 85
-  LINE: ¦ {%Varṣa-%}, <ab>n.</ab> increase of years, or causing increase of years(?), <ls>Utt. Rāmac.</ls> 85. 7.
 
 Source: Lass. (4 non-conforming out of 486, 99.2% 2-blk)
 ────────────────────────────────────────────────────────────
@@ -767,13 +753,7 @@ Hariv. (658 total)
 ────────────────────────────────────────────────────────────
 Utt. Rāmac. (658 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            4 (  0.6%)
-  2 digit blocks         654 ( 99.4%)
-  Pattern variants:
-    2 blk: <ls>Utt. Rāmac.</ls> 129, 1
-    2 blk: <ls>Utt. Rāmac.</ls> 117, 8
-    1 blk: <ls>Utt. Rāmac.</ls> 152
-    1 blk: <ls>Utt. Rāmac.</ls> 144
+  2 digit blocks         658 (100.0%)
 
 ────────────────────────────────────────────────────────────
 Lass. (486 total)
