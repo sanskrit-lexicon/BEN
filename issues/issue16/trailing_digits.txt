@@ -26,7 +26,7 @@ Vikr.                                  434      3    429      2      0          
 Nal.                                   433      0    433      0      0            ✓
 Hit.                                   416      0    415      1      0            ✓
 Śāk.                                   414      2    412      0      0            ✓
-Kir.                                   398      3    393      1      1            ✓
+Kir.                                   398      0    397      1      0            ✓
 Bhag.                                  387      2    383      2      0            ✓
 Böhtl. Ind. Spr.                       326    325      1      0      0            ✓
 Mālat.                                 322      0    322      0      0            ✓
@@ -415,22 +415,10 @@ Source: Śāk. (2 non-conforming out of 414, 99.5% 2-blk)
   1 blk: <ls>Śāk.</ls> 6
   LINE: {#keSa#}¦ {%keśa%}, <ab>m.</ab> {@1.@} Hair, <ls>Hit.</ls> i. <ab>d.</ab> 102. {@2.@} A lion's mane, <ab>Sch.</ab> ad <ls>Śāk.</ls> 6.
 
-Source: Kir. (5 non-conforming out of 398, 98.7% 2-blk)
+Source: Kir. (1 non-conforming out of 398, 99.7% 2-blk)
 ────────────────────────────────────────────────────────────
-  1 blk: <ls>Kir.</ls> 5
-  LINE: 1. {#nu#}¦ {%nu%}, and {#nU#} {%nū%}, <ab>ved.</ab> (perhaps akin to {%nava%}, <ab>cf.</ab> {%nūtana%}), a particle, {@1.@} Now (<ab>ved.</ab>). {@2.@} A particle of interrogation in two or more interrogative sentences succeeding each other, <ls>Śāk.</ls> <ab>d.</ab> 137. {@3.@} Preceded by interrogatives, <ls>MBh.</ls> 5, 6003. {@4.@} {%nu--nu%}, Either... or, <ls>Rām.</ls> 2, 72, 27; {%nu--nu--nu%} ... or...or, <ls>Kir.</ls> 5. 1. {@5.@} A <ab>part.</ab> of affirmation, Indeed, <ls>Chr.</ls> 291, 13 = <ls>Rigv.</ls> i. 64, 13.
-
-  1 blk: <ls>Kir.</ls> 5
-  LINE: {#maRqalaya#}¦ {%MAṆḌALAYA%}, a <ab>denomin.</ab> derived from the preceeding; with {#pari#} {%pari%}, in the <ab>ptcple.</ab> <ab>pf.</ab> <ab>pass.</ab> [Page0677-b + 42] {%parimaṇḍalita%}, Turned round, <ls>Kir.</ls> 5. 42.
-
-  4 blks: <ls>Kir.</ls> 11, 34, 16, 32
-  LINE: {#saMvitti#}¦ {%saṃvitti%}, <ab>i. e.</ab> {%sam-vid + ti%}, <ab>f.</ab> {@1.@} Perception, knowledge, <ls>Kir.</ls> 11, 34, 16, 32. {@2.@} Recollection of a thing or person previously known. {@3.@} Reconciliation, accommodation.
-
   3 blks: <ls>Kir.</ls> 4, 22, 25
   LINE: {#saMstava#}¦ {%saṃstava%}, <ab>i. e.</ab> {%sam-stu + a%}, <ab>m.</ab> {@1.@} Praise, <ls>Pañc.</ls> iv. <ab>d.</ab> 60. {@2.@} Acquaintance, <ls>Kir.</ls> 4, 22, 25.
-
-  1 blk: <ls>Kir.</ls> 13
-  LINE: ¦ {%Sita-%}, <ab>m.</ab> Arjuna, <ls>Kir.</ls> 13. 19.
 
 Source: Bhag. (4 non-conforming out of 387, 99.0% 2-blk)
 ────────────────────────────────────────────────────────────
@@ -767,16 +755,11 @@ Hit. (416 total)
 ────────────────────────────────────────────────────────────
 Kir. (398 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            3 (  0.8%)
-  2 digit blocks         393 ( 98.7%)
+  2 digit blocks         397 ( 99.7%)
   3 digit blocks           1 (  0.3%)
-  4 digit blocks           1 (  0.3%)
   Pattern variants:
     2 blk: <ls>Kir.</ls> 5, 13
     2 blk: <ls>Kir.</ls> 5, 52
-    1 blk: <ls>Kir.</ls> 5
-    1 blk: <ls>Kir.</ls> 5
-    4 blk: <ls>Kir.</ls> 11, 34, 16, 32
     3 blk: <ls>Kir.</ls> 4, 22, 25
 
 ────────────────────────────────────────────────────────────
