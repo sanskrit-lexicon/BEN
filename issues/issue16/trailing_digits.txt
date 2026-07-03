@@ -1,6 +1,6 @@
 Trailing Digit Block Analysis for <ls> tags
 ======================================================================
-Total matches: 37719
+Total matches: 37717
 Total sources: 150
 
 Source                               Total  1-blk  2-blk  3-blk  4+blk  Consistent?
@@ -24,7 +24,7 @@ Megh.                                  445    443      2      0      0          
 Śiś.                                   442      0    442      0      0            ✓
 Vikr.                                  434      3    429      2      0            ✓
 Nal.                                   433      0    433      0      0            ✓
-Hit.                                   418      3    414      1      0            ✓
+Hit.                                   416      0    415      1      0            ✓
 Śāk.                                   414      4    410      0      0            ✓
 Kir.                                   398      3    393      1      1            ✓
 Bhag.                                  387      2    383      2      0            ✓
@@ -402,19 +402,10 @@ Source: Vikr. (5 non-conforming out of 434, 98.8% 2-blk)
   3 blks: <ls>Vikr.</ls> 8, 81, 11
   LINE: {#vand#}¦ {%VAND%} (akin to {%vad%}), i. 1. <ab>Ātm.</ab> {@1.@} To salute respectfully, <ls>Vikr.</ls> 8, 81, 11; <ls>MBh.</ls> 2, 23. {@2.@} To praise, <ls>Rām.</ls> 2, 16, 27. {@3.@} To venerate, <ls>Megh.</ls> 12.
 
-Source: Hit. (4 non-conforming out of 418, 99.0% 2-blk)
+Source: Hit. (1 non-conforming out of 416, 99.8% 2-blk)
 ────────────────────────────────────────────────────────────
-  1 blk: <ls>Hit.</ls> 85
-  LINE: {#pratikAra#} and {#pratIkAra#}¦ {%pratī̆kāra%}, <ab>i. e.</ab> {%prati-kṛ + a%}, <ab>m.</ab> {@1.@} Obviating, <ls>Böhtl. Ind. Spr.</ls> 370. {@2.@} Remedying, help, <ls>Hit.</ls> 85. 6, <ab>M.M.</ab>; help against, alleviation, <ls>Vikr.</ls> 20, 9. {@3.@} A remedy, <ls>Man.</ls> 10, 185. {@4.@} Requital, Rām 4. 27, 20. {@5.@} A kind of peace or alliance, concluded in the hope that the one part will requite services received from the other, <ls>Hit.</ls> iv. <ab>d.</ab> 113, 114.
-
   3 blks: <ls>Hit.</ls> 115, 1, 9
   LINE: {#maRqapikA#}¦ {%maṇḍapikā%}, <ab>i. e.</ab> {%maṇḍapa + ka%}, <ab>f.</ab> A small shop, <ls>Hit.</ls> 115, 1, 9.
-
-  1 blk: <ls>Hit.</ls> 4
-  LINE: ¦ {%Unm˚%}, <ab>i. e.</ab> {%ud-%}, <ab>m.</ab> wrong way, <ls>Hit.</ls> 4. 2, <ab>M.M.</ab>
-
-  1 blk: <ls>Hit.</ls> 55
-  LINE: {#hetuka#}¦ {%hetu + ka%}, {@I.@} <ab>adj.</ab> {@1.@} Relating to the cause. {@2.@} Causal, instrumental {@II.@} <ab>m.</ab> {@1.@} An active cause, an instrument, <ls>Hit.</ls> 55. 5. {@2.@} A logician, <ls>Man.</ls> 12, 111.
 
 Source: Śāk. (4 non-conforming out of 414, 99.0% 2-blk)
 ────────────────────────────────────────────────────────────
@@ -759,17 +750,14 @@ Nal. (433 total)
   2 digit blocks         433 (100.0%)
 
 ────────────────────────────────────────────────────────────
-Hit. (418 total)
+Hit. (416 total)
 ────────────────────────────────────────────────────────────
-  1 digit block            3 (  0.7%)
-  2 digit blocks         414 ( 99.0%)
+  2 digit blocks         415 ( 99.8%)
   3 digit blocks           1 (  0.2%)
   Pattern variants:
     2 blk: <ls>Hit.</ls> 61, 7
     2 blk: <ls>Hit.</ls> 101, 18
-    1 blk: <ls>Hit.</ls> 85
     3 blk: <ls>Hit.</ls> 115, 1, 9
-    1 blk: <ls>Hit.</ls> 4
 
 ────────────────────────────────────────────────────────────
 Śāk. (414 total)
