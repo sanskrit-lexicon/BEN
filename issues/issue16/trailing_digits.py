@@ -23,17 +23,17 @@ DIGIT_BLOCK = re.compile(r"\d+")
 
 
 def main():
-    # src -> [(num_blocks, trailing_text, full_line)]
+    # src -> [(num_blocks, trailing_text, full_line, line_no)]
     records = defaultdict(list)
 
     with open(INPUT, encoding="utf-8") as fh:
-        for line in fh:
+        for lineno, line in enumerate(fh, 1):
             line_stripped = line.rstrip("\n")
             for m in PATTERN.finditer(line_stripped):
                 src = m.group(1)
                 trailing = m.group(2).strip()
                 blocks = DIGIT_BLOCK.findall(trailing)
-                records[src].append((len(blocks), trailing, line_stripped))
+                records[src].append((len(blocks), trailing, line_stripped, lineno))
 
     order = sorted(records, key=lambda k: len(records[k]), reverse=True)
 
@@ -92,18 +92,15 @@ def main():
     # ─── NON-CONFORMING REFERENCES ───
     out_lines.append("")
     out_lines.append("=" * 70)
-    out_lines.append("NON-CONFORMING REFERENCES (majority pattern >= 95%)")
+    out_lines.append("NON-CONFORMING REFERENCES (all sources)")
     out_lines.append("=" * 70)
     out_lines.append("")
 
     wrote_any = False
     for src in order:
         s = stats[src]
-        if s["top_frac"] < 0.95:
-            continue
-
         recs = records[src]
-        non_conf = [(nb, tr, ln) for (nb, tr, ln) in recs if nb != s["top_n"]]
+        non_conf = [(nb, tr, ln, no) for (nb, tr, ln, no) in recs if nb != s["top_n"]]
         if not non_conf:
             continue
 
@@ -115,10 +112,10 @@ def main():
         )
         out_lines.append(f"{'─'*60}")
 
-        for nb, tr, ln in non_conf:
+        for nb, tr, ln, no in non_conf:
             plural = "s" if nb != 1 else ""
-            out_lines.append(f"  {nb} blk{plural}: <ls>{src}</ls> {tr}")
-            out_lines.append(f"  LINE: {ln}")
+            out_lines.append(f"  L{no:>6}  {nb} blk{plural}: <ls>{src}</ls> {tr}")
+            out_lines.append(f"         LINE: {ln}")
             out_lines.append("")
 
     if not wrote_any:
@@ -149,7 +146,7 @@ def main():
         if len(c) > 1:
             out_lines.append(f"  Pattern variants:")
             ex_seen = {}
-            for nb, tr, ln in recs:
+            for nb, tr, ln, _ in recs:
                 if all(ex_seen.get(n, 0) >= 2 for n in c.keys()):
                     break
                 if nb in c and ex_seen.get(nb, 0) < 2:
