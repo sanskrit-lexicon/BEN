@@ -1,0 +1,657 @@
+Roman Numeral Usage in <ls> References
+======================================================================
+
+Total <ls> references with first-token analysis: 47002
+Total sources: 189
+Roman numeral first tokens: 3884 (8.3%)
+Arabic digit first tokens:  41644 (88.6%)
+Other:                     1474 (3.1%)
+
+Source                                     Total   Roman  Arabic   Other   % Roman
+────────────────────────────────────────────────────────────────────────────────
+MBh.                                        7366      22    7342       2      0.3%
+Man.                                        6047       1    6044       2      0.0%
+Rām.                                        5157      19    5138       0      0.4%
+Pañc.                                       4743    1960    2778       5     41.3%
+Chr.                                        3009       0    3003       6      0.0%
+Bhāg. P.                                    1893       4    1889       0      0.2%
+Hit.                                        1707    1075     631       1     63.0%
+Rājat.                                      1325       0    1325       0      0.0%
+Daśak.                                      1095       2      92    1001      0.2%
+Ragh.                                        931       0     931       0      0.0%
+Bhartṛ.                                      779       2     775       2      0.3%
+Suśr.                                        776       0     776       0      0.0%
+Rigv.                                        766     734      32       0     95.8%
+Utt. Rāmac.                                  721       0     721       0      0.0%
+Kathās.                                      720       1     719       0      0.1%
+Hariv.                                       693       0     693       0      0.0%
+Lass.                                        616       0     615       1      0.0%
+Śāk.                                         520       0     514       6      0.0%
+Megh.                                        499       0     499       0      0.0%
+Yājñ.                                        494       1     493       0      0.2%
+Vikr.                                        483       0     483       0      0.0%
+Nal.                                         478       0     478       0      0.0%
+Śiś.                                         466       0     466       0      0.0%
+Vedāntas.                                    420       0       3     417      0.0%
+Kir.                                         419       0     419       0      0.0%
+Böhtl. Ind. Spr.                             409       0     409       0      0.0%
+Bhag.                                        408       1     407       0      0.2%
+Mālat.                                       351       0     349       2      0.0%
+Bhāṣāp.                                      316       0     315       1      0.0%
+Ṛt.                                          244       1     243       0      0.4%
+Mṛcch.                                       236       0     236       0      0.0%
+Johns. Sel.                                  229       0     229       0      0.0%
+Prab.                                        216       0     216       0      0.0%
+Bhaṭṭ.                                       170       0     170       0      0.0%
+Mārk. P.                                     158       0     158       0      0.0%
+Kumāras.                                     154       0     154       0      0.0%
+Draup.                                       141       0     141       0      0.0%
+Mālav.                                       131       0     131       0      0.0%
+Arj.                                         128       0     128       0      0.0%
+Indr.                                        127       0     127       0      0.0%
+Sāv.                                         122       0     122       0      0.0%
+Gīt.                                         121       2     119       0      1.7%
+Hiḍ.                                          97       1      96       0      1.0%
+Kām. Nītis.                                   91       1      90       0      1.1%
+Amar.                                         78       0      78       0      0.0%
+Cāṇ.                                          75       0      75       0      0.0%
+Nalod.                                        68       0      68       0      0.0%
+Sund.                                         62       0      62       0      0.0%
+Dev.                                          51       0      50       1      0.0%
+Sāh. D.                                       49       0      48       1      0.0%
+Pāṇ.                                          47      32      15       0     68.1%
+Śṛṅgārat.                                     44       0      44       0      0.0%
+Berl. Monatsb.                                44       0      44       0      0.0%
+Brāhmaṇav.                                    31       0      30       1      0.0%
+Naiṣ.                                         30       1      29       0      3.3%
+Caurap.                                       30       0      30       0      0.0%
+Matsyop.                                      22       0      22       0      0.0%
+Varāh. Bṛh. S.                                21       0      21       0      0.0%
+Śatr.                                         19       0      19       0      0.0%
+Brāhmaṇ.                                      18       0      18       0      0.0%
+Gorr.                                         16       0      14       2      0.0%
+Śāntiś.                                       16       0      16       0      0.0%
+Śrut.                                         12       0      12       0      0.0%
+Kāvya Prak.                                   12       0      11       1      0.0%
+Ghaṭ.                                         11       0      11       0      0.0%
+Ind. St.                                      11      10       1       0     90.9%
+Kirāt.                                        10       0      10       0      0.0%
+Hit. pr.                                      10       0      10       0      0.0%
+Mahāv.                                         8       0       8       0      0.0%
+Brahmav.                                       8       0       8       0      0.0%
+Sāh. Darp.                                     8       0       6       2      0.0%
+Lass. Anth.                                    7       0       7       0      0.0%
+Mahāvīrac.                                     7       0       7       0      0.0%
+Viṣṇu P.                                       7       0       7       0      0.0%
+Padmap.                                        7       0       7       0      0.0%
+Böhtl. Chr.                                    6       0       6       0      0.0%
+Bhāg.                                          6       0       6       0      0.0%
+Häberl. Anth.                                  6       0       6       0      0.0%
+Kusumāñj.                                      6       0       6       0      0.0%
+Lass. Pentap.                                  6       0       4       2      0.0%
+Kāśīkh.                                        5       0       5       0      0.0%
+Berol.                                         5       0       5       0      0.0%
+Skandap., Kāśīkh.                              4       0       4       0      0.0%
+VP.                                            4       0       4       0      0.0%
+Mit.                                           4       0       4       0      0.0%
+Kull.                                          4       0       0       4      0.0%
+Ujjvalad.                                      4       0       3       1      0.0%
+Cāt.                                           3       0       3       0      0.0%
+Somad. Nal.                                    3       0       3       0      0.0%
+Daśarūp.                                       3       0       3       0      0.0%
+Siddh. K.                                      3       0       3       0      0.0%
+Siddh. Mukt.                                   3       0       3       0      0.0%
+Pāraskara Gṛ. S.                               3       2       0       1     66.7%
+Häberl.                                        2       0       1       1      0.0%
+Chānd. Up.                                     2       0       2       0      0.0%
+Ānandal.                                       2       0       2       0      0.0%
+Śukas.                                         2       0       2       0      0.0%
+Mudrār.                                        2       0       2       0      0.0%
+Mān.                                           2       0       2       0      0.0%
+Śrutab.                                        2       0       2       0      0.0%
+Caur.                                          2       0       2       0      0.0%
+Sāṅkhya Aph.                                   2       1       1       0     50.0%
+Lalit.                                         2       0       2       0      0.0%
+Haeb. Anth.                                    2       0       2       0      0.0%
+Sūryas.                                        2       0       2       0      0.0%
+Daśar.                                         2       0       2       0      0.0%
+Ratnāv.                                        2       0       1       1      0.0%
+Schl.                                          2       0       1       1      0.0%
+Rāmatap. Up.                                   2       0       2       0      0.0%
+Vārt.                                          2       0       1       1      0.0%
+M.                                             1       0       1       0      0.0%
+Śukasapt.                                      1       0       1       0      0.0%
+Kāmand. Nītis.                                 1       0       1       0      0.0%
+Bṛh. Ār. Up.                                   1       0       1       0      0.0%
+Fausböll, Dhammap.                             1       0       1       0      0.0%
+Ait. Br.                                       1       0       1       0      0.0%
+Ghaṭak.                                        1       0       1       0      0.0%
+Monatsber. der Berliner Ak. Hist. Phil.        1       0       1       0      0.0%
+Monatsb. d. Berl. Ak. d. Wiss.                 1       0       1       0      0.0%
+Uttararāmac.                                   1       0       0       1      0.0%
+Jaṭādh.                                        1       0       0       1      0.0%
+Häberl. Chr.                                   1       0       1       0      0.0%
+Monatsber. Berl. Ak. Hist. Phil.               1       0       1       0      0.0%
+Monatsb. d. Berl. Ak. Hist. Phil.              1       0       1       0      0.0%
+Vop.                                           1       0       1       0      0.0%
+Monatsb. Berl. Ak. Hist. Phil.                 1       0       1       0      0.0%
+Yogas.                                         1       0       1       0      0.0%
+Śvet. Up.                                      1       0       1       0      0.0%
+Kūmar.                                         1       0       1       0      0.0%
+Upak.                                          1       0       1       0      0.0%
+Hindu Dr.                                      1       0       0       1      0.0%
+Vedānt.                                        1       0       0       1      0.0%
+Dhūrtas.                                       1       0       1       0      0.0%
+Mahāvīr.                                       1       0       1       0      0.0%
+Tattvas.                                       1       0       1       0      0.0%
+Varāh. Bṛh.                                    1       0       1       0      0.0%
+Brahmavaiv. P.                                 1       0       1       0      0.0%
+Bhaṭṭik.                                       1       0       1       0      0.0%
+VS.                                            1       0       1       0      0.0%
+Kathā.                                         1       0       1       0      0.0%
+Cāṭ.                                           1       0       1       0      0.0%
+Tarkasaṃgr.                                    1       0       1       0      0.0%
+Navar.                                         1       0       1       0      0.0%
+Vāsavad.                                       1       0       1       0      0.0%
+Vāsav.                                         1       0       1       0      0.0%
+Pānch.                                         1       1       0       0    100.0%
+Mah.                                           1       0       1       0      0.0%
+Bālab.                                         1       0       1       0      0.0%
+Nyāya S.                                       1       0       1       0      0.0%
+Māl.                                           1       0       1       0      0.0%
+ŚKD.                                           1       0       0       1      0.0%
+Mark. P.                                       1       0       1       0      0.0%
+Mālatīm.                                       1       0       1       0      0.0%
+M. Müller, Anc. Sskr. Lit.                     1       0       1       0      0.0%
+Vetālap.                                       1       1       0       0    100.0%
+Bhagav.                                        1       0       1       0      0.0%
+Johns.                                         1       0       1       0      0.0%
+pr.                                            1       0       1       0      0.0%
+cod. Petersb.                                  1       0       0       1      0.0%
+Pārask.                                        1       0       0       1      0.0%
+Hind. Th.                                      1       1       0       0    100.0%
+Sāṅkhyak.                                      1       0       1       0      0.0%
+Śārṅg.                                         1       0       1       0      0.0%
+cod. Berol.                                    1       0       1       0      0.0%
+Mricch.                                        1       0       1       0      0.0%
+Śātr.                                          1       0       1       0      0.0%
+Spec. of the Theatre of the Hind.              1       1       0       0    100.0%
+Trans. of the R.A.S.                           1       1       0       0    100.0%
+Sāhitya Darp.                                  1       1       0       0    100.0%
+Kirātārj.                                      1       0       1       0      0.0%
+Rāgh.                                          1       0       1       0      0.0%
+Häberl. Anthol.                                1       0       1       0      0.0%
+Hemac.                                         1       0       1       0      0.0%
+R.                                             1       0       1       0      0.0%
+Yoga.                                          1       1       0       0    100.0%
+Anth.                                          1       0       1       0      0.0%
+Āśvalāy. Gṛhyas.                               1       1       0       0    100.0%
+Götting. Gel. Anz.                             1       0       1       0      0.0%
+Govardhana, Āryā Sapt.                         1       0       1       0      0.0%
+Kātyāyana S.                                   1       0       0       1      0.0%
+Atharv.-Ved.                                   1       1       0       0    100.0%
+Atharva-V.                                     1       1       0       0    100.0%
+Govardh. Āryā Sapt.                            1       0       1       0      0.0%
+Journ. As.                                     1       0       1       0      0.0%
+Skanda P., Kāśīkh.                             1       0       1       0      0.0%
+Introd. à l'Hist. du Buddh.                    1       0       1       0      0.0%
+Mém. sur les Contrées Occident., par Hiouen Thsang.       1       1       0       0    100.0%
+Kos.                                           1       0       1       0      0.0%
+Gött. Gel. Anz.                                1       0       1       0      0.0%
+
+======================================================================
+SOURCES USING ROMAN NUMERALS
+======================================================================
+
+Pañc.                                     4743 refs,  1960 Roman ( 41.3%),  2778 Arabic
+  Roman numerals: i=884, ii=358, iii=471, iv=103, v=144
+
+Hit.                                      1707 refs,  1075 Roman ( 63.0%),   631 Arabic
+  Roman numerals: i=419, ii=280, iii=212, iv=164
+
+Rigv.                                      766 refs,   734 Roman ( 95.8%),    32 Arabic
+  Roman numerals: i=665, iii=10, iv=1, v=18, vi=8, vii=32
+
+Pāṇ.                                        47 refs,    32 Roman ( 68.1%),    15 Arabic
+  Roman numerals: i=3, ii=5, iii=10, iv=11, v=1, vii=1, viii=1
+
+MBh.                                      7366 refs,    22 Roman (  0.3%),  7342 Arabic
+  Roman numerals: i=8, ii=2, iv=2, v=1, xii=9
+
+Rām.                                      5157 refs,    19 Roman (  0.4%),  5138 Arabic
+  Roman numerals: i=4, ii=4, iii=3, iv=1, v=2, vi=5
+
+Ind. St.                                    11 refs,    10 Roman ( 90.9%),     1 Arabic
+  Roman numerals: i=2, ii=1, iii=7
+
+Bhāg. P.                                  1893 refs,     4 Roman (  0.2%),  1889 Arabic
+  Roman numerals: i=3, iii=1
+
+Daśak.                                    1095 refs,     2 Roman (  0.2%),    92 Arabic
+  Roman numerals: i=1, iii=1
+
+Bhartṛ.                                    779 refs,     2 Roman (  0.3%),   775 Arabic
+  Roman numerals: i=2
+
+Gīt.                                       121 refs,     2 Roman (  1.7%),   119 Arabic
+  Roman numerals: i=2
+
+Pāraskara Gṛ. S.                             3 refs,     2 Roman ( 66.7%),     0 Arabic
+  Roman numerals: ii=2
+
+Man.                                      6047 refs,     1 Roman (  0.0%),  6044 Arabic
+  Roman numerals: i=1
+
+Ṛt.                                        244 refs,     1 Roman (  0.4%),   243 Arabic
+  Roman numerals: i=1
+
+Bhag.                                      408 refs,     1 Roman (  0.2%),   407 Arabic
+  Roman numerals: i=1
+
+Yājñ.                                      494 refs,     1 Roman (  0.2%),   493 Arabic
+  Roman numerals: i=1
+
+Kathās.                                    720 refs,     1 Roman (  0.1%),   719 Arabic
+  Roman numerals: i=1
+
+Naiṣ.                                       30 refs,     1 Roman (  3.3%),    29 Arabic
+  Roman numerals: i=1
+
+Hiḍ.                                        97 refs,     1 Roman (  1.0%),    96 Arabic
+  Roman numerals: iii=1
+
+Kām. Nītis.                                 91 refs,     1 Roman (  1.1%),    90 Arabic
+  Roman numerals: viii=1
+
+Sāṅkhya Aph.                                 2 refs,     1 Roman ( 50.0%),     1 Arabic
+  Roman numerals: iii=1
+
+Pānch.                                       1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: iii=1
+
+Vetālap.                                     1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: xviii=1
+
+Hind. Th.                                    1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: i=1
+
+Spec. of the Theatre of the Hind.            1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: i=1
+
+Trans. of the R.A.S.                         1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: i=1
+
+Sāhitya Darp.                                1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: ii=1
+
+Yoga.                                        1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: ii=1
+
+Āśvalāy. Gṛhyas.                             1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: iv=1
+
+Atharv.-Ved.                                 1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: viii=1
+
+Atharva-V.                                   1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: iii=1
+
+Mém. sur les Contrées Occident., par Hiouen Thsang.     1 refs,     1 Roman (100.0%),     0 Arabic
+  Roman numerals: ii=1
+
+======================================================================
+SOURCES WITH MIXED ROMAN + ARABIC USAGE
+======================================================================
+
+MBh.                                      7366 refs —   22 Roman, 7342 Arabic
+  L  5875 Roman [i]: <ls>MBh.</ls> i; <ab>adhy.</ab> 81.
+  L 21532 Roman [i]: <ls>MBh.</ls> i, 2411. {@2.@} The name of a river, <ls>Megh.</ls> 34.
+  L 22590 Roman [i]: <ls>MBh.</ls> i, 2749. {@6.@} Venerable, <ls>Man.</ls> 2, 133. {@II.@} <ab
+  L 23142 Roman [i]: <ls>MBh.</ls> i. 1444. {@2.@} A puddle not larger than a cow's foot, <ls>R
+  L 42657 Roman [i]: <ls>MBh.</ls> i. ii. <ab>etc.</ab> {@5.@} The days of the four periodic ch
+  L   118 Arabic [14]: <ls>MBh.</ls> 14, 34. {@II.@} <ab>f.</ab> {%tā%}. A daughter who is not by
+  L   118 Arabic [9]: <ls>MBh.</ls> 9, 136.
+  L   213 Arabic [12]: <ls>MBh.</ls> 12, 3078.
+  L   368 Arabic [12]: <ls>MBh.</ls> 12, 1024.
+  L   475 Arabic [4]: <ls>MBh.</ls> 4, 231.
+
+Man.                                      6047 refs —    1 Roman, 6044 Arabic
+  L 68599 Roman [i]: <ls>Man.</ls> i, 29. {@3.@} To occupy, <ls>Chr.</ls> 35, 5. {@4.@} To proc
+  L    10 Arabic [9]: <ls>Man.</ls> 9, 47. {@4.@} See {%aṃsa%}.
+  L    12 Arabic [9]: <ls>Man.</ls> 9, 201.
+  L    13 Arabic [9]: <ls>Man.</ls> 9, 150. 2. a part.
+  L    14 Arabic [8]: <ls>Man.</ls> 8, 210.
+  L    15 Arabic [8]: <ls>Man.</ls> 8, 210.
+
+Rām.                                      5157 refs —   19 Roman, 5138 Arabic
+  L 18839 Roman [i]: <ls>Rām.</ls> i. 1, 21.
+  L 40147 Roman [iii]: <ls>Rām.</ls> iii. p. 469.
+  L 46794 Roman [i]: <ls>Rām.</ls> i. 71, title.
+  L 52079 Roman [i]: <ls>Rām.</ls> i. 15, 19. {@4.@} To appear, <ls>Vikr.</ls> <ab>d.</ab> 142;
+  L 66371 Roman [iii]: <ls>Rām.</ls> iii. 21.
+  L    89 Arabic [5]: <ls>Rām.</ls> 5, 17, 24.
+  L   113 Arabic [2]: <ls>Rām.</ls> 2, 109, 27.
+  L   309 Arabic [6]: <ls>Rām.</ls> 6, 93, 30.
+  L   313 Arabic [6]: <ls>Rām.</ls> 6, 36, 72. {@IV.@} <ab>loc.</ab> <ab>sing.</ab> {%agre%}. {@
+  L   320 Arabic [5]: <ls>Rām.</ls> 5, 60, 16.
+
+Pañc.                                     4743 refs — 1960 Roman, 2778 Arabic
+  L   138 Roman [ii]: <ls>Pañc.</ls> ii, <ab>d.</ab> 164. {@II.@} <ab>m.</ab> {@1.@} A die, <ls>M
+  L   182 Roman [i]: <ls>Pañc.</ls> i. <ab>d.</ab> 184.
+  L   428 Roman [i]: <ls>Pañc.</ls> i. <ab>d.</ab> 251. {@2.@} Intumescence.
+  L   435 Roman [i]: <ls>Pañc.</ls> i. <ab>d.</ab> 254.
+  L   677 Roman [i]: <ls>Pañc.</ls> i. <ab>d.</ab> 355.
+  L    53 Arabic [202]: <ls>Pañc.</ls> 202, 25.
+  L   101 Arabic [187]: <ls>Pañc.</ls> 187, 24.
+  L   179 Arabic [42]: <ls>Pañc.</ls> 42, 12, read {%ghuṇākṣara%}).
+  L   313 Arabic [245]: <ls>Pañc.</ls> 245, 13.
+  L   408 Arabic [46]: <ls>Pañc.</ls> 46, 8. {@2.@} To adorn, <ls>Rājat.</ls> 5, 230. {@3.@} To br
+
+Bhāg. P.                                  1893 refs —    4 Roman, 1889 Arabic
+  L 14329 Roman [i]: <ls>Bhāg. P.</ls> i. p. xcv. {@2.@} A proper name, <ls>Rājat.</ls> 4, 424.
+  L 33353 Roman [i]: <ls>Bhāg. P.</ls> i, 14, 19). <ab>Anomal.</ab> 3 <ab>pl.</ab> of the <ab>red.<
+  L 66335 Roman [iii]: <ls>Bhāg. P.</ls> iii. 20. {@2.@} The twentieth part, <ls>Man.</ls> 8, 398.
+  L 82772 Roman [i]: <ls>Bhāg. P.</ls> i. ii., <ab>etc.</ab> {@7.@} The five objects of sense. {@8.
+  L   573 Arabic [1]: <ls>Bhāg. P.</ls> 1, 10, 32, {%inī%}).
+  L  1413 Arabic [3]: <ls>Bhāg. P.</ls> 3, 16, 24.
+  L  1504 Arabic [3]: <ls>Bhāg. P.</ls> 3, 2, 21.
+  L  1880 Arabic [2]: <ls>Bhāg. P.</ls> 2, 6, 25.
+  L  2509 Arabic [9]: <ls>Bhāg. P.</ls> 9, 6, 13. {@II.@} <ab>m.</ab> 1. fate, <ls>Rām.</ls> 1, 41, 
+
+Hit.                                      1707 refs — 1075 Roman,  631 Arabic
+  L  2015 Roman [ii]: <ls>Hit.</ls> ii. <ab>d.</ab> 117. {@2.@} Courtesy, <ls>Vikr.</ls> <ab>d.<
+  L  2131 Roman [iii]: <ls>Hit.</ls> iii. <ab>d.</ab> 28.
+  L  2235 Roman [ii]: <ls>Hit.</ls> ii. <ab>d.</ab> 99.
+  L  2308 Roman [ii]: <ls>Hit.</ls> ii. <ab>d.</ab> 134.
+  L  2508 Roman [i]: <ls>Hit.</ls> i, <ab>d.</ab> 43.
+  L  1344 Arabic [61]: <ls>Hit.</ls> 61, 7. {@3.@} One who is entitled to, or fit for, something,
+  L  1390 Arabic [101]: <ls>Hit.</ls> 101, 18.
+  L  1895 Arabic [59]: <ls>Hit.</ls> 59, 17.
+  L  2208 Arabic [28]: <ls>Hit.</ls> 28, 9. {@2.@} Enamoured or red, <ls>Śiś.</ls> 9, 10.
+  L  2231 Arabic [106]: <ls>Hit.</ls> 106, 17. {@2.@} Obligation, <ls>Man.</ls> 2, 105.
+
+Daśak.                                    1095 refs —    2 Roman,   92 Arabic
+  L 58730 Roman [iii]: <ls>Daśak.</ls> iii. <ls>Chr.</ls> 187, 15. {@7.@} To pass away, <ls>Kathās.
+  L 64529 Roman [i]: <ls>Daśak.</ls> i. <ls>Chr.</ls> 179, 3; <ls>Rājat.</ls> 5, 2; <ls>MBh.</ls>
+  L   400 Arabic [2]: <ls>Daśak.</ls> 2, 19.
+  L   698 Arabic [191]: <ls>Daśak.</ls> 191, 16.
+  L  1487 Arabic [140]: <ls>Daśak.</ls> 140, 3.
+  L  2109 Arabic [196]: <ls>Daśak.</ls> 196, 14. {@2.@} Power, <ls>Śāk.</ls> 31, 2. {@3.@} A sign, <
+  L  2795 Arabic [187]: <ls>Daśak.</ls> 187, 23.
+
+Bhartṛ.                                    779 refs —    2 Roman,  775 Arabic
+  L 28104 Roman [i]: <ls>Bhartṛ.</ls> i. 69; on a sudden, <ls>Daśak.</ls> in <ls>Chr.</ls> 186, 15
+  L 50219 Roman [i]: <ls>Bhartṛ.</ls> i. 19 (<ab>cf.</ab> <ls>Böhtl. Roth. Sskr. Wörterbuch.</ls> 
+  L   408 Arabic [2]: <ls>Bhartṛ.</ls> 2, 44. {@5.@} † To go.
+  L   412 Arabic [2]: <ls>Bhartṛ.</ls> 2, 23.
+  L   432 Arabic [2]: <ls>Bhartṛ.</ls> 2, 4.
+  L  1144 Arabic [2]: <ls>Bhartṛ.</ls> 2, 10. 3. but no, <ls>Śāk.</ls> 60, 18. 4. it is particularl
+  L  1199 Arabic [1]: <ls>Bhartṛ.</ls> 1, 95.
+
+Rigv.                                      766 refs —  734 Roman,   32 Arabic
+  L   957 Roman [i]: <ls>Rigv.</ls> i. 112, 14.
+  L  1590 Roman [i]: <ls>Rigv.</ls> i. 64, 3.
+  L  1608 Roman [i]: <ls>Rigv.</ls> i. 48, 11.
+  L  2101 Roman [i]: <ls>Rigv.</ls> i. 88, 6.
+  L  2726 Roman [i]: <ls>Rigv.</ls> i. 85, 6.
+  L   128 Arabic [1]: <ls>Rigv.</ls> 1, 50, 2.
+  L   656 Arabic [1]: <ls>Rigv.</ls> 1, 112, 16. [Page0008-a + 40]
+  L   657 Arabic [1]: <ls>Rigv.</ls> 1, 112, 12.
+  L   730 Arabic [1]: <ls>Rigv.</ls> 1, 112, 17.
+  L   753 Arabic [1]: <ls>Rigv.</ls> 1, 92, 1. {@3.@} To make clear. {@4.@} To be beautiful. {@5.
+
+Kathās.                                    720 refs —    1 Roman,  719 Arabic
+  L 66340 Roman [i]: <ls>Kathās.</ls> i. p. 378.
+  L  1401 Arabic [25]: <ls>Kathās.</ls> 25, 130.
+  L  1406 Arabic [5]: <ls>Kathās.</ls> 5, 49.
+  L  1416 Arabic [10]: <ls>Kathās.</ls> 10, 70.
+  L  1684 Arabic [12]: <ls>Kathās.</ls> 12, 33. {@2.@} Lasting, <ls>Rājat.</ls> 5, 32. {@3.@} Immova
+  L  1858 Arabic [4]: <ls>Kathās.</ls> 4, 121.
+
+Yājñ.                                      494 refs —    1 Roman,  493 Arabic
+  L 12442 Roman [i]: <ls>Yājñ.</ls> i. 226; to adore, 2, 112.
+  L   938 Arabic [2]: <ls>Yājñ.</ls> 2, 155. {@2.@} Transgression (of time), <ls>Pañc.</ls> i. <a
+  L   981 Arabic [2]: <ls>Yājñ.</ls> 2, 169 ({%deśa-kāla-atipattau%}, ‘should time or place not p
+  L  1311 Arabic [1]: <ls>Yājñ.</ls> 1, 334.
+  L  1582 Arabic [2]: <ls>Yājñ.</ls> 2, 217.
+  L  1604 Arabic [1]: <ls>Yājñ.</ls> 1, 111.
+
+Bhag.                                      408 refs —    1 Roman,  407 Arabic
+  L  7341 Roman [i]: <ls>Bhag.</ls> i, 13.
+  L   124 Arabic [18]: <ls>Bhag.</ls> 18, 16.
+  L   315 Arabic [6]: <ls>Bhag.</ls> 6, 12. 2. intent.
+  L   997 Arabic [16]: <ls>Bhag.</ls> 16, 3.
+  L  1203 Arabic [17]: <ls>Bhag.</ls> 17, 22.
+  L  1305 Arabic [6]: <ls>Bhag.</ls> 6, 46; dearer, <ls>Rām.</ls> 2, 45, 32, <ls>Gorr.</ls> {@2.@
+
+Ṛt.                                        244 refs —    1 Roman,  243 Arabic
+  L 57067 Roman [i]: <ls>Ṛt.</ls> i, 17 (but <ab>v. r.</ab> {%su-bhadra-%}, containing very au
+  L    38 Arabic [6]: <ls>Ṛt.</ls> 6, 19.
+  L  4373 Arabic [6]: <ls>Ṛt.</ls> 6, 14.
+  L  4377 Arabic [6]: <ls>Ṛt.</ls> 6, 6.
+  L  4398 Arabic [5]: <ls>Ṛt.</ls> 5, 7.
+  L  4626 Arabic [6]: <ls>Ṛt.</ls> 6, 5; <ls>Śiś.</ls> 6, 15.
+
+Gīt.                                       121 refs —    2 Roman,  119 Arabic
+  L 14532 Roman [i]: <ls>Gīt.</ls> i. 27.
+  L 17234 Roman [i]: <ls>Gīt.</ls> i. 42.
+  L   740 Arabic [10]: <ls>Gīt.</ls> 10, 11.
+  L  5692 Arabic [11]: <ls>Gīt.</ls> 11, 1.
+  L  7052 Arabic [8]: <ls>Gīt.</ls> 8, 11. {@II.@} <ab>f.</ab> {%jā%}, a name of Durgā, <ls>MBh.
+  L  8320 Arabic [2]: <ls>Gīt.</ls> 2, 20.
+  L  9603 Arabic [1]: <ls>Gīt.</ls> 1, 5.
+
+Hiḍ.                                        97 refs —    1 Roman,   96 Arabic
+  L 52522 Roman [iii]: <ls>Hiḍ.</ls> iii. <ab>d.</ab> 106.
+  L  5023 Arabic [1]: <ls>Hiḍ.</ls> 1, 36). {@1.@} To deserve, with the <ab>acc.</ab>, <ls>Man.<
+  L  6044 Arabic [2]: <ls>Hiḍ.</ls> 2, 9.
+  L  6536 Arabic [2]: <ls>Hiḍ.</ls> 2, 2; appearance, <ls>Brāhmaṇav.</ls> 1, 28.
+  L  7154 Arabic [2]: <ls>Hiḍ.</ls> 2, 2. {@II.@} {%ā-da%} (<ab>vb.</ab> {%dā%}), <ab>adj.</ab> 
+  L  7158 Arabic [2]: <ls>Hiḍ.</ls> 2, 30.
+
+Kām. Nītis.                                 91 refs —    1 Roman,   90 Arabic
+  L  6551 Roman [viii]: <ls>Kām. Nītis.</ls> viii. 17; 43; 46; <ab>sqq.</ab>
+  L  5276 Arabic [8]: <ls>Kām. Nītis.</ls> 8, 66. 2. disagreeable, <ls>Bhāg. P.</ls> 4, 19, 35.
+  L 11233 Arabic [7]: <ls>Kām. Nītis.</ls> 7, 24.
+  L 20098 Arabic [7]: <ls>Kām. Nītis.</ls> 7, 57.
+  L 22807 Arabic [7]: <ls>Kām. Nītis.</ls> 7, 50.
+  L 26197 Arabic [14]: <ls>Kām. Nītis.</ls> 14, 68.
+
+Pāṇ.                                        47 refs —   32 Roman,   15 Arabic
+  L 60018 Roman [ii]: <ls>Pāṇ.</ls> ii. 1, 36, <ab>Sch.</ab>
+  L 61073 Roman [iv]: <ls>Pāṇ.</ls> iv. 1, 49. {@IV.@} <ab>f.</ab> {%drī%}, A sort of lute.
+  L 61231 Roman [i]: <ls>Pāṇ.</ls> i. 2, 55.
+  L 61308 Roman [v]: <ls>Pāṇ.</ls> v. 2, 120. {@II.@} <ab>n.</ab> {@1.@} Silver, <ls>Man.</ls> 
+  L 61473 Roman [iv]: <ls>Pāṇ.</ls> iv. 1, 146; iv. 3, 131.
+  L 20968 Arabic [3]: <ls>Pāṇ.</ls> 3, 4, 18.
+  L 24171 Arabic [5]: <ls>Pāṇ.</ls> 5, 2, 26; <ab>cf.</ab> <ab>Schol.</ab>).
+  L 48230 Arabic [1]: <ls>Pāṇ.</ls> 1, 4, 52.
+  L 48789 Arabic [1]: <ls>Pāṇ.</ls> 1, 1, 9.
+  L 51466 Arabic [2]: <ls>Pāṇ.</ls> 2, 3, 60, <ab>Sch.</ab>
+
+Naiṣ.                                       30 refs —    1 Roman,   29 Arabic
+  L 34061 Roman [i]: <ls>Naiṣ.</ls> i. 82.
+  L  4853 Arabic [5]: <ls>Naiṣ.</ls> 5, 112.
+  L  5023 Arabic [5]: <ls>Naiṣ.</ls> 5, 112 ({%kartum arhati%}, must be done). {@4.@} To undergo,
+  L  5190 Arabic [1]: <ls>Naiṣ.</ls> 1, 15.
+  L  8970 Arabic [5]: <ls>Naiṣ.</ls> 5, 113. {@5.@} To pass away, <ls>Rām.</ls> 2, 50, 37.
+  L  9011 Arabic [6]: <ls>Naiṣ.</ls> 6, 52.
+
+Ind. St.                                    11 refs —   10 Roman,    1 Arabic
+  L 47928 Roman [iii]: <ls>Ind. St.</ls> iii. 372, 2 ({%man%}).
+  L 54638 Roman [i]: <ls>Ind. St.</ls> i. 14. {@2.@} A holy text, <ls>Vikr.</ls> 87, 10; <ls>Pañc.<
+  L 54802 Roman [iii]: <ls>Ind. St.</ls> iii. 370, 14.
+  L 55309 Roman [ii]: <ls>Ind. St.</ls> ii. 178; <ab>cf.</ab> 213; <ls>Vedāntas.</ls> in <ls>Chr.</l
+  L 56747 Roman [iii]: <ls>Ind. St.</ls> iii. 373, 6; <ls>Hit.</ls> 52, 2, <ab>M.M.</ab> {@2.@} To re
+  L 63775 Arabic [272]: <ls>Ind. St.</ls> 272, 22 (see my <ab>transl.</ab> <ab>n.</ab> 922). {@3.@} To
+
+Sāṅkhya Aph.                                 2 refs —    1 Roman,    1 Arabic
+  L 80132 Roman [iii]: <ls>Sāṅkhya Aph.</ls> iii. 20. {@3.@} Effected by supernatural means, as spells, <
+  L 25144 Arabic [1]: <ls>Sāṅkhya Aph.</ls> 1, 146.
+
+======================================================================
+REFS WITH NON-ROMAN/NON-ARABIC FIRST TOKENS
+======================================================================
+
+  L 60038 [Man.] first token 'also': {#raB#}¦ {%RABH%} (originally = {%grabh%}, {%labh%}), i. 1, <ab>Ātm.</ab> (in epic poetry and <ls>Man.</ls> also <ab>Par
+  L 73853 [Man.] first token 'title': ¦ {%Dharma-%}, <ab>n.</ab> 1. a book treating of duty, <ls>Hit.</ls> 19, 8, <ab>M.M.</ab> 2. the body of law, <ls>Man.</
+  L 37011 [Pañc.] first token 'translation': {#nahi#}¦ {%na-hi%}, <ab>adv.</ab> {@1.@} For not (non enim), <ls>Man.</ls> 3, 168. {@2.@} Not at all, <ls>Daśak.</ls> i
+  L 56747 [Pañc.] first token 'in':  --i. 10, <ab>Par.</ab> {@1.@} To let loose, to release, <ls>Pañc.</ls> in Weber, <ls>Ind. St.</ls> iii. 373, 6; <ls>Hit
+  L 63775 [Pañc.] first token 'in':  --With {#upa#} {%upa%}, <ab>Ātm.</ab> {@1.@} To conciliate, <ls>Bhaṭṭ.</ls> 8, 28. {@2.@} To beg, <ls>Pañc.</ls> in Web
+  L 78409 [Pañc.] first token 'in': ¦ {%A-%}, {@I.@} <ab>adj.</ab> unfit, unskilled, <ls>Utt. Rāmac.</ls> 95, 12; incorrect, <ls>Mālat.</ls> 162, 10. {@II.@
+  L 83450 [Pañc.] first token 'in': ¦ {%Yathā-sthāna + m%}, <ab>adv.</ab> instantly, <ls>Pañc.</ls> in Weber, <ls>Ind. St.</ls> iii. 373, 4.
+  L 54711 [MBh.] first token 'vol': ¦ {%Amṛta-%}, <ab>n.</ab> production [Page0687-a + 41] of the Amṛta, the beverage of the gods, by churning, <ls>MBh.</ls
+  L 70456 [MBh.] first token 'in': {#veda#}¦ {%veda%}, <ab>i. e.</ab> {%vid + a%}, <ab>m.</ab> {@1.@} Knowledge. {@2.@} The generic name for the sacred wri
+  L  8221 [Chr.] first token 'p': {#Alamba#}¦ {%ā-lamb + a%}, {@I.@} <ab>adj.</ab> Hanging down, <ls>Rām.</ls> 3, 22, 17. {@II.@} <ab>m.</ab> Support, <ls
+  L 19138 [Chr.] first token 'p': {#kOwumba#}¦ {%kauṭumba%}, <ab>i. e.</ab> {%kuṭumba + a%}, <ab>n.</ab> Affinity, <ls>Rājat.</ls> 5, 395, in <ls>Chr.</ls
+  L 20951 [Chr.] first token 'p': {#Kali#}¦ {%khali%}, <ab>m.</ab> An oil-cake; in {%tila-khali%}, <ls>Bhartṛ.</ls> 2, 98 (<ab>cf.</ab> <ls>Chr.</ls> p. 3
+  L 37132 [Chr.] first token 'p': ¦ {%Viśva-%}, <ab>m.</ab> 1. a name of Śiva. 2. a proper name, <ls>Chr.</ls> p. 234, 1. 6.
+  L 52299 [Chr.] first token 'p': {#BArika#}¦ {%bhārika%}, <ab>i. e.</ab> {%bhāra + ika%}, <ab>m.</ab> A porter, <ls>Rājat.</ls> 5, 204 (treasurer; <ab>cf
+  L 70058 [Chr.] first token 'p': {#vftti#}¦ {%vṛt + ti%}, <ab>f.</ab> {@1.@} The circumference of a circle. {@2.@} Staying, being, abiding. {@3.@} State,
+  L   293 [Daśak.] first token 'in': {#agnisAt#}¦ {%agni-sāt%} ({%sāt%} is the original <ab>abl.</ab> of {%sa%}), <ab>adv.</ab> Completely reduced to fire; w
+  L   334 [Daśak.] first token 'in': {#agragaRya#}¦ {%agra-gaṇya%} (<ab>vb.</ab> {%gaṇ%}), <ab>adj.</ab> One who must be considered as the first, <ls>Daśak.<
+  L   496 [Daśak.] first token 'in': 2. {#aNga#}¦ {%aṅga%} (an old <ab>instr.</ab> <ab>sing.</ab> of the last, signifying ‘by my body’), particle: {@1.@} Of 
+  L   550 [Daśak.] first token 'in': {#aNgavidyA#}¦ {%aṅga-vidyā%}, <ab>f.</ab> {@1.@} Such learning as is comprehended under the title {%aṅga%}, <ab>viz.</a
+  L   759 [Daśak.] first token 'in':  <ab>acc.</ab> <ab>sing.</ab> {%tam%}, <ab>adv.</ab> to be sure, <ls>Daśak.</ls> in <ls>Chr.</ls> 199, 11.
+  L   782 [Daśak.] first token 'in': ¦ {%Ud-%}, <ab>adj.</ab> with uplifted hands, <ls>Daśak.</ls> in <ls>Chr.</ls> 180, 1.
+  L   798 [Daśak.] first token 'in': {#aw#}¦ {%AṬ%}, i. 1, <ab>Par.</ab> (in epic poetry also <ab>Ātm.</ab>, <ls>MBh.</ls> 3, 1586), To roam, with the <ab>lo
+  L   872 [Daśak.] first token 'in': {#aRu#}¦ {%aṇu%}. {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%ṇu%} and {%ṇvī%}. {@1.@} Small, minute; {%aṇv api%}, the least, <l
+  L   927 [Daśak.] first token 'in': {#ati#}¦ {%ati%}. {@I.@} <ab>adv.</ab> Over, exceedingly in a high degree, much. <ab>Comparat.</ab> {%ati + tarām%}, ver
+  L  1033 [Daśak.] first token 'in': {#ativartin#}¦ {%ativartin%}, <ab>i. e.</ab> {%ati-vṛt + in%}, <ab>adj.</ab>, <ab>f.</ab> {%nī%}. {@1.@} Crossing, passi
+  L  1045 [Daśak.] first token 'in': {#ativftti#}¦ {%ati-vṛt + ti%}, <ab>f.</ab> Trespass, <ls>Daśak.</ls> in <ls>Chr.</ls> 181, 3.
+  L  1060 [Daśak.] first token 'in': {#atiSAyin#}¦ {%atiśāyin%}, <ab>i. e.</ab> {%ati-śī + in%}, <ab>adj.</ab> Surpassing, <ls>Daśak.</ls> in <ls>Chr.</ls> 1
+  L  1129 [Daśak.] first token 'in': {#atratya#}¦ {%atra + tya%}, <ab>adj.</ab> Of this place, <ls>Daśak.</ls> in <ls>Chr.</ls> 186, 18.
+  L  1322 [Daśak.] first token 'in': {#aDikaraRa#}¦ {%adhikaraṇa%}, <ab>i. e.</ab> {%adhi-kṛ + ana%}, <ab>n.</ab> {@1.@} Substance, substratum, or site. {@2.
+  L  1350 [Daśak.] first token 'in': {#aDikzepa#}¦ {%adhikṣepa%}, <ab>i. e.</ab> {%adhi-kṣip + a%}, <ab>m.</ab> {@1.@} Detraction, <ls>Rājat.</ls> 5, 234. {@
+  ... and 1444 more
+
+======================================================================
+DETAILED ROMAN USAGE PER SOURCE
+======================================================================
+
+Pañc. (1960 Roman refs)
+  i      × 884  e.g. L182, L428
+  ii     × 358  e.g. L138, L1305
+  iii    × 471  e.g. L1144, L1586
+  iv     × 103  e.g. L1168, L2665
+  v      × 144  e.g. L1762, L5096
+
+Hit. (1075 Roman refs)
+  i      × 419  e.g. L2508, L2514
+  ii     × 280  e.g. L2015, L2235
+  iii    × 212  e.g. L2131, L2919
+  iv     × 164  e.g. L3506, L6768
+
+Rigv. (734 Roman refs)
+  i      × 665  e.g. L957, L1590
+  iii    ×  10  e.g. L6776, L36911
+  iv     ×   1  e.g. L65000
+  v      ×  18  e.g. L7449, L12219
+  vi     ×   8  e.g. L53712, L55321
+  vii    ×  32  e.g. L6283, L12190
+
+Pāṇ. (32 Roman refs)
+  i      ×   3  e.g. L61231, L67880
+  ii     ×   5  e.g. L60018, L78474
+  iii    ×  10  e.g. L61523, L61600
+  iv     ×  11  e.g. L61073, L61473
+  v      ×   1  e.g. L61308
+  vii    ×   1  e.g. L72743
+  viii   ×   1  e.g. L69682
+
+MBh. (22 Roman refs)
+  i      ×   8  e.g. L5875, L21532
+  ii     ×   2  e.g. L76319, L78265
+  iv     ×   2  e.g. L78271, L78294
+  v      ×   1  e.g. L78275
+  xii    ×   9  e.g. L76292, L76299
+
+Rām. (19 Roman refs)
+  i      ×   4  e.g. L18839, L46794
+  ii     ×   4  e.g. L72654, L72655
+  iii    ×   3  e.g. L40147, L66371
+  iv     ×   1  e.g. L76316
+  v      ×   2  e.g. L76313, L76315
+  vi     ×   5  e.g. L72657, L76318
+
+Ind. St. (10 Roman refs)
+  i      ×   2  e.g. L54638, L73902
+  ii     ×   1  e.g. L55309
+  iii    ×   7  e.g. L47928, L54802
+
+Bhāg. P. (4 Roman refs)
+  i      ×   3  e.g. L14329, L33353
+  iii    ×   1  e.g. L66335
+
+Daśak. (2 Roman refs)
+  i      ×   1  e.g. L64529
+  iii    ×   1  e.g. L58730
+
+Bhartṛ. (2 Roman refs)
+  i      ×   2  e.g. L28104, L50219
+
+Gīt. (2 Roman refs)
+  i      ×   2  e.g. L14532, L17234
+
+Pāraskara Gṛ. S. (2 Roman refs)
+  ii     ×   2  e.g. L71277, L73219
+
+Man. (1 Roman refs)
+  i      ×   1  e.g. L68599
+
+Ṛt. (1 Roman refs)
+  i      ×   1  e.g. L57067
+
+Bhag. (1 Roman refs)
+  i      ×   1  e.g. L7341
+
+Yājñ. (1 Roman refs)
+  i      ×   1  e.g. L12442
+
+Kathās. (1 Roman refs)
+  i      ×   1  e.g. L66340
+
+Naiṣ. (1 Roman refs)
+  i      ×   1  e.g. L34061
+
+Hiḍ. (1 Roman refs)
+  iii    ×   1  e.g. L52522
+
+Kām. Nītis. (1 Roman refs)
+  viii   ×   1  e.g. L6551
+
+Sāṅkhya Aph. (1 Roman refs)
+  iii    ×   1  e.g. L80132
+
+Pānch. (1 Roman refs)
+  iii    ×   1  e.g. L37778
+
+Vetālap. (1 Roman refs)
+  xviii  ×   1  e.g. L50491
+
+Hind. Th. (1 Roman refs)
+  i      ×   1  e.g. L55164
+
+Spec. of the Theatre of the Hind. (1 Roman refs)
+  i      ×   1  e.g. L61353
+
+Trans. of the R.A.S. (1 Roman refs)
+  i      ×   1  e.g. L61643
+
+Sāhitya Darp. (1 Roman refs)
+  ii     ×   1  e.g. L61767
+
+Yoga. (1 Roman refs)
+  ii     ×   1  e.g. L66088
+
+Āśvalāy. Gṛhyas. (1 Roman refs)
+  iv     ×   1  e.g. L67076
+
+Atharv.-Ved. (1 Roman refs)
+  viii   ×   1  e.g. L74464
+
+Atharva-V. (1 Roman refs)
+  iii    ×   1  e.g. L76200
+
+Mém. sur les Contrées Occident., par Hiouen Thsang. (1 Roman refs)
+  ii     ×   1  e.g. L82863
