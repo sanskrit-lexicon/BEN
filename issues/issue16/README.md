@@ -89,3 +89,9 @@ Output: `roman_analysis.txt`
 - ~1,474 references have a non-numeric first token — mostly
   nested citations (`Daśak. in Chr.`) and page references
   (`Chr. p. 234`).
+
+# Diffs after adjustments
+
+cd /path/to/csl-orig
+git diff c5952e4..5ec3c71 v02/ben/ben.txt > diff1.txt
+mv diff1.txt /path/to/BEN/issues/issue16/
