@@ -17,8 +17,11 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT = os.path.join(SCRIPT_DIR, "temp_ben_0.txt")
 OUTPUT = os.path.join(SCRIPT_DIR, "trailing_digits.txt")
 
-# Pattern: <ls>SOURCE</ls> followed by digits, commas, spaces, ending with period or semicolon
-PATTERN = re.compile(r"<ls>([^<]+)</ls>\s*([0-9,\s]+?)[.;]")
+# Pattern: <ls>SOURCE</ls> followed by one or more digit blocks separated by
+# commas/spaces.  Stops at the first character that isn't a digit, comma, or
+# space (no terminating [.;] required, which captures cross-refs like
+# "289, 2 = <ls>Rigv.</ls>" where the digit blocks are followed by space+equals).
+PATTERN = re.compile(r"<ls>([^<]+)</ls>\s*(\d+(?:[\s,]*\d+)*)")
 DIGIT_BLOCK = re.compile(r"\d+")
 
 
