@@ -95,3 +95,13 @@ Output: `roman_analysis.txt`
 cd /path/to/csl-orig
 git diff c5952e4..5ec3c71 v02/ben/ben.txt > diff1.txt
 mv diff1.txt /path/to/BEN/issues/issue16/
+
+# Page number adjustments
+
+`python move_page_refs.py` moves the page number reference to the end of LS digit blocks.
+
+Input is `temp_ben_1.txt` and output is `temp_ben_2.txt`.
+
+git diff --word-diff --no-index temp_ben_1.txt temp_ben_2.txt > diff2.txt
+
+c726170 is the commit which was made to csl-orig repository based on temp_ben_2.txt.

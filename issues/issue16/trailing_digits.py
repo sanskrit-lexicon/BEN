@@ -14,7 +14,7 @@ import re
 from collections import defaultdict, Counter
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-INPUT = os.path.join(SCRIPT_DIR, "temp_ben_0.txt")
+INPUT = os.path.join(SCRIPT_DIR, "temp_ben_2.txt")
 OUTPUT = os.path.join(SCRIPT_DIR, "trailing_digits.txt")
 
 # Pattern: <ls>SOURCE</ls> followed by one or more digit blocks separated by

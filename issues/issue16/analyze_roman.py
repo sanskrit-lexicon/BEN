@@ -15,7 +15,7 @@ import re
 from collections import defaultdict
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-INPUT = os.path.join(SCRIPT_DIR, "temp_ben_0.txt")
+INPUT = os.path.join(SCRIPT_DIR, "temp_ben_2.txt")
 OUTPUT = os.path.join(SCRIPT_DIR, "roman_analysis.txt")
 
 # Pattern to capture <ls> tag content AND trailing reference numbers
