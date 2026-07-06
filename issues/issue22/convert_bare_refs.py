@@ -53,6 +53,29 @@ def extract_source(content):
     return ' '.join(parts) if parts else content
 
 
+MERGE_PAGE_INTERRUPT_RE = re.compile(
+    r'(<ls>([^<]+)</ls>)\.\s*(\[Page[^\]]*\])\s*<ls n="([^"]*)">([^<]+)</ls>'
+)
+
+
+def merge_page_ref_interrupts(text):
+    """Merge Roman refs split by [Page...] blocks back into a single <ls> tag.
+    
+    Pattern: <ls>S_PARTIAL</ls>. [Page...] <ls n="S">REF</ls>
+    → <ls>S_PARTIAL. REF</ls> [Page...]
+    Only applies to period (ref continuations), not semicolons (list separators).
+    """
+    def replacer(m):
+        tag_content = m.group(2)
+        page = m.group(3)
+        source_attr = m.group(4)
+        ref = m.group(5)
+        if not tag_content.startswith(source_attr):
+            return m.group(0)
+        return '<ls>%s. %s</ls> %s' % (tag_content, ref, page)
+    return MERGE_PAGE_INTERRUPT_RE.sub(replacer, text)
+
+
 def is_false_positive_match(text, match_end):
     """Check if a bare ref match is a false positive (has source word before it)."""
     before = text[max(0, match_end - 60):match_end].rstrip()
@@ -118,6 +141,7 @@ def main():
         data = f.read()
 
     result, wrapped_count = process(data)
+    result = merge_page_ref_interrupts(result)
 
     with open(OUTPUT, 'w', encoding='utf-8') as f:
         f.write(result)
