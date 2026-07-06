@@ -14,6 +14,7 @@ import os
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT = os.path.join(SCRIPT_DIR, "temp_c72617.txt")
 OUTPUT = os.path.join(SCRIPT_DIR, "temp_ben_1.txt")
+ROMAN_ANALYSIS = os.path.normpath(os.path.join(SCRIPT_DIR, "..", "issue16", "roman_analysis.txt"))
 
 # Valid Roman numerals
 ROMAN_NUMS = {
@@ -24,6 +25,33 @@ ROMAN_NUMS = {
     "ci", "cv", "cx", "cl", "cc", "ccc", "cd", "d",
 }
 ROMAN_SET = set(ROMAN_NUMS)
+
+
+def build_roman_sources(data):
+    """Scan raw data for source abbreviations that use Roman numeral refs."""
+    roman_sources = set()
+    for m in re.finditer(r'<ls>([^<]+)</ls>', data):
+        source = m.group(1)
+        pos = m.end()
+        scan = pos
+        while scan < len(data) and data[scan] in ' \t\r\n':
+            scan += 1
+        if scan >= len(data):
+            continue
+        if data[scan:scan+4] == '<ab>':
+            end = data.find('</ab>', scan + 4)
+            if end >= 0:
+                scan = end + 5
+        while scan < len(data) and data[scan] in ' \t\r\n':
+            scan += 1
+        if scan >= len(data):
+            continue
+        ch = data[scan]
+        if ch in 'ivxlcdm':
+            rm = re.match(r'^([a-z]+)', data[scan:])
+            if rm and rm.group(1) in ROMAN_SET:
+                roman_sources.add(source)
+    return roman_sources
 
 
 def skip_ab_tag(text, pos):
@@ -50,12 +78,13 @@ def has_ref_token(text, pos):
     return None, 0
 
 
-def extract_ref(text, pos):
+def extract_ref(text, pos, roman_sources, source=None):
     """
     Extract reference text after </ls>, including any intervening <ab> tags.
 
     Returns (ref_text, end_pos, kind) or (None, None, None).
     """
+    uses_roman = source and source in roman_sources
     ref_start = pos  # may be adjusted forward past whitespace
     scan = pos
 
@@ -75,6 +104,8 @@ def extract_ref(text, pos):
 
         # Check for reference token
         k, _ = has_ref_token(text, scan)
+        if k == 'roman' and not uses_roman:
+            k = None
         if k is not None:
             kind = k
             break
@@ -106,9 +137,14 @@ def extract_ref(text, pos):
                     if text[nxt] == '\n':
                         has_newline = True
                     nxt += 1
-                if not has_newline and nxt < len(text) and (text[nxt].isdigit() or text[nxt] in 'ivxlcdm'):
-                    scan += 1
-                    continue
+                if not has_newline and nxt < len(text):
+                    k, _ = has_ref_token(text, nxt)
+                    if k == 'roman' and not uses_roman:
+                        k = None
+                    if k is not None:
+                        if not (k == 'arabic' and kind != 'roman'):
+                            scan += 1
+                            continue
             return text[ref_start:scan], scan, kind
 
         if ch == ';':
@@ -137,7 +173,10 @@ def extract_ref(text, pos):
                 scan = ab_consumed
                 continue
 
-            if nc.isdigit() or nc in 'ivxlcdm':
+            k, _ = has_ref_token(text, nxt)
+            if k == 'roman' and not uses_roman:
+                k = None
+            if k is not None:
                 scan = nxt
                 continue
             elif nc == '=':
@@ -186,7 +225,7 @@ FIRST_TOKEN_RE = re.compile(r"\s*([a-z]+|[0-9]+)")
 LS_TAG_RE = re.compile(r"<ls>([^<]+)</ls>")
 
 
-def convert_text(text):
+def convert_text(text, roman_sources):
     """Convert all LS references in the full text.
     Returns (output_text, arabic_handled, roman_handled,
              other_not_handled, unanalyzed_not_handled)."""
@@ -207,7 +246,7 @@ def convert_text(text):
         tag_end = i + m.end()
         source = m.group(1)
 
-        ref, ref_end, kind = extract_ref(text, tag_end)
+        ref, ref_end, kind = extract_ref(text, tag_end, roman_sources, source)
 
         if ref is not None:
             out.append(f'<ls>{source} {ref}</ls>')
@@ -234,7 +273,7 @@ def convert_text(text):
                     if inner_m:
                         y_source = inner_m.group(1)
                         inner_tag_end = scan_pos + inner_m.end()
-                        ref2, ref_end2, kind2 = extract_ref(text, inner_tag_end)
+                        ref2, ref_end2, kind2 = extract_ref(text, inner_tag_end, roman_sources, y_source)
                         if ref2 is not None:
                             out.append(f'<ls>{source} in{sep_period} {y_source} {ref2}</ls>')
                             i = ref_end2
@@ -263,7 +302,9 @@ def main():
     with open(INPUT, encoding='utf-8') as f:
         data = f.read()
 
-    result, arabic_handled, roman_handled, other_not_handled, unanalyzed_not_handled = convert_text(data)
+    roman_sources = build_roman_sources(data)
+
+    result, arabic_handled, roman_handled, other_not_handled, unanalyzed_not_handled = convert_text(data, roman_sources)
 
     with open(OUTPUT, 'w', encoding='utf-8') as f:
         f.write(result)
