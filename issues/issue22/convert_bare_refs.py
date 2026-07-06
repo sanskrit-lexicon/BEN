@@ -4,8 +4,8 @@ Wrap bare digit references in BEN text with <ls n="SOURCE">REF</ls>.
 
 Bare refs like "13, 4880." or "6, 36, 117." that appear after a </ls>
 tag without their own source abbreviation need source inferred from the
-most recent <ls> tag. The "in" pattern (e.g. "Daśak. in Chr. 184, 12")
-uses the inner source ("Chr.") as the implied source for subsequent bare refs.
+most recent <ls> tag. Source is all non-ref tokens from the merged
+content (e.g. "Vedāntas. in Chr." for "Vedāntas. in Chr. 218, 1").
 
 Input : temp_7c2fdca.txt  (issue19 merged format with page-ref fixes)
 Output: temp_ben_1.txt    (bare refs wrapped with inferred source)
@@ -42,9 +42,6 @@ def is_ref_start(tok):
 
 def extract_source(content):
     """Extract the source abbreviation from merged <ls> content."""
-    m = re.search(r'\sin\.?\s', content)
-    if m:
-        content = content[m.end():]
     content = re.sub(r'<[^>]+>[^<]*</[^>]+>', '', content)
     content = re.sub(r'<[^>]+>', '', content)
     tokens = content.split()
