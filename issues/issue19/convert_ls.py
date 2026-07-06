@@ -31,7 +31,7 @@ def skip_ab_tag(text, pos):
     if text[pos:pos+4] == '<ab>':
         end = text.find('</ab>', pos + 4)
         if end >= 0:
-            return end + 6
+            return end + 5
     return pos
 
 
@@ -218,23 +218,32 @@ def convert_text(text):
             after = text[tag_end:]
             fm = FIRST_TOKEN_RE.match(after)
             if fm and fm.group(1) == 'in':
-                in_len = len(fm.group(0))  # "in" + leading whitespace
-                inner_m = LS_TAG_RE.search(after, in_len)
-                if inner_m:
-                    y_source = inner_m.group(1)
-                    inner_tag_end = tag_end + inner_m.end()
-                    ref2, ref_end2, kind2 = extract_ref(text, inner_tag_end)
-                    if ref2 is not None:
-                        out.append(f'<ls>{source} in {y_source} {ref2}</ls>')
-                        i = ref_end2
-                        if kind2 == 'arabic':
-                            arabic_handled += 1
+                word_end = tag_end + len(fm.group(0))
+                sep_period = ''
+                scan_pos = word_end
+                if scan_pos < len(text) and text[scan_pos] == '.':
+                    sep_period = '.'
+                    scan_pos += 1
+                while scan_pos < len(text) and text[scan_pos] in ' \t\r\n':
+                    scan_pos += 1
+                if scan_pos < len(text) and text[scan_pos:scan_pos+4] == '<ls>':
+                    inner_m = re.match(r'<ls>([^<]+)</ls>', text[scan_pos:])
+                    if inner_m:
+                        y_source = inner_m.group(1)
+                        inner_tag_end = scan_pos + inner_m.end()
+                        ref2, ref_end2, kind2 = extract_ref(text, inner_tag_end)
+                        if ref2 is not None:
+                            out.append(f'<ls>{source} in{sep_period} {y_source} {ref2}</ls>')
+                            i = ref_end2
+                            if kind2 == 'arabic':
+                                arabic_handled += 1
+                            else:
+                                roman_handled += 1
                         else:
-                            roman_handled += 1
-                    else:
-                        out.append(f'<ls>{source} in {y_source}</ls>')
-                        i = inner_tag_end
-                    continue
+                            out.append(f'<ls>{source}</ls>')
+                            i = tag_end
+                            other_not_handled += 1
+                        continue
 
             out.append(f'<ls>{source}</ls>')
             i = tag_end
