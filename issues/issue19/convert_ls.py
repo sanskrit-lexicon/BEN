@@ -26,41 +26,75 @@ ROMAN_NUMS = {
 ROMAN_SET = set(ROMAN_NUMS)
 
 
+def skip_ab_tag(text, pos):
+    """If text at pos starts with <ab>, return position after </ab>, else pos."""
+    if text[pos:pos+4] == '<ab>':
+        end = text.find('</ab>', pos + 4)
+        if end >= 0:
+            return end + 6
+    return pos
+
+
+def has_ref_token(text, pos):
+    """Check if text at pos starts with a digit or Roman numeral.
+    Returns ('arabic', n) or ('roman', n) or (None, 0)."""
+    if pos >= len(text):
+        return None, 0
+    ch = text[pos]
+    if ch.isdigit():
+        return 'arabic', 1
+    if ch in 'ivxlcdm':
+        m = re.match(r'^([a-z]+)', text[pos:])
+        if m and m.group(1) in ROMAN_SET:
+            return 'roman', len(m.group(1))
+    return None, 0
+
+
 def extract_ref(text, pos):
     """
-    Extract the reference text starting at position pos (which is right after </ls>).
-    
-    A reference starts with a digit or a valid Roman numeral and continues
-    until a sentence terminator (. or ;), a cross-ref delimiter (=),
-    another opening tag (<), or a closing parenthesis.
-    
-    Returns (ref_text, end_pos, kind) where kind is 'arabic' or 'roman',
-    or (None, None, None) if no reference follows.
+    Extract reference text after </ls>, including any intervening <ab> tags.
+
+    Returns (ref_text, end_pos, kind) or (None, None, None).
     """
-    start = pos
-    while start < len(text) and text[start] in ' \t\r\n':
-        start += 1
+    ref_start = pos  # may be adjusted forward past whitespace
+    scan = pos
 
-    if start >= len(text):
-        return None, None, None
-
-    ch = text[start]
-
+    # ---- find first reference token, consuming <ab> tags along the way ----
     kind = None
-    if ch.isdigit():
-        kind = 'arabic'
-        ref_start = start
-        scan = start
-    elif ch in 'ivxlcdm':
-        word_match = re.match(r'^([a-z]+)', text[start:])
-        if not word_match or word_match.group(1) not in ROMAN_SET:
+    while True:
+        while scan < len(text) and text[scan] in ' \t\r\n':
+            scan += 1
+        if scan >= len(text):
             return None, None, None
-        kind = 'roman'
-        ref_start = start
-        scan = start
-    else:
+
+        # Try to consume <ab> tag
+        new_scan = skip_ab_tag(text, scan)
+        if new_scan > scan:
+            scan = new_scan
+            continue
+
+        # Check for reference token
+        k, _ = has_ref_token(text, scan)
+        if k is not None:
+            kind = k
+            break
+
         return None, None, None
 
+    # ref_start was at `pos`; move it to the first non-whitespace position
+    # (before we found the token) so that any <ab> tags are included.
+    # Walk back from `scan` to include preceding whitespace + <ab> tags.
+    # Actually, simpler: set ref_start to the first non-ws position after </ls>
+    # that begins the reference material. That's the position we skipped to
+    # initially (before the <ab> scanning). But we need to track it properly.
+    # 
+    # Let me just recalculate ref_start:
+    ref_start = pos
+    while ref_start < len(text) and text[ref_start] in ' \t\r\n':
+        ref_start += 1
+    # ref_start now at first non-ws (could be <ab> or digit/Roman)
+
+    # ---- scan forward through the reference material ----
     while scan < len(text):
         ch = text[scan]
 
@@ -92,6 +126,14 @@ def extract_ref(text, pos):
             if nxt >= len(text):
                 return text[ref_start:scan].rstrip(), scan, kind
             nc = text[nxt]
+
+            # Try to consume <ab> tag after whitespace
+            ab_consumed = skip_ab_tag(text, nxt)
+            if ab_consumed > nxt:
+                # <ab> tag found — skip whitespace + tag, continue
+                scan = ab_consumed
+                continue
+
             if nc.isdigit() or nc in 'ivxlcdm':
                 scan = nxt
                 continue
@@ -106,6 +148,12 @@ def extract_ref(text, pos):
 
         if ch == '=' and scan + 1 < len(text) and text[scan + 1] == ' ' and scan > ref_start and text[scan - 1] == ' ':
             return text[ref_start:scan].rstrip(), scan, kind
+
+        # <ab> tag in the middle of the reference
+        new_scan = skip_ab_tag(text, scan)
+        if new_scan > scan:
+            scan = new_scan
+            continue
 
         if ch == '<' or ch == ')':
             ref = text[ref_start:scan].rstrip()
@@ -132,6 +180,7 @@ def extract_ref(text, pos):
 
 
 FIRST_TOKEN_RE = re.compile(r"\s*([a-z]+|[0-9]+)")
+LS_TAG_RE = re.compile(r"<ls>([^<]+)</ls>")
 
 
 def convert_text(text):
@@ -165,11 +214,31 @@ def convert_text(text):
             else:
                 roman_handled += 1
         else:
+            # Try "X in Y" cross-reference pattern
+            after = text[tag_end:]
+            fm = FIRST_TOKEN_RE.match(after)
+            if fm and fm.group(1) == 'in':
+                in_len = len(fm.group(0))  # "in" + leading whitespace
+                inner_m = LS_TAG_RE.search(after, in_len)
+                if inner_m:
+                    y_source = inner_m.group(1)
+                    inner_tag_end = tag_end + inner_m.end()
+                    ref2, ref_end2, kind2 = extract_ref(text, inner_tag_end)
+                    if ref2 is not None:
+                        out.append(f'<ls>{source} in {y_source} {ref2}</ls>')
+                        i = ref_end2
+                        if kind2 == 'arabic':
+                            arabic_handled += 1
+                        else:
+                            roman_handled += 1
+                    else:
+                        out.append(f'<ls>{source} in {y_source}</ls>')
+                        i = inner_tag_end
+                    continue
+
             out.append(f'<ls>{source}</ls>')
             i = tag_end
             # Classify unconverted: "other" (has a letter token) or unanalyzed
-            after = text[tag_end:]
-            fm = FIRST_TOKEN_RE.match(after)
             if fm and not fm.group(1).isdigit():
                 other_not_handled += 1
             else:
