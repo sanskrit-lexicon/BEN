@@ -12,6 +12,7 @@ import os
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT = os.path.join(SCRIPT_DIR, "temp_ben_1.txt")
 OUTPUT = os.path.join(SCRIPT_DIR, "temp_ben_2.txt")
+ORIGINAL = os.path.join(SCRIPT_DIR, "temp_c72617.txt")
 
 ROMAN_NUMS = {
     "i", "ii", "iii", "iv", "v", "vi", "vii", "viii",
@@ -205,11 +206,16 @@ def main():
     with open(OUTPUT, 'w', encoding='utf-8') as f:
         f.write(result)
 
-    total_tags = data.count('<ls>')
-    print(f'Input  <ls> tags:  {total_tags}')
-    print(f'Output <ls> tags:  {result.count("<ls>")}')
-    print(f'Reverted:          {reverted}')
-    print(f'Written to:        {OUTPUT}')
+    with open(ORIGINAL, encoding='utf-8') as f:
+        original_data = f.read()
+    original_tags = original_data.count('<ls>')
+    input_tags = data.count('<ls>')
+    output_tags = result.count('<ls>')
+    print(f'Original <ls> tags (c72617): {original_tags}')
+    print(f'Input    <ls> tags (ben_1):   {input_tags}')
+    print(f'Output   <ls> tags (ben_2):   {output_tags}')
+    print(f'Reverted:                     {reverted}')
+    print(f'Written to:                   {OUTPUT}')
 
 
 if __name__ == '__main__':

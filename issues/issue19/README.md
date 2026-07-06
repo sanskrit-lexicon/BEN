@@ -1,13 +1,15 @@
-# issue19: Convert BEN `<ls>` References to PWG-Style Format
+# issue19: Convert BEN `<ls>` References to PWG-Style Format (Round-Trip)
 
 Converts BEN's `<ls>` markup from the CDSL standard style
 (`<ls>MBh.</ls> 14, 34.`) to the PWG style
-(`<ls>MBh. 14, 34</ls>.`), where the reference numbers are moved
-*inside* the `<ls>` tag.
+(`<ls>MBh. 14, 34</ls>.`), where reference numbers are moved
+*inside* the `<ls>` tag. The reverse script (`revert_ls.py`)
+restores the original format, verified by `diff` against the
+source file.
 
 ## Motivation
 
-PWG already uses the inline style.  Making BEN consistent with PWG
+PWG already uses the inline style. Making BEN consistent with PWG
 allows the existing PWG LS-link scripts to process BEN with minimal
 adaptation.
 
@@ -17,53 +19,82 @@ The working copy was taken from
 `/Users/Shared/sanskrit-lexicon/csl-orig/v02/ben/ben.txt` at commit
 **c726170** of the csl-orig repository.
 
-Copied as:
-- `temp_c72617.txt` (input, 5,809,746 bytes, 49,234 `<ls>` tags)
-- `temp_c72617_pwg.txt` (output after conversion)
+| File | Role |
+|---|---|
+| `temp_c72617.txt` | Original input (5,809,746 bytes, 49,234 `<ls>` tags) |
+| `temp_ben_1.txt` | Forward output from `convert_ls.py` |
+| `temp_ben_2.txt` | Reverse output from `revert_ls.py` |
 
-## Conversion Script
+## Scripts
 
-`convert_ls.py` — a Python 3 script that:
+### `convert_ls.py` (forward)
 
-1. Finds every `<ls>SOURCE</ls>` in the text.
-2. Examines the text that follows `</ls>`.
-3. If the next token is a **digit** or a **valid Roman numeral**
-   (`i`–`d` from the standard Roman set), it scans forward to the
-   reference boundary (`.`, `;`, `=`, `<`, `)`, or `[`) and moves
-   that reference text inside the `<ls>` tag.
-4. References whose first token is **not** numeric/Roman (e.g. `in`,
-   `p.`, `vol.`, `also`, `title`, `ed.`) are left unchanged.
+Finds every `<ls>SOURCE</ls>` and moves following reference text
+inside the tag. Three strategies:
 
-### Iteration
+1. **Standard ref extraction**: If the text after `</ls>` starts with
+   a digit or valid Roman numeral, it is scanned forward to the
+   reference boundary (`.`, `;`, `=`, `<`, `)`, `[`, `]`) and moved
+   inside the `<ls>` tag.
 
-| Pass | Converted | Notes |
-|------|-----------|-------|
-| 1    | 41,644    | Arabic-only refs |
-| 2    | 45,528    | Added Roman-numeral handling; fixed false positives from words like `in` starting with `i` |
+2. **"X in Y" cross-reference pattern**: When text after `</ls>`
+   starts with `in` (optionally followed by `.`) and the next
+   `<ls>` tag immediately follows (with only whitespace and optional
+   period between), the two tags are merged into
+   `<ls>X in. Y REF</ls>`. A `<ls>` that is not immediately adjacent
+   (e.g. `in Weber, <ls>Ind. St.</ls>`) is NOT merged.
 
-### Verification
+3. **`<ab>` tag handling**: `<ab>…</ab>` tags between `</ls>` and
+   the reference digits are included inside the merged `<ls>` tag.
 
-The output was verified against the 47,002 `<ls>` reference analysis
-from `issues/issue16/roman_analysis.txt`:
+### `revert_ls.py` (reverse)
 
-| Category | roman_analysis count | Converter result |
+Splits merged `<ls>` tags back into the two-tag original format:
+
+1. **Standard split**: Finds the ref-start token and separates
+   source abbreviation from reference text.
+
+2. **"in" pattern split**: Detects ` in ` or ` in. ` within the
+   content and reconstructs `<ls>X</ls> in. <ls>Y</ls> REF`.
+
+3. **`<ab>` restoration**: `<ab>` tags before the ref are moved
+   back outside the `<ls>` tag.
+
+## Verification
+
+Round-trip: `diff temp_c72617.txt temp_ben_2.txt` shows **0 semantic
+differences** (2 cosmetic spacing lines: original
+`<ls>Bhāg. P.</ls>6, 17` vs reverse `<ls>Bhāg. P.</ls> 6, 17`).
+
+### Tag counts
+
+| Metric | Count |
+|---|---|
+| Original `<ls>` tags (`c72617.txt`) | 49,234 |
+| Forward output `<ls>` tags (`ben_1.txt`) | 47,821 |
+| Reverse output `<ls>` tags (`ben_2.txt`) | 49,234 |
+| Reverted (successfully split) | 47,165 |
+
+### Forward converter coverage
+
+| Category | Handled | Not handled |
 |---|---|---|
-| Arabic first token  | 41,644 | 41,644 converted |
-| Roman first token   |  3,884 |  3,884 converted |
-| Other first token   |  1,474 |      0 converted (correct — not references) |
-| Total analyzed      | 47,002 | 45,528 converted, 1,474 intentionally skipped |
-| Unanalyzed (no token) | 2,232 | 0 converted (correct — no reference follows) |
+| Arabic first token | 43,269 | 0 |
+| Roman first token | 3,896 | 0 |
+| Other (letter token) | 0 | 61 |
+| Unanalyzed (no token) | 0 | 595 |
 
-All 45,528 references with numeric or Roman first tokens are correctly
-converted.  The 3,706 unconverted tags are either cross-references
-(`<ls>Daśak.</ls> in <ls>Chr.</ls>`), page citations
-(`<ls>Chr.</ls> p. 234`), drama references
-(`<ls>Śāk.</ls> <ab>d.</ab> 5`), or tags with no following content.
+Unhandled tags (656 total) include cross-references without
+trailing refs (`<ls>Chr.</ls> p. 234`), drama references
+(`<ls>Śāk.</ls> <ab>d.</ab> 5`), and tags with no following
+reference content. These are passed through unchanged and
+correctly left unmodified by the reverse script.
 
 ## Usage
 
 ```sh
 python3 issues/issue19/convert_ls.py
+python3 issues/issue19/revert_ls.py
 ```
 
-Output is written to `issues/issue19/temp_c72617_pwg.txt`.
+Outputs written to `temp_ben_1.txt` and `temp_ben_2.txt`.

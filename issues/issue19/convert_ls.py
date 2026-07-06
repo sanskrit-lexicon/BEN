@@ -101,9 +101,12 @@ def extract_ref(text, pos):
         if ch == '.':
             if scan + 1 < len(text) and text[scan + 1] in ' \t\r\n':
                 nxt = scan + 1
+                has_newline = False
                 while nxt < len(text) and text[nxt] in ' \t\r\n':
+                    if text[nxt] == '\n':
+                        has_newline = True
                     nxt += 1
-                if nxt < len(text) and (text[nxt].isdigit() or text[nxt] in 'ivxlcdm'):
+                if not has_newline and nxt < len(text) and (text[nxt].isdigit() or text[nxt] in 'ivxlcdm'):
                     scan += 1
                     continue
             return text[ref_start:scan], scan, kind
