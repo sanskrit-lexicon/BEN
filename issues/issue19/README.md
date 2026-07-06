@@ -37,6 +37,18 @@ inside the tag. Three strategies:
    reference boundary (`.`, `;`, `=`, `<`, `)`, `[`, `]`) and moved
    inside the `<ls>` tag.
 
+   **Period continuation**: For Roman-kind refs, `.` allows continuation
+   when the next token is a ref token (e.g. `i. 88. 3` is a single
+   reference). For Arabic-kind refs, `.` is always a hard barrier —
+   `6, 12. 2` stops at `6, 12` (the `2` is a definition marker, not
+   a ref continuation). This prevents ~695 false-positive merges.
+
+   **Roman-source filtering**: `build_roman_sources()` scans the raw
+   data to build a set of source abbreviations that actually use Roman
+   numeral first tokens. Roman detection is suppressed for sources
+   (e.g. `Chr.`, `Ragh.`) with 0% Roman usage, preventing false
+   positives for any future entries with Roman-looking tokens.
+
 2. **"X in Y" cross-reference pattern**: When text after `</ls>`
    starts with `in` (optionally followed by `.`) and the next
    `<ls>` tag immediately follows (with only whitespace and optional
@@ -63,8 +75,10 @@ Splits merged `<ls>` tags back into the two-tag original format:
 ## Verification
 
 Round-trip: `diff temp_c72617.txt temp_ben_2.txt` shows **0 semantic
-differences** (2 cosmetic spacing lines: original
-`<ls>Bhāg. P.</ls>6, 17` vs reverse `<ls>Bhāg. P.</ls> 6, 17`).
+differences** — 2 cosmetic spacing lines remain (original
+`<ls>Bhāg. P.</ls>6, 17` vs reverse `<ls>Bhāg. P.</ls> 6, 17`;
+original `<ls>R.</ls>11. 61` vs reverse `<ls>R.</ls> 11. 61`).
+`rg '</ls>\w' temp_ben_1.txt` returns 0 matches.
 
 ### Tag counts
 
