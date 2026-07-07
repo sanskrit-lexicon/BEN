@@ -1,0 +1,998 @@
+Source                                  Plain  Named  Total
+----------------------------------------------------------
+MBh.                                     7345    446   7791
+Man.                                     6042    394   6436
+Pañc.                                    4764    253   5017
+Rām.                                     4808    170   4978
+Bhāg. P.                                 1894    112   2006
+Chr.                                     1596     60   1656
+Hit.                                     1555     19   1574
+Rājat.                                   1326     57   1383
+Vikr.                                    1158     27   1185
+Śāk.                                     1037     14   1051
+Daśak. in Chr.                            990     44   1034
+Ragh.                                     931     11    942
+Suśr.                                     771     32    803
+Rigv.                                     769     21    790
+Bhartṛ.                                   774     10    784
+Utt. Rāmac.                               724     21    745
+Kathās.                                   722     14    736
+Hariv.                                    692      6    698
+Lass.                                     621     16    637
+Yājñ.                                     494      9    503
+Megh.                                     493      7    500
+Nal.                                      478     11    489
+Śiś.                                      466     11    477
+Vedāntas. in Chr.                         407     33    440
+Kir.                                      421     13    434
+Bhag.                                     412      8    420
+Böhtl. Ind. Spr.                          407      6    413
+Mālat.                                    349     11    360
+Bhāṣāp.                                   312     28    340
+Mṛcch.                                    235      5    240
+Ṛt.                                       232      3    235
+Johns. Sel.                               229      4    233
+Prab.                                     212      1    213
+Mālav.                                    193      4    197
+Bhaṭṭ.                                    172      3    175
+Kumāras.                                  170      2    172
+Mārk. P.                                  158      0    158
+Draup.                                    142      2    144
+Indr.                                     126      5    131
+Arj.                                      127      1    128
+Lass. 2. ed.                              124      2    126
+Sāv.                                      121      2    123
+Gīt.                                      121      0    121
+Hiḍ.                                       98      0     98
+Kām. Nītis.                                90      4     94
+Daśak.                                     92      1     93
+Cāṇ.                                       76      0     76
+Amar.                                      76      0     76
+Nalod.                                     67      1     68
+Sund.                                      61      5     66
+Dev.                                       52      2     54
+Berl. Monatsb.                             51      1     52
+Sāh.                                       47      2     49
+Pāṇ.                                       43      4     47
+Śṛṅgārat.                                  45      0     45
+Gorr.                                      29     15     44
+Brāhmaṇav.                                 31      0     31
+Naiṣ.                                      29      1     30
+Caurap.                                    30      0     30
+Pañc. pr.                                  28      1     29
+ŚKD.                                       27      0     27
+Kull.                                      27      0     27
+Matsyop.                                   26      0     26
+Varāh. Bṛh. S.                             21      2     23
+Hit. Pr.                                   21      1     22
+Hit. pr.                                   22      0     22
+Brāhmaṇ.                                   19      0     19
+Śatr.                                      19      0     19
+Pañc. ed. orn.                             19      0     19
+Śāntiś.                                    16      0     16
+Journ. of the German Oriental Society,     14      0     14
+Śrut.                                      13      0     13
+Ind. St.                                   11      1     12
+Kāvya Prak.                                11      0     11
+Ghaṭ.                                      11      0     11
+Kirāt.                                     10      0     10
+Padmap.                                     8      1      9
+Pañc. Pr.                                   9      0      9
+Kusumāñj.                                   7      2      9
+Mahāvīrac.                                  7      1      8
+Mahāv.                                      8      0      8
+MBh. xii. adhy.                             8      0      8
+Brahmav.                                    8      0      8
+Yogas.                                      7      0      7
+Lass. Anth.                                 7      0      7
+Vedāntas.                                   7      0      7
+Berol.                                      6      0      6
+Daśak. in. Chr.                             6      0      6
+Häberl. Anth.                               6      0      6
+Sāh. Darp.                                  6      0      6
+Chr. p.                                     6      0      6
+Śāk. p.                                     6      0      6
+Böhtl. Chr.                                 6      0      6
+Bhartṛ. Suppl.                              6      0      6
+Bhāg.                                       6      0      6
+Hit. pr. d. 31, M.M.                        5      0      5
+Kāśīkh.                                     5      0      5
+Hit. pr. d. 28, M.M.                        5      0      5
+Schl.                                       5      0      5
+Viṣṇu P.                                    5      0      5
+Mit.                                        4      0      4
+VP.                                         4      0      4
+Hit. pr. d. 42, M.M.                        4      0      4
+Journ. of the German Oriental Society       4      0      4
+Bhartṛ. suppl.                              4      0      4
+Berl. Monatsb. 1864, p.                     4      0      4
+Rām. 2, 100, 63 Gorr.                       4      0      4
+Hit. 77, 1, M.M.                            4      0      4
+Lass. Pentap.                               4      0      4
+Skandap., Kāśīkh.                           4      0      4
+MBh. 1, adhy.                               4      0      4
+Daśarūp.                                    3      0      3
+Hit. pr. d. 23, M.M.                        3      0      3
+Somad. Nal.                                 3      0      3
+Śukas.                                      3      0      3
+Hit. pr. d. 8, M.M.                         3      0      3
+Br.                                         3      0      3
+Siddh. Mukt.                                3      0      3
+Rām. ii. adhy.                              3      0      3
+Siddh. K.                                   3      0      3
+Pāraskara Gṛ. S.                            3      0      3
+Hit. pr. d. 41, M.M.                        3      0      3
+Cāt.                                        3      0      3
+Hit. pr. d. 25, M.M.                        3      0      3
+Hit. 95, 1, M.M.                            3      0      3
+Hit. 15, 2, M.M.                            3      0      3
+Lass. ed.                                   2      0      2
+Sāṅkhya Aph.                                2      0      2
+Śāk. d. 81, v. r.                           2      0      2
+Rām. 2, 90, 23 Gorr.                        2      0      2
+Lalit.                                      2      0      2
+Hit. pr. d. 32, M.M.                        2      0      2
+Hit. 87, 1, M.M.                            2      0      2
+Episod. MBh. de Śakuntala                   1      1      2
+Hit. pr. d. 44, M.M.                        2      0      2
+Śāk. 16, 1, Chezy.                          2      0      2
+Hit. 17, 4, M.M.                            2      0      2
+Hit. 41, 4, M.M.                            2      0      2
+Ānandal.                                    2      0      2
+Rām. 1, 52, 26 Gorr.                        2      0      2
+Rām. 2, 37, 13 Gorr.                        2      0      2
+Stenzler                                    2      0      2
+MBh. ii. adhy.                              2      0      2
+Hit. 61, 4, M.M.                            2      0      2
+Mālat. p.                                   2      0      2
+Bṛhaspati                                   2      0      2
+Sāh. Darp. p.                               2      0      2
+Hit. 29, 5, M.M.                            2      0      2
+Ṛt. 1, 17 v. r.                             2      0      2
+Lass. Pentap. p.                            2      0      2
+Śukasapt.                                   1      1      2
+Daśar.                                      2      0      2
+Sūryas.                                     2      0      2
+Hariv. adhy.                                2      0      2
+Hit. 13, 7, M.M.                            2      0      2
+Rām. 2, 117, 13 Gorr.                       2      0      2
+MBh. iv. adhy.                              2      0      2
+Ṛt. 6, 12, v. r.                            2      0      2
+Mudrār.                                     2      0      2
+Rām. 2, 20, 43 Gorr.                        2      0      2
+Śāk. 7, 10, v. r.                           2      0      2
+Ṛt. 6, 34, v. r.                            2      0      2
+Rām. 2, 60, 15 Gorr.                        2      0      2
+Rāmatap. Up.                                2      0      2
+Megh. 18, n.                                2      0      2
+Rām. 2, 87, 9 Gorr.                         2      0      2
+Hit. 78, 8, M.M.                            2      0      2
+Haeb. Anth.                                 2      0      2
+Hit. 4, 2, M.M.                             2      0      2
+Rām. 2, 62, 26 Gorr.                        2      0      2
+Hit. 18, 7, M.M.                            2      0      2
+Caur.                                       2      0      2
+Hit. 44, 6, M.M.                            2      0      2
+Govardh. Āryā Saptaśatī,                    2      0      2
+Śrutab.                                     2      0      2
+Hit. pr. d. 27, M.M.                        2      0      2
+Chānd. Up.                                  2      0      2
+Vedāntas. in Chr. 203, 13, cf.              2      0      2
+Hemac.                                      2      0      2
+Hit. pr. d. 11, M.M.                        2      0      2
+Rām. v. sarg.                               2      0      2
+Rām. 2, 12, 6 Gorr.                         2      0      2
+Hit. pr. d. 19, M.M.                        2      0      2
+Hit. pr. d. 15, M.M.                        2      0      2
+Rām. 2, 86, 1 Gorr.                         2      0      2
+Rām. vi. sarg.                              2      0      2
+Pañc. n.                                    2      0      2
+MBh. i. adhy.                               2      0      2
+Śāk. d. 142, v. r.                          2      0      2
+Rām. 2, 100, 64 Gorr.                       2      0      2
+Rām. 1, 45, 9 Gorr.                         2      0      2
+Hit. pr. d. 10, M.M.                        2      0      2
+Rām. 2, 87, 21 Gorr.                        2      0      2
+Hit. 76, 6, M.M.                            2      0      2
+Hit. pr. d. 14, M.M.                        2      0      2
+Mān.                                        2      0      2
+Vārt.                                       2      0      2
+Hit. pr. d. 2, M.M.                         2      0      2
+Skandap. Kāśīkh.                            1      1      2
+Hit. pr. d. 6, M.M.                         2      0      2
+Hit. 47, 3, M.M.                            2      0      2
+Hit. 42, 10, M.M.                           2      0      2
+Hit. pr. d. 17, M.M.                        1      0      1
+Hit. 76, 8, M.M.                            1      0      1
+Bhaviṣyap.                                  1      0      1
+Bhāṣāp. p.                                  1      0      1
+Amar. 9, v. r.                              1      0      1
+Rām. 1, 3, 27 Gorr.                         1      0      1
+Rām. 2, 1, 13 Gorr.                         1      0      1
+MBh. 3, adhy.                               1      0      1
+Vedāntas. in Chr. 216, 3, cf.               1      0      1
+Rām. 2, 15, 5 Gorr.                         1      0      1
+Śāk. d. 115, v. r.                          1      0      1
+Śāk. d. 14, v. r.                           1      0      1
+Bṛh. Ār. Up.                                1      0      1
+Böhtl. Ind. Spr. 1873, v.r.                 1      0      1
+Rām. 2, 1, 42 Gorr.                         1      0      1
+Rām. 1, 46, 24 Gorr.                        1      0      1
+Śāk. d. 57, v. r.                           1      0      1
+Ait. Br.                                    1      0      1
+Suśr. 2, 305, 4 sqq.                        1      0      1
+Rām. 1, 6, 29 Gorr.                         1      0      1
+Daśak. 185, ult.                            1      0      1
+Götting. Gel. Anz. 1862, p.                 1      0      1
+Indr. 1, 33, v. r.                          1      0      1
+Hit. 46, 6, M.M.                            1      0      1
+Rām. 2, 55, 6, ed. Seramp.                  1      0      1
+Bhag. 18, 42 sqq.                           1      0      1
+Śāk. 73, 1, v. r.                           1      0      1
+Vedānt. in Chr.                             1      0      1
+Rām. 2, 90, 20 Gorr.                        1      0      1
+Man. 4, 178, Ātm.                           1      0      1
+Hit. 84, 13, M.M.                           1      0      1
+Monatsb. d. Berl. Ak. d. Wiss.              1      0      1
+Kathā.                                      1      0      1
+Rām. 1, 28, 18 Gorr.                        1      0      1
+Śāk. d. 32, v.r.                            1      0      1
+pr. 47, M.M.                                1      0      1
+Rām. 1, 3, 28 Gorr.                         1      0      1
+Lenz. App. cr.                              1      0      1
+Śāk. d. 80, v. r.                           1      0      1
+Hit. 65, 10, M.M.                           1      0      1
+Rām. 2, 28, 21 Gorr.                        1      0      1
+Ujjvalad. p.                                1      0      1
+Monatsber. Berl. Ak. Hist. Phil.            1      0      1
+Hit. 65, 5, M.M.                            1      0      1
+Hit. 48, 8, M.M.                            1      0      1
+Rām. 2, 62, 2, ed. Seramp.                  1      0      1
+Fausböll, Dhammap.                          1      0      1
+Rām. 2, 1, 20, Gorr.                        1      0      1
+Śāk. d. 31, v. r.                           1      0      1
+Rām. 1, 5, 12 Gorr.                         1      0      1
+Śāk. 146, 8, Chezy.                         1      0      1
+Rām. 1, 4, 131 Gorr.                        1      0      1
+Indr. 1, 32, v. r.                          1      0      1
+Rām. ii. adhy. 122 Gorr.                    1      0      1
+Hit. 87, 9, M.M.                            1      0      1
+Vedāntas. in Chr. 202, 12, cf.              1      0      1
+Rām. 2, 25, 8 Gorr.                         1      0      1
+Hit. Pr. n.                                 1      0      1
+Hit. 59, 1, M.M.                            1      0      1
+Śāk. 43, 4, v. r.                           1      0      1
+Viṣṇu P. 481, n.                            1      0      1
+Rām. 4, 63, 4, etc.                         1      0      1
+Man. 3, 166, ed. Calc.                      1      0      1
+Bhāṣāp. 60, cf.                             1      0      1
+Rām. 2, 116, 27 Gorr.                       1      0      1
+Hit. 10, 6, M.M.                            1      0      1
+Hit. 89, 12, M.M.                           1      0      1
+Hit. 19, 8, M.M.                            1      0      1
+Hit. d. 78, M.M.                            1      0      1
+Hit. 86, 4, M.M.                            1      0      1
+Bhaṭṭ. 4, 12, Sch.                          1      0      1
+Megh. 31 v. r.                              1      0      1
+Rigv. vii. 16, 6, ved.                      1      0      1
+Rām. 1, 2, 6 Gorr.                          1      0      1
+Kuśumāñjali                                 1      0      1
+Hit. pr. d. 24, M.M.                        1      0      1
+Rām. 2, 15, 18 Gorr.                        1      0      1
+Ṛt. 5, 6, v. r.                             1      0      1
+Rām. 1, 30, 13 Gorr.                        1      0      1
+Journ. of the German Oriental Society, ix. xxi. n.      1      0      1
+Rām. 2, 6, 12 Gorr.                         1      0      1
+Śāk. 83, 5, v. r.                           1      0      1
+Rām. 2, 87, 15 Gorr.                        1      0      1
+Hit. 51, 8, M.M.                            1      0      1
+Hit. 91, 13, M.M.                           1      0      1
+Rām. 2, 48, 59, ed. Seramp.                 1      0      1
+Hindu Dr.                                   1      0      1
+Hit. 25, 5, M.M.                            1      0      1
+Spec. of the Theatre of the Hind.           1      0      1
+Rām. 2, 32, 21 Gorr.                        1      0      1
+Chr. 287, sqq.                              1      0      1
+Häb.                                        1      0      1
+Böhtl. Ind. Spr. 138 v. r.                  1      0      1
+Rām. 1, 70, 5 Gorr.                         1      0      1
+Hit. 34, 3, M.M.                            1      0      1
+Rām. 2, 39, 23 Gorr.                        1      0      1
+Rām. 2, 20, 4 Gorr.                         1      0      1
+Rām. 2, 76, 3, Seramp.                      1      0      1
+Govardhana, Āryā Sapt.                      1      0      1
+Mahāvīr.                                    1      0      1
+Rām. 2, 94, 14 Gorr.                        1      0      1
+Rām. 2, 90, 27 Gorr.                        1      0      1
+M. 7, 125                                   1      0      1
+Rām. 2, 99, 23 Gorr.                        1      0      1
+Rām. 1, 44, 23 Gorr.                        1      0      1
+Ujjvalad. 251, n.                           1      0      1
+Hit. 36, 10, M.M.                           1      0      1
+Śāk. 9, 18, v. r.                           1      0      1
+Rām. 2, 24, 8 Gorr.                         1      0      1
+Śāk. 32, 5, v. r.                           1      0      1
+Rām. 2, 104, 5 Gorr.                        1      0      1
+Sāh. D. 66, 1, v. r.                        1      0      1
+Rām. 2, 63, 2, ed. Seramp.                  1      0      1
+Rām. 2, 20, 39 Gorr.                        1      0      1
+Hit. 41, 3, M.M.                            1      0      1
+Rām. 2, 65, 32, Seramp.                     1      0      1
+Man. 5, 115, v. r.                          1      0      1
+Rām. 1, 71, 2 Gorr.                         1      0      1
+Rām. 1, 45, 40 Gorr.                        1      0      1
+Śāk. 103, 4. n.                             1      0      1
+Rām. 1, 54, 26 Gorr.                        1      0      1
+Rām. 1, 43, 7 Gorr.                         1      0      1
+Rām. 2, 111, 3 Gorr.                        1      0      1
+Daśak. 7 ult. Pass.                         1      0      1
+Rām. 1, 36, 15 Gorr.                        1      0      1
+Śāk. 128, 18 Chezy.                         1      0      1
+Hit. 90, 1, M.M.                            1      0      1
+Rām. 2, 72, 23 Gorr.                        1      0      1
+Rām. 2, 91, 2 Gorr.                         1      0      1
+Rām. 1, 11, 19 Gorr.                        1      0      1
+Mṛcch. 126, 9 v. r.                         1      0      1
+Hit. 63, 1, M.M.                            1      0      1
+Hit. 77, 3, M.M.                            1      0      1
+Rām. 2, 90, 14 Gorr.                        1      0      1
+Śātr.                                       1      0      1
+Rām. 1, 40, 18 Gorr.                        1      0      1
+Rām. 1, 60, 10 Gorr.                        1      0      1
+Suśr. 2, 23, 14, etc.                       1      0      1
+Rām. 2, 71, 23 Gorr.                        1      0      1
+Śāk. d. 37 v. r.                            1      0      1
+Rām. 1, 31, 8 Gorr.                         1      0      1
+Rām. 6, 51, 3 sqq.                          1      0      1
+Rām. 2, 109, 46 Gorr.                       1      0      1
+Sāṅkhyak.                                   1      0      1
+Suśr. 1, 131, 19, etc.                      1      0      1
+Hit. pr. d. 7, M.M. Frequent.               1      0      1
+Viṣṇu P. 122, n.                            1      0      1
+Rām. 1, 31, 44, Seramp.                     1      0      1
+Rām. 1, 50, 9 Gorr.                         1      0      1
+Hit. 22, 5, M.M.                            1      0      1
+Rām. 2, 123, 14 Gorr.                       1      0      1
+Rām. 2, 17, 36 Gorr.                        1      0      1
+Hit. 85, 3, M.M.                            1      0      1
+Rām. 1, 14, 1 Gorr.                         1      0      1
+Häberl.                                     1      0      1
+Rām. 2, 63, 2, Seramp.                      1      0      1
+Rām. 2, adhy. 91 sqq.                       1      0      1
+Ragh. 15, 46, ed. Calc.                     1      0      1
+Pāṇ. Sch.                                   1      0      1
+Monatsb. Berl. Ak. Hist. Phil.              1      0      1
+Rām. 2, 116, 46 Gorr.                       1      0      1
+Rām. 2, 109, 22 Gorr.                       1      0      1
+Rām. 2, 52, 18, Seramp.                     1      0      1
+Rām. 1, 56, 9 Gorr.                         1      0      1
+Yoga.                                       1      0      1
+Rām. 3, 44, 11, f.                          1      0      1
+Rām. 2, 43, 30 Gorr.                        1      0      1
+Hit. 38, 2, M.M.                            1      0      1
+Śārṅg.                                      1      0      1
+Rām. 2, 122, 28 Gorr.                       1      0      1
+Śāk. 70, 14 v. r.                           1      0      1
+Rām. 1, 45, 32 Gorr.                        1      0      1
+Rām. 2, 73, 2 Gorr.                         1      0      1
+Hit. 60, 6, M.M.                            1      0      1
+Bhartṛ. 1, 97, v. r.                        1      0      1
+Monatsb. d. Berl. Ak. Hist. Phil.           1      0      1
+Man. 7, 20, v. r.                           1      0      1
+Häberl. Anthol.                             1      0      1
+Rām. 1, 37, 15 Gorr.                        1      0      1
+Amarakoṣa                                   1      0      1
+Śāṇḍilyas.                                  1      0      1
+cod. Petersb. p.                            1      0      1
+Rām. 2, 57, 18, ed. Seramp.                 1      0      1
+MBh. 2, 2298, Par.                          1      0      1
+Rām. 2, 79, 19 Gorr.                        1      0      1
+Hit. 7, 2, M.M.                             1      0      1
+Hit. pr. d. 43, M.M.                        1      0      1
+Hit. 87, 7, M.M.                            1      0      1
+Daśak. 106, 6, cf. Wils., n.                1      0      1
+Rām. 2, 5, 18 Gorr.                         1      0      1
+Hit. pr. d. 12, M.M.                        1      0      1
+Rām. 2, 62, 15 Gorr.                        1      0      1
+Rām. 1, 72, 21 Gorr.                        1      0      1
+Rām. 2, 1, 29 Gorr.                         1      0      1
+Upak.                                       1      0      1
+Rām. 2, 32, 35 Gorr.                        1      0      1
+Man. 6, 10, Lois.                           1      0      1
+Daśak. 111, 12, Wils.                       1      0      1
+Mālav. 69, 13 v. r.                         1      0      1
+Śāk. 104, 23 v. r.                          1      0      1
+Hit. 27, 3, M.M.                            1      0      1
+Hit. 28, 8, M.M.                            1      0      1
+Hit. 67, 20, v. r.                          1      0      1
+Hit. 46, 9, M.M.                            1      0      1
+Rām. 2, 83, 16 Gorr.                        1      0      1
+Rām. 1, 27, 20 Gorr.                        1      0      1
+Böhtl. Roth. Sskr. Wörterbuch.              1      0      1
+Hit. 110, 20, v. r.                         1      0      1
+Rām. 2, 84, 9 Gorr.                         1      0      1
+Rām. 1, 43, 4 Gorr.                         1      0      1
+Hit. pr. d. 45, M.M.                        1      0      1
+Śvet. Up.                                   1      0      1
+Rām. 2, 19, 13 Gorr.                        1      0      1
+Rām. 2, 8, 43 Gorr.                         1      0      1
+Bhartṛ. 2, 59 v. r.                         1      0      1
+Hit. 80, 1, M.M.                            1      0      1
+Rām. 1, 3, 58 Gorr.                         1      0      1
+Śāk. d. 8, v. r.                            1      0      1
+Hit. 42, 7, M.M.                            1      0      1
+Johns.                                      1      0      1
+Häberl. in Anth.                            1      0      1
+Rām. 1, 34, 9 Gorr.                         1      0      1
+Rām. 2, 85, 18 Gorr.                        1      0      1
+Rām. 2, 80, 24 Gorr.                        1      0      1
+Rām. 1, 4, 40 Gorr.                         1      0      1
+Prab. 117, 18, v.r.                         1      0      1
+Rām. 2, 47, 1, Seramp.                      1      0      1
+Rām. 1, 13, 31 Gorr.                        1      0      1
+Rām. 1, 80, 21 Gorr.                        1      0      1
+Tattvas. 41 Ball.                           1      0      1
+Sund. 3, 13, cf.                            1      0      1
+Rām. Pr.                                    1      0      1
+Megh. 96, v. r.                             1      0      1
+Śāk. d. 40 v. r.                            1      0      1
+Rām. 2, 45, 32, Gorr.                       1      0      1
+Rām. 2, 12, 36 Gorr.                        1      0      1
+Megh. 11, s.                                1      0      1
+Śāk. 6, 15, v. r.                           1      0      1
+Hit. 31, 8, M.M.                            1      0      1
+Rām. 2, 50, 13, Seramp.                     1      0      1
+Hit. 28, 10, M.M.                           1      0      1
+Bhartṛ. 3, 59, v. r.                        1      0      1
+Rām. 1, 22, 14 Gorr.                        1      0      1
+Āśval. S.                                   1      0      1
+Daśak. 160, 1, bel.                         1      0      1
+Pāṇ. 5, 1, 46, Sch.                         1      0      1
+Suśr. 1, 196, 21 sqq.                       1      0      1
+MBh. 1, 335, etc.                           1      0      1
+Rām. 1, 31, 6 Gorr.                         1      0      1
+Daśak. 62, 1 bel.                           1      0      1
+Rām. 2, 90, 21 Gorr.                        1      0      1
+Hit. 90, 10, M.M.                           1      0      1
+Skanda P., Kāśīkh.                          1      0      1
+Śāk. 23, 12 v. r.                           1      0      1
+Rām. 1, 77, 12 Gorr.                        1      0      1
+Ghaṭak.                                     1      0      1
+Rām. 2, 109, 37 Gorr.                       1      0      1
+Rām. 2, 113, 5 Gorr.                        1      0      1
+Rām. 1, 80, 11 Gorr.                        1      0      1
+Yājñ. 2, 86 sqq.                            1      0      1
+Rām. 2, 81, 2 Gorr.                         1      0      1
+Hit. 63, 2, M.M.                            1      0      1
+Indr. 1, 30, v. r.                          1      0      1
+Rām. 2, 31, 27 Gorr.                        1      0      1
+Rām. 1, 15, 18 Gorr.                        1      0      1
+Rām. 2, 20, 15 Gorr.                        1      0      1
+Ṛt. 6, 11, v. r.                            1      0      1
+Rām. 2, 117, 3 Gorr.                        1      0      1
+Hit. pr. d. 48, M.M.                        1      0      1
+Rām. 2, 83, 22 Gorr.                        1      0      1
+Rām. 2, 68, 22, Seramp.                     1      0      1
+Rām. 2, 107, 19 Gorr.                       1      0      1
+MBh. 1, 2367 sqq.                           1      0      1
+Śāk. d. 135, v. r.                          1      0      1
+Man. 7, 149, v. r.                          1      0      1
+Rām. 1, 13, 28 Gorr.                        1      0      1
+Rām. 3, 2, 17 Gorr.                         1      0      1
+Hit. 91, 1, M.M.                            1      0      1
+Rām. 1, 13, 32, Seramp.                     1      0      1
+Kusumāñj. transl.                           1      0      1
+MBh. 12,5307                                1      0      1
+Ṛt. 1, 24 v.r.                              1      0      1
+Rām. 1, 30, 11 Gorr.                        1      0      1
+Rām. 1, 38, 11 Gorr.                        1      0      1
+Hit. 47, 5, M.M.                            1      0      1
+Rām. 2, 65, 2 Gorr.                         1      0      1
+Śāk. 141, 10 Chezy.                         1      0      1
+Śiś. 1, sqq.                                1      0      1
+Hit. pr. d. 1, M.M.                         1      0      1
+Vāsavad.                                    1      0      1
+Mṛcch. 27, 2, Prākṛ.                        1      0      1
+Rām. 2, 20, 26 Gorr.                        1      0      1
+Hit. 86, 2, M.M.                            1      0      1
+Rām. 2, 97, 25 Gorr.                        1      0      1
+Pānch.                                      1      0      1
+Rām. 1, 60, 27 Gorr.                        1      0      1
+Bhāg. P. 4, 25, 9 sqq.                      1      0      1
+Rām. 2, 111, 12 Gorr.                       1      0      1
+Rām. 2, 30, 2 Gorr.                         1      0      1
+Ṛt. 6, 8, v. r.                             1      0      1
+Rām. 1, 123, 14 Gorr.                       1      0      1
+Navar.                                      1      0      1
+Mālatīm.                                    1      0      1
+Johns. Sel. 90, n.                          1      0      1
+Rām. 1, 45, 26 Gorr.                        1      0      1
+Hit. pr. 9, M.M.                            1      0      1
+Ragh. 12, 45, Calc.                         1      0      1
+Rām. 1, 32, 13 Gorr.                        1      0      1
+Hit. 51, 6, M.M.                            1      0      1
+Rām. 2, 51, 13, ed. Seramp.                 1      0      1
+Rām. 2, 109, 25 Gorr.                       1      0      1
+Daśak. p.                                   1      0      1
+Rām. 3, 70, 2, i. e.                        1      0      1
+Kūmar.                                      1      0      1
+Rām. 1, 46, 26 Gorr.                        1      0      1
+MBh. 13, 2422, sqq.                         1      0      1
+Rām. 1, 45, 13 Gorr.                        1      0      1
+Rām. 2, 42, 2 Gorr.                         1      0      1
+Rām. 2, 45, 22 Gorr.                        1      0      1
+Bhartṛ. 2, 10 v. r.                         1      0      1
+Hit. 11, 4, M.M.                            1      0      1
+Hit. 32, 4, M.M.                            1      0      1
+Journ. of the German Oriental               0      1      1
+Rām. 2, 61, 34 Gorr.                        1      0      1
+Hit. 39, 4, M.M.                            1      0      1
+Rām. 2, 21, 22 Gorr.                        1      0      1
+Mah.                                        1      0      1
+Bhāg. P. 2, 7, 5, viz.                      1      0      1
+Rām. 1, 42, 15 Gorr.                        1      0      1
+Hit. pr. d. 47, M.M. n.                     1      0      1
+Hit. 91, 6, M.M.                            1      0      1
+Bhāṣāp. 62, cf.                             1      0      1
+Rām. 1, 61, 22 Gorr.                        1      0      1
+Vikr. 34, v. r.                             1      0      1
+Hit. 52, 2, M.M.                            1      0      1
+Hit. Pr. d. 9, v. r.                        1      0      1
+Pārask.                                     1      0      1
+Man. 3, 46, sqq.                            1      0      1
+Prātiś.                                     1      0      1
+Śakuntalop.                                 1      0      1
+Rām. 2, 62, 17 Gorr.                        1      0      1
+Rām. 1, 77, 15 Gorr.                        1      0      1
+Rām. 1, 30, 17 Gorr.                        1      0      1
+Journ. of the German Oriental Society, xiv. 756, sqq.      1      0      1
+Rām. iv. sarg.                              1      0      1
+Prab. 40, 6, v. r.                          1      0      1
+Hit. 85, 1, M.M.                            1      0      1
+Bhaṭṭik.                                    1      0      1
+Journ. As. 1856, p.                         1      0      1
+Rām. 2, 68, 17, ed. Seramp.                 1      0      1
+Vetālap.                                    1      0      1
+MBh. v. adhy.                               1      0      1
+Atharva-V.                                  1      0      1
+Rām. 2, 32, 22 Gorr.                        1      0      1
+Rām. 2, 15, 20 Gorr.                        1      0      1
+Kos. ed. orn.                               1      0      1
+Hit. 16, 3, M.M.                            1      0      1
+Hit. 51, 10, M.M.                           1      0      1
+Hind. Theat. 2. ed. i. 302, n.              1      0      1
+Hit. 14, 7, M.M.                            1      0      1
+Ratnāv.                                     1      0      1
+Rām. 1, 30, 14 Gorr.                        1      0      1
+Vikr. 8, 1, v. r.                           1      0      1
+Hit. 62, 9, M.M.                            1      0      1
+Monatsber. der Berliner Ak. Hist. Phil. 1864, p.      1      0      1
+Rām. 2, 111, 16 Gorr.                       1      0      1
+Hariv. 1592, etc.                           1      0      1
+Hind. Theatr. 2. ed. 183, n.                1      0      1
+Rām. 2, 31, 25 Gorr.                        1      0      1
+Rām. 2, 18, 47 Gorr.                        1      0      1
+Rām. 2, 61, 44, Seramp.                     1      0      1
+MBh. 13, 7329 sqq.                          1      0      1
+Daśak. in Chr. 190, 24, Par.,               1      0      1
+Rām. 2, 52, 10 Gorr.                        1      0      1
+Pāṇ. 2, 3, 60, Sch.                         1      0      1
+Pañc. i. e.                                 1      0      1
+Govardh. Āryā Sapt.                         1      0      1
+Rām. 2, 109, 14 Gorr.                       1      0      1
+Rām. 2, 91, 24, v. r.                       1      0      1
+Tarkasaṃgr.                                 1      0      1
+Amar. 47, Sch.                              1      0      1
+Śāk. 69, 15, v. r.                          1      0      1
+Man. 3, 48, cf.                             1      0      1
+Rām. 2, 114, 13 Gorr.                       1      0      1
+Jaṭādh.                                     1      0      1
+Ujjvalad. 255, n.                           1      0      1
+Rām. 2, 26, 18 Gorr.                        1      0      1
+Rām. 1, 54, 5 Gorr.                         1      0      1
+Hit. 12, 2, M.M.                            1      0      1
+Vāsav.                                      1      0      1
+Hit. pr. d. 36, M.M.                        1      0      1
+Hit. 14, 4, M.M.                            1      0      1
+Hit. 29, 6, M.M.                            1      0      1
+Śāk. d. 116, v. r.                          1      0      1
+Śāk. 138, 1, Chezy.                         1      0      1
+Rām. 1, 22, 9 Gorr.                         1      0      1
+Rām. 1, 66, 12, Seramp.                     1      0      1
+Kos.                                        1      0      1
+Hit. 46, 2, M.M.                            1      0      1
+Rām. 2, 123, 15 Gorr.                       1      0      1
+Hit. 32, 8, M.M.                            1      0      1
+Man. 3, 194, etc.                           1      0      1
+Rām. 1, 67, 8 Gorr.                         1      0      1
+Hit. 58, 10, M.M.                           1      0      1
+Hit. 83, 6, M.M.                            1      0      1
+Rām. 2, 46, 32, Seramp.                     1      0      1
+Bhartṛ. 2, 27, cf.                          1      0      1
+Rām. 2, 66, 26, ed. Seramp.                 1      0      1
+MBh. 1, 5832, f.                            1      0      1
+Rām. 2, 91, 12 Gorr.                        1      0      1
+Rām. 2, 114, 33 Gorr.                       1      0      1
+Hit. 11, 6, M.M.                            1      0      1
+Hit. 31, 3, M.M.                            1      0      1
+Pāṇ. ii. 1, 36, Sch.                        1      0      1
+Colebr. Essays,                             1      0      1
+Kusumāñjali                                 1      0      1
+Hit. 84, 7, M.M.                            1      0      1
+Rām. 1, 39, 7 Ser.                          1      0      1
+Hit. 38, 10, M.M.                           1      0      1
+Rām. 2, 42, 14 Gorr.                        1      0      1
+Kātyāyana S.                                1      0      1
+Rām. 2, 68, 17 Gorr.                        1      0      1
+Hit. ii. c. 161, M.M.                       1      0      1
+Hit. 10, 7, M.M.                            1      0      1
+Rām. 1, 12, 6 Gorr.                         1      0      1
+Atharv.-Ved.                                1      0      1
+Hind. Th. i. 2 ed. 134, n.,                 1      0      1
+Hit. 61, 7, M.M.                            1      0      1
+Rām. 1, 44, 8 sqq. Gorr.                    1      0      1
+Rām. 2, 56, 39, Seramp.                     1      0      1
+Rām. 2, 42, 9 Gorr.                         1      0      1
+Mālat. 1, 5, v. r.                          1      0      1
+Hit. 14, 6, M.M.                            1      0      1
+Rām. 2, 71, 29, Seramp.                     1      0      1
+Rām. 2, 104, 43, Gorr.                      1      0      1
+Rām. 2, 73, 13, Gorr.                       1      0      1
+Śāk. 59, 14, v. r.                          1      0      1
+Rām. 2, 125, 10 Gorr.                       1      0      1
+Hit. 18, 3, M.M.                            1      0      1
+MBh. in Chr.                                1      0      1
+Ratnāv. 2. ed.                              1      0      1
+Śāk. Chezy.                                 1      0      1
+Rām. 3, 49, 49, sqq.                        1      0      1
+Rām. 2, 9, 34 Gorr.                         1      0      1
+Hit. pr. d. 34, M.M.                        1      0      1
+Man. 11, 172, v.r.,                         1      0      1
+Rām. 2, 25, 16 Gorr.                        1      0      1
+Hit. 52, 4, M.M.                            1      0      1
+Hit. pr. d. 5, M.M.                         1      0      1
+Rām. 2, 116, 29 Gorr.                       1      0      1
+Rām. 2, 28, 21, Gorr.                       1      0      1
+Rām. 2, 96, 1 Gorr.                         1      0      1
+Hit. pr. 42, M.M.                           1      0      1
+Hit. 53, 7, M.M.                            1      0      1
+Vikr. d. 49, v. r.                          1      0      1
+Rām. 2, 72, 1 Gorr.                         1      0      1
+Hit. 50, 9, M.M.                            1      0      1
+Rām. 2, 102, 1 Gorr.                        1      0      1
+Śāk. d. 16, v. r.                           1      0      1
+Hit. 54, 8, M.M.                            1      0      1
+Rām. 2, 41, 25 Gorr.                        1      0      1
+Rām. 2, 67, 11 Gorr.                        1      0      1
+Rām. 2, 87, 10 Gorr.                        1      0      1
+Rām. 2, 43, 31 Gorr.                        1      0      1
+Rām. 2, 31, 28 Gorr.                        1      0      1
+Megh. 50, cf.                               1      0      1
+Rām. 2, 26, 37 Gorr.                        1      0      1
+Bhāṣāp. 9, cf.                              1      0      1
+Rām. 2, 75, 14 Gorr.                        1      0      1
+Hit. 76, 1, M.M.                            1      0      1
+Monatsb. d. Berl. Ak. d. Wiss.,             1      0      1
+Rām. 2, 109, 13 Gorr.                       1      0      1
+Rām. 2, 111, 53 Gorr.                       1      0      1
+Prab. 99, 14, v.r.                          1      0      1
+Rām. 2, 101, 36 Gorr.                       1      0      1
+Vop.                                        1      0      1
+Rām. 1, 4, 7 Gorr.                          1      0      1
+Man. 3, 151 v. r.                           1      0      1
+Śāk. 100, 9, v. r.                          1      0      1
+Rām. 2, 49, 26 Gorr.                        1      0      1
+Prab. 117, 18 v. r.                         1      0      1
+Utt. Rāmac. 40, 1, cf.                      1      0      1
+Hit. 67, 5, M.M.                            1      0      1
+Rām. 1, 54, 21 Gorr.                        1      0      1
+Vetālapañcav.                               1      0      1
+Hariv. 417, seq.                            1      0      1
+Bhartṛ. p.                                  1      0      1
+Rām. 3, 1, 21 Gorr.                         1      0      1
+Nalod. 2, 62, Sch.                          1      0      1
+Hit. 47, 2, M.M.                            1      0      1
+Rām. 2, 60, 65, Seramp.                     1      0      1
+Sāh. D. p.                                  1      0      1
+Gorr. v. r.                                 1      0      1
+Rām. 1, 64, 16 Gorr.                        1      0      1
+Rām. 1, 39, 15 Gorr.                        1      0      1
+Ragh. 7, 56, Calc.                          1      0      1
+Rām. 2, 32, 42 Gorr.                        1      0      1
+Rām. 2, 84, 6 Gorr.                         1      0      1
+Rām. 2, 92, 16 Gorr.                        1      0      1
+Hit. 79, 5 Seramp.                          1      0      1
+Rām. 2, 112, 15 Gorr.                       1      0      1
+Sāv. 2, 4, v. r.                            1      0      1
+Rām. 1, 72, 31 Gorr.                        1      0      1
+Hit. 37, 4, M.M.                            1      0      1
+Bhartṛ. 1, 27, v. r.                        1      0      1
+Rām. 2, 116, 30 Gorr.                       1      0      1
+Hit. 71, 3, M.M.                            1      0      1
+Hit. 95, 4, M.M.                            1      0      1
+Hit. 43, 1, M.M.                            1      0      1
+Śāk. 91, 11, Chezy.                         1      0      1
+Megh. 78, v. r.                             1      0      1
+Daśak. 194, 6 Wils.                         1      0      1
+Māl.                                        1      0      1
+Rām. 1, 63, 6 Gorr.                         1      0      1
+Kirātārj.                                   1      0      1
+Rām. 1, 30, 20 Gorr.                        1      0      1
+Rām. 2, 90, 25 Gorr.                        1      0      1
+Prab. 36, 11, v. r.                         1      0      1
+Rām. 2, 78, 8 Gorr.                         1      0      1
+Śāk. d. 78 n.                               1      0      1
+MBh. 13, 52 sqq.                            1      0      1
+Hit. 88, 6, M.M.                            1      0      1
+Hit. 83, 4, M.M.                            1      0      1
+Hit. pr. d. 21, M.M.                        1      0      1
+Rām. 2, 115, 7 Gorr.                        1      0      1
+Rām. 1, 77, 24 Gorr.                        1      0      1
+Rām. 2, 101, 32 Gorr.                       1      0      1
+Rām. 2, 64, 55, Seramp.                     1      0      1
+Rām. 1, 78, 3 Gorr.                         1      0      1
+Rām. 1, 13, 39 Gorr.                        1      0      1
+Trans. of the R.A.S.                        1      0      1
+Rām. 2, 18, 53 Gorr.                        1      0      1
+Man. 8, 57, v. r.                           1      0      1
+Rām. 2, 21, 3 Gorr.                         1      0      1
+Rām. 1, 18, 5 Gorr.                         1      0      1
+MBh. 9, 2619 sqq.                           1      0      1
+Rām. 2, 23, 10 Gorr.                        1      0      1
+Amarak.                                     1      0      1
+Rām. 2, 57, 20 Gorr.                        1      0      1
+Śāk. 8, 22, v. r.                           1      0      1
+Rām. 1, 10, 31 Gorr.                        1      0      1
+Rām. 2, 99, 25 Gorr.                        1      0      1
+Rām. vi. adhy.                              1      0      1
+Kāmand. Nītis.                              1      0      1
+Rām. 2, 65, 45 Gorr.                        1      0      1
+Brahmavaiv. P.                              1      0      1
+Rām. 2, 47, 41, Seramp.                     1      0      1
+Rām. 1, 48, 1 Gorr.                         1      0      1
+Hit. 84, 11, M.M.                           1      0      1
+Rām. 2, 18, 13 Gorr.                        1      0      1
+Śāk. d. 35, v. r.                           1      0      1
+Böhtl. Roth.                                1      0      1
+Hit. 57, 7, M.M.                            1      0      1
+Mark. P.                                    1      0      1
+Śāk. 92, 19, Chezy.                         1      0      1
+Sāhitya Darp.                               1      0      1
+Rām. 2, 50, 10 Gorr.                        1      0      1
+Rām. 2, 116, 5 Gorr.                        1      0      1
+Rām. 2, 105, 38 Gorr.                       1      0      1
+Man. 11, 1, Calc.                           1      0      1
+Rām. 2, 70, 45, Seramp.                     1      0      1
+Nyāya S.                                    1      0      1
+Rām. 1, 3, 60 Gorr.                         1      0      1
+Rām. 1, 42, 23 Gorr.                        1      0      1
+Pañc. 243, 1, sqq.                          1      0      1
+Rām. 1, 34, 10 Gorr.                        1      0      1
+Rām. 2, 37, 7 Gorr.                         1      0      1
+Berl. Handschriften, p.                     1      0      1
+M. Müller, Anc. Sskr. Lit. 380. n.          1      0      1
+Vedāntas. in Chr. 204, 13 sqq.              1      0      1
+Hit. 89, 8, M.M.                            1      0      1
+Hit. 88, 8, M.M.                            1      0      1
+Hit. 16, 4, M.M.                            1      0      1
+Pañc. 44, 15, sqq.                          1      0      1
+Lass. 2. ed. 42, 11, cf.                    1      0      1
+Hit. 38, 1, M.M.                            1      0      1
+Hit. 20, 8, M.M.                            1      0      1
+Hit. 76, 7, M.M.                            1      0      1
+Chr. 58, 8, Ātm.                            1      0      1
+Ṛt. 1, 13 v. r.                             1      0      1
+Hit. 84, 10, M.M.                           1      0      1
+Rām. 1, 13, 14 Gorr.                        1      0      1
+Hit. 27, 16, n.                             1      0      1
+Hit. pr. 46, M.M.                           1      0      1
+Naiṣ. 22, 45, Sch.                          1      0      1
+Rām. 2, 25, 42 Gorr.                        1      0      1
+Hit. Pr. d. 41, M.M.                        1      0      1
+Hit. pr. d. 20, M.M.                        1      0      1
+Hit. 4, 13, v. r.                           1      0      1
+Rām. 1, 31, 4 Gorr.                         1      0      1
+Rām. 1, 56, 3 Gorr.                         1      0      1
+Hit. 3, 3, M.M.                             1      0      1
+Vedāntas. in Chr. 202, sqq.                 1      0      1
+Hit. pr. d. 40, M.M.                        1      0      1
+Rām. 2, 75, 21 Gorr.                        1      0      1
+Rām. 2, 64, 12, Seramp.                     1      0      1
+Vedāntas. in Chr. 216, 10 cf.               1      0      1
+Rām. 2, 9, 6 Gorr.                          1      0      1
+Megh. 59, v. r.                             1      0      1
+Rām. 1, 20, 1 Gorr.                         1      0      1
+Ratnāv. p.                                  1      0      1
+Rām. 2, 82, 13 Gorr.                        1      0      1
+Pañc. iii. 31, v. r.                        1      0      1
+Rām. 2, 68, 16, v. r.                       1      0      1
+Uttararāmac. p.                             1      0      1
+Rām. 2, 64, 12, ed. Seramp.                 1      0      1
+Rām. 2, 99, 9 Gorr.                         1      0      1
+Hit. Pr. d. 11, M.M.                        1      0      1
+Mālav. 3, 2 bel.                            1      0      1
+Mallin.                                     1      0      1
+MBh. 3, 14488 sqq.                          1      0      1
+Varāh. Bṛh.                                 1      0      1
+Rām. 2, 1, 7 Gorr.                          1      0      1
+Rām. 2, 97, 23 Gorr.                        1      0      1
+Pāṇ. 4, 2, 2 Sch.                           1      0      1
+Rām. 1, 75, 28 Gorr.                        1      0      1
+Rām. 1, 7, 14 Gorr.                         1      0      1
+Rām. 2, 52, 80 Gorr.                        1      0      1
+Rām. 2, 60, 68, Seramp.                     1      0      1
+Rām. 6, 96, 3 Gorr.                         1      0      1
+Hit. 83, 10, M.M.                           1      0      1
+Rām. 1, 62, 29 Gorr.                        1      0      1
+Hit. 13, 4, M.M.                            1      0      1
+Rām. 2, 95, 9 Gorr.                         1      0      1
+Āśvalāy. Gṛhyas.                            1      0      1
+Rām. 1, 5, 1, sqq. Desider.                 1      0      1
+Kām. Nītis. 4, 28, sqq.                     1      0      1
+MBh. 8, adhy.                               1      0      1
+Rām. 2, 77, 14 Gorr.                        1      0      1
+Hit. 46, 1, M.M.                            1      0      1
+Hit. 57, 5, M.M.                            1      0      1
+Rām. 1, 33, 13 Gorr.                        1      0      1
+Rām. 1, 3, 10 Gorr.                         1      0      1
+Śāk. 57, 13 v. r.                           1      0      1
+Ujjvalad. 267, n.                           1      0      1
+Rām. 2, 100, 25, Gorr.                      1      0      1
+Śāk. d. 137, v. r.                          1      0      1
+Man. 9, 124, v. r.                          1      0      1
+Ragh. 11, 93, v. r.                         1      0      1
+Śāk. d. 102, v. r.                          1      0      1
+Mém. sur les Contrées Occident., par Hiouen Thsang.      1      0      1
+Th. of the Hind. 2. ed.                     1      0      1
+Rām. 2, 75, 4 Gorr.                         1      0      1
+Hit. 88, 7, M.M.                            1      0      1
+Spec. of the Theatre of the Hind. 2. ed. i. 250, n.      1      0      1
+Rām. 2, 105, 33 Gorr.                       1      0      1
+MBh. 2, 1365, cf. Caus.                     1      0      1
+Hit. 60, 1, M.M.                            1      0      1
+Hit. 84, 5, M.M.                            1      0      1
+Rām. 2, 95, 3 Gorr.                         1      0      1
+Śāk. ap. Böhtl.                             1      0      1
+Rām. 2, 19, 3, Gorr.                        1      0      1
+Man. 1, 71, sqq.                            1      0      1
+Kāvya Prak. p.                              1      0      1
+Rām. 1, 79, 32 Gorr.                        1      0      1
+Śāk. d. 192, v. r.                          1      0      1
+Rām. 1, 70, 26 Gorr.                        1      0      1
+Hit. 82, 5, M.M.                            1      0      1
+Hit. 57, 12, M.M. f.                        1      0      1
+Rām. 1, 9, 57 Gorr.                         1      0      1
+Rām. 2, 90, 16 Gorr.                        1      0      1
+Rām. 2, 60, 76, Seramp.                     1      0      1
+Man. 6, 43, v. r.                           1      0      1
+Chr. 57, 1, bel.                            1      0      1
+Dhūrtas.                                    1      0      1
+Hit. 16, 7, M.M.                            1      0      1
+Hit. pr. d. 47, M.M.                        1      0      1
+Hit. 90, 8, M.M.                            1      0      1
+Hit. 58, 7, M.M.                            1      0      1
+Rām. 1, 31, 5 Gorr.                         1      0      1
+Rām. 2, 10, 14 Gorr.                        1      0      1
+Rām. 2, 73, 3 Gorr.                         1      0      1
+Rām. 1, 54, 3 Gorr.                         1      0      1
+Rāgh.                                       1      0      1
+Hit. 18, 4, M.M.                            1      0      1
+Hit. 39, 2, M.M.                            1      0      1
+Hit. Pr. d. 20, v. r.                       1      0      1
+Vāmanap.                                    1      0      1
+Rām. 1, 13, 23 Gorr.                        1      0      1
+Pāṇ. 6, 2, 56, Sch.                         1      0      1
+Ragh. 13, 12, Calc. Sch.                    1      0      1
+Ṛt. 1, 10, v. r.                            1      0      1
+Rām. 2, 47, 21 Gorr.                        1      0      1
+Rām. 2, 10, 7 Gorr.                         1      0      1
+Śāk. 43, 11, Chezy.                         1      0      1
+Śāk. d. 58, v. r.                           1      0      1
+Hit. pr. 38, M.M.                           1      0      1
+Hit. 38, 4, M.M.                            1      0      1
+Rām. 2, 72, 96, Seramp.                     1      0      1
+Hit. pr. d. 39, M.M.                        1      0      1
+Rām. 5, adhy.                               1      0      1
+Śāk. d. 35 Sch.                             1      0      1
+MBh. 5, 436 sqq.                            1      0      1
+Suśr. 2, 509, 11 sqq.                       1      0      1
+Śāk. 58, 7, C. f.                           1      0      1
+Rām. 2, 136, 1 Gorr.                        1      0      1
+Rām. 2, 63, 55, Seramp.                     1      0      1
+Śāk. 7, 1, bel.                             1      0      1
+Bhartṛ. 2, 30, v. r.                        1      0      1
+Rām. 1, 6, 24 Gorr.                         1      0      1
+Hariv. 2527 sqq.                            1      0      1
+Rām. 2, 66, 32 Gorr.                        1      0      1
+Vikr. d. 110, etc.                          1      0      1
+Hit. 75, 11, M.M.                           1      0      1
+Nal. 24, 13, Bopp.,                         1      0      1
+Śāk. 103, 4, v. r.                          1      0      1
+Hit. 21, 7, M.M.                            1      0      1
+Lass. p.                                    1      0      1
+cod. Berol.                                 1      0      1
+Rām. 1, 12, 27 Gorr.                        1      0      1
+Arj. 3, 47, Bopp.,                          1      0      1
+Rām. 2, 125, 13 Gorr.                       1      0      1
+Rām. 2, 1, 30 Gorr.                         1      0      1
+Śukas. Narr. 7, MS.                         1      0      1
+Man. 1, 67, n.                              1      0      1
+Hit. 43, 19 v. r.                           1      0      1
+MBh. 12, adhy.                              1      0      1
+Rām. 2, 90, 15 Gorr.                        1      0      1
+Rām. 2, 68, 55 Gorr.                        1      0      1
+Rām. 2, 3, 18 Gorr.                         1      0      1
+Śāk. 66, 16 v. r.                           1      0      1
+Bhagav.                                     1      0      1
+Rām. 1, 4, 103 Gorr.                        1      0      1
+Śāk. d. 69, v. r.                           1      0      1
+Hit. pr. 43, M.M.                           1      0      1
+Man. 4, 209. n.                             1      0      1
+MBh. 8, 1941, Par.                          1      0      1
+Rām. 1, 3, 70 Gorr.                         1      0      1
+Cāṭ.                                        1      0      1
+Rām. 1, 72, 36 Gorr.                        1      0      1
+Mricch.                                     1      0      1
+Rām. 2, 87, 22 Gorr.                        1      0      1
+MBh. 13, 2046, sqq.                         1      0      1
+Gött. Gel. Anz. 1861, p.                    1      0      1
+Hit. 48, 2, M.M.                            1      0      1
+Hit. pr. d. 9, M.M.                         1      0      1
+MBh. 3, 14109, n.                           1      0      1
+Ragh. 14, 56 Calc.                          1      0      1
+Bharata                                     1      0      1
+Hit. 28, 3, M.M.                            1      0      1
+Śāk. 45, 4 Chezy.                           1      0      1
+Rām. 2, 90, 37 Gorr.                        1      0      1
+Introd. à l'Hist. du Buddh.                 1      0      1
+Śāk. 93, 5, v. r.                           1      0      1
+Śāk. 106, 10, v. r.                         1      0      1
+Rām. 1, 40, sqq. Gorr.                      1      0      1
+Berl. Monatsb. 1864, 412, i. e.             1      0      1
+Rām. 1, 61, 21 Gorr.                        1      0      1
+Daśak. 88, n. 2 Wils.                       1      0      1
+Rām. 1, 11, 7 Gorr.                         1      0      1
+Rām. 1, 15, 2 Gorr.                         1      0      1
+Häberl. Chr.                                1      0      1
+Rām. 2, 112, 7 Gorr.                        1      0      1
+Śāk. d. 170, v. r.                          1      0      1
+Rām. 2, 8, 42 Gorr.                         1      0      1
+Rām. 2, 104, 9 Gorr.                        1      0      1
+Rām. 2, 125, 20 Gorr.                       1      0      1
+Rām. 1, 56, 27 Gorr.                        1      0      1
+Rām. 1, 5, 8 Gorr.                          1      0      1
+Man. 9, 314 v. r.                           1      0      1
+Hit. 48, 3, M.M.                            1      0      1
+Rām. 2, 40, 5 Gorr.                         1      0      1
+Rām. 1, 59, 11 Gorr.                        1      0      1
+Rām. 2, 8, 12 Gorr.                         1      0      1
+Hit. 30, 10, M.M.                           1      0      1
+Śāk. 38, 7 v. r.                            1      0      1
+Rām. 2, 91, 11 Gorr.                        1      0      1
+Hit. 77, 9, M.M.                            1      0      1
+Rām. 2, 103, 11 Gorr.                       1      0      1
+Śāk. 69, 23, v.r.                           1      0      1
+Rām. 3, 75, 24, sqq.                        1      0      1
+Arji Bordschi                               1      0      1
+Śāk. d. 177, v. r.                          1      0      1
+Hit. 19, 4, M.M.                            1      0      1
+Vedāntas. in Chr. 216, 4, cf.               1      0      1
+Rām. 2, 52, 5 Gorr.                         1      0      1
+Hit. 85, 6, M.M.                            1      0      1
+Pañc. 35, 1, i. e.                          1      0      1
+Hit. 16, 5, M.M.                            1      0      1
+Rām. 2, 69, 8, ed. Seramp.                  1      0      1
+Rām. 1, 3, 30 Gorr.                         1      0      1
+Rām. 2, 91, 10 Gorr.                        1      0      1
+Rām. 2, 38, 13, v. r.                       1      0      1
+Rām. 1, 68, 20 Gorr.                        1      0      1
+Rām. 2, 90, 13 Gorr.                        1      0      1
+Hind. Th. 2. ed. ii. 52, n.                 1      0      1
+MBh. 3, 441, etc.,                          1      0      1
+Hit. 16, 6, M.M.                            1      0      1
+Rām. 2, 63, 36, ed. Seramp.                 1      0      1
+Hit. 71, 2, M.M.                            1      0      1
+Megh. 34, Sch.                              1      0      1
+VS.                                         1      0      1
+Bālab.                                      1      0      1
+Rām. 2, 15, 34 Gorr.                        1      0      1
