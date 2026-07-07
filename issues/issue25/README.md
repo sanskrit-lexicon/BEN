@@ -73,5 +73,5 @@ Output <ls n=…> tags:           1,821 (+275)
 Unwrapped '; DIGIT;' after </ls>:   51 → 0
 Unwrapped '; DIGIT.' after </ls>:  170 → 0
 '<' in n= attribute values:           0
-Diff script vs manual correction:  462 lines
+Diff script vs manual correction:  610 lines
 ```
