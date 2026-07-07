@@ -58,7 +58,7 @@ MERGE_PAGE_INTERRUPT_RE = re.compile(
 )
 
 
-def merge_page_ref_interrupts(text):
+def merge_page_ref_interrupts(text, counter):
     """Merge Roman refs split by [Page...] blocks back into a single <ls> tag.
     
     Pattern: <ls>S_PARTIAL</ls>. [Page...] <ls n="S">REF</ls>
@@ -72,8 +72,30 @@ def merge_page_ref_interrupts(text):
         ref = m.group(5)
         if not tag_content.startswith(source_attr):
             return m.group(0)
+        counter[0] += 1
         return '<ls>%s. %s</ls> %s' % (tag_content, ref, page)
     return MERGE_PAGE_INTERRUPT_RE.sub(replacer, text)
+
+
+AB_REF_RE = re.compile(
+    r'(<ls>([^<]+)</ls>)\.\s*(<ab>([a-z]+)\.</ab>)\s*(\d+)'
+)
+
+
+def merge_ab_refs(text, ab_counts):
+    """Merge <ab>-qualified refs split by issue19 into single <ls> tags.
+    
+    Pattern: <ls>Pañc. iv</ls>. <ab>d.</ab> 79
+    → <ls>Pañc. iv. <ab>d.</ab> 79</ls>
+    """
+    def replacer(m):
+        tag_content = m.group(2)
+        ab_tag = m.group(3)
+        ab_type = m.group(4)
+        digits = m.group(5)
+        ab_counts[ab_type] = ab_counts.get(ab_type, 0) + 1
+        return '<ls>%s. %s %s</ls>' % (tag_content, ab_tag, digits)
+    return AB_REF_RE.sub(replacer, text)
 
 
 def is_false_positive_match(text, match_end):
@@ -141,18 +163,30 @@ def main():
         data = f.read()
 
     result, wrapped_count = process(data)
-    result = merge_page_ref_interrupts(result)
+    page_counter = [0]
+    result = merge_page_ref_interrupts(result, page_counter)
+    ab_counts = {}
+    result = merge_ab_refs(result, ab_counts)
 
     with open(OUTPUT, 'w', encoding='utf-8') as f:
         f.write(result)
 
-    input_tags = data.count('<ls>')
-    output_tags = result.count('<ls>')
-    print(f'Input  <ls> tags: {input_tags}')
-    print(f'Output <ls> tags: {output_tags}')
-    print(f'New tags added:  {output_tags - input_tags}')
-    print(f'Lines modified:  ~{wrapped_count}')
-    print(f'Written to:      {OUTPUT}')
+    input_plain = data.count('<ls>')
+    input_n = data.count('<ls n=')
+    output_plain = result.count('<ls>')
+    output_n = result.count('<ls n=')
+    print('=== Statistics ===')
+    print(f'1. Bare ref wrapping:         {output_n} new <ls n="..."> tags')
+    print(f'   (input had {input_n}, output has {output_n})')
+    print(f'2. Page-interrupt refs merged: {page_counter[0]}')
+    print(f'3. <ab>-qualified refs merged: {sum(ab_counts.values())}')
+    for ab_type in sorted(ab_counts):
+        print(f'   <ab>{ab_type}.</ab>{" " * (8 - len(ab_type))} {ab_counts[ab_type]}')
+    print(f'')
+    print(f'Input  <ls> tags:  {input_plain}')
+    print(f'Output <ls> tags:  {output_plain}')
+    print(f'Lines modified:    ~{wrapped_count}')
+    print(f'Written to:        {OUTPUT}')
 
 
 if __name__ == '__main__':
