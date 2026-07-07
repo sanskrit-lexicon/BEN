@@ -58,7 +58,9 @@ The lookahead/lookbehind approach allows shared semicolons — `; 43; 46;` becom
 | File | Purpose |
 |---|---|
 | `temp_d1d0a18.txt` | Input base file (47,524 `<ls>` tags, 1,546 `<ls n=…>` tags) |
-| `temp_ben_1.txt` | Output with 275 bare semicolon/period-digit refs wrapped |
+| `temp_ben_1.txt` | Script output — bare semicolon/period-digit refs wrapped (275 new `<ls n=…>`) |
+| `temp_ben_2.txt` | Manually corrected — additional bare refs, merged split `<ls>` tags, inline source+ref wrapping |
+| `diff2.txt` | Diff between script output (1) and manual correction (2) — 462 lines |
 | `convert_bare_semicolon_refs.py` | Conversion script |
 
 ## Verification
@@ -71,4 +73,5 @@ Output <ls n=…> tags:           1,821 (+275)
 Unwrapped '; DIGIT;' after </ls>:   51 → 0
 Unwrapped '; DIGIT.' after </ls>:  170 → 0
 '<' in n= attribute values:           0
+Diff script vs manual correction:  462 lines
 ```

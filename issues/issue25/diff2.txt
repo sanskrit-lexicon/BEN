@@ -2,10 +2,26 @@
 < {#aDyakza#}¦ {%adhyakṣa%}, <ab>i. e.</ab> {%adhi-akṣa%}. {@I.@} <ab>adj.</ab> Perceptible, <ls>Bhāṣāp. 48</ls>. {@II.@} <ab>n.</ab> Perception, <ab>ib.</ab> 56; <ls n="Bhāṣāp.">149</ls>. {@III.@} <ab>m.</ab> A superintendent, <ls>Daśak. in Chr. 186, 3</ls>.
 ---
 > {#aDyakza#}¦ {%adhyakṣa%}, <ab>i. e.</ab> {%adhi-akṣa%}. {@I.@} <ab>adj.</ab> Perceptible, <ls>Bhāṣāp. 48</ls>. {@II.@} <ab>n.</ab> Perception, <ab>ib.</ab> <ls n="Bhāṣāp.">56</ls>; <ls n="Bhāṣāp.">149</ls>. {@III.@} <ab>m.</ab> A superintendent, <ls>Daśak. in Chr. 186, 3</ls>.
+6099c6099
+<  --With the prepositions {#vyati#} {%vi-ati%}, <ab>Ātm.</ab> To outweigh, Bhaṭṭa. 2, 35.
+---
+>  --With the prepositions {#vyati#} {%vi-ati%}, <ab>Ātm.</ab> To outweigh, <ls>Bhaṭṭ. 2, 35</ls>.
 6536c6536
 < {#Akfti#}¦ {%ā-kṛ + ti%}, <ab>f.</ab> Form, <ls>Śāk.</ls> <ab>d.</ab> [Page0069-b + 42] 19; figure, <ls>Hiḍ. 2, 2</ls>; appearance, <ls>Brāhmaṇav. 1, 28</ls>.
 ---
 > {#Akfti#}¦ {%ā-kṛ + ti%}, <ab>f.</ab> Form, <ls>Śāk. <ab>d.</ab> 19</ls>; [Page0069-b + 42]  figure, <ls>Hiḍ. 2, 2</ls>; appearance, <ls>Brāhmaṇav. 1, 28</ls>.
+6586c6586
+< {#AkroSa#}¦ {%ākrośa%}. <ab>i. e.</ab> {%ā-kruś + a%}, [Page0070-a + 41] <ab>m.</ab> {@1.@} Abuse, Yājñ 2, 302. {@2.@} A curse.
+---
+> {#AkroSa#}¦ {%ākrośa%}. <ab>i. e.</ab> {%ā-kruś + a%}, [Page0070-a + 41] <ab>m.</ab> {@1.@} Abuse, <ls>Yājñ. 2, 302</ls>. {@2.@} A curse.
+8965c8965
+<  {@C.@} {#I#} {%Ī%}, i. 4, <ab>Ātm.</ab> (properly the <ab>pass.</ab> voice of {%I%}), To go, <ls>Chr. 287, 5</ls> = <ls>Rigv. i. 48, 5. ii. 2, <ab>Par.</ab>,</ls> {@1.@} To go. {@2.@} To pervade. {@3.@} To conceive. {@4.@} To desire. {@5.@} To throw. {@6.@} To eat.
+---
+>  {@C.@} {#I#} {%Ī%}, i. 4, <ab>Ātm.</ab> (properly the <ab>pass.</ab> voice of {%I%}), To go, <ls>Chr. 287, 5</ls> = <ls>Rigv. i. 48, 5</ls>. <ls n="Rigv.">ii. 2, <ab>Par.</ab>,</ls> {@1.@} To go. {@2.@} To pervade. {@3.@} To conceive. {@4.@} To desire. {@5.@} To throw. {@6.@} To eat.
+11868c11868
+< {#upASraya#}¦ {%upāśraya%}, <ab>i.e.</ab> {%upa-āśraya%}, <ab>m.</ab> A retreat, refuge, <ls>MBh. 15, 152</ls>; 3, 17262.
+---
+> {#upASraya#}¦ {%upāśraya%}, <ab>i.e.</ab> {%upa-āśraya%}, <ab>m.</ab> A retreat, refuge, <ls>MBh. 15, 152</ls>; <ls n="MBh.">3, 17262</ls>.
 12502c12502
 < {#fRa#}¦ {%ṛṇa%}, <ab>n.</ab> Obligation, Man 6, 35; a debt, <ls>Man. 9, 218</ls>.
 ---
@@ -14,30 +30,86 @@
 < {#fzi#}¦ {%ṛṣ + i%} (for original {%ṛṣan%}, <ab>cf.</ab> {%akṣi%} for {%akṣan, asthi%} for {%asthan%}, <ab>etc.</ab>, = <lang n="greek">ἄρσην, ἄῤῥην</lang>), <ab>m.</ab> {@1.@} A bard or author of sacred hymns, <ls>Chr. 287, 1</ls>. 3; <ls>Man. 11, 243</ls>. {@2.@} An old saint, <ls>MBh. 12, 12724</ls>; [Page0139-a + 38] <ls>Hariv. 417, <ab>seq.</ab></ls> {@3.@} A pious person, especially an anchorite, <ls>Man. 4, 94</ls>.
 ---
 > {#fzi#}¦ {%ṛṣ + i%} (for original {%ṛṣan%}, <ab>cf.</ab> {%akṣi%} for {%akṣan, asthi%} for {%asthan%}, <ab>etc.</ab>, = <lang n="greek">ἄρσην, ἄῤῥην</lang>), <ab>m.</ab> {@1.@} A bard or author of sacred hymns, <ls>Chr. 287, 1</ls>. <ls n="Chr. 287,">3</ls>; <ls>Man. 11, 243</ls>. {@2.@} An old saint, <ls>MBh. 12, 12724</ls>; [Page0139-a + 38] <ls>Hariv. 417, <ab>seq.</ab></ls> {@3.@} A pious person, especially an anchorite, <ls>Man. 4, 94</ls>.
+12798c12798
+< {#ekAdaSin#}¦ {%ekādaśin%}, <ab>i. e.</ab> {%ekādaśan + in%}, {@I.@} <ab>adj.</ab> Consisting of eleven, <ls>MBh.</ls> [Page0141-a + 42] 13, 10668. {@II.@} <ab>f.</ab> {%nī%}, Eleven (hymns), <ls>Yājñ. 3, 309</ls>.
+---
+> {#ekAdaSin#}¦ {%ekādaśin%}, <ab>i. e.</ab> {%ekādaśan + in%}, {@I.@} <ab>adj.</ab> Consisting of eleven, <ls>MBh. 13, 10668</ls>. [Page0141-a + 42] {@II.@} <ab>f.</ab> {%nī%}, Eleven (hymns), <ls>Yājñ. 3, 309</ls>.
 13943c13943
 < {#kaT#}¦ {%KATH%}, i. 10, <ab>Par.</ab>, in epic poetry also <ab>Ātm.</ab> (probably a <ab>denomin.</ab> of {%katham%}). {@1.@} To tell, <ls>MBh. 1, 2206</ls>; <ab>Ātm.</ab> <ab>ib.</ab> 3, 13180; to tell of, with the <ab>acc.</ab>, <ls>Śāk. 7, 18</ls>. {@2.@} To announce, <ls>MBh. 14, 144</ls>. {@3.@} To declare, <ls>Man. 7, 157</ls>. {@4.@} To command, <ls>Pañc. 57, 22</ls>; <ls>Vikr. <ab>d.</ab> 7</ls>. {@5.@} To converse, <ls>Rām. 2, 57, 1</ls>; <ls>Brāhmaṇ. 1, 11</ls>.
 ---
 > {#kaT#}¦ {%KATH%}, i. 10, <ab>Par.</ab>, in epic poetry also <ab>Ātm.</ab> (probably a <ab>denomin.</ab> of {%katham%}). {@1.@} To tell, <ls>MBh. 1, 2206</ls>; <ab>Ātm.</ab> <ab>ib.</ab> <ls n="MBh.">3, 13180</ls>; to tell of, with the <ab>acc.</ab>, <ls>Śāk. 7, 18</ls>. {@2.@} To announce, <ls>MBh. 14, 144</ls>. {@3.@} To declare, <ls>Man. 7, 157</ls>. {@4.@} To command, <ls>Pañc. 57, 22</ls>; <ls>Vikr. <ab>d.</ab> 7</ls>. {@5.@} To converse, <ls>Rām. 2, 57, 1</ls>; <ls>Brāhmaṇ. 1, 11</ls>.
+14496c14496
+< {#karada#}¦ {%kara-da%} (<ab>vb.</ab> {%dā%}), <ab>adj.</ab> {@1.@} Paying taxes, <ls>MBh. 1, 7170</ls>. {@2.@} Tributary, 3, 15288.
+---
+> {#karada#}¦ {%kara-da%} (<ab>vb.</ab> {%dā%}), <ab>adj.</ab> {@1.@} Paying taxes, <ls>MBh. 1, 7170</ls>. {@2.@} Tributary, <ls n="MBh.">3, 15288</ls>.
+15018c15018
+<  --With {#pra#} {%pra, kālaya%}, {@1.@} To drive onwards, <ls>MBh. 1, 7178</ls>. {@2.@} To pursue, 3, 10778.
+---
+>  --With {#pra#} {%pra, kālaya%}, {@1.@} To drive onwards, <ls>MBh. 1, 7178</ls>. {@2.@} To pursue, <ls n="MBh.">3, 10778</ls>.
 15085c15085
 < {#kalaSa#}¦ {%kalaśa%}, or {#kalasa#} {%kalasa%}, {@I.@} <ab>m.</ab> (and <ab>f.</ab> {%śī%}, and <ab>n.</ab>), A water-pot, a cup, <ls>Pañc. 252, 10</ls>; i. <ab>d.</ab> 225; designation [Page0168-a + 44] of the ocean when churned, <ls>MBh. 1, 1149</ls>. {@II.@} <ab>f.</ab> {%śī%}, {@1.@} A plant, Hemionitis cordifolia, Roxb., <ls>Suśr. 1, 139, 15</ls>. {@2.@} The name of a holy place, <ls>MBh. 3, 650</ls>.
 ---
 > {#kalaSa#}¦ {%kalaśa%}, or {#kalasa#} {%kalasa%}, {@I.@} <ab>m.</ab> (and <ab>f.</ab> {%śī%}, and <ab>n.</ab>), A water-pot, a cup, <ls>Pañc. 252, 10</ls>; <ls n="Pañc.">i. <ab>d.</ab> 225</ls>; designation [Page0168-a + 44] of the ocean when churned, <ls>MBh. 1, 1149</ls>. {@II.@} <ab>f.</ab> {%śī%}, {@1.@} A plant, Hemionitis cordifolia, Roxb., <ls>Suśr. 1, 139, 15</ls>. {@2.@} The name of a holy place, <ls>MBh. 3, 650</ls>.
+15196c15196
+< {#kalpa#}¦ {%kalpa%}, <ab>i. e.</ab> {%kḷp + a%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%pā%}. {@1.@} Able, <ls>Bhāg. P. 1, 6, 7</ls>; with <ab>infin.</ab>, <ls n="Bhāg. P.">4, 13, 42</ls>. {@2.@} Being a match for, able to protect (with <ab>gen.</ab>), <ls>Bhāg. P. 8, 23, 22</ls>. {@II.@} <ab>m.</ab> {@1.@} A sacred precept, <ls>Man. 5, 74</ls>. {@2.@} A rule, <ls>Man. 3, 147</ls>. {@3.@} Performance, <ls>MBh. 13, 4728</ls>; usage, <ls>Daśak. in Chr. 189, 17</ls>; an act, <ls>Śāk. 99, 15</ls>. {@4.@} Manner, <ls>Man. 1, 112</ls>. {@5.@} The rules concerning rites, one of the six Vedāngas, <ls>Man. 2, 140</ls>. {@6.@} A designation of Viṣṇu as containing all the [Page0169-b + 44] sacred precepts, <ls>MBh. 13, 953</ls>; of Śiva, 12, 10368. {@7.@} A day of Brahman, a period of 1000 yugas, the duration of the world, <ls>Bhāg. P. 3, 11, 23</ls>. {@8.@} Toxicology, <ls>Suśr. 1, 8, 5</ls>.
+---
+> {#kalpa#}¦ {%kalpa%}, <ab>i. e.</ab> {%kḷp + a%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%pā%}. {@1.@} Able, <ls>Bhāg. P. 1, 6, 7</ls>; with <ab>infin.</ab>, <ls n="Bhāg. P.">4, 13, 42</ls>. {@2.@} Being a match for, able to protect (with <ab>gen.</ab>), <ls>Bhāg. P. 8, 23, 22</ls>. {@II.@} <ab>m.</ab> {@1.@} A sacred precept, <ls>Man. 5, 74</ls>. {@2.@} A rule, <ls>Man. 3, 147</ls>. {@3.@} Performance, <ls>MBh. 13, 4728</ls>; usage, <ls>Daśak. in Chr. 189, 17</ls>; an act, <ls>Śāk. 99, 15</ls>. {@4.@} Manner, <ls>Man. 1, 112</ls>. {@5.@} The rules concerning rites, one of the six Vedāngas, <ls>Man. 2, 140</ls>. {@6.@} A designation of Viṣṇu as containing all the [Page0169-b + 44] sacred precepts, <ls>MBh. 13, 953</ls>; of Śiva, <ls n="MBh.">12, 10368</ls>. {@7.@} A day of Brahman, a period of 1000 yugas, the duration of the world, <ls>Bhāg. P. 3, 11, 23</ls>. {@8.@} Toxicology, <ls>Suśr. 1, 8, 5</ls>.
 16100c16100
 < {#kArpawika#}¦ {%kārpaṭika%}, <ab>i. e.</ab> {%karpaṭa + ika%}, <ab>m.</ab> A pilgrim, Skandap. Kācīk 12, 14; 30, 66.
 ---
 > {#kArpawika#}¦ {%kārpaṭika%}, <ab>i. e.</ab> {%karpaṭa + ika%}, <ab>m.</ab> A pilgrim, <ls>Skandap. Kāśīkh. 12, 14</ls>; <ls n="Skandap. Kāśīkh.">30, 66</ls>.
+17009c17009
+< {#kuYjara#}¦ {%kuñjara%} (probably akin to the preceding), <ab>m.</ab> {@1.@} An elephant, <ls>Pañc. i. <ab>d.</ab> 177</ls>. {@2.@} Preeminent, <ls>Rām. 5, 2, 13</ls>; in this meaning it is generally the latter part of a compound, <ab>e. g.</ab> {%kapi-%}, <ab>m.</ab> A most excellent monkey [Page0191-a + 41] (literally, an elephant among monkeys), <ls>Rām. 5, 3, 17</ls>. {@3.@} The name of a Nāga, or serpent, <ls>MBh. 1, 1560</ls>. {@4.@} The name of a prince, 3, 15597. {@5.@} The name of a mountain, <ls>Rām. 4, 41, 50</ls>.
+---
+> {#kuYjara#}¦ {%kuñjara%} (probably akin to the preceding), <ab>m.</ab> {@1.@} An elephant, <ls>Pañc. i. <ab>d.</ab> 177</ls>. {@2.@} Preeminent, <ls>Rām. 5, 2, 13</ls>; in this meaning it is generally the latter part of a compound, <ab>e. g.</ab> {%kapi-%}, <ab>m.</ab> A most excellent monkey [Page0191-a + 41] (literally, an elephant among monkeys), <ls>Rām. 5, 3, 17</ls>. {@3.@} The name of a Nāga, or serpent, <ls>MBh. 1, 1560</ls>. {@4.@} The name of a prince, <ls n="MBh.">3, 15597</ls>. {@5.@} The name of a mountain, <ls>Rām. 4, 41, 50</ls>.
 17981c17981
 < 1. {#kf#}¦ {%KṚ%} (originally {%skṛ%}; <ab>cf.</ab> {%ava-%}, {%upa-, pari-, sam-, abhi-sam-, upa-sam-%}, {%prati-sam-%}, and {%kośaskṛt%}), ii. 8, <ab>Par.</ab>, <ab>Ātm.</ab>, {%karomi%} (in epic poetry also {%kurmi%}, <ls>MBh. 3, 10943</ls>); <ab>ved.</ab> ii. 5, {%kṛṇomi%}; ii. 2, <ab>e. g.</ab> {%karṣi%}; i. 1, {%karasi%}. {@1.@} To make, <ls>Chr. 293, 3</ls> = <ls>Rigv. i. 88, 3</ls> ({%kṛṇavante%}, <ab>ved.</ab> <ab>conjunct.</ab>); <ls>Pañc. i. <ab>d.</ab> 436</ls>; <ls>Man. 2, 154</ls>; <ls>Rām. 1, 1, 59</ls>. {@2.@} To do, <ls>Rām. 1, 9, 10</ls>. {@3.@} To perform, <ls>Chr. 293, 4</ls> = <ls>Rigv. i. 88, 4</ls> ({%kṛṇvantaḥ%}); <ls>Man. 1, 55</ls> (one's natural functions); <ls>Rām. 3, 53, 11</ls> (an order); <ls n="Rām.">1, 2, 2</ls> (to show respect); <ls>Pañc. 82, 14</ls> (to show pride). {@4.@} To tell, <ls>Rām. 1, 2, 34</ls>. {@5.@} To compose, <ls>Rām. 1, 3, 38</ls>. {@6.@} To appoint, <ls>Man. 7, 78</ls>; <ls n="Man.">9, 127</ls>. {@7.@} To sacrifice, <ls>Man. 3, 210</ls>. {@8.@} To act for or against a person; with the <ab>gen.</ab> of the person, <ls>MBh. 3, 2160</ls>; with the <ab>loc.</ab>, <ls>Rām. 2, 64, 61</ls>. {@9.@} To assume, <ls>Man. 7, 10</ls>. {@10.@} To prepare, <ls>MBh. 13, 2794</ls>; to cook, <ls>Man. 9, 219</ls>. {@11.@} To cultivate, <ls>Yājñ. 2, 158</ls>; to till, <ls>Man. 10, 114</ls>. {@12.@} With nouns designing sounds, speech, To utter, <ls>MBh. 3, 11718</ls>. {@13.@} With nouns designing time, To pass, <ls>MBh. 15, 6</ls>; to wait, 1. 2294; with {%ciram%}, To delay, <ls>Hiḍ. 4, 13</ls>. {@14.@} With nouns denoting mind, To give one's heart to, <ls>Man. 12, 118</ls>; to resolve, <ls>Chr. 11, 11</ls>; <ls>Rām. 1, 9, 55</ls>. {@15.@} With {%astrāṇi%}, To practise, <ls>MBh. 3, 11824</ls>; with {%udakam%} or {%salilam%}, To make the oblation of water to a deceased one, <ls>Man. 5, 188</ls>; [Page0203-a + 47] <ls>Rām. 1, 44, 49</ls>; with {%kanyām%}, To contaminate, <ls>Man. 8, 367</ls>; with {%kāryam%}, To put up with, <ls>Pañc. iv. 28</ls>; with {%daṇḍam%}, To inflict a punishment, <ls>Lass. 14, 14</ls>; with {%dārān%}, To give a wife in marriage, <ls>Rām. 1, 77, 26</ls>; with {%nāma%}, To give a name, <ls>Man. 5, 70</ls>; with {%paścāt%}, To surpass, <ls>Ragh. 17, 18</ls>; with {%punar%}, To undo, <ls>Man. 8, 154</ls>; with {%bhaṅgam%}, To break, <ls>Pañc. 8, 17</ls>; with {%bhiyam%}, To fear, <ls>Rām. 1, 22, 14 <ab>Gorr.</ab></ls>; with {%vasuṃdharām%}, To wander over, <ls>Rām. 4, 46, 14</ls>; with {%vahis%}, To exclude, <ls>Man. 2, 103</ls>; to expel; with {%vinā%}, To deprive, <ls>Nal. 13, 25</ls>; with {%śramam%}, To apply diligence, <ls>Man. 2, 168</ls>; with {%sneham%}, To think of the love, <ls>Rām. 1, 21, 14</ls>. {@16.@} With the <ab>instr.</ab>, To do with, {%kiṃ kariṣyati saṃsargaiḥ%}, Of what use will be conjunction, <ls>Cāṇ. 106,</ls> in <ls>Monatsb. d. Berl. Ak. d. Wiss., 1864, 413</ls>; To use, <ls>Man. 10, 91</ls>; with {%manasā%}, To mind, <ls>MBh. 1, 7051</ls>; with {%hṛdayena%}, To love, <ls>Mṛcch. 73, 7</ls>. {@17.@} To be of use, with <ab>gen.</ab>, <ls>Böhtl. Ind. Spr. 2436</ls>. {@18.@} With the <ab>loc.</ab>, To put on, <ls>MBh. 1, 1883</ls>; with {%manasi%}; To mind, <ls>Rām. 2, 64, 8</ls>; with {%hṛdaye%}, To mind, <ls>Cāṇ. 92,</ls> in <ls>Monatsb. d. Berl. Ak. d. Wiss. 1864, 413</ls>; with {%hṛdi%}, To remember, <ls>Rājat. 5, 313</ls>; with {%vaśe%}, To subdue, <ls>Man. 2, 100</ls>. {@19.@} With the <ab>infin.</ab>, To begin, <ls>Rām. 2, 6, 10</ls>.
 ---
 > 1. {#kf#}¦ {%KṚ%} (originally {%skṛ%}; <ab>cf.</ab> {%ava-%}, {%upa-, pari-, sam-, abhi-sam-, upa-sam-%}, {%prati-sam-%}, and {%kośaskṛt%}), ii. 8, <ab>Par.</ab>, <ab>Ātm.</ab>, {%karomi%} (in epic poetry also {%kurmi%}, <ls>MBh. 3, 10943</ls>); <ab>ved.</ab> ii. 5, {%kṛṇomi%}; ii. 2, <ab>e. g.</ab> {%karṣi%}; i. 1, {%karasi%}. {@1.@} To make, <ls>Chr. 293, 3</ls> = <ls>Rigv. i. 88, 3</ls> ({%kṛṇavante%}, <ab>ved.</ab> <ab>conjunct.</ab>); <ls>Pañc. i. <ab>d.</ab> 436</ls>; <ls>Man. 2, 154</ls>; <ls>Rām. 1, 1, 59</ls>. {@2.@} To do, <ls>Rām. 1, 9, 10</ls>. {@3.@} To perform, <ls>Chr. 293, 4</ls> = <ls>Rigv. i. 88, 4</ls> ({%kṛṇvantaḥ%}); <ls>Man. 1, 55</ls> (one's natural functions); <ls>Rām. 3, 53, 11</ls> (an order); <ls n="Rām.">1, 2, 2</ls> (to show respect); <ls>Pañc. 82, 14</ls> (to show pride). {@4.@} To tell, <ls>Rām. 1, 2, 34</ls>. {@5.@} To compose, <ls>Rām. 1, 3, 38</ls>. {@6.@} To appoint, <ls>Man. 7, 78</ls>; <ls n="Man.">9, 127</ls>. {@7.@} To sacrifice, <ls>Man. 3, 210</ls>. {@8.@} To act for or against a person; with the <ab>gen.</ab> of the person, <ls>MBh. 3, 2160</ls>; with the <ab>loc.</ab>, <ls>Rām. 2, 64, 61</ls>. {@9.@} To assume, <ls>Man. 7, 10</ls>. {@10.@} To prepare, <ls>MBh. 13, 2794</ls>; to cook, <ls>Man. 9, 219</ls>. {@11.@} To cultivate, <ls>Yājñ. 2, 158</ls>; to till, <ls>Man. 10, 114</ls>. {@12.@} With nouns designing sounds, speech, To utter, <ls>MBh. 3, 11718</ls>. {@13.@} With nouns designing time, To pass, <ls>MBh. 15, 6</ls>; to wait, <ls n="MBh.">1, 2294</ls>; with {%ciram%}, To delay, <ls>Hiḍ. 4, 13</ls>. {@14.@} With nouns denoting mind, To give one's heart to, <ls>Man. 12, 118</ls>; to resolve, <ls>Chr. 11, 11</ls>; <ls>Rām. 1, 9, 55</ls>. {@15.@} With {%astrāṇi%}, To practise, <ls>MBh. 3, 11824</ls>; with {%udakam%} or {%salilam%}, To make the oblation of water to a deceased one, <ls>Man. 5, 188</ls>; [Page0203-a + 47] <ls>Rām. 1, 44, 49</ls>; with {%kanyām%}, To contaminate, <ls>Man. 8, 367</ls>; with {%kāryam%}, To put up with, <ls>Pañc. iv. 28</ls>; with {%daṇḍam%}, To inflict a punishment, <ls>Lass. 14, 14</ls>; with {%dārān%}, To give a wife in marriage, <ls>Rām. 1, 77, 26</ls>; with {%nāma%}, To give a name, <ls>Man. 5, 70</ls>; with {%paścāt%}, To surpass, <ls>Ragh. 17, 18</ls>; with {%punar%}, To undo, <ls>Man. 8, 154</ls>; with {%bhaṅgam%}, To break, <ls>Pañc. 8, 17</ls>; with {%bhiyam%}, To fear, <ls>Rām. 1, 22, 14 <ab>Gorr.</ab></ls>; with {%vasuṃdharām%}, To wander over, <ls>Rām. 4, 46, 14</ls>; with {%vahis%}, To exclude, <ls>Man. 2, 103</ls>; to expel; with {%vinā%}, To deprive, <ls>Nal. 13, 25</ls>; with {%śramam%}, To apply diligence, <ls>Man. 2, 168</ls>; with {%sneham%}, To think of the love, <ls>Rām. 1, 21, 14</ls>. {@16.@} With the <ab>instr.</ab>, To do with, {%kiṃ kariṣyati saṃsargaiḥ%}, Of what use will be conjunction, <ls>Cāṇ. 106,</ls> in <ls>Monatsb. d. Berl. Ak. d. Wiss., 1864, 413</ls>; To use, <ls>Man. 10, 91</ls>; with {%manasā%}, To mind, <ls>MBh. 1, 7051</ls>; with {%hṛdayena%}, To love, <ls>Mṛcch. 73, 7</ls>. {@17.@} To be of use, with <ab>gen.</ab>, <ls>Böhtl. Ind. Spr. 2436</ls>. {@18.@} With the <ab>loc.</ab>, To put on, <ls>MBh. 1, 1883</ls>; with {%manasi%}; To mind, <ls>Rām. 2, 64, 8</ls>; with {%hṛdaye%}, To mind, <ls>Cāṇ. 92,</ls> in <ls>Monatsb. d. Berl. Ak. d. Wiss. 1864, 413</ls>; with {%hṛdi%}, To remember, <ls>Rājat. 5, 313</ls>; with {%vaśe%}, To subdue, <ls>Man. 2, 100</ls>. {@19.@} With the <ab>infin.</ab>, To begin, <ls>Rām. 2, 6, 10</ls>.
+20415c20415
+< {#kzuDA#}¦ {%kṣudh + ā%}, <ab>f.</ab> Hunger, Pañc 88, 4.
+---
+> {#kzuDA#}¦ {%kṣudh + ā%}, <ab>f.</ab> Hunger, <ls>Pañc. 88, 4</ls>.
+23041c23041
+< {#gopana#}¦ {%gopana%}, <ab>i. e.</ab> {%gup + ana%}, <ab>n.</ab> and <ab>f.</ab> {%nā%}, Protection, <ls>MBh. 6, 2230</ls>; 12, 11907.
+---
+> {#gopana#}¦ {%gopana%}, <ab>i. e.</ab> {%gup + ana%}, <ab>n.</ab> and <ab>f.</ab> {%nā%}, Protection, <ls>MBh. 6, 2230</ls>; <ls n="MBh.">12, 11907</ls>.
+23809c23809
+<  --With {#vi#} {%vi%}, To stagger, <ls>MBh. 11, 522</ls>; to shake, 3, 11141. {%vighūrṇita%}, Revolved, <ls>Bhāg. P. 3, 19, 3</ls>.
+---
+>  --With {#vi#} {%vi%}, To stagger, <ls>MBh. 11, 522</ls>; to shake, <ls n="MBh.">3, 11141</ls>. {%vighūrṇita%}, Revolved, <ls>Bhāg. P. 3, 19, 3</ls>.
+24196c24196
+< {#cawacawA'#}¦ {%caṭacaṭā-%}, (an imitative sound), Clashing, <ls>MBh. 1, 7110</ls>; roaring, 3, 10980.
+---
+> {#cawacawA'#}¦ {%caṭacaṭā-%}, (an imitative sound), Clashing, <ls>MBh. 1, 7110</ls>; roaring, <ls n="MBh.">3, 10980</ls>.
 24382c24382
 < {#catvAriMSa#}¦ {%catvāriṃśa%}, <ab>ordin. numb.</ab> (from {%catvāriṃśat%}), <ab>f.</ab> {%śī%}, Fortieth, <ab>e. g.</ab> {%eka-%}, Forty-first, <ls>MBh.</ls> <ab>adhy.</ab> {%aṣṭacatvāriṃśa%}, <ab>i. e.</ab> {%aṣṭan-%}, Forty-eighth, <ls>Rām. 3, 48</ls>. {%tri-%}, Forty-third, <ls>MBh. 4,</ls> chap. 43. {%catuścatvāriṃśa%}, <ab>i. e.</ab> {%catur-%}, Forty-fourth, <ls>MBh.</ls> <ab>adhy.</ab> {%dvā-%}, and {%dvi-%}, Forty-second, <ab>ib.</ab> 1, <ab>adhy.</ab> 42; 2, <ab>adhy.</ab> 42. {%navan-%}, Fortyninth, <ls>Rām. 6, 49</ls>.
 ---
 > {#catvAriMSa#}¦ {%catvāriṃśa%}, <ab>ordin. numb.</ab> (from {%catvāriṃśat%}), <ab>f.</ab> {%śī%}, Fortieth, <ab>e. g.</ab> {%eka-%}, Forty-first, <ls>MBh.</ls> <ab>adhy.</ab> {%aṣṭacatvāriṃśa%}, <ab>i. e.</ab> {%aṣṭan-%}, Forty-eighth, <ls>Rām. 3, 48</ls>. {%tri-%}, Forty-third, <ls>MBh. 4,</ls> chap. 43. {%catuścatvāriṃśa%}, <ab>i. e.</ab> {%catur-%}, Forty-fourth, <ls>MBh.</ls> <ab>adhy.</ab> {%dvā-%}, and {%dvi-%}, Forty-second, <ab>ib.</ab> <ls n="MBh.">1, <ab>adhy.</ab> 42</ls>; <ls n="MBh.">2, <ab>adhy.</ab> 42</ls>. {%navan-%}, Fortyninth, <ls>Rām. 6, 49</ls>.
+24589c24589
+<  --With {#pratisam#} {%prati-sam%}, To meet, <ls>MBh.</ls> [Page0296-b + 45] 12, 11022.
+---
+>  --With {#pratisam#} {%prati-sam%}, To meet, <ls>MBh. 12, 11022</ls>. [Page0296-b + 45]
+25077c25077
+<  --With {#aBinis#} {%abhi-nis%}, To decide, <ls>MBh. 3, 1086</ls>; 12, 10635.
+---
+>  --With {#aBinis#} {%abhi-nis%}, To decide, <ls>MBh. 3, 1086</ls>; <ls n="MBh.">12, 10635</ls>.
+26330c26330
+< {#jagadAyu#}¦ {%jagadāyu%}, and {#jagadAyus#} {%jagadāyus%}, <ab>i. e.</ab> {%jagat-%}, <ab>m.</ab> Containing the life of the world, <ls>MBh. 3, 11193</ls>; 12, 13569.
+---
+> {#jagadAyu#}¦ {%jagadāyu%}, and {#jagadAyus#} {%jagadāyus%}, <ab>i. e.</ab> {%jagat-%}, <ab>m.</ab> Containing the life of the world, <ls>MBh. 3, 11193</ls>; <ls n="MBh.">12, 13569</ls>.
+26408c26408
+< ¦ {%Tri-jaṭa%}, {@I.@} <ab>adj.</ab> wearing three braids, <ls>MBh. 3, 16137</ls>. {@II.@} <ab>m.</ab> 1. a name of Śiva, 12, 10357. 2. a proper name, <ls>Rām. 2, 32, 28</ls>. {@III.@} <ab>f.</ab> {%ṭā%}, a proper name, <ls>Rām. 3, 41, 34</ls>.
+---
+> ¦ {%Tri-jaṭa%}, {@I.@} <ab>adj.</ab> wearing three braids, <ls>MBh. 3, 16137</ls>. {@II.@} <ab>m.</ab> 1. a name of Śiva, <ls n="MBh.">12, 10357</ls>. 2. a proper name, <ls>Rām. 2, 32, 28</ls>. {@III.@} <ab>f.</ab> {%ṭā%}, a proper name, <ls>Rām. 3, 41, 34</ls>.
 27776c27776
 < {#jYA#}¦ {%JÑĀ%}, ii. 9, {%jānā, nī%}, <ab>Par.</ab> <ab>Ātm.</ab> {@1.@} To know, <ls>Man. 2, 123</ls>; <ls>MBh. 3, 2154</ls> (with the <ab>gen.</ab>). {@2.@} To be intelligent, <ls>Man. 2, 110</ls>. {@3.@} To recognise, <ls>Megh. 64</ls>; <ls>Bhag. 5, 29</ls>. {@4.@} To search, <ls>Rām. 3, 51, 1</ls>; to investigate, <ls>MBh. 4, 962</ls>; to learn, <ls>Pañc. 4, 17</ls>. {@5.@} To consider, <ls>Man. 8, 71</ls>; <ls n="Man.">2, 23</ls>. {@6.@} To perceive, <ls>Rām. 1, 42, 1</ls>. Anomalous 3 <ab>sing.</ab> <ab>pres.</ab> {%jānate%}, <ls>MBh. 13, 5204</ls>; 1 <ab>pl.</ab> {%jānīma%}, 3, 15591; 2 <ab>pl.</ab> {%jānatha%}, <ls n="MBh.">2, 842</ls>; 2 <ab>pl.</ab> <ab>imptve.</ab> {%jānata%}, <ls n="MBh.">2, 2397</ls>; 2 <ab>sing.</ab> <ab>impf.</ab> <ab>Ātm.</ab> {%jānithās%}, <ls n="MBh.">14, 1641</ls>; <ab>ptcple.</ab> of the <ab>pres.</ab> <ab>Ātm.</ab> {%jānamāna%}, <ls n="MBh.">3, 1413</ls>.
 ---
 > {#jYA#}¦ {%JÑĀ%}, ii. 9, {%jānā, nī%}, <ab>Par.</ab> <ab>Ātm.</ab> {@1.@} To know, <ls>Man. 2, 123</ls>; <ls>MBh. 3, 2154</ls> (with the <ab>gen.</ab>). {@2.@} To be intelligent, <ls>Man. 2, 110</ls>. {@3.@} To recognise, <ls>Megh. 64</ls>; <ls>Bhag. 5, 29</ls>. {@4.@} To search, <ls>Rām. 3, 51, 1</ls>; to investigate, <ls>MBh. 4, 962</ls>; to learn, <ls>Pañc. 4, 17</ls>. {@5.@} To consider, <ls>Man. 8, 71</ls>; <ls n="Man.">2, 23</ls>. {@6.@} To perceive, <ls>Rām. 1, 42, 1</ls>. Anomalous 3 <ab>sing.</ab> <ab>pres.</ab> {%jānate%}, <ls>MBh. 13, 5204</ls>; 1 <ab>pl.</ab> {%jānīma%}, <ls n="MBh.">3, 15591</ls>; 2 <ab>pl.</ab> {%jānatha%}, <ls n="MBh.">2, 842</ls>; 2 <ab>pl.</ab> <ab>imptve.</ab> {%jānata%}, <ls n="MBh.">2, 2397</ls>; 2 <ab>sing.</ab> <ab>impf.</ab> <ab>Ātm.</ab> {%jānithās%}, <ls n="MBh.">14, 1641</ls>; <ab>ptcple.</ab> of the <ab>pres.</ab> <ab>Ātm.</ab> {%jānamāna%}, <ls n="MBh.">3, 1413</ls>.
+27824c27824
+< {#jYA#}¦ {%jñā%}, for {%ājnā%} after {%e%} and {%o%}, <ls>MBh. 1, 3168</ls>; 3, 16308.
+---
+> {#jYA#}¦ {%jñā%}, for {%ājnā%} after {%e%} and {%o%}, <ls>MBh. 1, 3168</ls>; <ls n="MBh.">3, 16308</ls>.
 31545c31545
 < {#daDIca#}¦ {%dadhīca%}, <ab>i. e.</ab> {%dadhyañc + a%}, also {#daDIci#} {%dadhīci%}, and {#daDyaYc#} {%dadhi-añc%}, <ab>m.</ab> The name of a Muni [Page0385-b + 44] or sage (originally of the sun), <ls>MBh. 3, 8695</ls>; 12, 10288; <ls>Bhāg. P. 6, 11, 20</ls>.
 ---
@@ -46,22 +118,144 @@
 <  --Anomalous 1. <ab>sing.</ab> <ab>pr. par.</ab> {%dadmi%}, <ls>MBh. 12, 10466</ls>; <ls n="MBh. 12,">3</ls>. <ab>sing.</ab> {%dadati%}, 3, 13422; <ls n="MBh. 12,">3</ls>. <ab>pl.</ab> {%dadanti%}, <ls n="MBh.">13, 3148</ls>; <ls n="MBh. 12,">3</ls>. <ab>sing.</ab> <ab>impf.</ab> {%adadat%}, <ls n="MBh.">2, 1880</ls>; <ls n="MBh. 12,">2</ls>. <ab>sing.</ab> <ab>imptive.</ab> {%dada%}, <ls n="MBh.">9, 2442</ls>; <ab>Ātm.</ab> {%dadasva%}, <ls n="MBh.">1, 3482</ls>; <ab>cf.</ab> {%dad%}.
 ---
 >  --Anomalous 1. <ab>sing.</ab> <ab>pr. par.</ab> {%dadmi%}, <ls>MBh. 12, 10466</ls>; <ls n="MBh. 12,">3</ls>. <ab>sing.</ab> {%dadati%}, <ls n="MBh.">3, 13422</ls>; <ls n="MBh. 3,">3</ls>. <ab>pl.</ab> {%dadanti%}, <ls n="MBh.">13, 3148</ls>; <ls n="MBh. 12,">3</ls>. <ab>sing.</ab> <ab>impf.</ab> {%adadat%}, <ls n="MBh.">2, 1880</ls>; <ls n="MBh. 12,">2</ls>. <ab>sing.</ab> <ab>imptive.</ab> {%dada%}, <ls n="MBh.">9, 2442</ls>; <ab>Ātm.</ab> {%dadasva%}, <ls n="MBh.">1, 3482</ls>; <ab>cf.</ab> {%dad%}.
+32626c32626
+< {#divaMgama#}¦ {%divaṃgama%}, <ab>i. e.</ab> {%diva + m-gama%}, <ab>adj.</ab> {@1.@} Rising to heaven, <ls>MBh. 4, 1526</ls>. {@2.@} Leading to heaven, 3, 11135.
+---
+> {#divaMgama#}¦ {%divaṃgama%}, <ab>i. e.</ab> {%diva + m-gama%}, <ab>adj.</ab> {@1.@} Rising to heaven, <ls>MBh. 4, 1526</ls>. {@2.@} Leading to heaven, <ls n="MBh.">3, 11135</ls>.
+33434c33434
+< {#dUratas#}¦ {%dūra + tas%}, <ab>adv.</ab> {@1.@} From afar, Rām 1, 48, 9. {@2.@} Aloof from, <ls>Man. 4, 73</ls>. {@3.@} Far, <ls>Rām. 3, 60, 31</ls>; <ls>Pañc. i. <ab>d.</ab> 9</ls>.
+---
+> {#dUratas#}¦ {%dūra + tas%}, <ab>adv.</ab> {@1.@} From afar, <ls>Rām. 1, 48, 9</ls>. {@2.@} Aloof from, <ls>Man. 4, 73</ls>. {@3.@} Far, <ls>Rām. 3, 60, 31</ls>; <ls>Pañc. i. <ab>d.</ab> 9</ls>.
+34921c34921
+< ¦ {%Mahā%}, {@I.@} <ab>adj.</ab> 1. rich. 2. valuable. {@II.@} <ab>n.</ab> 1. (<ab>ved.</ab>) battle, <ls>Chr. 297, 17</ls> = <ls>Rigv. i. 112, 17. 2</ls>. gold. 3. incense. 4. costly raiment. 5. agriculture.
+---
+> ¦ {%Mahā%}, {@I.@} <ab>adj.</ab> 1. rich. 2. valuable. {@II.@} <ab>n.</ab> 1. (<ab>ved.</ab>) battle, <ls>Chr. 297, 17</ls> = <ls>Rigv. i. 112, 17</ls>. 2. gold. 3. incense. 4. costly raiment. 5. agriculture.
+35276c35276
+<  --With {#saMpraRi#} {%sam-pra-ni%}, {@1.@} To leave, <ls>MBh. 4, 1247</ls>. {@2.@} To disregard, 3, 13194.
+---
+>  --With {#saMpraRi#} {%sam-pra-ni%}, {@1.@} To leave, <ls>MBh. 4, 1247</ls>. {@2.@} To disregard, <ls n="MBh.">3, 13194</ls>.
+35858c35858
+< {#'Dfk#}¦ {%-dhṛk%}, latter part of <ab>comp.</ab> words, and only in the <ab>nom.</ab> <ab>sing.</ab> (probably a form of {%dhṛ + t%}), {@1.@} Bearing, <ls>Rām. 1, 6, 9</ls>. {@2.@} Sustaining, <ls>MBh. 12, 10432</ls>. {@3.@} Old, 3, 12597.
+---
+> {#'Dfk#}¦ {%-dhṛk%}, latter part of <ab>comp.</ab> words, and only in the <ab>nom.</ab> <ab>sing.</ab> (probably a form of {%dhṛ + t%}), {@1.@} Bearing, <ls>Rām. 1, 6, 9</ls>. {@2.@} Sustaining, <ls>MBh. 12, 10432</ls>. {@3.@} Old, <ls n="MBh.">3, 12597</ls>.
+35886c35886
+< {#Dftimant#}¦ {%dhṛti + mant%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%matī%}. {@1.@} Firm, <ls>Man. 7, 210</ls>. {@2.@} Content, <ls>MBh. 13, 3054</ls>. {@II.@} <ab>m.</ab> {@1.@} A name of Agni, 3, 14188. {@2.@} A proper name. {@III.@} <ab>f.</ab> {%matī%}, The name of a river, <ls n="MBh.">6, 339</ls>. {@IV.@} <ab>n.</ab> The name of a division of the world, <ls n="MBh.">6, 454</ls>.
+---
+> {#Dftimant#}¦ {%dhṛti + mant%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%matī%}. {@1.@} Firm, <ls>Man. 7, 210</ls>. {@2.@} Content, <ls>MBh. 13, 3054</ls>. {@II.@} <ab>m.</ab> {@1.@} A name of Agni, <ls n="MBh.">3, 14188</ls>. {@2.@} A proper name. {@III.@} <ab>f.</ab> {%matī%}, The name of a river, <ls n="MBh.">6, 339</ls>. {@IV.@} <ab>n.</ab> The name of a division of the world, <ls n="MBh.">6, 454</ls>.
+35946c35946
+< {#Denuka#}¦ {%dhenu + ka%}, {@I.@} <ab>m.</ab> The name of a demon, <ls>MBh. 5, 4410</ls>. {@II.@} <ab>f.</ab> {%kā%}. {@1.@} A milch cow, 3, 13035. {@2.@} A present (<ab>cf.</ab> {%dhenu%} {@3@}), <ls n="MBh.">3, 8065</ls>.
+---
+> {#Denuka#}¦ {%dhenu + ka%}, {@I.@} <ab>m.</ab> The name of a demon, <ls>MBh. 5, 4410</ls>. {@II.@} <ab>f.</ab> {%kā%}. {@1.@} A milch cow, <ls n="MBh.">3, 13035</ls>. {@2.@} A present (<ab>cf.</ab> {%dhenu%} {@3@}), <ls n="MBh.">3, 8065</ls>.
 35968c35968
 < {#DmA#}¦ {%DHMĀ%}, i. 1, {%dhama%}, <ab>Par.</ab> {@1.@} To blow (as breath, wind), <ls>MBh. 14, 1732</ls>; <ls>Suśr. 1, 332, 11</ls>. {@2.@} To produce sound by blowing, <ls>MBh. 2, 1925</ls>. {@3.@} To excite fire by blowing, <ls n="MBh.">2, 2483</ls>. {@4.@} To melt, <ls>Man. 6, 71</ls>. {@5.@} To throw, <ls>MBh. 5, 7209</ls>. <ab>Anomal.</ab> <ab>fut.</ab> {%dhamiṣyanti%}, <ls>Rām. 3, 62, 7</ls>. <ab>Pass.</ab> {@1.@} {%dhmāya%}, in epic poetry also with the terminations of the <ab>Par.</ab>, <ls>MBh. 2, 1756</ls>. {@2.@} In epic poetry also {%dhamya%}, 3, 16825; also with the terminations of the <ab>Par.</ab> <ls n="MBh.">14, 1738</ls>.
 ---
 > {#DmA#}¦ {%DHMĀ%}, i. 1, {%dhama%}, <ab>Par.</ab> {@1.@} To blow (as breath, wind), <ls>MBh. 14, 1732</ls>; <ls>Suśr. 1, 332, 11</ls>. {@2.@} To produce sound by blowing, <ls>MBh. 2, 1925</ls>. {@3.@} To excite fire by blowing, <ls n="MBh.">2, 2483</ls>. {@4.@} To melt, <ls>Man. 6, 71</ls>. {@5.@} To throw, <ls>MBh. 5, 7209</ls>. <ab>Anomal.</ab> <ab>fut.</ab> {%dhamiṣyanti%}, <ls>Rām. 3, 62, 7</ls>. <ab>Pass.</ab> {@1.@} {%dhmāya%}, in epic poetry also with the terminations of the <ab>Par.</ab>, <ls>MBh. 2, 1756</ls>. {@2.@} In epic poetry also {%dhamya%}, <ls n="MBh.">3, 16825</ls>; also with the terminations of the <ab>Par.</ab> <ls n="MBh.">14, 1738</ls>.
+36019c36019
+<  --With {#apa#} {%apa%}, To disregard, <ls>MBh. 7, 2076</ls>. {@2.@} To hurt, 3, 13656.
+---
+>  --With {#apa#} {%apa%}, To disregard, <ls>MBh. 7, 2076</ls>. {@2.@} To hurt, <ls n="MBh.">3, 13656</ls>.
+36123c36123
+<  --<ab>Caus.</ab> {@1.@} To break to pieces, <ls>MBh. 1, 8282</ls>. {@2.@} To crush, 3, 16501. {@3.@} To destroy, <ls>Rām. 5, 26, 37</ls>. {@4.@} To hurt, <ls n="Rām.">3, 53, 51</ls>.
+---
+>  --<ab>Caus.</ab> {@1.@} To break to pieces, <ls>MBh. 1, 8282</ls>. {@2.@} To crush, <ls n="MBh.">3, 16501</ls>. {@3.@} To destroy, <ls>Rām. 5, 26, 37</ls>. {@4.@} To hurt, <ls n="Rām.">3, 53, 51</ls>.
+37005c37005
+<  --With {#sam#} {%sam%}, {@1.@} To fasten, <ls>Bhāg. P. 8, 12, 21</ls>. {@2.@} To dress, <ls>MBh. 4, 1220</ls>. {@3.@} To put on, <ls>MBh. 218, 7</ls>; 3, 14958. {@4.@} To prepare for, <ls>Bhartṛ. 2, 6</ls>. {%saṃnaddha%}, {@1.@} Tied together, <ls>Rājat. 4, 543</ls>. {@2.@} Fastened, <ls>MBh. 15, 627</ls>. {@3.@} Bordering, <ls>Rām. 1, 38, 21</ls>. [Page0463-b + 42] {@4.@} Armed, <ls>MBh. 2, 2463</ls>. {@5.@} Accoutred, <ls>Hariv. 6402</ls>. {@6.@} Ready, <ls>Rājat. 1, 77</ls>.
+---
+>  --With {#sam#} {%sam%}, {@1.@} To fasten, <ls>Bhāg. P. 8, 12, 21</ls>. {@2.@} To dress, <ls>MBh. 4, 1220</ls>. {@3.@} To put on, <ls>MBh. 218, 7</ls>; <ls n="MBh.">3, 14958</ls>. {@4.@} To prepare for, <ls>Bhartṛ. 2, 6</ls>. {%saṃnaddha%}, {@1.@} Tied together, <ls>Rājat. 4, 543</ls>. {@2.@} Fastened, <ls>MBh. 15, 627</ls>. {@3.@} Bordering, <ls>Rām. 1, 38, 21</ls>. [Page0463-b + 42] {@4.@} Armed, <ls>MBh. 2, 2463</ls>. {@5.@} Accoutred, <ls>Hariv. 6402</ls>. {@6.@} Ready, <ls>Rājat. 1, 77</ls>.
+37412c37412
+< {#nAsatya#}¦ {%nāsatya%}, <ab>i. e.</ab> {%na-a-satya%}, {@I.@} <ab>m.</ab> <ab>du.</ab> A name of the Aśvins, <ls>MBh. 12, 7583</ls>. {@II.@} <ab>adj.</ab> Referring to the Nāsatyas, 12, 13491.
+---
+> {#nAsatya#}¦ {%nāsatya%}, <ab>i. e.</ab> {%na-a-satya%}, {@I.@} <ab>m.</ab> <ab>du.</ab> A name of the Aśvins, <ls>MBh. 12, 7583</ls>. {@II.@} <ab>adj.</ab> Referring to the Nāsatyas, <ls n="MBh.">12, 13491</ls>.
+37602c37602
+< {#nikfntana#}¦ {%nikṛntana%}, <ab>i. e.</ab> {%ni-kṛt + ana%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%nī%}, Destroying, <ls>Rām. 1, 30, 14 <ab>Gorr.</ab></ls> {@II.@} <ab>m.</ab> The name of a hell, <ls>Mārk. P. 12, 15</ls>. {@III.@} <ab>n.</ab> {@1.@} Cutting, <ls>MBh. 2, 2193</ls>. {@2.@} Destruction, 3, 14438.
+---
+> {#nikfntana#}¦ {%nikṛntana%}, <ab>i. e.</ab> {%ni-kṛt + ana%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%nī%}, Destroying, <ls>Rām. 1, 30, 14 <ab>Gorr.</ab></ls> {@II.@} <ab>m.</ab> The name of a hell, <ls>Mārk. P. 12, 15</ls>. {@III.@} <ab>n.</ab> {@1.@} Cutting, <ls>MBh. 2, 2193</ls>. {@2.@} Destruction, <ls n="MBh.">3, 14438</ls>.
+37718c37718
+< {#nicaya#}¦ {%nicaya%}, <ab>i. e.</ab> {%ni-ci + a%}, <ab>m.</ab> {@1.@} Heaping, <ls>Rām. 2, 77, 22</ls>. {@2.@} Collection, <ls>MBh. 15, 205</ls>. {@3.@} Heap, multitude, <ls n="MBh.">4, 30</ls>. {@4.@} Provision. 11, 48. {@5.@} The parts (of a whole), <ls n="MBh.">15, 5416</ls>.
+---
+> {#nicaya#}¦ {%nicaya%}, <ab>i. e.</ab> {%ni-ci + a%}, <ab>m.</ab> {@1.@} Heaping, <ls>Rām. 2, 77, 22</ls>. {@2.@} Collection, <ls>MBh. 15, 205</ls>. {@3.@} Heap, multitude, <ls n="MBh.">4, 30</ls>. {@4.@} Provision. <ls n="MBh.">11, 48</ls>. {@5.@} The parts (of a whole), <ls n="MBh.">15, 5416</ls>.
+37801,37802c37801,37802
+<  --With {#prati#} {%prati%}, To blame, 3, 15656.
+<  --With {#vi#} {%vi%}, To blame, 3, 13700.
+---
+>  --With {#prati#} {%prati%}, To blame, <ls n="MBh.">3, 15656</ls>.
+>  --With {#vi#} {%vi%}, To blame, <ls n="MBh.">3, 13700</ls>.
+37811c37811
+< {#nidarSaka#}¦ {%nidarśaka%}, <ab>i. e.</ab> {%ni-dṛś + aka%}, <ab>adj.</ab> {@1.@} Seeing, <ls>MBh. 12, 7472</ls>. {@2.@} Announcing, 3, 13086.
+---
+> {#nidarSaka#}¦ {%nidarśaka%}, <ab>i. e.</ab> {%ni-dṛś + aka%}, <ab>adj.</ab> {@1.@} Seeing, <ls>MBh. 12, 7472</ls>. {@2.@} Announcing, <ls n="MBh.">3, 13086</ls>.
+37815c37815
+< {#nidarSana#}¦ {%nidarśana%}, <ab>i. e.</ab> {%ni-dṛś + ana%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%nī%}. {@1.@} Showing, <ls>Bhāg. P. 2, 5, 1</ls>. {@2.@} Announcing, <ls>Hariv. 12815</ls>. {@3.@} Teaching, <ls>Bhāg. P. 5, 18, 33</ls>. {@II.@} <ab>n.</ab> {@1.@} Seeing, sight, <ls>MBh. 9, 62</ls>. {@2.@} Evidence, <ls>Man. 11, 45</ls>. {@3.@} Example, <ls n="Man.">9, 20</ls>; <ls>MBh. 8, 1882</ls>. {@4.@} Foreboding, <ls>Hariv. 9885</ls>. {@5.@} Prognostic, <ls>MBh. 5, 1235</ls>. {@6.@} Symptom, 12, 11718.
+---
+> {#nidarSana#}¦ {%nidarśana%}, <ab>i. e.</ab> {%ni-dṛś + ana%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%nī%}. {@1.@} Showing, <ls>Bhāg. P. 2, 5, 1</ls>. {@2.@} Announcing, <ls>Hariv. 12815</ls>. {@3.@} Teaching, <ls>Bhāg. P. 5, 18, 33</ls>. {@II.@} <ab>n.</ab> {@1.@} Seeing, sight, <ls>MBh. 9, 62</ls>. {@2.@} Evidence, <ls>Man. 11, 45</ls>. {@3.@} Example, <ls n="Man.">9, 20</ls>; <ls>MBh. 8, 1882</ls>. {@4.@} Foreboding, <ls>Hariv. 9885</ls>. {@5.@} Prognostic, <ls>MBh. 5, 1235</ls>. {@6.@} Symptom, <ls n="MBh.">12, 11718</ls>.
+38740c38740
+< {#nivartin#}¦ {%nivartin%}, <ab>i. e.</ab> {%ni-vṛt + in%}, <ab>adj.</ab>, <ab>f.</ab> {%nī%}. {@1.@} Turning back, <ls>Rām. 2, 105, 29</ls>. {@2.@} Flying, showing the heels, <ls n="Rām.">1, 6, 20</ls>. {@3.@} Returning, <ls>Böhtl. Ind. Spr. 788</ls>. {@4.@} Leaving, <ls>MBh. 13, 2653</ls>. {@5.@} Abstaining from, 12, 10386. {@6.@} Allowing to return, <ls>Hariv. 4836</ls>.
+---
+> {#nivartin#}¦ {%nivartin%}, <ab>i. e.</ab> {%ni-vṛt + in%}, <ab>adj.</ab>, <ab>f.</ab> {%nī%}. {@1.@} Turning back, <ls>Rām. 2, 105, 29</ls>. {@2.@} Flying, showing the heels, <ls n="Rām.">1, 6, 20</ls>. {@3.@} Returning, <ls>Böhtl. Ind. Spr. 788</ls>. {@4.@} Leaving, <ls>MBh. 13, 2653</ls>. {@5.@} Abstaining from, <ls n="MBh.">12, 10386</ls>. {@6.@} Allowing to return, <ls>Hariv. 4836</ls>.
+39227c39227
+<  --With {#ud#} {%ud%}, {@1.@} To bring upwards, 3, 17330. {@2.@} To raise, <ls>Bhāg. P. 4, 3, 10</ls>. {@3.@} To lead out (<ab>abl.</ab>), to (acc and <ab>loc.</ab>), <ls n="Bhāg. P.">2, 2, 21</ls>; <ls>MBh. 12, 6105</ls>. {@4.@} To lead aside, <ls>MBh. 3, 1438</ls>. {@5.@} To conduct away, <ls n="MBh.">12, 9561</ls>. {@6.@} To lead in different directions, <ls>Bhāg. P. 7, 2, 21</ls>. {@7.@} To trace out, <ls>MBh. 3, 12444</ls>.
+---
+>  --With {#ud#} {%ud%}, {@1.@} To bring upwards, <ls n="MBh.">3, 17330</ls>. {@2.@} To raise, <ls>Bhāg. P. 4, 3, 10</ls>. {@3.@} To lead out (<ab>abl.</ab>), to (acc and <ab>loc.</ab>), <ls n="Bhāg. P.">2, 2, 21</ls>; <ls>MBh. 12, 6105</ls>. {@4.@} To lead aside, <ls>MBh. 3, 1438</ls>. {@5.@} To conduct away, <ls n="MBh.">12, 9561</ls>. {@6.@} To lead in different directions, <ls>Bhāg. P. 7, 2, 21</ls>. {@7.@} To trace out, <ls>MBh. 3, 12444</ls>.
+39420c39420
+<  --With {#apA#} {%apa-ā%}, (probably {%apa%} with lengthened final), {@1.@} To drive away, <ls n="MBh.">7, 8691</ls>. {@2.@} To remove, 3, 16973. {@3.@} To expiate, <ls>Man. 6, 95</ls>.
+---
+>  --With {#apA#} {%apa-ā%}, (probably {%apa%} with lengthened final), {@1.@} To drive away, <ls n="MBh.">7, 8691</ls>. {@2.@} To remove, <ls n="MBh.">3, 16973</ls>. {@3.@} To expiate, <ls>Man. 6, 95</ls>.
+39425c39425
+<  --With {#aBinis#} To remove, 12, 10728.
+---
+>  --With {#aBinis#} To remove, <ls n="MBh.">12, 10728</ls>.
+40336c40336
+<  --With {#pari#} {%pari%}, {@1.@} To mention, <ls>MBh. 1, 2020</ls>. {@2.@} To declare, 3, 14192.
+---
+>  --With {#pari#} {%pari%}, {@1.@} To mention, <ls>MBh. 1, 2020</ls>. {@2.@} To declare, <ls n="MBh.">3, 14192</ls>.
+42898c42898
+<  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab>, {%pipāsita%}, Thirsty, 3, 17247. <ab>Frequentat.</ab> {%pepīya%}, {@1.@} To drink repeatedly or greedily. {@2.@} To be drunk greedily (<ab>pass.</ab>, probably to be corrected to {%pepīyya%}). <ls>Bhāg. P. 5, 8, 1</ls>; <ls>Hariv. 8798</ls>.
+---
+>  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab>, {%pipāsita%}, Thirsty, <ls n="MBh.">3, 17247</ls>. <ab>Frequentat.</ab> {%pepīya%}, {@1.@} To drink repeatedly or greedily. {@2.@} To be drunk greedily (<ab>pass.</ab>, probably to be corrected to {%pepīyya%}). <ls>Bhāg. P. 5, 8, 1</ls>; <ls>Hariv. 8798</ls>.
+43219c43219
+< {#pAta#}¦ {%pāta%}, <ab>i. e.</ab> {%pat + a%}, <ab>m.</ab> {@1.@} Flying, <ls>MBh. 8, 1898</ls>. {@2.@} Manner of flying, 3, 10646. {@3.@} Throwing one's self, <ls>Bhartṛ. 2, 77</ls>. {@4.@} Falling. {@5.@} A cast. {@6.@} A stroke. {%khaḍga-%}, A stroke with the sword, <ls>Kathās. 27, 50</ls>. {@7.@} Case, <ls>Lass. 43, 3</ls>.
+---
+> {#pAta#}¦ {%pāta%}, <ab>i. e.</ab> {%pat + a%}, <ab>m.</ab> {@1.@} Flying, <ls>MBh. 8, 1898</ls>. {@2.@} Manner of flying, <ls n="MBh.">3, 10646</ls>. {@3.@} Throwing one's self, <ls>Bhartṛ. 2, 77</ls>. {@4.@} Falling. {@5.@} A cast. {@6.@} A stroke. {%khaḍga-%}, A stroke with the sword, <ls>Kathās. 27, 50</ls>. {@7.@} Case, <ls>Lass. 43, 3</ls>.
+46078c46078
+< {#peSI#}¦ {%peśī%} (<ab>cf.</ab> {%piśita%}), <ab>f.</ab> {@1.@} A ball or piece of flesh or meat, <ls>MBh. 1, 4494</ls>. {@2.@} The fœtus directly after conception, 12, 11968. {@3.@} A muscle, <ls>Yājñ. 3, 100</ls>. {@4.@} The peel of a fruit. {@5.@} A kind of drum, <ls>MBh. 6, 1535</ls>. {@6.@} An egg.
+---
+> {#peSI#}¦ {%peśī%} (<ab>cf.</ab> {%piśita%}), <ab>f.</ab> {@1.@} A ball or piece of flesh or meat, <ls>MBh. 1, 4494</ls>. {@2.@} The fœtus directly after conception, <ls n="MBh.">12, 11968</ls>. {@3.@} A muscle, <ls>Yājñ. 3, 100</ls>. {@4.@} The peel of a fruit. {@5.@} A kind of drum, <ls>MBh. 6, 1535</ls>. {@6.@} An egg.
 47920c47920
 < {#prativiDAna#}¦ {%pratividhāna%} <ab>i. e.</ab> {%prati-vi-dhā + ana%}, <ab>n.</ab> {@1.@} Arrangement against something, prevention, Pañc 148, 20; help, 260, 24. {@2.@} Arrangement. {@3.@} Subsidiary ceremony.
 ---
 > {#prativiDAna#}¦ {%pratividhāna%} <ab>i. e.</ab> {%prati-vi-dhā + ana%}, <ab>n.</ab> {@1.@} Arrangement against something, prevention, <ls>Pañc. 148, 20</ls>; help, <ls n="Pañc.">260, 24</ls>. {@2.@} Arrangement. {@3.@} Subsidiary ceremony.
+48070c48070
+< ¦ {%Su-%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%kā%}. 1. handsome-faced, <ls>Chr. 294, 6</ls> = <ls>Rigv. i. 92, 6. 2</ls>. handsome. {@II.@} <ab>m.</ab> 1. Śiva. 2. Kāma. 3. the elephant of the south-east(?) quarter.
+---
+> ¦ {%Su-%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%kā%}. 1. handsome-faced, <ls>Chr. 294, 6</ls> = <ls>Rigv. i. 92, 6</ls>. 2. handsome. {@II.@} <ab>m.</ab> 1. Śiva. 2. Kāma. 3. the elephant of the south-east(?) quarter.
+48724c48724
+< {#pramATin#}¦ {%pramāthin%}, <ab>i. e.</ab> {%pra-math + in%}, <ab>adj.</ab>, <ab>f.</ab> {%nī%}. {@1.@} Agitating, <ls>MBh. 12, 9040</ls>. {@2.@} Afflicting, torturing, <ab>ib.</ab> 3, 16435. {@3.@} Killing, destroying, a destroyer, <ls>Chr. 34, 12</ls>.
+---
+> {#pramATin#}¦ {%pramāthin%}, <ab>i. e.</ab> {%pra-math + in%}, <ab>adj.</ab>, <ab>f.</ab> {%nī%}. {@1.@} Agitating, <ls>MBh. 12, 9040</ls>. {@2.@} Afflicting, torturing, <ab>ib.</ab> <ls n="MBh.">3, 16435</ls>. {@3.@} Killing, destroying, a destroyer, <ls>Chr. 34, 12</ls>.
 49075c49075
 < {#pravftti#}¦ {%pra-vṛt + ti%}, <ab>f.</ab> {@1.@} Action, <ls>Hit. 17, 5</ls> (engaging); occupation, doing, <ls>Man. 5, 31</ls>; <ls>Daśak. 186, 13</ls>; activity, <ls>Bhāṣāp. 148</ls>. {@2.@} Perseverance. {@3.@} Practice, <ls>Daśak. in Chr. 182, 10</ls>. {@4.@} Tidings, <ls>Vikr. 57, 18</ls>; report, <ab>d.</ab> 102; utterance, <ls>Śāk. <ab>d.</ab> 21</ls>; <ls>Ragh. 12, 60</ls>. {@5.@} Continuous flow, <ls>Vikr. <ab>d.</ab> 110</ls>. {@6.@} The juice that exudes from an elephant's temples when in rut.
 ---
 > {#pravftti#}¦ {%pra-vṛt + ti%}, <ab>f.</ab> {@1.@} Action, <ls>Hit. 17, 5</ls> (engaging); occupation, doing, <ls>Man. 5, 31</ls>; <ls>Daśak. 186, 13</ls>; activity, <ls>Bhāṣāp. 148</ls>. {@2.@} Perseverance. {@3.@} Practice, <ls>Daśak. in Chr. 182, 10</ls>. {@4.@} Tidings, <ls>Vikr. 57, 18</ls>; report, <ab>d.</ab> <ls n="Vikr. 57,">102</ls>; utterance, <ls>Śāk. <ab>d.</ab> 21</ls>; <ls>Ragh. 12, 60</ls>. {@5.@} Continuous flow, <ls>Vikr. <ab>d.</ab> 110</ls>. {@6.@} The juice that exudes from an elephant's temples when in rut.
+50266c50266
+< {#plu#}¦ {%PLU%}, i. 1, <ab>Ātm.</ab> {@1.@} To swim, <ls>Rām. 2, 69, 9</ls>. {@2.@} To navigate, <ls>MBh. 3, 12782</ls>. {@3.@} To fly, 3, 11767. {@4.@} To jump, <ls>Śāk. <ab>d.</ab> 7</ls>; <ls>Rām. 5, 2, 34</ls> ({%plavant%}, <ab>ptcple.</ab> of the <ab>pres.</ab> <ab>Par.</ab>, perhaps A monkey). {@5.@} To jump over (with <ab>acc.</ab>), <ls>Rām. 1, 1, 70</ls>. {@6.@} To blow, <ls>MBh. 3, 11070</ls>.
+---
+> {#plu#}¦ {%PLU%}, i. 1, <ab>Ātm.</ab> {@1.@} To swim, <ls>Rām. 2, 69, 9</ls>. {@2.@} To navigate, <ls>MBh. 3, 12782</ls>. {@3.@} To fly, <ls n="MBh.">3, 11767</ls>. {@4.@} To jump, <ls>Śāk. <ab>d.</ab> 7</ls>; <ls>Rām. 5, 2, 34</ls> ({%plavant%}, <ab>ptcple.</ab> of the <ab>pres.</ab> <ab>Par.</ab>, perhaps A monkey). {@5.@} To jump over (with <ab>acc.</ab>), <ls>Rām. 1, 1, 70</ls>. {@6.@} To blow, <ls>MBh. 3, 11070</ls>.
 51014c51014
 < {#bAnDava#}¦ {%bāndhava%}, <ab>i. e.</ab> {%bandhu + a%}, <ab>m.</ab> {@1.@} A relation, a kinsman, <ls>Pañc. iii</ls>. <ab>d.</ab> [Page0631-b + 44] 141; <ls>Hit. i. <ab>d.</ab> 71</ls>, <ab>M.M.</ab>; <ls>Man. 4, 179</ls> (a maternal relation, <ls>Kull.</ls>). {@2.@} A friend, <ls>Hit. i. <ab>d.</ab> 72</ls>, <ab>M.M.</ab>
 ---
 > {#bAnDava#}¦ {%bāndhava%}, <ab>i. e.</ab> {%bandhu + a%}, <ab>m.</ab> {@1.@} A relation, a kinsman, <ls>Pañc. iii. <ab>d.</ab> 141</ls>; [Page0631-b + 44] <ls>Hit. i. <ab>d.</ab> 71</ls>, <ab>M.M.</ab>; <ls>Man. 4, 179</ls> (a maternal relation, <ls>Kull.</ls>). {@2.@} A friend, <ls>Hit. i. <ab>d.</ab> 72</ls>, <ab>M.M.</ab>
+51252c51252
+<  --<ab>Caus.</ab> {%bodhaya%}, {@1.@} To cause to know (with two <ab>acc.</ab>), to inform, <ls>MBh. 2, 2506</ls>. {@2.@} To advise, 3, 12774. {@3.@} To admonish, <ls n="MBh.">1, 5785</ls>. {@4.@} To awaken, <ls>Pañc. i. <ab>d.</ab> 351</ls>; <ls>MBh. 1, 5959</ls>. {@5.@} To [Page0634-b + 42] expand (as a flower), <ls>Śāk. <ab>d.</ab> 124</ls>. {%bodhita%}, Brought to consciousness, <ls>Daśak. in Chr. 194, 14</ls>.
+---
+>  --<ab>Caus.</ab> {%bodhaya%}, {@1.@} To cause to know (with two <ab>acc.</ab>), to inform, <ls>MBh. 2, 2506</ls>. {@2.@} To advise, <ls n="MBh.">3, 12774</ls>. {@3.@} To admonish, <ls n="MBh.">1, 5785</ls>. {@4.@} To awaken, <ls>Pañc. i. <ab>d.</ab> 351</ls>; <ls>MBh. 1, 5959</ls>. {@5.@} To [Page0634-b + 42] expand (as a flower), <ls>Śāk. <ab>d.</ab> 124</ls>. {%bodhita%}, Brought to consciousness, <ls>Daśak. in Chr. 194, 14</ls>.
+51490c51490
+<  --With {#pra#} {%pra%}, {@1.@} To declare, <ls>MBh. 1, 838</ls>. {@2.@} To recite, <ls>Man. 10, 1</ls>. {@3.@} To tell, <ls>MBh. 3, 16678</ls>. {@4.@} To speak, 3, 10487.
+---
+>  --With {#pra#} {%pra%}, {@1.@} To declare, <ls>MBh. 1, 838</ls>. {@2.@} To recite, <ls>Man. 10, 1</ls>. {@3.@} To tell, <ls>MBh. 3, 16678</ls>. {@4.@} To speak, <ls n="MBh.">3, 10487</ls>.
+51564c51564
+< ¦ {%Su-%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%gā%}. 1. fortunate, <ls>Chr. 287, 7</ls> = <ls>Rigv. i. 48, 7. 2</ls>. beautiful, <ls>Vikr. <ab>d.</ab> 123</ls>; lovely, <ls>Śāk. <ab>d.</ab> 3</ls>; charming, <ab>d.</ab> 57. 3. beloved, amiable, <ls>Man. 2, 129</ls>. {@II.@} <ab>m.</ab> 1. the Aśoka tree. 2. the Champaca, Micelia campaka. {@III.@} <ab>f.</ab> {%gā%}. 1. a favourite woman. 2. a respectable mother. 3. the name of several plants. {@IV.@} <ab>n.</ab> fortune, <ls>Daśak. in Chr. 184, 19</ls>.
+---
+> ¦ {%Su-%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%gā%}. 1. fortunate, <ls>Chr. 287, 7</ls> = <ls>Rigv. i. 48, 7</ls>. 2. beautiful, <ls>Vikr. <ab>d.</ab> 123</ls>; lovely, <ls>Śāk. <ab>d.</ab> 3</ls>; charming, <ab>d.</ab> 57. 3. beloved, amiable, <ls>Man. 2, 129</ls>. {@II.@} <ab>m.</ab> 1. the Aśoka tree. 2. the Champaca, Micelia campaka. {@III.@} <ab>f.</ab> {%gā%}. 1. a favourite woman. 2. a respectable mother. 3. the name of several plants. {@IV.@} <ab>n.</ab> fortune, <ls>Daśak. in Chr. 184, 19</ls>.
 52019c52019
 < {#Baz#}¦ {%BHAṢ%}, i. 1, <ab>Par.</ab> (in epic poetry also <ab>Ātm.</ab>, <ls>MBh. 2, 1425</ls>). {@1.@} To bark, <ls>MBh. 1, 5249</ls>. {@2.@} To bark at, to reproach malevolently, to rail, 3, 15641; <ab>cf.</ab> {%bhāṣ%}.
 ---
@@ -78,6 +272,10 @@
 < {#man#}¦ {%MAN%}, i. 4, and ii. 8, <ab>Ātm.</ab> (in epic poetry, and also elsewhere <ab>Par.</ab>, <ab>e. g.</ab> <ls>Pañc. ii. <ab>d.</ab> 97</ls>). {@1.@} To think, <ls>Chr. 10, 3</ls>; <ls n="Chr.">154, 16</ls>; <ls>Pañc. i. <ab>d.</ab> 126</ls> ({%samaṃ viṣamam eva ca manyate%}, To consider even and odd, <ab>i. e.</ab> to make long reflections); with {%anyathā%}, To doubt, <ls>Utt. Rāmac. 104, 2</ls>. {@2.@} To wish, <ls>Vikr. 12, 9</ls>. {@3.@} To mind, <ls>MBh. 3, 2092</ls>; with {%na%}, To disregard, <ls>Johns. Sel. 53, 125</ls>. {@4.@} To believe, <ls>Rājat. 5, 255</ls>; <ls>Chr. 14, 27</ls>. {@5.@} To understand, <ls>Vedāntas. in Chr. 215, 15</ls>. {@6.@} To know, <ls>Lass. 98, 7</ls> = <ls>Rigv. v. 9, 1</ls>; <ls>Daśak. in Chr. 183, 23</ls>. {@7.@} To mention, to declare, <ls>Chr. 296, 2</ls> = <ls>Rigv. i. 112, 2</ls> ({%mantave%}, <ab>ved.</ab> <ab>infin.</ab> ‘So many that even a loquacious man cannot reckon them up’). {@8.@} To take, to value, <ls>Pañc. ii. <ab>d.</ab> 97</ls>; i. <ab>d.</ab> 190; with {%bahu%}, To estimate highly, <ls>Rājat. 5, 276</ls>. {@9.@} {%manye%} is often inserted without syntactic connection. {@a.@} To strengthen an assertion, <ls>Lass. 72, 13</ls>. {@b.@} In order to give it a modest form, <ls>Daśak. in Chr. 182, 15</ls>. {@c.@} Ironically, <ls>Rām. 3, 51, 25</ls>.
 ---
 > {#man#}¦ {%MAN%}, i. 4, and ii. 8, <ab>Ātm.</ab> (in epic poetry, and also elsewhere <ab>Par.</ab>, <ab>e. g.</ab> <ls>Pañc. ii. <ab>d.</ab> 97</ls>). {@1.@} To think, <ls>Chr. 10, 3</ls>; <ls n="Chr.">154, 16</ls>; <ls>Pañc. i. <ab>d.</ab> 126</ls> ({%samaṃ viṣamam eva ca manyate%}, To consider even and odd, <ab>i. e.</ab> to make long reflections); with {%anyathā%}, To doubt, <ls>Utt. Rāmac. 104, 2</ls>. {@2.@} To wish, <ls>Vikr. 12, 9</ls>. {@3.@} To mind, <ls>MBh. 3, 2092</ls>; with {%na%}, To disregard, <ls>Johns. Sel. 53, 125</ls>. {@4.@} To believe, <ls>Rājat. 5, 255</ls>; <ls>Chr. 14, 27</ls>. {@5.@} To understand, <ls>Vedāntas. in Chr. 215, 15</ls>. {@6.@} To know, <ls>Lass. 98, 7</ls> = <ls>Rigv. v. 9, 1</ls>; <ls>Daśak. in Chr. 183, 23</ls>. {@7.@} To mention, to declare, <ls>Chr. 296, 2</ls> = <ls>Rigv. i. 112, 2</ls> ({%mantave%}, <ab>ved.</ab> <ab>infin.</ab> ‘So many that even a loquacious man cannot reckon them up’). {@8.@} To take, to value, <ls>Pañc. ii. <ab>d.</ab> 97</ls>; <ls n="Pañc.">i. <ab>d.</ab> 190</ls>; with {%bahu%}, To estimate highly, <ls>Rājat. 5, 276</ls>. {@9.@} {%manye%} is often inserted without syntactic connection. {@a.@} To strengthen an assertion, <ls>Lass. 72, 13</ls>. {@b.@} In order to give it a modest form, <ls>Daśak. in Chr. 182, 15</ls>. {@c.@} Ironically, <ls>Rām. 3, 51, 25</ls>.
+54532c54532
+< {#manIzita#}¦ {%manīṣita%}, <ab>i. e.</ab> {%manīṣā + ita%}, <ab>adj.</ab> {@1.@} Cherished in mind, Chr 18, 35. {@2.@} Aimed at, desired, 12, 4.
+---
+> {#manIzita#}¦ {%manīṣita%}, <ab>i. e.</ab> {%manīṣā + ita%}, <ab>adj.</ab> {@1.@} Cherished in mind, <ls>Chr. 18, 35</ls>. {@2.@} Aimed at, desired, <ls n="Chr.">12, 4</ls>.
 55135c55135
 < {#malina#}¦ {%malina%}, <ab>i. e.</ab> {%mala + in + a%}, {@I.@} <ab>adj.</ab> {@1.@} Dirty, <ls>Pañc. iii. <ab>d.</ab> 178</ls>; soiled, <ls>Hit. ii. <ab>d.</ab> 39</ls>. {@2.@} Black, <ls>Śiś. 9, 18</ls>; obscure, <ab>ib.</ab> 23; obscured, <ls>Hit. i. <ab>d.</ab> 27</ls>, <ab>M.M.</ab> {@3.@} Sinful. {@4.@} Bad. {@II.@} <ab>n.</ab> {@1.@} Fault. {@2.@} Buttermilk.
 ---
@@ -86,10 +284,18 @@
 < {#mahar#}¦ {%mahar%}, and {#maharloka#} {%mahar-loka%} ({%mahar%} for {%mahan%}, akin to {%mahant%}, or <ab>anomal.</ab> for {%mahas%}), <ab>m.</ab> The abode of the saints who survive a destruction of the world; it is said to be situated above the polar star, Weber, <ls>Ind. St. ii. 178</ls>; <ab>cf.</ab> 213; <ls>Vedāntas. in Chr. 269, 1</ls> ({%mahar%}).
 ---
 > {#mahar#}¦ {%mahar%}, and {#maharloka#} {%mahar-loka%} ({%mahar%} for {%mahan%}, akin to {%mahant%}, or <ab>anomal.</ab> for {%mahas%}), <ab>m.</ab> The abode of the saints who survive a destruction of the world; it is said to be situated above the polar star, Weber, <ls>Ind. St. ii. 178</ls>; <ab>cf.</ab> <ls n="Ind. St. ii.">213</ls>; <ls>Vedāntas. in Chr. 269, 1</ls> ({%mahar%}).
+55799c55799
+< {#mADyasTya#}¦ {%mādhyasthya%}, <ab>i. e.</ab> {%madhyastha + ya%}, <ab>n.</ab> {@1.@} Mediation. {@2.@} Office of an arbiter, Lass 92, 4.
+---
+> {#mADyasTya#}¦ {%mādhyasthya%}, <ab>i. e.</ab> {%madhyastha + ya%}, <ab>n.</ab> {@1.@} Mediation. {@2.@} Office of an arbiter, <ls>Lass. 92, 4</ls>.
 57027c57027
 < {#muzwi#}¦ {%muṣṭi%}, <ab>m.</ab> and <ab>f.</ab> {@1.@} The fist, Rām a, 15, 17; <ls>Pañc. i. <ab>d.</ab> 203</ls>. {@2.@} A [Page0716-b + 39] handful, <ls>Pañc. 215, 1</ls>. {@3.@} The handle of a sword.
 ---
 > {#muzwi#}¦ {%muṣṭi%}, <ab>m.</ab> and <ab>f.</ab> {@1.@} The fist, <ls>Rām. 3, 15, 17</ls>; <ls>Pañc. i. <ab>d.</ab> 203</ls>. {@2.@} A [Page0716-b + 39] handful, <ls>Pañc. 215, 1</ls>. {@3.@} The handle of a sword.
+57502c57502
+<  --With {#ava#} {%ava%}, {@1.@} To rub, <ls>MBh. 4, 468</ls>. {@2.@} To break to pieces, 3, 16346. {@3.@} To trample on, <ls>Rām. 2, 93, 8</ls>. {@4.@} To destroy, <ls>MBh. 3, 10203</ls>.
+---
+>  --With {#ava#} {%ava%}, {@1.@} To rub, <ls>MBh. 4, 468</ls>. {@2.@} To break to pieces, <ls n="MBh.">3, 16346</ls>. {@3.@} To trample on, <ls>Rām. 2, 93, 8</ls>. {@4.@} To destroy, <ls>MBh. 3, 10203</ls>.
 57539c57539
 < {#mfdu#}¦ {%mṛd + u%}, <ab>adj.</ab>, <ab>f.</ab> {%dvī%} (<ls>Rām. 4, 2, 2</ls>), <ab>comparat.</ab> {%mradīyaṃs%}, <ab>superl.</ab> {%mradiṣṭha%}. {@1.@} Soft, <ls>Pañc. i. <ab>d.</ab> 303</ls>; iii. <ab>d.</ab> 253; <ls>Johns. Sel. 56, 153</ls> ({%-pūrvam%}, <ab>adv.</ab> At first mildly). {@2.@} Mild, <ls>Vikr. <ab>d.</ab> 85</ls>. {@3.@} Weak, <ls>Hit. 81, 22</ls>. {@4.@} Blunt. {@5.@} Slow, <ls>Sāv. 4, 33</ls>.
 ---
@@ -102,10 +308,22 @@
 < {#yazwi#}¦ {%yaṣṭi%}, {@I.@} <ab>m.</ab> and <ab>f.</ab> (and {#yazwI#} {%yaṣṭī%}, <ab>f.</ab>), {@1.@} A staff, a stick, <ls>Pañc. 105, 19</ls>; <ls n="Pañc.">261, 12</ls>; <ls>Śiś. 9, 39</ls>; a perch, <ls>Vikr. <ab>d.</ab> 43</ls>; a stem, <ab>d.</ab> 44; support, <ls>Sāv. 5, 89</ls>. {@2.@} A palisade, <ls>Man. 9, 285</ls>. {@3.@} A club, <ls>Daśak. in Chr. 187, 4</ls>. {@4.@} A string, <ls>Vikr. <ab>d.</ab> 51</ls>. {@5.@} A necklace. {@6.@} Any creeping plant, <ls>Utt. Rāmac. 81, 5</ls>. {@7.@} Liquorice. {@8.@} A shrub, Siponanthus indica. {@II.@} <ab>m.</ab> {@1.@} A flagstaff. {@2.@} The arm and forearm.
 ---
 > {#yazwi#}¦ {%yaṣṭi%}, {@I.@} <ab>m.</ab> and <ab>f.</ab> (and {#yazwI#} {%yaṣṭī%}, <ab>f.</ab>), {@1.@} A staff, a stick, <ls>Pañc. 105, 19</ls>; <ls n="Pañc.">261, 12</ls>; <ls>Śiś. 9, 39</ls>; a perch, <ls>Vikr. <ab>d.</ab> 43</ls>; a stem, <ab>d.</ab> <ls n="Vikr. d.">44</ls>; support, <ls>Sāv. 5, 89</ls>. {@2.@} A palisade, <ls>Man. 9, 285</ls>. {@3.@} A club, <ls>Daśak. in Chr. 187, 4</ls>. {@4.@} A string, <ls>Vikr. <ab>d.</ab> 51</ls>. {@5.@} A necklace. {@6.@} Any creeping plant, <ls>Utt. Rāmac. 81, 5</ls>. {@7.@} Liquorice. {@8.@} A shrub, Siponanthus indica. {@II.@} <ab>m.</ab> {@1.@} A flagstaff. {@2.@} The arm and forearm.
+58723c58723
+<  --With {#upopa#} {%upa-upa%}, To approach gradually, <ls>MBh.</ls> [Page0739-b + 42] 3, 12358.
+---
+>  --With {#upopa#} {%upa-upa%}, To approach gradually, <ls>MBh. 3, 12358</ls>. [Page0739-b + 42]
 58988c58988
 < {#yAvant#}¦ {%yāvant%}, <ab>i. e.</ab> {%yad + vant%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%vatī%}, As much, as many, <ls>Hit. iv. <ab>d.</ab> 69</ls>; how much, <ls>Rājat. 5, 110</ls>; how many, <ls>Bhāg. P. 4, 25, 12</ls>. {@II.@} {%vat%}, <ab>acc.</ab> <ab>sing.</ab> <ab>n.</ab> <ab>adv.</ab> {@1.@} As much as, as far as, <ls>Johns. Sel. 33, 66</ls>. {@2.@} As many as. {@3.@} As long as, <ls>Pañc. iii. <ab>d.</ab> 94</ls>; with preceding <ab>acc.</ab> of a word signifying a division of time, During; <ab>e. g.</ab> {%sakalāṃ rātriṃ yāvat%}, During the whole night, <ls>Pañc. 117, 8</ls>; {%varṣam%}, During a year, <ls>Pañc. ii. <ab>d.</ab> 66</ls>; with following {%na%}, Before, <ls>Vikr. 61, 10</ls>; <ls>Pañc. 61, 3</ls>. {@4.@} Meanwhile, <ls>Śāk. 18, 22</ls>; <ls>Vikr. 3, 12</ls>. {@5.@} As far as, unto, until, <ls>Rām. 3, 49, 13</ls>; with preceding <ab>acc.</ab>, <ls>Hit. 111, 18</ls>; <ls>Pañc. 87, 20</ls>; <ab>cf.</ab> i. <ab>d.</ab> 132; even, <ls n="Pañc.">31, 17</ls>. {@6.@} When. <ls>Hit. 85, 9</ls> (with following {%tāvat%}, Then), <ls>Pañc. 48, 24</ls>; if, <ls>Pañc. 62, 1</ls>. {@7.@} In order that, <ls>Vikr. <ab>d.</ab> 13</ls>; that, <ls>Chr. 18, 34</ls>. {@8.@} With a verb it often expresses one's will; <ab>e. g.</ab> {%yāvat pratipālayāmi%}, I will wait, <ls>Vikr. 38, 5</ls>. {@9.@} Often former part of <ab>comp.</ab> adverbs; <ab>e. g.</ab> {%yāvajjīvam%}, <ab>q.</ab> <ab>cf.</ab>
 ---
 > {#yAvant#}¦ {%yāvant%}, <ab>i. e.</ab> {%yad + vant%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%vatī%}, As much, as many, <ls>Hit. iv. <ab>d.</ab> 69</ls>; how much, <ls>Rājat. 5, 110</ls>; how many, <ls>Bhāg. P. 4, 25, 12</ls>. {@II.@} {%vat%}, <ab>acc.</ab> <ab>sing.</ab> <ab>n.</ab> <ab>adv.</ab> {@1.@} As much as, as far as, <ls>Johns. Sel. 33, 66</ls>. {@2.@} As many as. {@3.@} As long as, <ls>Pañc. iii. <ab>d.</ab> 94</ls>; with preceding <ab>acc.</ab> of a word signifying a division of time, During; <ab>e. g.</ab> {%sakalāṃ rātriṃ yāvat%}, During the whole night, <ls>Pañc. 117, 8</ls>; {%varṣam%}, During a year, <ls>Pañc. ii. <ab>d.</ab> 66</ls>; with following {%na%}, Before, <ls>Vikr. 61, 10</ls>; <ls>Pañc. 61, 3</ls>. {@4.@} Meanwhile, <ls>Śāk. 18, 22</ls>; <ls>Vikr. 3, 12</ls>. {@5.@} As far as, unto, until, <ls>Rām. 3, 49, 13</ls>; with preceding <ab>acc.</ab>, <ls>Hit. 111, 18</ls>; <ls>Pañc. 87, 20</ls>; <ab>cf.</ab> <ls n="Pañc.">i. <ab>d.</ab> 132</ls>; even, <ls n="Pañc.">31, 17</ls>. {@6.@} When. <ls>Hit. 85, 9</ls> (with following {%tāvat%}, Then), <ls>Pañc. 48, 24</ls>; if, <ls>Pañc. 62, 1</ls>. {@7.@} In order that, <ls>Vikr. <ab>d.</ab> 13</ls>; that, <ls>Chr. 18, 34</ls>. {@8.@} With a verb it often expresses one's will; <ab>e. g.</ab> {%yāvat pratipālayāmi%}, I will wait, <ls>Vikr. 38, 5</ls>. {@9.@} Often former part of <ab>comp.</ab> adverbs; <ab>e. g.</ab> {%yāvajjīvam%}, <ab>q.</ab> <ab>cf.</ab>
+59138c59138
+<  --<ab>Caus.</ab> {@1.@} To throw, <ls>Chr. 31, 7</ls>. {@2.@} To cause to be exhibited, <ls>Utt. Rāmac. 111, 7</ls>. {@3.@} To show, Map. 3, 112. {@4.@} To receive, <ls>Man. 10, 117</ls>.
+---
+>  --<ab>Caus.</ab> {@1.@} To throw, <ls>Chr. 31, 7</ls>. {@2.@} To cause to be exhibited, <ls>Utt. Rāmac. 111, 7</ls>. {@3.@} To show, <ls>Man. 3, 112</ls>. {@4.@} To receive, <ls>Man. 10, 117</ls>.
+59182c59182
+<  --<ab>Caus.</ab> {@1.@} The same, 3, 15054. {@2.@} To fight with, <ls>Utt. Rāmac. 130, 5</ls>.
+---
+>  --<ab>Caus.</ab> {@1.@} The same, <ls n="MBh.">3, 15054</ls>. {@2.@} To fight with, <ls>Utt. Rāmac. 130, 5</ls>.
 59245c59245
 < {#yuvan#}¦ {%yuvan%} (for {%yavan%}, <ab>cf.</ab> <ab>comparat.</ab> {%yavīyaṃs, u%} by the influence of {%v%}), {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%vatī%} and {%yāni%}, <ab>comparat.</ab> {%yavīyaṃs%}, <ab>superl.</ab> {%yaviṣṭha%}, Young, <ls>Chr. 293, 4</ls> = <ls>Rigv. i. 87, 4</ls>. {@II.@} <ab>m.</ab> A young man, <ls>Ṛt. 6, 20</ls>. {@III.@} <ab>f.</ab> {%vatī̆%} or {%yūnī%}, A young woman. <ls>Bhartṛ. 2, 60</ls>; <ls>Pañc.</ls> [Page0748-b + 39] 158. 3; <ls>Sāv. 2, 24</ls>.
 ---
@@ -126,10 +344,18 @@
 <  --With the <ab>prep.</ab> {#antar#} {%antar, antarlīna%}, Inherent, staying; haunting in the interior, <ls>Pañc. 109, 19</ls>; i. <ab>d.</ab> 420; <ls>Utt. Rāmac. 56, 10</ls>; (not coming out), <ls>Pañc. 175, 24</ls>. <ab>Acc.</ab> <ab>sing.</ab> {%˚nam%}, <ab>adv.</ab> Inwardly, <ls>Pañc. 185, 3</ls>.
 ---
 >  --With the <ab>prep.</ab> {#antar#} {%antar, antarlīna%}, Inherent, staying; haunting in the interior, <ls>Pañc. 109, 19</ls>; <ls n="Pañc.">i. <ab>d.</ab> 420</ls>; <ls>Utt. Rāmac. 56, 10</ls>; (not coming out), <ls>Pañc. 175, 24</ls>. <ab>Acc.</ab> <ab>sing.</ab> {%˚nam%}, <ab>adv.</ab> Inwardly, <ls>Pañc. 185, 3</ls>.
+63455c63455
+<  --With {#nis#} {%nis%}, {@1.@} To declare, <ls>MBh. 3, 1223</ls>; to explain, <ls>Vedāntas. in Chr. 204, 11</ls>. {@2.@} To speak, to put properly, <ls>Man. 8, 55</ls>. {%nirukta%}, Distinctly declared. <ab>n.</ab> {@1.@} Etymological explanation, <ls>MBh. 1, 266</ls>. {@2.@} The name of one of the Vedāṅgas (see {%aṅga%}), <ab>ib.</ab> 12, 13232.
+---
+>  --With {#nis#} {%nis%}, {@1.@} To declare, <ls>MBh. 3, 1223</ls>; to explain, <ls>Vedāntas. in Chr. 204, 11</ls>. {@2.@} To speak, to put properly, <ls>Man. 8, 55</ls>. {%nirukta%}, Distinctly declared. <ab>n.</ab> {@1.@} Etymological explanation, <ls>MBh. 1, 266</ls>. {@2.@} The name of one of the Vedāṅgas (see {%aṅga%}), <ab>ib.</ab> <ls n="MBh.">12, 13232</ls>.
 64388c64388
 < {#varRana#}¦ {%varṇ + ana%}, {@I.@} <ab>n.</ab> {@1.@} Colouring. {@2.@} Describing, description, <ls>Chr. 235, 1</ls>. 2; <ls>Daśak. in Chr. 185, 22</ls>; tale, <ls>Pañc. 187, 14</ls>. {@II.@} <ab>f.</ab> {%nā%}. {@1.@} Describing, description, <ls>Vikr. 19, 9</ls> ({%prati-avayava-%}, A detailed description, limb for limb). {@2.@} Praise, <ls>Lass. <ab>2. ed.</ab> 81, 1</ls>.
 ---
 > {#varRana#}¦ {%varṇ + ana%}, {@I.@} <ab>n.</ab> {@1.@} Colouring. {@2.@} Describing, description, <ls>Chr. 235, 1</ls>. <ls n="Chr. 235,">2</ls>; <ls>Daśak. in Chr. 185, 22</ls>; tale, <ls>Pañc. 187, 14</ls>. {@II.@} <ab>f.</ab> {%nā%}. {@1.@} Describing, description, <ls>Vikr. 19, 9</ls> ({%prati-avayava-%}, A detailed description, limb for limb). {@2.@} Praise, <ls>Lass. <ab>2. ed.</ab> 81, 1</ls>.
+64601c64601
+< {#varzuka#}¦ {%varṣuka%} (<ab>vb.</ab> {%vṛṣ%}), <ab>adj.</ab> Rainy, Bhaṭṭa. 2, 37.
+---
+> {#varzuka#}¦ {%varṣuka%} (<ab>vb.</ab> {%vṛṣ%}), <ab>adj.</ab> Rainy, <ls>Bhaṭṭ. 2, 37</ls>.
 64785c64785
 < {#vallaBa#}¦ {%vallabha%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%bhā%}. {@1.@} Beloved, <ls>Pañc. 169, 25</ls>; v. <ab>d.</ab> 8; <ab>superl.</ab> {%˚bhatama%}, dearest, <ls>Bhartṛ. 2, 78</ls>. {@2.@} Superintendent. {@II.@} <ab>m.</ab> {@1.@} A lover, a favourite, <ls>Pañc. 129, 7</ls>; <ls>Rājat. 5, 380</ls>. {@2.@} The chief herdsman. {@3.@} A horse with good marks. {@III.@} <ab>f.</ab> {%bhā%}, A mistress, <ls>Rājat. 5, 6</ls>.
 ---
@@ -154,6 +380,22 @@
 < {#vimokzaRa#}¦ {%vimokṣaṇa%}, <ab>i. e.</ab> {%vi-mokṣ + ana%}, <ab>n.</ab>, and <ab>f.</ab> {%ṇā%}, {@1.@} Untying, <ls>Pañc. 107, 24</ls>. {@2.@} Liberation, release, <ls>Johns. Sel. 97, 1</ls>. 6; <ls>Pañc. ii. <ab>d.</ab> 191</ls>. {@3.@} Abandoning, <ls>Man. 2, 243</ls>; <ls>Pañc. 74, 20</ls> ({%aṇḍa-%}, Laying eggs).
 ---
 > {#vimokzaRa#}¦ {%vimokṣaṇa%}, <ab>i. e.</ab> {%vi-mokṣ + ana%}, <ab>n.</ab>, and <ab>f.</ab> {%ṇā%}, {@1.@} Untying, <ls>Pañc. 107, 24</ls>. {@2.@} Liberation, release, <ls>Johns. Sel. 97, 1</ls>. <ls n="Johns. Sel. 97,">6</ls>; <ls>Pañc. ii. <ab>d.</ab> 191</ls>. {@3.@} Abandoning, <ls>Man. 2, 243</ls>; <ls>Pañc. 74, 20</ls> ({%aṇḍa-%}, Laying eggs).
+69950c69950
+< ¦ {%Purā-%}, {@I.@} <ab>adj.</ab> 1. done in times of yore. 2. lived in times of yore, <ls>MBh. 14, 2842</ls>. 3. referring to times of yore, <ab>ib.</ab> 3, 12602. {@II.@} <ab>n.</ab> 1. history, <ab>ib.</ab> <ls n="MBh.">12, 2885</ls>. 2. any old or legendary event, <ls>Hit. iii. <ab>d.</ab> 105</ls>.
+---
+> ¦ {%Purā-%}, {@I.@} <ab>adj.</ab> 1. done in times of yore. 2. lived in times of yore, <ls>MBh. 14, 2842</ls>. 3. referring to times of yore, <ab>ib.</ab> <ls n="MBh.">3, 12602</ls>. {@II.@} <ab>n.</ab> 1. history, <ab>ib.</ab> <ls n="MBh.">12, 2885</ls>. 2. any old or legendary event, <ls>Hit. iii. <ab>d.</ab> 105</ls>.
+70462c70462
+< ¦ {%Catur-%}, {@I.@} <ab>m.</ab> <ab>pl.</ab> 1. the four Vedas <ls>Hariv. 14074</ls>. 2. a kind of Manes, <ls>MBh. 2, 463</ls>. {@II.@} <ab>adj.</ab> 1. containing the four Vedas, <ab>ib.</ab> 3, 13560. 2. conversant with the four Vedas, <ls>Hariv. 7993</ls>.
+---
+> ¦ {%Catur-%}, {@I.@} <ab>m.</ab> <ab>pl.</ab> 1. the four Vedas <ls>Hariv. 14074</ls>. 2. a kind of Manes, <ls>MBh. 2, 463</ls>. {@II.@} <ab>adj.</ab> 1. containing the four Vedas, <ab>ib.</ab> <ls n="MBh.">3, 13560</ls>. 2. conversant with the four Vedas, <ls>Hariv. 7993</ls>.
+73971c73971
+< {#Sigruka#}¦ {%śigru + ka%}, <ab>m.</ab> A particular plant (<ab>cf.</ab> the last), Man 6, 14.
+---
+> {#Sigruka#}¦ {%śigru + ka%}, <ab>m.</ab> A particular plant (<ab>cf.</ab> the last), <ls>Man. 6, 14</ls>.
+74062c74062
+< ¦ {%Aśva-%}, {@I.@} <ab>n.</ab> the head of a horse, <ls>MBh. 3, 3083</ls>. {@II.@} <ab>adj.</ab> having the head of a horse, <ab>ib.</ab> 12, 13100. {@III.@} <ab>m.</ab> a proper name, <ab>ib.</ab> <ls n="MBh.">1, 2531</ls>.
+---
+> ¦ {%Aśva-%}, {@I.@} <ab>n.</ab> the head of a horse, <ls>MBh. 3, 3083</ls>. {@II.@} <ab>adj.</ab> having the head of a horse, <ab>ib.</ab> <ls n="MBh.">12, 13100</ls>. {@III.@} <ab>m.</ab> a proper name, <ab>ib.</ab> <ls n="MBh.">1, 2531</ls>.
 74449c74449
 < {#Sukla#}¦ {%śukla%}, <ab>i. e.</ab> 2. {%śuc + la%}, {@I.@} <ab>adj.</ab> White, <ls>Pañc. i. <ab>d.</ab> 39</ls>; bright, i. <ab>d.</ab> 104; <ls>Man. 1, 66</ls> (with {%pakṣa%}, the fortnight of the month in which the moon increases). {@II.@} <ab>m.</ab> {@1.@} White (the colour). {@2.@} One of the astronomical {%<ls>Yogas.</ls>%} {@3.@} The light half of the month from new to full moon. <ls>Bhag. 8, 24</ls>; <ls>Rājat. 5, 412</ls>. {@III.@} <ab>f.</ab> {%lā%}, A name of Sarasvatī. {@IV.@} <ab>n.</ab> {@1.@} Silver. {@2.@} Fresh butter. {@3.@} A disease of the cornea.
 ---
@@ -162,10 +404,18 @@
 < {#Sulka#}¦ {%śulka%}, <ab>m.</ab> and <ab>n.</ab> {@1.@} Toll, tax, duty, <ls>Man. 10, 120</ls>. {@2.@} Money given at the purchase of anything, to ratify the bargain. {@3.@} Money given to the parents of the bride, originally as purchase-price, <ab>cf.</ab> <ls>MBh. 13, 2422, <ab>sqq.</ab></ls> and 4530; <ls>Man. 3, 51</ls>. {@4.@} A nuptial present, <ls>Man. 9, 93</ls>. {@5.@} The profits of household labour, care of milch cattle, <ab>etc.</ab>, when considered as the legal property of the wife. {@6.@} Price, <ls>Daśak. in Chr. 180, 15</ls>.
 ---
 > {#Sulka#}¦ {%śulka%}, <ab>m.</ab> and <ab>n.</ab> {@1.@} Toll, tax, duty, <ls>Man. 10, 120</ls>. {@2.@} Money given at the purchase of anything, to ratify the bargain. {@3.@} Money given to the parents of the bride, originally as purchase-price, <ab>cf.</ab> <ls>MBh. 13, 2422, <ab>sqq.</ab></ls> and <ls n="MBh.">4530</ls>; <ls>Man. 3, 51</ls>. {@4.@} A nuptial present, <ls>Man. 9, 93</ls>. {@5.@} The profits of household labour, care of milch cattle, <ab>etc.</ab>, when considered as the legal property of the wife. {@6.@} Price, <ls>Daśak. in Chr. 180, 15</ls>.
+75740c75740
+<  --<ab>Caus.</ab> {@1.@} To cry aloud, <ls>MBh. 1, 6287</ls>. {@2.@} To fill with noise, to pervade, <ls>MBh.</ls> [Page0973-a + 42] 3, 16556. {@3.@} To report, <ls>MBh. 3, 12266</ls>.
+---
+>  --<ab>Caus.</ab> {@1.@} To cry aloud, <ls>MBh. 1, 6287</ls>. {@2.@} To fill with noise, to pervade, <ls>MBh. 3, 16556</ls>. [Page0973-a + 42] {@3.@} To report, <ls>MBh. 3, 12266</ls>.
 76723c76723
 < {#saMSleza#}¦ {%saṃśleṣa%}, <ab>i. e.</ab> {%sam-śliṣ + a%}, <ab>m.</ab> {@1.@} Embracing, embrace, <ls>Śāk. <ab>d.</ab> 124</ls>. {@2.@} Union, Windischmann, Sankara, 152; contact, association, <ls>Lass. 24, 7</ls>.
 ---
 > {#saMSleza#}¦ {%saṃśleṣa%}, <ab>i. e.</ab> {%sam-śliṣ + a%}, <ab>m.</ab> {@1.@} Embracing, embrace, <ls>Śāk. <ab>d.</ab> 124</ls>. {@2.@} Union, Windischmann, Sankara, <ls n="Śāk. d.">152</ls>; contact, association, <ls>Lass. 24, 7</ls>.
+77205c77205
+< {#saMgati#}¦ {%saṃgati%}, <ab>i. e.</ab> {%sam-gam + ti%}, <ab>f.</ab> {@1.@} Meeting, <ls>Pañc. iv. <ab>d.</ab> 20</ls>. {@2.@} Chance, <ls>Brāhmaṇav. 1, 2</ls>. {@3.@} Union. <ls>Johns. Sel. 37, 19</ls>; association, <ls>Pañc. iii. <ab>d.</ab> 55</ls>. {@4.@} Intercourse, <ls>Pañc. 60, 9</ls>; sexual intercourse, <ls>Daśak.</ls> in Car. 182, 13. {@5.@} Frequenting. {@6.@} Questioning for further information.
+---
+> {#saMgati#}¦ {%saṃgati%}, <ab>i. e.</ab> {%sam-gam + ti%}, <ab>f.</ab> {@1.@} Meeting, <ls>Pañc. iv. <ab>d.</ab> 20</ls>. {@2.@} Chance, <ls>Brāhmaṇav. 1, 2</ls>. {@3.@} Union. <ls>Johns. Sel. 37, 19</ls>; association, <ls>Pañc. iii. <ab>d.</ab> 55</ls>. {@4.@} Intercourse, <ls>Pañc. 60, 9</ls>; sexual intercourse, <ls>Daśak. in Chr. 182, 13</ls>. {@5.@} Frequenting. {@6.@} Questioning for further information.
 77258c77258
 < {#saMgrahaRa#}¦ {%saṃgrahaṇa%}, <ab>i. e.</ab> {%sam-grah + ana%}, {@I.@} <ab>n.</ab> {@1.@} Collecting, compiling. {@2.@} Enchasing, <ls>Hit. ii. <ab>d.</ab> 71</ls>. {@3.@} Sexual intercourse. {@4.@} Adultery, <ls>Man. 8, 72</ls>; <ab>cf.</ab> 6; 356, <ab>sqq.</ab> {@5.@} Taking. {@6.@} Accepting. {@7.@} Hope. {@II.@} <ab>f.</ab> {%ṇī%}, Dysentery.
 ---
@@ -190,10 +440,22 @@
 < {#sUkzma#}¦ {%sūkṣma%}, <ab>i. e.</ab> perhaps {%su-kṣāma%} (but <ab>cf.</ab> also {%sūc%}), {@I.@} <ab>adj.</ab> {@1.@} Little, small, <ls>Pañc. i. <ab>d.</ab> 254</ls>; <ls>Bhartṛ. 2, 90</ls>. {@2.@} Atomic, atom-like, <ls>Man. 1, 7</ls>; <ls n="Man. 1,">22</ls>. {@3.@} Fine, delicate, tender, <ls>Rām. 3, 49, 3</ls>; <ls n="Rām. 3, 49,">52</ls>. 9; <ls>Pañc. i. <ab>d.</ab> 395</ls>. {@4.@} Subtle, exact, <ls>Pañc. 62, 12</ls>. {%˚mam%}, <ab>adv.</ab> Attentively, <ls>Utt. Rāmac. 154, 10</ls>. {@II.@} <ab>m.</ab> {@1.@} An atom. {@2.@} Clearingnut plant, Strychnos potatorum. {@III.@} <ab>f.</ab> {%mā%}. {@1.@} A kind of jasmine. {@2.@} Small cardamoms. {@3.@} A sort of perfume. {@IV.@} <ab>n.</ab> {@1.@} Fine thread. {@2.@} The supreme soul. {@3.@} Subtlety, craft. {@4.@} Fraud.
 ---
 > {#sUkzma#}¦ {%sūkṣma%}, <ab>i. e.</ab> perhaps {%su-kṣāma%} (but <ab>cf.</ab> also {%sūc%}), {@I.@} <ab>adj.</ab> {@1.@} Little, small, <ls>Pañc. i. <ab>d.</ab> 254</ls>; <ls>Bhartṛ. 2, 90</ls>. {@2.@} Atomic, atom-like, <ls>Man. 1, 7</ls>; <ls n="Man. 1,">22</ls>. {@3.@} Fine, delicate, tender, <ls>Rām. 3, 49, 3</ls>; <ls n="Rām. 3,">52, 9</ls>; <ls>Pañc. i. <ab>d.</ab> 395</ls>. {@4.@} Subtle, exact, <ls>Pañc. 62, 12</ls>. {%˚mam%}, <ab>adv.</ab> Attentively, <ls>Utt. Rāmac. 154, 10</ls>. {@II.@} <ab>m.</ab> {@1.@} An atom. {@2.@} Clearingnut plant, Strychnos potatorum. {@III.@} <ab>f.</ab> {%mā%}. {@1.@} A kind of jasmine. {@2.@} Small cardamoms. {@3.@} A sort of perfume. {@IV.@} <ab>n.</ab> {@1.@} Fine thread. {@2.@} The supreme soul. {@3.@} Subtlety, craft. {@4.@} Fraud.
+82742c82742
+<  --With {#pra#} {%pra%}, {@1.@} To spring forward, <ls>MBh. 1, 134</ls>; to spring down, 3, 15587. {@2.@} To burst forth, <ls>MBh. 1, 2380</ls>. {%praskanna%}, Fallen. <ab>m.</ab> A sinner, one who has violated the usages of his caste.
+---
+>  --With {#pra#} {%pra%}, {@1.@} To spring forward, <ls>MBh. 1, 134</ls>; to spring down, <ls n="MBh.">3, 15587</ls>. {@2.@} To burst forth, <ls>MBh. 1, 2380</ls>. {%praskanna%}, Fallen. <ab>m.</ab> A sinner, one who has violated the usages of his caste.
 82830c82830
 < {#sKal#}¦ {%SKHAL%}, i. 1, <ab>Par.</ab> {@1.@} To stumble, to tumble, <ls>Hit. iii. <ab>d.</ab> 132</ls>. {@2.@} To fall, <ls>Mālat. 73, 2</ls>. {@3.@} To stutter, <ls>Mālat. 162, 10</ls>; to hesitate, <ls>Hit. ii. <ab>d.</ab> 63</ls>. {@4.@} To err, to fail, <ls>Rām. 1, 13, 10</ls>. {@5.@} To disappear, <ls>Śṛṅgārat. 7</ls>. {%skhalita%}, {@1.@} Shaken, <ls>Mālat. 148, 15</ls>. {@2.@} Shaking, wavering. {@3.@} Staggering, <ls>Śiś. 9, 78</ls>; interrupted, faltering, <ls>Utt. Rāmac. 70, 6</ls>; stammering, <ab>ib.</ab> <ls n="Utt. Rāmac.">95, 12</ls>. {@4.@} Fluctuating, <ls>Pañc. 188, 10</ls>. {@5.@} Drunk. {@6.@} Hesitating. {@7.@} Slipped, fallen. {@8.@} Stopped, <ls>Śāk. <ab>d.</ab> 131</ls>; obstructed, <ls>Vikr.</ls> [Page1068-a + 43] <ab>d.</ab> 49. {@9.@} Confounded, <ls>Śāk. <ab>d.</ab> 132</ls>; <ls>Śiś. 9, 83</ls>. <ab>n.</ab> {@1.@} Tumbling, <ls>Pañc. i. <ab>d.</ab> 316</ls>; ii. <ab>d.</ab> 188; falling. {@2.@} Deviating from virtue, fault, <ls>Vikr. <ab>d.</ab> 89</ls>; sin, <ab>d.</ab> 115. {@3.@} Stratagem.
 ---
 > {#sKal#}¦ {%SKHAL%}, i. 1, <ab>Par.</ab> {@1.@} To stumble, to tumble, <ls>Hit. iii. <ab>d.</ab> 132</ls>. {@2.@} To fall, <ls>Mālat. 73, 2</ls>. {@3.@} To stutter, <ls>Mālat. 162, 10</ls>; to hesitate, <ls>Hit. ii. <ab>d.</ab> 63</ls>. {@4.@} To err, to fail, <ls>Rām. 1, 13, 10</ls>. {@5.@} To disappear, <ls>Śṛṅgārat. 7</ls>. {%skhalita%}, {@1.@} Shaken, <ls>Mālat. 148, 15</ls>. {@2.@} Shaking, wavering. {@3.@} Staggering, <ls>Śiś. 9, 78</ls>; interrupted, faltering, <ls>Utt. Rāmac. 70, 6</ls>; stammering, <ab>ib.</ab> <ls n="Utt. Rāmac.">95, 12</ls>. {@4.@} Fluctuating, <ls>Pañc. 188, 10</ls>. {@5.@} Drunk. {@6.@} Hesitating. {@7.@} Slipped, fallen. {@8.@} Stopped, <ls>Śāk. <ab>d.</ab> 131</ls>; obstructed, <ls>Vikr.</ls> [Page1068-a + 43] <ab>d.</ab> 49. {@9.@} Confounded, <ls>Śāk. <ab>d.</ab> 132</ls>; <ls>Śiś. 9, 83</ls>. <ab>n.</ab> {@1.@} Tumbling, <ls>Pañc. i. <ab>d.</ab> 316</ls>; <ls n="Pañc.">ii. <ab>d.</ab> 188</ls>; falling. {@2.@} Deviating from virtue, fault, <ls>Vikr. <ab>d.</ab> 89</ls>; sin, <ab>d.</ab> 115. {@3.@} Stratagem.
+85105c85105
+< {#svEra#}¦ {%svaira%} (from {%sva%} and {%īr%}), {@I.@} <ab>adj.</ab> {@1.@} Self-willed, <ls>Pañc. 31, 3</ls>; of one's own accord, <ls>Rām. 3, 52, 27</ls> (without the permission of her husband); unrestrained. {@2.@} Slow, or refractory, <ls>Nal. 21, 13</ls>; <ls>Sāv. 5, 98</ls>. {@3.@} Dependent on one's will, unimportant, <ls>MBh. 1, 1726</ls>; <ls n="MBh. 1,">1921</ls>; 3, 13573. {@II.@} {%ram%}, <ab>adv.</ab> {@1.@} With one's own will, assent, <ls>Rām. 3, 52, 27</ls>; <ls>Utt. Rāmac. 29, 6</ls>; <ls>Kathās. 22, 99</ls>. {@2.@} Of one's own accord, <ls>Rājat. 5, 411</ls>. {@III.@} <ab>n.</ab> Wilfulness.
+---
+> {#svEra#}¦ {%svaira%} (from {%sva%} and {%īr%}), {@I.@} <ab>adj.</ab> {@1.@} Self-willed, <ls>Pañc. 31, 3</ls>; of one's own accord, <ls>Rām. 3, 52, 27</ls> (without the permission of her husband); unrestrained. {@2.@} Slow, or refractory, <ls>Nal. 21, 13</ls>; <ls>Sāv. 5, 98</ls>. {@3.@} Dependent on one's will, unimportant, <ls>MBh. 1, 1726</ls>; <ls n="MBh. 1,">1921</ls>; <ls n="MBh.">3, 13573</ls>. {@II.@} {%ram%}, <ab>adv.</ab> {@1.@} With one's own will, assent, <ls>Rām. 3, 52, 27</ls>; <ls>Utt. Rāmac. 29, 6</ls>; <ls>Kathās. 22, 99</ls>. {@2.@} Of one's own accord, <ls>Rājat. 5, 411</ls>. {@III.@} <ab>n.</ab> Wilfulness.
+86302c86302
+< ¦ {%Deva-%}, <ab>f.</ab> 1. invocation of the gods, <ls>Lass. 102, 7</ls> = <ls>Rigv. vii. 14, 1. 2</ls>.
+---
+> ¦ {%Deva-%}, <ab>f.</ab> 1. invocation of the gods, <ls>Lass. 102, 7</ls> = <ls>Rigv. vii. 14, 1</ls>. <ls n="Rigv. vii. 14,">2</ls>.
 86323c86323
 <  --<ab>Caus.</ab> {%hāraya%}, {@1.@} To cause to take, <ab>i. e.</ab> to give, <ls>Pañc. iv. <ab>d.</ab> 47</ls>; to give away, i. <ab>d.</ab> 296; to cause to drink, <ls>Rājat. 5, 368</ls>. {@2.@} To send, <ls>Megh. 4</ls>. {%hārita%}, {@1.@} Lost, <ls>Lass. 21, 19</ls>. {@2.@} Fascinated, <ls>Rājat. 5, 367</ls>.
 ---
