@@ -17,7 +17,7 @@ INPUT = os.path.join(SCRIPT_DIR, "temp_d1d0a18.txt")
 OUTPUT = os.path.join(SCRIPT_DIR, "temp_ben_1.txt")
 
 TAG_RE = re.compile(r'(<ls[^>]*>.*?</ls>)')
-BARE_DIGIT_RE = re.compile(r'(?<=;)\s*(\d+)(?=;)')
+BARE_DIGIT_RE = re.compile(r'(?<=;)\s*(\d+)(?=[;.])')
 
 
 def get_source(ls_content):
@@ -86,15 +86,20 @@ def main():
     result, wrapped = process(data)
 
     # Count pattern occurrences in input vs output
-    pat = re.compile(r'<ls>[^<]+</ls>;\s*\d+;')
-    before = len(pat.findall(data))
-    after = len(pat.findall(result))
+    semi_pat = re.compile(r'<ls>[^<]+</ls>;\s*\d+;')
+    period_pat = re.compile(r'<ls>[^<]+</ls>;\s*\d+\.(?!\d)')
+    before_semi = len(semi_pat.findall(data))
+    after_semi = len(semi_pat.findall(result))
+    before_period = len(period_pat.findall(data))
+    after_period = len(period_pat.findall(result))
 
     with open(OUTPUT, 'w', encoding='utf-8') as f:
         f.write(result)
 
-    print(f"Unwrapped '; DIGIT;' patterns: {before} → {after}")
+    print(f"Unwrapped '; DIGIT;' patterns:  {before_semi} → {after_semi}")
+    print(f"Unwrapped '; DIGIT.' patterns:  {before_period} → {after_period}")
     print(f"Bare refs wrapped: {wrapped}")
+    print(f"Input <ls n=...> tags: {data.count('<ls n=')}")
     print(f"Output <ls n=...> tags: {result.count('<ls n=')}")
     print(f"Written to: {OUTPUT}")
 
