@@ -22,10 +22,11 @@ BARE_DIGIT_RE = re.compile(r'(?<=;)\s*(\d+)(?=;)')
 
 def get_source(ls_content):
     """Derive n= source by removing the last token from ls_content."""
-    tokens = ls_content.split()
+    text = re.sub(r'</?ab>', '', ls_content)
+    tokens = text.split()
     if len(tokens) >= 2:
         return ' '.join(tokens[:-1])
-    return ls_content
+    return text
 
 
 def wrap_bare_digits(segment, source):

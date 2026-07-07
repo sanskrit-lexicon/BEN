@@ -24,13 +24,25 @@ Output:
 
 The `n=` source is derived from the preceding `<ls>` content with the last ref token removed (preserving the trailing comma as book/chapter context).
 
+### `<ab>` in source context
+
+Some `<ls>` content contains `<ab>` tags, e.g. `<ls>Vikr. <ab>d.</ab> 42</ls>`. If left in, the `n` attribute would contain raw XML (`n="Vikr. <ab>d.</ab>"`), which is invalid — an XML parser rejects `<` in attribute values.
+
+`get_source()` strips `<ab>` and `</ab>` tags from the source string before inserting it into `n=`, keeping only the display text:
+
+| Input `<ls>` content | `n=` value |
+|---|---|
+| `Vikr. <ab>d.</ab> 42` | `Vikr. d.` |
+| `Pañc. iii. <ab>d.</ab> 10` | `Pañc. iii. d.` |
+| `Lass. <ab>2. ed.</ab> 9, 11` | `Lass. 2. ed. 9,` |
+
 ## Solution
 
 `convert_bare_semicolon_refs.py`:
 
 1. **Split by `<ls>` tags**: iterates through line segments separated by `<ls>…</ls>` tags.
 2. **Track current source**: for each `<ls>` tag (without `n=`), store its inner content as the source context for the next non-tag segment.
-3. **Extract source for `n=`**: `get_source()` removes the last token (the ref number) from the `<ls>` content; e.g. `Man. 8, 51` → `Man. 8,`.
+3. **Extract source for `n=`**: `get_source()` strips `<ab>`/`</ab>` tags, then removes the last token (the ref number) from the `<ls>` content; e.g. `<ls>Vikr. <ab>d.</ab> 42</ls>` → `Vikr. d.`.
 4. **Replace bare digits**: regex `(?<=;)\s*(\d+)(?=;)` matches digits between semicolons without consuming the semicolons (supports consecutive refs like `; 43; 46;`).
 
 ### Consecutive bare refs
