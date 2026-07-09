@@ -19,7 +19,7 @@ def _adjust_hw_prefix_internal(prefix, base):
         return base
 
     # Base starts with vowel
-    vowels = set('aiuUfFeEoOA')
+    vowels = set('aiIuUfFxeEoOA')
     if base and base[0] in vowels:
         # Prefix ends with a/A
         if pref and pref[-1] in 'aA':
@@ -56,6 +56,8 @@ def _adjust_hw_prefix_internal(prefix, base):
             return pref[:-1] + 'av' + base
         # Prefix ends with consonant
         else:
+            if pref[-1] == 's' and pref in ('dus', 'nis'):
+                return pref[:-1] + 'r' + base
             return pref + base
     else:
         # Base starts with consonant
@@ -71,6 +73,10 @@ def _adjust_hw_prefix_internal(prefix, base):
             # H + other consonant -> r + consonant
             else:
                 return pref[:-1] + 'r' + base
+        elif pref and pref[-1] == 's':
+            if pref in ('dus', 'nis') and base[0] in 'hyvrlJBGQDjbgqd':
+                return pref[:-1] + 'r' + base
+            return pref + base
         else:
             return pref + base
 
@@ -162,31 +168,43 @@ def process_entry(metaline, lines, fout, flog, correct, wrong, manually_mapped):
             prefix_slp1 = iast_to_slp1(prefix_stem)
             suggestion = adjust_hw_prefix(prefix_slp1, basehw, lid, manually_mapped)
             if suggestion:
+                new_headword = suggestion.replace('-', '')
                 correct[0] += 1
-                flog.write(f'{lid}\t{basehw}\t{compound_content}\t{suggestion}\n')
+                flog.write(f'{lid}\t{basehw}\t{compound_content}\t{new_headword}\n')
             else:
                 wrong[0] += 1
                 flog.write(f'{lid}\t{basehw}\t{compound_content}\tNone\n')
-            new_headword = suggestion
+                new_headword = None
         else:
-            suggestion = iast_to_slp1(compound_content)
+            compound_slp1 = iast_to_slp1(compound_content)
+            # k1: combine all parts with sandhi
+            parts_at_plus = [p.strip() for p in compound_slp1.split('+')]
+            atomic_parts = []
+            for part in parts_at_plus:
+                atomic_parts.extend(sp for sp in part.split('-') if sp)
+            combined = atomic_parts[0] if atomic_parts else ''
+            for part in atomic_parts[1:]:
+                result = _adjust_hw_prefix_internal(combined, part)
+                combined = result if result else (combined + part)
+            new_headword = combined
+            # k2: preserve compound structure
+            k2_value = compound_slp1
             correct[0] += 1
-            flog.write(f'{lid}\t{basehw}\t{compound_content}\t{suggestion}\n')
-            new_headword = suggestion
+            flog.write(f'{lid}\t{basehw}\t{compound_content}\t{new_headword}\n')
 
-        # Build body line: {#prefix_slp1#} + {#base_slp1#}¦ {%prefix_iast%} + {%base_iast%}, rest
+        # Build body line
         base_iast = slp1_to_iast(basehw)
         if is_prefix:
             prefix_body_slp1 = f"{{#{prefix_slp1}-#}}"
+            base_body_slp1 = f"{{#{basehw}#}}"
             prefix_body_iast = f"{{%{compound_content}%}}"
+            base_body_iast = f"{{%{base_iast}%}}"
+            new_body = f"{prefix_body_slp1} + {base_body_slp1}¦ {prefix_body_iast} + {base_body_iast}{rest_of_line}"
+            k2_value = f"{prefix_slp1}-{basehw}"
         else:
-            prefix_body_slp1 = f"{{#{iast_to_slp1(compound_content)}#}}"
-            prefix_body_iast = f"{{%{compound_content}%}}"
-        base_body_slp1 = f"{{#{basehw}#}}"
-        base_body_iast = f"{{%{base_iast}%}}"
-        new_body = f"{prefix_body_slp1} + {base_body_slp1}¦ {prefix_body_iast} + {base_body_iast}{rest_of_line}"
-
-        k2_value = f"{prefix_slp1}-{basehw}" if is_prefix else new_headword
+            new_body_slp1 = f"{{#{iast_to_slp1(compound_content)}#}}"
+            new_body_iast = f"{{%{compound_content}%}}"
+            new_body = f"{new_body_slp1}¦ {new_body_iast}{rest_of_line}"
 
         entry_data = {
             'new_headword': new_headword,

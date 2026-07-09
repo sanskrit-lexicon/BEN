@@ -5,7 +5,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$SCRIPT_DIR"
 
 echo "=== step1: split & resolve compound suffixes ==="
-python3 step1.py temp_08e33ee.txt temp_ben_1.txt log1.tsv
+python3 step1.py temp_45d6907.txt temp_ben_1.txt log1.tsv
 
 echo ""
 echo "=== step2: assign permanent L-numbers ==="
