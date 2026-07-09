@@ -18,6 +18,15 @@ def _adjust_hw_prefix_internal(prefix, base):
     if not pref:
         return base
 
+    # Resolve internal - boundaries within prefix recursively
+    if '-' in pref:
+        parts = pref.split('-')
+        combined = parts[0]
+        for part in parts[1:]:
+            result = _adjust_hw_prefix_internal(combined, part)
+            combined = result if result else (combined + part)
+        return _adjust_hw_prefix_internal(combined, base)
+
     # Base starts with vowel
     vowels = set('aiIuUfFxeEoOA')
     if base and base[0] in vowels:
@@ -56,7 +65,7 @@ def _adjust_hw_prefix_internal(prefix, base):
             return pref[:-1] + 'av' + base
         # Prefix ends with consonant
         else:
-            if pref[-1] == 's' and pref in ('dus', 'nis'):
+            if pref[-1] == 's' and len(pref) >= 2 and pref[-2] in 'iIuU':
                 return pref[:-1] + 'r' + base
             return pref + base
     else:
@@ -74,9 +83,11 @@ def _adjust_hw_prefix_internal(prefix, base):
             else:
                 return pref[:-1] + 'r' + base
         elif pref and pref[-1] == 's':
-            if pref in ('dus', 'nis') and base[0] in 'hyvrlJBGQDjbgqd':
+            if len(pref) >= 2 and pref[-2] in 'iIuU' and base[0] in 'hyvrlJBGQDjbgqdNYRnm':
                 return pref[:-1] + 'r' + base
             return pref + base
+        elif pref and pref[-1] == 'd' and base[0] in 'KPCWTcwtkp':
+            return pref[:-1] + 't' + base
         else:
             return pref + base
 

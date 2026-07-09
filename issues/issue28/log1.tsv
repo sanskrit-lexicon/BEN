@@ -191,7 +191,7 @@ Lnum	basehw	compound	resolution
 260	aDigama	Dus-	duraDigama
 261	aDigamana	Dāra-	dArADigamana
 269	aDipa	Amara-	amarADipa
-269	aDipa	Sa-amara-	saamarADipa
+269	aDipa	Sa-amara-	sAmarADipa
 269	aDipa	Jana-	janADipa
 269	aDipa	Jala-	jalADipa
 269	aDipa	Tārā-	tArADipa
@@ -320,7 +320,7 @@ Lnum	basehw	compound	resolution
 707	apekzin	An-	anapekzin
 707	apekzin	Dīrgha-	dIrGApekzin
 707	apekzin	Nis-	nirapekzin
-713	apyaya	Loka-īśa-prabhava-	lokaISapraBavApyaya
+713	apyaya	Loka-īśa-prabhava-	lokeSapraBavApyaya
 718	apsaras	Pañcāpsaras	paYcApsaras
 720	abja	Nila-	nilAbja
 721	abda	Kṛcchra-	kfcCrAbda
@@ -457,7 +457,7 @@ Lnum	basehw	compound	resolution
 1127	avajYA	Sa-avajña	sAvajYa
 1127	avajYA	sāvajñam	sAvajYam
 1131	avataMsa	Puṇḍarīka-	puRqarIkAvataMsa
-1132	avataMsaka	koṣṭha-āgāra-	kozWaAgArAvataMsaka
+1132	avataMsaka	koṣṭha-āgāra-	kozWAgArAvataMsaka
 1140	avadAna	Virya-	viryAvadAna
 1142	avadya	An-	anavadya
 1142	avadya	Nis-	niravadya
@@ -503,7 +503,7 @@ Lnum	basehw	compound	resolution
 1239	aSana	Mūla-phala-	mUlaPalASana
 1239	aSana	Piśita-	piSitASana
 1239	aSana	Sa-	sASana
-1239	aSana	Havis-	havisaSana
+1239	aSana	Havis-	haviraSana
 1239	aSana	Huta-	hutASana
 1244	aSIti	Eka-	ekASIti
 1244	aSIti	Pañcāśiti	paYcASiti
@@ -717,7 +717,7 @@ Lnum	basehw	compound	resolution
 1625	Ayatana	Deva-	devAyatana
 1633	AyAsa	An-	anAyAsa
 1637	AyuDa	Indra-	indrAyuDa
-1637	AyuDa	Sa-indra-	saindrAyuDa
+1637	AyuDa	Sa-indra-	sendrAyuDa
 1637	AyuDa	Ud-	udAyuDa
 1637	AyuDa	Kusuma-	kusumAyuDa
 1637	AyuDa	Cakra-	cakrAyuDa
@@ -782,7 +782,7 @@ Lnum	basehw	compound	resolution
 1729	Avarta	Brahmāvarta	brahmAvarta
 1729	Avarta	Rājāvarta	rAjAvarta
 1729	Avarta	Ṣoḍaśāvarta	zoqaSAvarta
-1729	Avarta	Su-dus-	sudusAvarta
+1729	Avarta	Su-dus-	sudurAvarta
 1729	Avarta	Sūrya-	sUryAvarta
 1729	Avarta	Hṛd-	hfdAvarta
 1735	AvasaTa	Deva-	devAvasaTa
@@ -1061,7 +1061,7 @@ Lnum	basehw	compound	resolution
 2105	udara	Kṛśa-	kfSodara
 2105	udara	Jala-	jalodara
 2105	udara	Dagdha-	dagDodara
-2105	udara	Nis-nata-	nisnatodara
+2105	udara	Nis-nata-	nirnatodara
 2105	udara	Brahmāṇḍabhāṇḍa-	brahmARqaBARqodara
 2105	udara	Mahā-	mahodara
 2105	udara	Lamba-	lambodara
@@ -1135,7 +1135,7 @@ Lnum	basehw	compound	resolution
 2298	upaplava	Salila-	salilopaplava
 2306	upamA	An-upama	anupama
 2306	upamA	Alabdhopama	alabDopama
-2306	upamA	Nīs-	nIsupamA
+2306	upamA	Nīs-	nIrupamA
 2306	upamA	amṛta-	amftopamA
 2311	upayAcana	Satya-	satyopayAcana
 2319	uparAga	nirviṣayoparāga	nirvizayoparAga
@@ -1462,7 +1462,7 @@ Lnum	basehw	compound	resolution
 3323	kAla	Kārya-	kAryakAla
 3323	kAla	Kṛta-	kftakAla
 3323	kAla	Caturtha-kāla + m	caturTakAlam
-3323	kAla	Tad-kāla + m	tadkAlam
+3323	kAla	Tad-kāla + m	tatkAlam
 3323	kAla	Tāvatkāla + m	tAvatkAlam
 3323	kAla	Tri-	trikAla
 3323	kAla	Duṣkāla	duzkAla
@@ -1740,7 +1740,7 @@ Lnum	basehw	compound	resolution
 4101	kzetra	Kuru-	kurukzetra
 4101	kzetra	Dharma-	Darmakzetra
 4101	kzetra	Raṇa-	raRakzetra
-4101	kzetra	Sura-īśvarī-	suraISvarIkzetra
+4101	kzetra	Sura-īśvarī-	sureSvarIkzetra
 4107	kzetrin	A-	akzetrin
 4108	kzepa	Kāla-	kAlakzepa
 4108	kzepa	A-kālakṣepa + m	akAlakzepam
@@ -1946,7 +1946,7 @@ Lnum	basehw	compound	resolution
 4636	graha	Keśa-	keSagraha
 4636	graha	Dus-	durgraha
 4636	graha	Deva-	devagraha
-4636	graha	Dhanus-	Danusgraha
+4636	graha	Dhanus-	Danurgraha
 4636	graha	Nava-	navagraha
 4636	graha	Nāmajāti-	nAmajAtigraha
 4636	graha	Pāṇi-	pARigraha
@@ -1955,7 +1955,7 @@ Lnum	basehw	compound	resolution
 4636	graha	Sūrya-	sUryagraha
 4636	graha	Hrada-	hradagraha
 4637	grahaRa	Keśa-	keSagrahaRa
-4637	grahaRa	Cakṣus-	cakzusgrahaRa
+4637	grahaRa	Cakṣus-	cakzurgrahaRa
 4637	grahaRa	Dāra-	dAragrahaRa
 4637	grahaRa	Dūra-	dUragrahaRa
 4637	grahaRa	Pāṇi-	pARigrahaRa
@@ -1969,7 +1969,7 @@ Lnum	basehw	compound	resolution
 4656	grAmya	A-	agrAmya
 4657	grAvan	Nikaṣa-	nikazagrAvan
 4659	grAha	Jīva-grāha + m	jIvagrAham
-4659	grAha	Dhanus-	DanusgrAha
+4659	grAha	Dhanus-	DanurgrAha
 4659	grAha	Pāṇi-	pARigrAha
 4659	grAha	Pārṣṇi-	pArzRigrAha
 4659	grAha	Vandi-	vandigrAha
@@ -2008,7 +2008,7 @@ Lnum	basehw	compound	resolution
 4732	GUrRa	Timira-	timiraGUrRa
 4732	GUrRa	Mahā-	mahAGUrRa
 4738	GfRA	Nirghṛṇa	nirGfRa
-4738	GfRA	Sa-nis-	sanisGfRA
+4738	GfRA	Sa-nis-	sanirGfRA
 4742	GfRin	A-	aGfRin
 4754	Gora	Su-	suGora
 4756	Goza	Dama-	damaGoza
@@ -2042,7 +2042,7 @@ Lnum	basehw	compound	resolution
 4792	cakzus	Mukta-	muktacakzus
 4792	cakzus	Sa-	sacakzus
 4798	caYcu	Vāda-	vAdacaYcu
-4802	cawaka	Mṛga-indra-	mfgaindracawaka
+4802	cawaka	Mṛga-indra-	mfgendracawaka
 4809	caRqa	Ati-	aticaRqa
 4849	catvAriMSat	Dvā-	dvAcatvAriMSat
 4854	candana	Ku-	kucandana
@@ -2260,7 +2260,7 @@ Lnum	basehw	compound	resolution
 5287	jaya	A-	ajaya
 5287	jaya	Kakubjaya	kakubjaya
 5287	jaya	Dus-	durjaya
-5287	jaya	Su-dus-	sudusjaya
+5287	jaya	Su-dus-	sudurjaya
 5287	jaya	Rakka-	rakkajaya
 5297	jaras	A-jara	ajara
 5297	jaras	A-jaras	ajaras
@@ -2396,7 +2396,7 @@ Lnum	basehw	compound	resolution
 5734	tamisra	A-	atamisra
 5745	tara	Dus-	dustara
 5745	tara	A-su-	asutara
-5748	taraNga	Ud-	udtaraNga
+5748	taraNga	Ud-	uttaraNga
 5750	taraNgin	rājata-raṇgiṇī	rAjataraRgiRI
 5751	taraRa	Dus-	dustaraRa
 5751	taraRa	Pratīpa-	pratIpataraRa
@@ -2488,7 +2488,7 @@ Lnum	basehw	compound	resolution
 6067	tEla	Tila-	tilatEla
 6082	toya	Antastoya	antastoya
 6082	toya	Nis-	nistoya
-6088	toraRa	Ud-	udtoraRa
+6088	toraRa	Ud-	uttoraRa
 6088	toraRa	Kautuka-	kOtukatoraRa
 6091	toza	Dus-	dustoza
 6100	tyaj	Tanu-	tanutyaj
@@ -2576,7 +2576,7 @@ Lnum	basehw	compound	resolution
 6320	darpa	Sam-iddha-	samidDadarpa
 6327	darSa	Ātmadarśa	AtmadarSa
 6327	darSa	Dus-	durdarSa
-6327	darSa	Su-dus-	sudusdarSa
+6327	darSa	Su-dus-	sudurdarSa
 6328	darSaka	Pāra-	pAradarSaka
 6330	darSana	A-	adarSana
 6330	darSana	Acchidra-	acCidradarSana
@@ -2646,8 +2646,8 @@ Lnum	basehw	compound	resolution
 6465	diDizu	Agre-didhiṣū	agrediDizU
 6466	dina	Adya-	adyadina
 6466	dina	Dus-	durdina
-6466	dina	Vāṣpa-dus-dina	vAzpadusdina
-6466	dina	Hima-dus-	himadusdina
+6466	dina	Vāṣpa-dus-dina	vAzpadurdina
+6466	dina	Hima-dus-	himadurdina
 6466	dina	Su-	sudina
 6471	div	Dus-	durdiv
 6471	div	Muṣṭi-	muzwidiv
@@ -2952,7 +2952,7 @@ Lnum	basehw	compound	resolution
 7091	Denu	Kṣiti-	kzitiDenu
 7093	DErya	A-	aDErya
 7117	Druva	A-	aDruva
-7126	Dvaja	Ud-patāka-dhvaja	udpatAkaDvaja
+7126	Dvaja	Ud-patāka-dhvaja	utpatAkaDvaja
 7126	Dvaja	Kapi-	kapiDvaja
 7126	Dvaja	Kuśa-	kuSaDvaja
 7126	Dvaja	Garuḍa-	garuqaDvaja
@@ -3000,10 +3000,10 @@ Lnum	basehw	compound	resolution
 7196	nandana	Bhṛgu-	Bfgunandana
 7196	nandana	Raghu-	raGunandana
 7212	nam	Tri-nata	trinata
-7215	namaskAra	Nis-namaskāra	nisnamaskAra
+7215	namaskAra	Nis-namaskāra	nirnamaskAra
 7221	namra	Vi-	vinamra
 7225	naya	Apa-	apanaya
-7225	naya	Dus-	dusnaya
+7225	naya	Dus-	durnaya
 7225	naya	Rāja-naya	rAjanaya
 7225	naya	Su-	sunaya
 7226	nayana	Tri-	trinayana
@@ -3058,7 +3058,7 @@ Lnum	basehw	compound	resolution
 7311	nAda	Siṃha-	siMhanAda
 7322	nABi	Ūrṇa-	UrRanABi
 7322	nABi	Cakra-	cakranABi
-7322	nABi	Nis-	nisnABi
+7322	nABi	Nis-	nirnABi
 7322	nABi	Mṛga-	mfganABi
 7322	nABi	Visa-	visanABi
 7322	nABi	Vṛddha-	vfdDanABi
@@ -3068,7 +3068,7 @@ Lnum	basehw	compound	resolution
 7331	nAman	A-	anAman
 7331	nAman	Uṣṭra-	uzwranAman
 7331	nAman	Gṛhīta-	gfhItanAman
-7331	nAman	Dus-	dusnAman
+7331	nAman	Dus-	durnAman
 7331	nAman	Pitṛ-	pitfnAman
 7331	nAman	Mātṛ-	mAtfnAman
 7331	nAman	Śyāla-	SyAlanAman
@@ -3101,14 +3101,14 @@ Lnum	basehw	compound	resolution
 7364	nAsikA	Pūti-nāsika	pUtinAsika
 7364	nAsikA	Rakta-nāsika	raktanAsika
 7364	nAsikA	Sthūla-	sTUlanAsikA
-7383	niHsvana	Sāgara-ud-bhūta-	sAgaraudBUtaniHsvana
+7383	niHsvana	Sāgara-ud-bhūta-	sAgarodBUtaniHsvana
 7392	nikAmatas	A-	anikAmatas
 7407	niketa	A-	aniketa
 7407	niketa	Catuṣpatha-niketā	catuzpaTaniketA
 7408	niketana	Vairocana-	vErocananiketana
 7408	niketana	Svapna-	svapnaniketana
 7424	nigraha	Upastha-	upasTanigraha
-7424	nigraha	Dus-	dusnigraha
+7424	nigraha	Dus-	durnigraha
 7424	nigraha	Su-	sunigraha
 7430	niGna	Vāyu-	vAyuniGna
 7441	nitya	A-	anitya
@@ -3141,7 +3141,7 @@ Lnum	basehw	compound	resolution
 7501	nimitta	Atonimitta + m	atonimittam
 7501	nimitta	Kim-	kimnimitta
 7501	nimitta	Kutonimitta	kutonimitta
-7501	nimitta	Dus-	dusnimitta
+7501	nimitta	Dus-	durnimitta
 7502	nimittatas	A-	animittatas
 7503	nimiz	A-	animiz
 7504	nimiza	A-	animiza
@@ -3152,7 +3152,7 @@ Lnum	basehw	compound	resolution
 7525	niyogin	A-	aniyogin
 7532	niraya	Tiryaṅniraya	tiryaNniraya
 7573	nirGAta	Sa-	sanirGAta
-7575	nirGoza	Mahā-megha-ogha-	mahAmeGaoGanirGoza
+7575	nirGoza	Mahā-megha-ogha-	mahAmeGauGanirGoza
 7587	nirdaSa	A-	anirdaSa
 7590	nirdeSa	A-	anirdeSa
 7598	nirBeda	A-	anirBeda
@@ -3186,7 +3186,7 @@ Lnum	basehw	compound	resolution
 7797	nIla	Makā-	makAnIla
 7797	nIla	Rāja(n)-	rAja(n)nIla
 7803	nIvi	Toya-nīvī	toyanIvI
-7825	nfpa	Dus-	dusnfpa
+7825	nfpa	Dus-	durnfpa
 7828	nfSaMsa	A-	anfSaMsa
 7828	nfSaMsa	Su-	sunfSaMsa
 7829	nfSaMsatA	A-	anfSaMsatA
@@ -3214,7 +3214,7 @@ Lnum	basehw	compound	resolution
 7923	pakza	Sa-	sapakza
 7923	pakza	Sva-	svapakza
 7931	pakzin	Jala-	jalapakzin
-7934	pakzman	Ud-	udpakzman
+7934	pakzman	Ud-	utpakzman
 7937	paNkaja	Sa-	sapaNkaja
 7942	paNkti	Pada-	padapaNkti
 7953	paYcaka	Pañcap˚	paYcap˚
@@ -3374,7 +3374,7 @@ Lnum	basehw	compound	resolution
 8104	para	Daiva-	dEvapara
 8104	para	Māna-	mAnapara
 8104	para	Vigraha-	vigrahapara
-8108	paratA	Tad-para + tā	tadparatA
+8108	paratA	Tad-para + tā	tatparatA
 8122	paraMpara	Karṇa-	karRaparaMpara
 8125	paravant	A-dharma-	aDarmaparavant
 8131	paras	Parorajas	parorajas
@@ -3475,7 +3475,7 @@ Lnum	basehw	compound	resolution
 8616	pAtin	Eka-	ekapAtin
 8616	pAtin	Daṇḍa-	daRqapAtin
 8616	pAtin	Dūra-	dUrapAtin
-8616	pAtin	Dūra-iṣu-	dUraizupAtin
+8616	pAtin	Dūra-iṣu-	dUrezupAtin
 8616	pAtin	Pakṣa-	pakzapAtin
 8616	pAtin	Pṛṣṭha-	pfzWapAtin
 8620	pAtra	A-	apAtra
@@ -3598,7 +3598,7 @@ Lnum	basehw	compound	resolution
 8913	pucCa	Dadhi-	daDipucCa
 8913	pucCa	Hasta-	hastapucCa
 8919	puwa	Adhara-	aDarapuwa
-8919	puwa	Kṛta-añjali-	kftaaYjalipuwa
+8919	puwa	Kṛta-añjali-	kftAYjalipuwa
 8919	puwa	Nayana-	nayanapuwa
 8919	puwa	Nāsā-	nAsApuwa
 8919	puwa	Pakṣa-	pakzapuwa
@@ -3728,7 +3728,7 @@ Lnum	basehw	compound	resolution
 9100	pUrva	Anya-	anyapUrva
 9100	pUrva	A-bodha-	aboDapUrva
 9100	pUrva	Aham-	ahampUrva
-9100	pUrva	Tri-abda-	triabdapUrva
+9100	pUrva	Tri-abda-	tryabdapUrva
 9100	pUrva	Dakṣiṇa-	dakziRapUrva
 9100	pUrva	Pava-	pavapUrva
 9100	pUrva	Pūrva-pūrva	pUrvapUrva
@@ -3764,7 +3764,7 @@ Lnum	basehw	compound	resolution
 9249	pOtra	Putra-	putrapOtra
 9250	pOtrin	Putra-	putrapOtrin
 9257	pOrava	A-	apOrava
-9262	pOruza	Daiva-antar-ita-	dEvaantaritapOruza
+9262	pOruza	Daiva-antar-ita-	dEvAntaritapOruza
 9262	pOruza	Nis-	nispOruza
 9300	prakampa	A-	aprakampa
 9300	prakampa	Duṣprakampa	duzprakampa
@@ -3834,7 +3834,7 @@ Lnum	basehw	compound	resolution
 9730	pradAna	Avaskanda-	avaskandapradAna
 9742	pradoza	Grahaṇī-	grahaRIpradoza
 9746	praDAna	A-	apraDAna
-9746	praDAna	Tad-	tadpraDAna
+9746	praDAna	Tad-	tatpraDAna
 9746	praDAna	Dharma-	DarmapraDAna
 9746	praDAna	Niṣpr˚	nizpr˚
 9746	praDAna	Yathā-pradhāna + m	yaTApraDAnam
@@ -3877,7 +3877,7 @@ Lnum	basehw	compound	resolution
 9824	prayoga	Vidhi-	viDiprayoga
 9824	prayoga	Su-	suprayoga
 9827	prayojana	A-	aprayojana
-9827	prayojana	Samāna-artha-	samAnaarTaprayojana
+9827	prayojana	Samāna-artha-	samAnArTaprayojana
 9833	pralamBa	Su-	supralamBa
 9834	pralaya	Mahā-	mahApralaya
 9835	pralApa	Su-	supralApa
@@ -3997,7 +3997,7 @@ Lnum	basehw	compound	resolution
 10219	banD	A-	abanD
 10220	banDa	Aṅka-	aNkabanDa
 10220	banDa	Artha-	arTabanDa
-10220	banDa	Lalita-artha-	lalitaarTabanDa
+10220	banDa	Lalita-artha-	lalitArTabanDa
 10220	banDa	Aśva-bandh + a	aSvabanDa
 10220	banDa	Āśā-	ASAbanDa
 10220	banDa	Āsana-	AsanabanDa
@@ -4018,7 +4018,7 @@ Lnum	basehw	compound	resolution
 10222	banDana	Pāśa-	pASabanDana
 10222	banDana	Maṇi-	maRibanDana
 10222	banDana	Lalita-pada-	lalitapadabanDana
-10222	banDana	Sa-avaśeṣa-	saavaSezabanDana
+10222	banDana	Sa-avaśeṣa-	sAvaSezabanDana
 10222	banDana	Sā-marthya-	sAmarTyabanDana
 10225	banDu	A-	abanDu
 10225	banDu	Kṣatra-	kzatrabanDu
@@ -4037,7 +4037,7 @@ Lnum	basehw	compound	resolution
 10243	bala	Tuṅga-	tuNgabala
 10243	bala	Durbala	durbala
 10243	bala	Nāga-	nAgabala
-10243	bala	Pari-dus-	paridusbala
+10243	bala	Pari-dus-	paridurbala
 10243	bala	Mahā-	mahAbala
 10243	bala	Yatha-bala + m	yaTabalam
 10243	bala	Vṛhadb˚	vfhadb˚
@@ -4229,7 +4229,7 @@ Lnum	basehw	compound	resolution
 10536	BAryA	Sa-bhārya	saBArya
 10542	BAva	A-	aBAva
 10542	BAva	A-badhya-	abaDyaBAva
-10542	BAva	Ādhāra-ā-dheya-	ADAraADeyaBAva
+10542	BAva	Ādhāra-ā-dheya-	ADArADeyaBAva
 10542	BAva	Ārya-	AryaBAva
 10542	BAva	Eka-	ekaBAva
 10542	BAva	Kanyā-	kanyABAva
@@ -4488,7 +4488,7 @@ Lnum	basehw	compound	resolution
 10928	manAk	A-	amanAk
 10931	manIzA	Ku-maniṣa	kumaniza
 10933	manIzin	Ka-	kamanIzin
-10935	manuja	Nis-	nismanuja
+10935	manuja	Nis-	nirmanuja
 10936	manuzya	A-	amanuzya
 10936	manuzya	Ati-	atimanuzya
 10936	manuzya	Durm˚	durm˚
@@ -4532,13 +4532,13 @@ Lnum	basehw	compound	resolution
 11034	marman	Śirom˚	Sirom˚
 11041	maryAdA	A-maryāda	amaryAda
 11041	maryAdA	Agni-sākṣika-	agnisAkzikamaryAdA
-11041	maryAdA	An-apa-īkṣita-	anapaIkzitamaryAdA
+11041	maryAdA	An-apa-īkṣita-	anapekzitamaryAdA
 11041	maryAdA	Durm˚	durm˚
 11041	maryAdA	Nirm˚	nirm˚
 11041	maryAdA	Bhinna-	BinnamaryAdA
 11041	maryAdA	Sa-	samaryAdA
 11044	marza	A-	amarza
-11044	marza	Nis-a-	nisamarza
+11044	marza	Nis-a-	niramarza
 11044	marza	Sāmarṣa	sAmarza
 11045	marzaRa	A-	amarzaRa
 11045	marzaRa	Agha-	aGamarzaRa
@@ -4622,7 +4622,7 @@ Lnum	basehw	compound	resolution
 11166	mAtra	Saṃkṣepa-	saMkzepamAtra
 11166	mAtra	Smṛta-	smftamAtra
 11166	mAtra	Hastimātra	hastimAtra
-11169	mAtsarya	Pus-	pusmAtsarya
+11169	mAtsarya	Pus-	purmAtsarya
 11179	mADava	Latā-mādhavī	latAmADavI
 11184	mADurya	Bhrūkṣepālāpa-	BrUkzepAlApamADurya
 11193	mAna	Ati-	atimAna
@@ -4714,7 +4714,7 @@ Lnum	basehw	compound	resolution
 11281	mAsika	Ṣaṇmāsika	zaRmAsika
 11301	mittra	A-	amittra
 11301	mittra	Ku-	kumittra
-11301	mittra	Nis-a-	nisamittra
+11301	mittra	Nis-a-	niramittra
 11301	mittra	Dhana-	Danamittra
 11301	mittra	Sa-	samittra
 11301	mittra	Su-	sumittra
@@ -4748,7 +4748,7 @@ Lnum	basehw	compound	resolution
 11351	muKa	Jyotirmukha	jyotirmuKa
 11351	muKa	Jvālā-	jvAlAmuKa
 11351	muKa	Dakṣiṇā-	dakziRAmuKa
-11351	muKa	Dakṣiṇā-abhi-	dakziRAaBimuKa
+11351	muKa	Dakṣiṇā-abhi-	dakziRABimuKa
 11351	muKa	Dadhi-	daDimuKa
 11351	muKa	Darī-	darImuKa
 11351	muKa	Daśa(n)-	daSa(n)muKa
@@ -4760,7 +4760,7 @@ Lnum	basehw	compound	resolution
 11351	muKa	Niśā-	niSAmuKa
 11351	muKa	Payas-	payasmuKa
 11351	muKa	Parāṅ-mukha	parANmuKa
-11351	muKa	Pari-vṛtta-ardha-	parivfttaarDamuKa
+11351	muKa	Pari-vṛtta-ardha-	parivfttArDamuKa
 11351	muKa	Pūrva-paścānmukha	pUrvapaScAnmuKa
 11351	muKa	Prāṅmukha	prANmuKa
 11351	muKa	Phaṇi(n)-	PaRi(n)muKa
@@ -4778,7 +4778,7 @@ Lnum	basehw	compound	resolution
 11351	muKa	Śata-	SatamuKa
 11351	muKa	Śilī-	SilImuKa
 11351	muKa	Ṣaṇm˚	zaRm˚
-11351	muKa	Sa-kala-indu-	sakalaindumuKa
+11351	muKa	Sa-kala-indu-	sakalendumuKa
 11351	muKa	Sam-	sammuKa
 11351	muKa	Sarvatomukha	sarvatomuKa
 11351	muKa	Su-	sumuKa
@@ -4859,10 +4859,10 @@ Lnum	basehw	compound	resolution
 11537	meGa	Gṛha-	gfhameGa
 11553	meDa	Aśva-, Turaga-, Turaṅgama-	aSva, turaga, turaNgamameDa
 11553	meDa	Gṛha-	gfhameDa
-11553	meDa	Dus-	dusmeDa
+11553	meDa	Dus-	durmeDa
 11553	meDa	Nara-	narameDa
 11553	meDa	Pitṛ-	pitfmeDa
-11555	meDAvin	Dus-	dusmeDAvin
+11555	meDAvin	Dus-	durmeDAvin
 11558	meDya	A-	ameDya
 11564	meru	Su-	sumeru
 11573	mEtra	Durmaitra	durmEtra
@@ -4873,7 +4873,7 @@ Lnum	basehw	compound	resolution
 11610	mOktika	Gaja-	gajamOktika
 11613	mOKya	Grāma-	grAmamOKya
 11619	mOna	Cintā-	cintAmOna
-11627	mOli	Ardha-indu-	arDaindumOli
+11627	mOli	Ardha-indu-	arDendumOli
 11627	mOli	Cakra-	cakramOli
 11627	mOli	Niśākara-kalā-	niSAkarakalAmOli
 11654	mlE	A-	amlE
@@ -4920,7 +4920,7 @@ Lnum	basehw	compound	resolution
 11709	yantraRa	Niryantraṇa	niryantraRa
 11709	yantraRa	Mukha-	muKayantraRa
 11711	yam	Vāgyata	vAgyata
-11712	yama	Kāla-anta + ka-	kAlaanta + kayama
+11712	yama	Kāla-anta + ka-	kAlAnta + kayama
 11726	yava	Kāka-	kAkayava
 11726	yava	Tri-	triyava
 11730	yavana	Kāla-	kAlayavana
@@ -4946,7 +4946,7 @@ Lnum	basehw	compound	resolution
 11761	yAjin	Ātma(n)-	Atma(n)yAjin
 11761	yAjin	Grāma-	grAmayAjin
 11761	yAjin	Soma-	somayAjin
-11761	yAjin	Havis-	havisyAjin
+11761	yAjin	Havis-	haviryAjin
 11769	yAtrA	Tīrtha-	tIrTayAtrA
 11769	yAtrA	Deva-	devayAtrA
 11769	yAtrA	Deha-	dehayAtrA
@@ -5167,7 +5167,7 @@ Lnum	basehw	compound	resolution
 12010	rasa	Yakṣa-	yakzarasa
 12010	rasa	Yathā-rasa + m	yaTArasam
 12010	rasa	Vi-	virasa
-12010	rasa	Śṛṅgāra-eka-	SfNgAraekarasa
+12010	rasa	Śṛṅgāra-eka-	SfNgAraikarasa
 12010	rasa	Sa-	sarasa
 12010	rasa	Siddha-	sidDarasa
 12010	rasa	Su-	surasa
@@ -5247,7 +5247,7 @@ Lnum	basehw	compound	resolution
 12063	rAjya	Yuvarājya-	yuvarAjyarAjya
 12063	rAjya	Hṛta-	hftarAjya
 12066	rAti	A-	arAti
-12066	rAti	Vāyasa-a-	vAyasaarAti
+12066	rAti	Vāyasa-a-	vAyasArAti
 12068	rAtraka	Pañca(n)-	paYca(n)rAtraka
 12069	rAtri	Kāla-	kAlarAtri
 12069	rAtri	Yakṣa-rātri	yakzarAtri
@@ -5412,7 +5412,7 @@ Lnum	basehw	compound	resolution
 12316	lajjA	Nirlajja	nirlajja
 12316	lajjA	Sa-	salajjA
 12331	latA	Amṛta-	amftalatA
-12331	latA	Ud-patāka-bhuja-laṭa	udpatAkaBujalawa
+12331	latA	Ud-patāka-bhuja-laṭa	utpatAkaBujalawa
 12331	latA	Kalpa-	kalpalatA
 12331	latA	Nāga-	nAgalatA
 12331	latA	Bāhu-	bAhulatA
@@ -5431,7 +5431,7 @@ Lnum	basehw	compound	resolution
 12341	lamba	Ā-gaṇḍa-	AgaRqalamba
 12346	lambin	A-	alambin
 12346	lambin	An-ati-	anatilambin
-12346	lambin	Pūrva-ardha-	pUrvaarDalambin
+12346	lambin	Pūrva-ardha-	pUrvArDalambin
 12352	laya	A-	alaya
 12354	lal	Durlalita	durlalita
 12354	lal	Su-	sulal
@@ -5447,10 +5447,10 @@ Lnum	basehw	compound	resolution
 12400	lAYCana	Śrī-vatsa-	SrIvatsalAYCana
 12400	lAYCana	Śaśa-	SaSalAYCana
 12407	lABa	A-	alABa
-12407	lABa	Guṇa-a-	guRaalABa
+12407	lABa	Guṇa-a-	guRAlABa
 12407	lABa	Durlābha	durlABa
 12407	lABa	Dvi-guṇa-	dviguRalABa
-12407	lABa	Lābha-a-	lABaalABa
+12407	lABa	Lābha-a-	lABAlABa
 12407	lABa	Siddhi-	sidDilABa
 12411	lAlasa	Darśana-	darSanalAlasa
 12411	lAlasa	Pati-	patilAlasa
@@ -5704,7 +5704,7 @@ Lnum	basehw	compound	resolution
 12866	vaSa	Daiva-	dEvavaSa
 12866	vaSa	Nidrā-	nidrAvaSa
 12866	vaSa	Para-	paravaSa
-12866	vaSa	Mantra-oṣadhi-	mantraozaDivaSa
+12866	vaSa	Mantra-oṣadhi-	mantrauzaDivaSa
 12866	vaSa	Moha-	mohavaSa
 12866	vaSa	Vi-	vivaSa
 12866	vaSa	Sva-	svavaSa
@@ -5846,7 +5846,7 @@ Lnum	basehw	compound	resolution
 13099	vAsana	Durvāsanā	durvAsanA
 13099	vAsana	Nirvāsana	nirvAsana
 13099	vAsana	Vana-	vanavAsana
-13099	vAsana	Sam-ud-chinna-	samudCinnavAsana
+13099	vAsana	Sam-ud-chinna-	samutCinnavAsana
 13106	vAsas	Adhas-	aDasvAsas
 13106	vAsas	Uttara-	uttaravAsas
 13106	vAsas	Eka-	ekavAsas
@@ -5999,7 +5999,7 @@ Lnum	basehw	compound	resolution
 13327	vidyA	Kṛta-	kftavidyA
 13327	vidyA	Tarka-	tarkavidyA
 13327	vidyA	Dus-	durvidyA
-13327	vidyA	Dhanus-	DanusvidyA
+13327	vidyA	Dhanus-	DanurvidyA
 13327	vidyA	Nakṣatra-	nakzatravidyA
 13327	vidyA	Nis-	nirvidyA
 13327	vidyA	Nīti-	nItividyA
@@ -6060,7 +6060,7 @@ Lnum	basehw	compound	resolution
 13381	vinASa	A-	avinASa
 13384	vinASin	A-	avinASin
 13397	viniScaya	Pāpa-	pApaviniScaya
-13397	viniScaya	Sva-dharma-artha-	svaDarmaarTaviniScaya
+13397	viniScaya	Sva-dharma-artha-	svaDarmArTaviniScaya
 13400	vinoda	Nis-	nirvinoda
 13400	vinoda	Vilapana-	vilapanavinoda
 13403	vindu	Suvarṇa-	suvarRavindu
@@ -6072,7 +6072,7 @@ Lnum	basehw	compound	resolution
 13422	vipAka	Karmavipāka	karmavipAka
 13422	vipAka	Daśā-	daSAvipAka
 13422	vipAka	Dus-	durvipAka
-13422	vipAka	Daiva-dus-	dEvadusvipAka
+13422	vipAka	Daiva-dus-	dEvadurvipAka
 13428	vipina	Ati-	ativipina
 13429	vipula	Su-	suvipula
 13451	viplava	Prāṇa-	prARaviplava
@@ -6153,8 +6153,8 @@ Lnum	basehw	compound	resolution
 13709	vizaya	An-anya-	ananyavizaya
 13709	vizaya	Avakāśa-	avakASavizaya
 13709	vizaya	Cakṣurviṣaya	cakzurvizaya
-13709	vizaya	A-cakṣus-	acakzusvizaya
-13709	vizaya	Guṇa-samudaya-avāpti-	guRasamudayaavAptivizaya
+13709	vizaya	A-cakṣus-	acakzurvizaya
+13709	vizaya	Guṇa-samudaya-avāpti-	guRasamudayAvAptivizaya
 13709	vizaya	Nis-	nirvizaya
 13709	vizaya	Nīti-	nItivizaya
 13709	vizaya	Palāyana-	palAyanavizaya
@@ -6239,8 +6239,8 @@ Lnum	basehw	compound	resolution
 13886	vft	Chandov˚	Candov˚
 13886	vft	Tejov˚	tejov˚
 13886	vft	Dus-	durvft
-13886	vft	A-dus-	adusvft
-13886	vft	Ati-dus-	atidusvft
+13886	vft	A-dus-	adurvft
+13886	vft	Ati-dus-	atidurvft
 13886	vft	Purā-	purAvft
 13886	vft	Pūrva-	pUrvavft
 13886	vft	Maṅgalādeśa-	maNgalAdeSavft
@@ -6266,7 +6266,7 @@ Lnum	basehw	compound	resolution
 13894	vftti	Dyūta-	dyUtavftti
 13894	vftti	Dhairya-	DEryavftti
 13894	vftti	Pataṅga-	pataNgavftti
-13894	vftti	Para-adhīna-	paraaDInavftti
+13894	vftti	Para-adhīna-	parADInavftti
 13894	vftti	Parokṣa-	parokzavftti
 13894	vftti	Pratikūla-	pratikUlavftti
 13894	vftti	Bhāgya-	BAgyavftti
@@ -6328,12 +6328,12 @@ Lnum	basehw	compound	resolution
 13967	vedas	Sarva-	sarvavedas
 13973	vedi	Uttara-vedi	uttaravedi
 13973	vedi	Ud-vedi	udvedi
-13973	vedi	Vahis-vedi	vahisvedi
+13973	vedi	Vahis-vedi	vahirvedi
 13976	vedin	Kanyā-	kanyAvedin
 13976	vedin	Karuṇa-	karuRavedin
 13976	vedin	Gambhīra-	gamBIravedin
 13976	vedin	Nīti-	nItivedin
-13976	vedin	Puruṣa-antara-	puruzaantaravedin
+13976	vedin	Puruṣa-antara-	puruzAntaravedin
 13980	veDana	Dṛḍha-	dfQaveDana
 13982	veDin	Koṭi-	kowiveDin
 13982	veDin	Śabda-	SabdaveDin
@@ -6405,7 +6405,7 @@ Lnum	basehw	compound	resolution
 14197	vyaya	A-	avyaya
 14197	vyaya	Ati-	ativyaya
 14197	vyaya	Bhojana-	Bojanavyaya
-14197	vyaya	Su-alpa-	sualpavyaya
+14197	vyaya	Su-alpa-	svalpavyaya
 14201	vyalIka	Nis-	nirvyalIka
 14209	vyavasAyin	A-	avyavasAyin
 14210	vyavasTA	A-vyavastha	avyavasTa
@@ -6808,7 +6808,7 @@ Lnum	basehw	compound	resolution
 14986	Srama	Kṛta-	kftaSrama
 14986	Srama	Khyāta-vyākaraṇa-	KyAtavyAkaraRaSrama
 14986	Srama	Jita-	jitaSrama
-14986	Srama	Matta-ibha-kumbha-vidalana-kṛta-	mattaiBakumBavidalanakftaSrama
+14986	Srama	Matta-ibha-kumbha-vidalana-kṛta-	matteBakumBavidalanakftaSrama
 14986	Srama	Vṛthā-	vfTASrama
 14986	Srama	Sa-	saSrama
 14992	Srava	Karṇa-	karRaSrava
@@ -7122,7 +7122,7 @@ Lnum	basehw	compound	resolution
 15779	saMBava	Paulomī-	pOlomIsaMBava
 15779	saMBava	Mānuṣa-	mAnuzasaMBava
 15779	saMBava	Viśāla-kula-	viSAlakulasaMBava
-15779	saMBava	Sura-ari-	suraarisaMBava
+15779	saMBava	Sura-ari-	surArisaMBava
 15781	saMBAvana	Sarpatva-	sarpatvasaMBAvana
 15782	saMBAza	Madhura-saṃbhāṣa	maDurasaMBAza
 15784	saMBUti	Garbha-	garBasaMBUti
@@ -7221,7 +7221,7 @@ Lnum	basehw	compound	resolution
 16064	sAyaka	A-sanva-	asanvasAyaka
 16067	sAyujya	Rāja-sāyujya	rAjasAyujya
 16069	sAra	A-	asAra
-16069	sAra	Sāra-a-	sAraasAra
+16069	sAra	Sāra-a-	sArAsAra
 16069	sAra	Agra-	agrasAra
 16069	sAra	Adri-	adrisAra
 16069	sAra	Antaḥsāra	antaHsAra
@@ -7234,20 +7234,20 @@ Lnum	basehw	compound	resolution
 16069	sAra	Candana-	candanasAra
 16069	sAra	Traksāra	traksAra
 16069	sAra	Dṛṣṭa-	dfzwasAra
-16069	sAra	Nis-abhibhava-	nisaBiBavasAra
+16069	sAra	Nis-abhibhava-	niraBiBavasAra
 16069	sAra	Niḥsāra	niHsAra
 16069	sAra	Prāṇa-	prARasAra
 16069	sAra	Vajra-	vajrasAra
 16069	sAra	Vedānta-	vedAntasAra
 16069	sAra	Śilā-	SilAsAra
 16069	sAra	Śaila-	SElasAra
-16069	sAra	Sa-kala-artha-śāstra-	sakalaarTaSAstrasAra
+16069	sAra	Sa-kala-artha-śāstra-	sakalArTaSAstrasAra
 16069	sAra	Sattva-	sattvasAra
 16069	sAra	Su-	susAra
-16069	sAra	Sva-anubhūti-eka-sāra-	svaanuBUtiekasArasAra
+16069	sAra	Sva-anubhūti-eka-sāra-	svAnuBUtyekasArasAra
 16070	sAraNga	Kṛṣṇa-	kfzRasAraNga
 16074	sAratA	A-	asAratA
-16074	sAratA	Sāra-a-	sAraasAratA
+16074	sAratA	Sāra-a-	sArAsAratA
 16075	sAraTi	Ku-	kusAraTi
 16075	sAraTi	Dharma-	DarmasAraTi
 16075	sAraTi	Pārṣṇi-	pArzRisAraTi
@@ -7272,10 +7272,10 @@ Lnum	basehw	compound	resolution
 16123	sAhasra	Śata-	SatasAhasra
 16138	sikTaka	Madhu-	maDusikTaka
 16142	sita	A-	asita
-16142	sita	Sita-a-	sitaasita
+16142	sita	Sita-a-	sitAsita
 16146	sidDArTa	A-	asidDArTa
 16147	sidDi	A-	asidDi
-16147	sidDi	Āśraya-a-	ASrayaasidDi
+16147	sidDi	Āśraya-a-	ASrayAsidDi
 16147	sidDi	Ati-	atisidDi
 16147	sidDi	An-yathā-	anyaTAsidDi
 16147	sidDi	Mahā-	mahAsidDi
@@ -7390,8 +7390,8 @@ Lnum	basehw	compound	resolution
 16492	skanDa	Kāla-	kAlaskanDa
 16492	skanDa	Mahā-pṛṣṭha-gala-	mahApfzWagalaskanDa
 16492	skanDa	Rājaskandha	rAjaskanDa
-16492	skanDa	Viṣāṇa-ud-nāmita-	vizARaudnAmitaskanDa
-16492	skanDa	Viṣāṇa-ud-likhita-	vizARaudliKitaskanDa
+16492	skanDa	Viṣāṇa-ud-nāmita-	vizARodnAmitaskanDa
+16492	skanDa	Viṣāṇa-ud-likhita-	vizARodliKitaskanDa
 16492	skanDa	Vṛṣa-	vfzaskanDa
 16492	skanDa	Skandha-	skanDaskanDa
 16503	sKal	A-	asKal
@@ -7454,7 +7454,7 @@ Lnum	basehw	compound	resolution
 16605	sTAna	Janmasthāna	janmasTAna
 16605	sTAna	Tadīya-	tadIyasTAna
 16605	sTAna	Dhana-	DanasTAna
-16605	sTAna	Dharma-adhikaraṇa-	DarmaaDikaraRasTAna
+16605	sTAna	Dharma-adhikaraṇa-	DarmADikaraRasTAna
 16605	sTAna	Prasava-	prasavasTAna
 16605	sTAna	Badhya-	baDyasTAna
 16605	sTAna	Bandhana-	banDanasTAna
@@ -7501,7 +7501,7 @@ Lnum	basehw	compound	resolution
 16672	snehavant	A-	asnehavant
 16678	spanda	A-	aspanda
 16678	spanda	Sparśa-	sparSaspanda
-16679	spandana	Garbha-a-	garBaaspandana
+16679	spandana	Garbha-a-	garBAspandana
 16683	sparDa	Vi-spardhā	visparDA
 16686	sparSa	Dus-	dussparSa
 16686	sparSa	Sama-	samasparSa
@@ -7622,7 +7622,7 @@ Lnum	basehw	compound	resolution
 17052	hasta	Gala-	galahasta
 17052	hasta	Jāla-	jAlahasta
 17052	hasta	Daṇḍa-	daRqahasta
-17052	hasta	Dhanus-vyagra-	Danusvyagrahasta
+17052	hasta	Dhanus-vyagra-	Danurvyagrahasta
 17052	hasta	Pāśa-	pASahasta
 17052	hasta	Mukta-	muktahasta
 17052	hasta	A-mukta-	amuktahasta
@@ -7660,7 +7660,7 @@ Lnum	basehw	compound	resolution
 17106	hiMsaka	A-	ahiMsaka
 17108	hiMsA	A-	ahiMsA
 17113	hiMsra	A-	ahiMsra
-17113	hiMsra	Hiṃsra-a-	hiMsraahiMsra
+17113	hiMsra	Hiṃsra-a-	hiMsrAhiMsra
 17144	hiraRya	Go-	gohiraRya
 17159	hu	A-huta	ahuta
 17163	huqa	Sa-huḍa	sahuqa
