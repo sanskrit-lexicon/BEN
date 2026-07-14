@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **BEN** is the development and correction repository for **Theodor Benfey's *A Sanskrit-English Dictionary***, a Sanskrit→English dictionary, within the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL).
 
-- **Canonical source text**: [`csl-orig/v02/ben/ben.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ben/ben.txt) (17,036 entries) — corrections are applied to that file, not stored here.
+- **Canonical source text**: [`csl-orig/v02/ben/ben.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/ben/ben.txt) (17,036 entries) — corrections are applied to that file, not stored here.
 - This repository holds **development artifacts**: corrections, markup, comparison, and per-issue working files.
 - Notable for comparative/etymological notes, including Greek cognates (`<lang n="greek">`).
 

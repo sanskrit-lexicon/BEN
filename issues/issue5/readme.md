@@ -177,7 +177,7 @@ e2ed7bb BEN: trim trailing space inside <lang n="greek"> at line 58227
 ad874b2 BEN ring above
 2e04143 BEN changes per https://github.com/sanskrit-lexicon/csl-corrections/issues/75
 a7e3461 BEN, PWG  drohin. Ref: https://github.com/sanskrit-lexicon/PWG/issues/135#issuecomment-2857066545
-090fa03 BEN: Lbody groups. Ref: https://github.com/sanskrit-lexicon/BEN/tree/master/issues/issue9
+090fa03 BEN: Lbody groups. Ref: https://github.com/sanskrit-lexicon/BEN/tree/main/issues/issue9
 7a627f2 BEN. L=6526  'du' Ref: https://github.com/sanskrit-lexicon/BEN/issues/8
 de40d4d BEN. greek Proofreading  Ref: https://github.com/sanskrit-lexicon/BEN/issues/8
 293922d BEN: Greek text in addenda. Ref: https://github.com/sanskrit-lexicon/BEN/issues/6
