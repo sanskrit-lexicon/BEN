@@ -1,6 +1,6 @@
 # BEN — Benfey *A Sanskrit-English Dictionary* (1866)
 
-Development and correction repository for **Theodor Benfey's *A Sanskrit-English Dictionary***, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/ben/ben.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ben/ben.txt) (17,036 entries); this repository holds the development, correction, and enrichment work.
+Development and correction repository for **Theodor Benfey's *A Sanskrit-English Dictionary***, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/ben/ben.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/ben/ben.txt) (17,036 entries); this repository holds the development, correction, and enrichment work.
 
 Notable for comparative/etymological notes, including Greek cognates (`<lang n="greek">`).
 
