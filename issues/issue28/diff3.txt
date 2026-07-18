@@ -1758,25 +1758,24 @@
 ---
 > <L>9101.010<pc>0569-a<k1>strIpUrvaka<k2>strI-pUrvaka
 > {#strI-#} + {#pUrvaka#}¦ {%Strī-%} + {%pūrvaka%}, <lex>adj.</lex> one who has been before a woman, <ls>MBh. 5, 5940</ls>.
-44332,44336c44386,44387
+44332,44333c44386,44387
 < <L>9172.002<pc>0572-b<k1>AkarRapF<k2>A-karRa-pF
 < {#A-karRa-#} + {#pF#}¦ {%Ā-karṇa-%} + {%pṝ%}, <lex>adj.</lex> drawn to the ear (as the string of a bow), <ls>MBh. 4, 1096</ls>.
-< <LEND>
-< <L>9172.004<pc>0572-b<k1>kalApF<k2>kalA-pF
-< {#kalA-#} + {#pF#}¦ {%Kalā-%} + {%pṝ%}, 1. <lex>adj.</lex> equal to the sixteenth part of, <ls>MBh. 4, 1299</ls>. 2. <lex>m.</lex> the moon.
 ---
 > <L>9172.002<pc>0572-b<k1>AkarRapUrRa<k2>A-karRa-pUrRa
 > {#A-karRa-#} + {#pUrRa#}¦ {%Ā-karṇa-%} + {%pūrṇa%}, <lex>adj.</lex> drawn to the ear (as the string of a bow), <ls>MBh. 4, 1096</ls>.
-44338,44339c44389,44390
-< <L>9172.006<pc>0572-b<k1>vIjapF<k2>vIja-pF
-< {#vIja-#} + {#pF#}¦ {%Vīja-%} + {%pṝ%}, <lex>m.</lex> common citron, or a large kind of lime. {@II.@} {%pūrta%}, {@1.@} Filled, <ls>Bhāg. P. 3, 24, 32</ls>; full. {@2.@} Complete; with {%dharma-%}, An act of pious liberality (see <lex>n.</lex>). {@3.@} Covered. <lex>n.</lex> An act of pious liberality, as digging a well, <ab>etc.</ab>, <ls>Man. 4, 226</ls>.
+44335,44336c44389,44390
+< <L>9172.004<pc>0572-b<k1>kalApF<k2>kalA-pF
+< {#kalA-#} + {#pF#}¦ {%Kalā-%} + {%pṝ%}, 1. <lex>adj.</lex> equal to the sixteenth part of, <ls>MBh. 4, 1299</ls>. 2. <lex>m.</lex> the moon.
 ---
 > <L>9172.004<pc>0572-b<k1>kalApUrRa<k2>kalA-pUrRa
 > {#kalA-#} + {#pUrRa#}¦ {%Kalā-%} + {%pūrṇa%}, 1. <lex>adj.</lex> equal to the sixteenth part of, <ls>MBh. 4, 1299</ls>. 2. <lex>m.</lex> the moon.
-44340a44392,44394
+44338,44339c44392,44393
+< <L>9172.006<pc>0572-b<k1>vIjapF<k2>vIja-pF
+< {#vIja-#} + {#pF#}¦ {%Vīja-%} + {%pṝ%}, <lex>m.</lex> common citron, or a large kind of lime. {@II.@} {%pūrta%}, {@1.@} Filled, <ls>Bhāg. P. 3, 24, 32</ls>; full. {@2.@} Complete; with {%dharma-%}, An act of pious liberality (see <lex>n.</lex>). {@3.@} Covered. <lex>n.</lex> An act of pious liberality, as digging a well, <ab>etc.</ab>, <ls>Man. 4, 226</ls>.
+---
 > <L>9172.006<pc>0572-b<k1>vIjapUrRa<k2>vIja-pUrRa
 > {#vIja-#} + {#pUrRa#}¦ {%Vīja-%} + {%pūrṇa%}, <lex>m.</lex> common citron, or a large kind of lime. {@II.@} {%pūrta%}, {@1.@} Filled, <ls>Bhāg. P. 3, 24, 32</ls>; full. {@2.@} Complete; with {%dharma-%}, An act of pious liberality (see <lex>n.</lex>). {@3.@} Covered. <lex>n.</lex> An act of pious liberality, as digging a well, <ab>etc.</ab>, <ls>Man. 4, 226</ls>.
-> <LEND>
 44545c44599
 < <L>9233.002<pc>0576-a<k1>parataspoza<k2>paratas-poza
 ---
@@ -2198,24 +2197,25 @@
 ---
 > <L>10630.006<pc>0657-b<k1>evamBUta<k2>evam-BUta
 > {#evam-#} + {#BUta#}¦ {%Evam-%} + {%bhūta%}, <lex>adj.</lex> such, <ls>Hit. 10, 7, <ab>M.M.</ab></ls>; <ls n="Hit.">84, 14</ls>.
-50928,50929c50992,50993
+50928,50929c50992,50996
 < <L>10630.008<pc>0657-b<k1>tIrTaBU<k2>tIrTa-BU
 < {#tIrTa-#} + {#BU#}¦ {%Tīrtha-%} + {%bhū%}, <lex>adj.</lex> hallowed, <ls>MBh. 13, 1725</ls>.
 ---
 > <L>10630.008<pc>0657-b<k1>tIrTaBUta<k2>tIrTa-BUta
 > {#tIrTa-#} + {#BUta#}¦ {%Tīrtha-%} + {%bhūta%}, <lex>adj.</lex> hallowed, <ls>MBh. 13, 1725</ls>.
-50931,50932c50995,50996
+> <LEND>
+> <L>10630.010<pc>0657-b<k1>divABUta<k2>divA-BUta
+> {#divA-#} + {#BUta#}¦ {%Divā-%} + {%bhūta%}, <lex>adj.</lex> become as clear as the day, <ls>MBh. 14, 1757</ls>.
+50931,50932c50998,50999
 < <L>10630.010<pc>0657-b<k1>divABU<k2>divA-BU
 < {#divA-#} + {#BU#}¦ {%Divā-%} + {%bhū%}, <lex>adj.</lex> become as clear as the day, <ls>MBh. 14, 1757</ls>.
 ---
-> <L>10630.010<pc>0657-b<k1>divABUta<k2>divA-BUta
-> {#divA-#} + {#BUta#}¦ {%Divā-%} + {%bhūta%}, <lex>adj.</lex> become as clear as the day, <ls>MBh. 14, 1757</ls>.
-50934,50935c50998,50999
-< <L>10630.012<pc>0657-b<k1>mahABU<k2>mahA-BU
-< {#mahA-#} + {#BU#}¦ {%Mahā-%} + {%bhū%}, <lex>n.</lex> a primary element, as earth, <ab>etc.</ab>, <ls>Man. 1, 6</ls>.
----
 > <L>10630.012<pc>0657-b<k1>mahABUta<k2>mahA-BUta
 > {#mahA-#} + {#BUta#}¦ {%Mahā-%} + {%bhūta%}, <lex>n.</lex> a primary element, as earth, <ab>etc.</ab>, <ls>Man. 1, 6</ls>.
+50934,50936d51000
+< <L>10630.012<pc>0657-b<k1>mahABU<k2>mahA-BU
+< {#mahA-#} + {#BU#}¦ {%Mahā-%} + {%bhū%}, <lex>n.</lex> a primary element, as earth, <ab>etc.</ab>, <ls>Man. 1, 6</ls>.
+< <LEND>
 50940,50941c51004,51005
 < <L>10630.016<pc>0657-b<k1>sadB˚<k2>sadB˚
 < {#sadB˚#}¦ {%Sadbh˚%}, <ab>i. e.</ab> {%sant-%} (<ab>ptcple.</ab> <ab>pres.</ab> of 1. {%as%}), <lex>adj.</lex> true.
@@ -2336,10 +2336,10 @@
 < <L>10821.002<pc>0675-a<k1>kAma, madanamaYjari<k2>kAma-, madana-maYjari
 ---
 > <L>10821.002<pc>0675-a<k1>kAmamaYjari<k2>kAma-maYjari
-51876a51941,51943
+51875a51940,51942
+> <LEND>
 > <L>10821.003<pc>0675-a<k1>madanamaYjari<k2>madana-maYjari
 > {{Lbody=10821.002}}
-> <LEND>
 51911c51978
 < <L>10831.002<pc>0675-b<k1>gopAla, cakra, SUramaWa<k2>gopAla-, cakra-, SUra-maWa
 ---
@@ -2531,24 +2531,25 @@
 ---
 > <L>11041.008<pc>0690-a<k1>durmaryAda<k2>durmaryAda
 > {#durmaryAda#}¦ {%Durm˚%}, <ab>i. e.</ab> {%dus-maryāda%}, <lex>adj.</lex> wicked, <ls>Utt. Rāmac. 113, 4</ls>.
-53102,53103c53175,53176
+53102,53103c53175,53179
 < <L>11041.010<pc>0690-a<k1>nirm˚<k2>nirm˚
 < {#nirm˚#}¦ {%Nirm˚%}, <ab>i. e.</ab> {%nis-%}, {@I.@} <lex>adj.</lex> 1. boundless. 2. unruly. 3. sinful, impious, <ls>Pañc. 152, 7</ls>. 4. confused, <ls>Rām. 3, 69, 19</ls>. {@II.@} <lex>n.</lex> confusion, <ls>MBh. 4, 1052</ls>; a sort of battle, <ls>Hariv. 15978</ls>.
 ---
 > <L>11041.010<pc>0690-a<k1>nirmaryAda<k2>nirmaryAda
 > {#nirmaryAda#}¦ {%Nirm˚%}, <ab>i. e.</ab> {%nis-%}, {@I.@} <lex>adj.</lex> 1. boundless. 2. unruly. 3. sinful, impious, <ls>Pañc. 152, 7</ls>. 4. confused, <ls>Rām. 3, 69, 19</ls>. {@II.@} <lex>n.</lex> confusion, <ls>MBh. 4, 1052</ls>; a sort of battle, <ls>Hariv. 15978</ls>.
-53105,53106c53178,53179
+> <LEND>
+> <L>11041.012<pc>0690-a<k1>BinnamaryAda<k2>Binna-maryAda
+> {#Binna-#} + {#maryAda#}¦ {%Bhinna-%} + {%maryāda%} (<ab>vb.</ab> {%bhid%}), <lex>adj.</lex> unbounded, unrestrained, <ls>Utt. Rāmac. 137, 3</ls>.
+53105,53106c53181,53182
 < <L>11041.012<pc>0690-a<k1>BinnamaryAdA<k2>Binna-maryAdA
 < {#Binna-#} + {#maryAdA#}¦ {%Bhinna-%} + {%maryādā%} (<ab>vb.</ab> {%bhid%}), <lex>adj.</lex> unbounded, unrestrained, <ls>Utt. Rāmac. 137, 3</ls>.
 ---
-> <L>11041.012<pc>0690-a<k1>BinnamaryAda<k2>Binna-maryAda
-> {#Binna-#} + {#maryAda#}¦ {%Bhinna-%} + {%maryāda%} (<ab>vb.</ab> {%bhid%}), <lex>adj.</lex> unbounded, unrestrained, <ls>Utt. Rāmac. 137, 3</ls>.
-53108,53109c53181,53182
-< <L>11041.014<pc>0690-a<k1>samaryAdA<k2>sa-maryAdA
-< {#sa-#} + {#maryAdA#}¦ {%Sa-%} + {%maryādā%}, <lex>adj.</lex> 1. bounded. 2. near. 3. correct in conduct.
----
 > <L>11041.014<pc>0690-a<k1>samaryAda<k2>sa-maryAda
 > {#sa-#} + {#maryAda#}¦ {%Sa-%} + {%maryāda%}, <lex>adj.</lex> 1. bounded. 2. near. 3. correct in conduct.
+53108,53110d53183
+< <L>11041.014<pc>0690-a<k1>samaryAdA<k2>sa-maryAdA
+< {#sa-#} + {#maryAdA#}¦ {%Sa-%} + {%maryādā%}, <lex>adj.</lex> 1. bounded. 2. near. 3. correct in conduct.
+< <LEND>
 53140,53141c53213,53214
 < <L>11045.006<pc>0690-b<k1>durm˚<k2>durm˚
 < {#durm˚#}¦ {%Durm˚%}, <ab>i. e.</ab> {%dus-%}, {@I.@} <lex>adj.</lex> difficult to be endured, or to be managed, <ls>Rām. 6, 3, 33</ls>. {@II.@} <lex>m.</lex> a proper name.
@@ -2631,30 +2632,31 @@
 ---
 > <L>11257.010<pc>0704-a<k1>vanamAlA<k2>vana-mAlA
 > {#vana-#} + {#mAlA#}¦ {%Vana-%} + {%māla%}, <lex>f.</lex> {%lā%}, the chaplet worn by Kṛṣṇa.
-54275,54276c54348,54349
+54275,54279c54348,54349
 < <L>11257.012<pc>0704-a<k1>vandanamAla<k2>vandana-mAla
 < {#vandana-#} + {#mAla#}¦ {%Vandana-%} + {%māla%}, <lex>f.</lex> {%lā%}, the ornamented arc of a gateway (<ab>cf.</ab> {%mālaka%}).
----
-> <L>11257.012<pc>0704-a<k1>vandanamAlA<k2>vandana-mAlA
-> {#vandana-#} + {#mAlA#}¦ {%Vandana-%} + {%māla%}, <lex>f.</lex> {%lā%}, the ornamented arc of a gateway (<ab>cf.</ab> {%mālaka%}).
-54278,54279c54351,54352
+< <LEND>
 < <L>11257.014<pc>0704-a<k1>varRamAla<k2>varRa-mAla
 < {#varRa-#} + {#mAla#}¦ {%Varṇa-%} + {%māla%}, <lex>f.</lex> {%lā%}, the alphabet.
 ---
-> <L>11257.014<pc>0704-a<k1>varRamAlA<k2>varRa-mAlA
-> {#varRa-#} + {#mAlA#}¦ {%Varṇa-%} + {%māla%}, <lex>f.</lex> {%lā%}, the alphabet.
-54281,54282c54354,54355
+> <L>11257.012<pc>0704-a<k1>vandanamAlA<k2>vandana-mAlA
+> {#vandana-#} + {#mAlA#}¦ {%Vandana-%} + {%māla%}, <lex>f.</lex> {%lā%}, the ornamented arc of a gateway (<ab>cf.</ab> {%mālaka%}).
+54281,54282c54351,54352
 < <L>11257.016<pc>0704-a<k1>haMsamAla<k2>haMsa-mAla
 < {#haMsa-#} + {#mAla#}¦ {%Haṃsa-%} + {%māla%}, <lex>f.</lex> {%lā%}, 1. a duck. 2. a flight of wild geese.
 ---
-> <L>11257.016<pc>0704-a<k1>haMsamAlA<k2>haMsa-mAlA
-> {#haMsa-#} + {#mAlA#}¦ {%Haṃsa-%} + {%māla%}, <lex>f.</lex> {%lā%}, 1. a duck. 2. a flight of wild geese.
-54284,54285c54357,54358
+> <L>11257.014<pc>0704-a<k1>varRamAlA<k2>varRa-mAlA
+> {#varRa-#} + {#mAlA#}¦ {%Varṇa-%} + {%māla%}, <lex>f.</lex> {%lā%}, the alphabet.
+54284,54285c54354,54355
 < <L>11257.018<pc>0704-a<k1>hemamAla<k2>hema-mAla
 < {#hema-#} + {#mAla#}¦ {%Hema-%} + {%māla%}, <lex>f.</lex> {%lā%}, the wife of Yama.
 ---
+> <L>11257.016<pc>0704-a<k1>haMsamAlA<k2>haMsa-mAlA
+> {#haMsa-#} + {#mAlA#}¦ {%Haṃsa-%} + {%māla%}, <lex>f.</lex> {%lā%}, 1. a duck. 2. a flight of wild geese.
+54286a54357,54359
 > <L>11257.018<pc>0704-a<k1>hemamAlA<k2>hema-mAlA
 > {#hema-#} + {#mAlA#}¦ {%Hema-%} + {%māla%}, <lex>f.</lex> {%lā%}, the wife of Yama.
+> <LEND>
 54303,54304c54376,54377
 < <L>11262.002<pc>0704-b<k1>vandanamAlika<k2>vandana-mAlika
 < {#vandana-#} + {#mAlika#}¦ {%Vandana-%} + {%mālika%}, <lex>f.</lex> {%kā%}, the ornamented arc of a gateway; <ab>cf.</ab> {%mālaka%}.
@@ -2969,24 +2971,25 @@
 < <L>11916.006<pc>0753-b<k1>rAja(n)raNga<k2>rAja(n)-raNga
 ---
 > <L>11916.006<pc>0753-b<k1>rAjaraNga<k2>rAja(n)-raNga
-58078,58079c58160,58161
+58078,58082c58160,58161
 < <L>11938.002<pc>0755-b<k1>AraYj<k2>A-raYj
 < {#A-#} + {#raYj#}¦ {%Ā-%} + {%rañj%}, <lex>adj.</lex> 1. reddish, <ls>Vikr. 78, 2</ls>. red, <ls>Pañc. 64, 15</ls>.
----
-> <L>11938.002<pc>0755-b<k1>Arakta<k2>A-rakta
-> {#A-#} + {#rakta#}¦ {%Ā-%} + {%rakta%}, <lex>adj.</lex> 1. reddish, <ls>Vikr. 78, 2</ls>. red, <ls>Pañc. 64, 15</ls>.
-58081,58082c58163,58164
+< <LEND>
 < <L>11938.004<pc>0755-b<k1>jivaraYj<k2>jiva-raYj
 < {#jiva-#} + {#raYj#}¦ {%Jiva-%} + {%rañj%}, <lex>n.</lex> the blood of the menses, <ls>Suśr. 1, 43, 19</ls>.
 ---
-> <L>11938.004<pc>0755-b<k1>jivarakta<k2>jiva-rakta
-> {#jiva-#} + {#rakta#}¦ {%Jiva-%} + {%rakta%}, <lex>n.</lex> the blood of the menses, <ls>Suśr. 1, 43, 19</ls>.
-58084,58085c58166,58167
+> <L>11938.002<pc>0755-b<k1>Arakta<k2>A-rakta
+> {#A-#} + {#rakta#}¦ {%Ā-%} + {%rakta%}, <lex>adj.</lex> 1. reddish, <ls>Vikr. 78, 2</ls>. red, <ls>Pañc. 64, 15</ls>.
+58084,58085c58163,58164
 < <L>11938.006<pc>0755-b<k1>suraYj<k2>su-raYj
 < {#su-#} + {#raYj#}¦ {%Su-%} + {%rañj%}, <lex>adj.</lex> 1. well dyed. 2. deep red. 3. strongly impassioned.
 ---
+> <L>11938.004<pc>0755-b<k1>jivarakta<k2>jiva-rakta
+> {#jiva-#} + {#rakta#}¦ {%Jiva-%} + {%rakta%}, <lex>n.</lex> the blood of the menses, <ls>Suśr. 1, 43, 19</ls>.
+58086a58166,58168
 > <L>11938.006<pc>0755-b<k1>surakta<k2>su-rakta
 > {#su-#} + {#rakta#}¦ {%Su-%} + {%rakta%}, <lex>adj.</lex> 1. well dyed. 2. deep red. 3. strongly impassioned.
+> <LEND>
 58189c58271
 < <L>11958.010<pc>0757-a<k1>daSa(n)raTa<k2>daSa(n)-raTa
 ---
@@ -3349,11 +3352,10 @@
 < <L>12668.012<pc>0811-b<k1>svar, svargavaDU<k2>svar-, svarga-vaDU
 ---
 > <L>12668.012<pc>0811-b<k1>svarvaDU<k2>svar-vaDU
-62359a62442,62444
-> <LEND>
+62360a62443,62448
 > <L>12668.013<pc>0811-b<k1>svargavaDU<k2>svarga-vaDU
 > {{Lbody=12668.012}}
-62360a62446,62448
+> <LEND>
 > <L>12668.014<pc>0811-b<k1>svargivaDU<k2>svargi(n)-vaDU
 > {{Lbody=12668.012}}
 > <LEND>
@@ -3481,3 +3483,370 @@
 < <L>13128.016<pc>0842-b<k1>SiKi(n)vAhana<k2>SiKi(n)-vAhana
 ---
 > <L>13128.016<pc>0842-b<k1>SiKivAhana<k2>SiKi(n)-vAhana
+65574,65575c65674,65675
+< <L>13246.002<pc>0849-b<k1>anvij<k2>an-vij
+< {#an-#} + {#vij#}¦ {%An-%} + {%vij%}, <lex>adj.</lex> not afflicted, <ls>Bhag. 2, 56</ls>.
+---
+> <L>13246.002<pc>0849-b<k1>anudvigna<k2>an-udvigna
+> {#an-#} + {#udvigna#}¦ {%An-%} + {%udvigna%}, <lex>adj.</lex> not afflicted, <ls>Bhag. 2, 56</ls>.
+65928,65929c66028,66029
+< <L>13327.008<pc>0855-a<k1>kftavidyA<k2>kfta-vidyA
+< {#kfta-#} + {#vidyA#}¦ {%Kṛta-%} + {%vidyā%}, <lex>adj.</lex> learned, <ls>Pañc. iv. <ab>d.</ab> 40</ls>.
+---
+> <L>13327.008<pc>0855-a<k1>kftavidya<k2>kfta-vidya
+> {#kfta-#} + {#vidya#}¦ {%Kṛta-%} + {%vidya%}, <lex>adj.</lex> learned, <ls>Pañc. iv. <ab>d.</ab> 40</ls>.
+65934,65935c66034,66035
+< <L>13327.012<pc>0855-a<k1>durvidyA<k2>dus-vidyA
+< {#dus-#} + {#vidyA#}¦ {%Dus-%} + {%vidyā%}, <lex>adj.</lex> unlearned, rude, <ls>Rājat. 1, 356</ls>.
+---
+> <L>13327.012<pc>0855-a<k1>durvidya<k2>dus-vidya
+> {#dus-#} + {#vidya#}¦ {%Dus-%} + {%vidya%}, <lex>adj.</lex> unlearned, rude, <ls>Rājat. 1, 356</ls>.
+65943,65944c66043,66044
+< <L>13327.018<pc>0855-a<k1>nirvidyA<k2>nis-vidyA
+< {#nis-#} + {#vidyA#}¦ {%Nis-%} + {%vidyā%}, <lex>adj.</lex> unlearned, <ls>Kām. Nītis. 5, 56</ls>.
+---
+> <L>13327.018<pc>0855-a<k1>nirvidya<k2>nis-vidya
+> {#nis-#} + {#vidya#}¦ {%Nis-%} + {%vidya%}, <lex>adj.</lex> unlearned, <ls>Kām. Nītis. 5, 56</ls>.
+65949,65950c66049,66050
+< <L>13327.022<pc>0855-a<k1>savidyA<k2>sa-vidyA
+< {#sa-#} + {#vidyA#}¦ {%Sa-%} + {%vidyā%}, <lex>adj.</lex> 1. learned, <ls>Rājat. 5, 178</ls>. 2. wise.
+---
+> <L>13327.022<pc>0855-a<k1>savidya<k2>sa-vidya
+> {#sa-#} + {#vidya#}¦ {%Sa-%} + {%vidya%}, <lex>adj.</lex> 1. learned, <ls>Rājat. 5, 178</ls>. 2. wise.
+65955,65956c66055,66056
+< <L>13327.026<pc>0855-a<k1>sampUrRavidyA<k2>sam-pUrRa-vidyA
+< {#sam-pUrRa-#} + {#vidyA#}¦ {%Sam-pūrṇa-%} + {%vidyā%} (<ab>vb.</ab> {%pṝ%}), <lex>adj.</lex> replete with knowledge.
+---
+> <L>13327.026<pc>0855-a<k1>sampUrRavidya<k2>sam-pUrRa-vidya
+> {#sam-pUrRa-#} + {#vidya#}¦ {%Sam-pūrṇa-%} + {%vidya%} (<ab>vb.</ab> {%pṝ%}), <lex>adj.</lex> replete with knowledge.
+66039,66040c66139,66140
+< <L>13350.006<pc>0856-a<k1>asmadviDA<k2>asmad-viDA
+< {#asmad-#} + {#viDA#}¦ {%Asmad-%} + {%vidhā%}, <lex>adj.</lex> such as we, <ls>Rām. 4, 31, 6</ls>.
+---
+> <L>13350.006<pc>0856-a<k1>asmadviDa<k2>asmad-viDa
+> {#asmad-#} + {#viDa#}¦ {%Asmad-%} + {%vidha%}, <lex>adj.</lex> such as we, <ls>Rām. 4, 31, 6</ls>.
+66042,66043c66142,66143
+< <L>13350.008<pc>0856-a<k1>evamviDA<k2>evam-viDA
+< {#evam-#} + {#viDA#}¦ {%Evam-%} + {%vidhā%}, <lex>adj.</lex> of such kind, <ls>Vikr. <ab>d.</ab> 38</ls>; such, <ls>Pañc. 30, 10</ls>.
+---
+> <L>13350.008<pc>0856-a<k1>evamviDa<k2>evam-viDa
+> {#evam-#} + {#viDa#}¦ {%Evam-%} + {%vidha%}, <lex>adj.</lex> of such kind, <ls>Vikr. <ab>d.</ab> 38</ls>; such, <ls>Pañc. 30, 10</ls>.
+66045,66046c66145,66146
+< <L>13350.010<pc>0856-a<k1>kativiDA<k2>kati-viDA
+< {#kati-#} + {#viDA#}¦ {%Kati-%} + {%vidhā%}, <lex>adj.</lex> how manifold, <ls>MBh. 13, 6278</ls>.
+---
+> <L>13350.010<pc>0856-a<k1>kativiDa<k2>kati-viDa
+> {#kati-#} + {#viDa#}¦ {%Kati-%} + {%vidha%}, <lex>adj.</lex> how manifold, <ls>MBh. 13, 6278</ls>.
+66048,66049c66148,66149
+< <L>13350.012<pc>0856-a<k1>guRaviDA<k2>guRa-viDA
+< {#guRa-#} + {#viDA#}¦ {%Guṇa-%} + {%vidhā%}, <lex>adj.</lex> possessed of the different qualities, <ls>MBh. 12, 11466</ls>.
+---
+> <L>13350.012<pc>0856-a<k1>guRaviDa<k2>guRa-viDa
+> {#guRa-#} + {#viDa#}¦ {%Guṇa-%} + {%vidha%}, <lex>adj.</lex> possessed of the different qualities, <ls>MBh. 12, 11466</ls>.
+66051,66055c66151,66152
+< <L>13350.014<pc>0856-a<k1>caturviDA<k2>catur-viDA
+< {#catur-#} + {#viDA#}¦ {%Catur-%} + {%vidhā%}, <lex>adj.</lex> quadruple, <ls>Man. 2, 12</ls>.
+< <LEND>
+< <L>13350.016<pc>0856-a<k1>taTAviDA<k2>taTA-viDA
+< {#taTA-#} + {#viDA#}¦ {%Tathā-%} + {%vidhā%}, {@I.@} <lex>adj.</lex> so conditioned, <ls>Hit. 48, 8, <ab>M.M.</ab></ls> {@II.@} {%˚dham%}, <lex>adv.</lex> 1. thus, <ls>Nal. 7, 16</ls>. 2. in the same manner, <ls>Bhāṣāp. 94</ls>.
+---
+> <L>13350.014<pc>0856-a<k1>caturviDa<k2>catur-viDa
+> {#catur-#} + {#viDa#}¦ {%Catur-%} + {%vidha%}, <lex>adj.</lex> quadruple, <ls>Man. 2, 12</ls>.
+66057,66058c66154,66155
+< <L>13350.018<pc>0856-a<k1>tadviDA<k2>tad-viDA
+< {#tad-#} + {#viDA#}¦ {%Tad-%} + {%vidhā%}, <lex>adj.</lex> 1. proportioned to that, <ls>Man. 2, 112</ls>. 2. of that kind, <ls>Ragh. 2, 22</ls>.
+---
+> <L>13350.016<pc>0856-a<k1>taTAviDa<k2>taTA-viDa
+> {#taTA-#} + {#viDa#}¦ {%Tathā-%} + {%vidha%}, {@I.@} <lex>adj.</lex> so conditioned, <ls>Hit. 48, 8, <ab>M.M.</ab></ls> {@II.@} {%˚dham%}, <lex>adv.</lex> 1. thus, <ls>Nal. 7, 16</ls>. 2. in the same manner, <ls>Bhāṣāp. 94</ls>.
+66059a66157,66159
+> <L>13350.018<pc>0856-a<k1>tadviDa<k2>tad-viDa
+> {#tad-#} + {#viDa#}¦ {%Tad-%} + {%vidha%}, <lex>adj.</lex> 1. proportioned to that, <ls>Man. 2, 112</ls>. 2. of that kind, <ls>Ragh. 2, 22</ls>.
+> <LEND>
+66063,66064c66163,66164
+< <L>13350.022<pc>0856-a<k1>triviDA<k2>tri-viDA
+< {#tri-#} + {#viDA#}¦ {%Tri-%} + {%vidhā%}, <lex>adj.</lex> of three kinds, <ls>Man. 1, 117</ls>; <ls n="Man.">7, 185</ls>.
+---
+> <L>13350.022<pc>0856-a<k1>triviDa<k2>tri-viDa
+> {#tri-#} + {#viDa#}¦ {%Tri-%} + {%vidha%}, <lex>adj.</lex> of three kinds, <ls>Man. 1, 117</ls>; <ls n="Man.">7, 185</ls>.
+66066,66067c66166,66167
+< <L>13350.024<pc>0856-a<k1>tvadviDA<k2>tvad-viDA
+< {#tvad-#} + {#viDA#}¦ {%Tvad-%} + {%vidhā%}, <lex>adj.</lex> such as you, <ls>Rām. 3, 2, 27</ls>.
+---
+> <L>13350.024<pc>0856-a<k1>tvadviDa<k2>tvad-viDa
+> {#tvad-#} + {#viDa#}¦ {%Tvad-%} + {%vidha%}, <lex>adj.</lex> such as you, <ls>Rām. 3, 2, 27</ls>.
+66072,66073c66172,66173
+< <L>13350.028<pc>0856-a<k1>durviDA<k2>dus-viDA
+< {#dus-#} + {#viDA#}¦ {%Dus-%} + {%vidhā%}, <lex>adj.</lex> 1. base, <ls>Rām. 2, 109, 30</ls> <ls>Gorr. 2</ls>. poor.
+---
+> <L>13350.028<pc>0856-a<k1>durviDa<k2>dus-viDa
+> {#dus-#} + {#viDa#}¦ {%Dus-%} + {%vidha%}, <lex>adj.</lex> 1. base, <ls>Rām. 2, 109, 30</ls> <ls>Gorr. 2</ls>. poor.
+66075,66076c66175,66176
+< <L>13350.030<pc>0856-a<k1>driviDA<k2>dri-viDA
+< {#dri-#} + {#viDA#}¦ {%Dri-%} + {%vidhā%}, <lex>adj.</lex> of two sorts, <ls>Man. 7, 162</ls>.
+---
+> <L>13350.030<pc>0856-a<k1>dviviDa<k2>dvi-viDa
+> {#dri-#} + {#viDa#}¦ {%Dri-%} + {%vidha%}, <lex>adj.</lex> of two sorts, <ls>Man. 7, 162</ls>.
+66081,66082c66181,66182
+< <L>13350.034<pc>0856-a<k1>nAnAviDA<k2>nAnA-viDA
+< {#nAnA-#} + {#viDA#}¦ {%Nānā-%} + {%vidhā%}, <lex>adj.</lex> of various sorts, <ls>Man. 5, 110</ls>; manifold, <ls>Hit. 46, 14</ls>.
+---
+> <L>13350.034<pc>0856-a<k1>nAnAviDa<k2>nAnA-viDa
+> {#nAnA-#} + {#viDa#}¦ {%Nānā-%} + {%vidha%}, <lex>adj.</lex> of various sorts, <ls>Man. 5, 110</ls>; manifold, <ls>Hit. 46, 14</ls>.
+66084,66085c66184,66185
+< <L>13350.036<pc>0856-a<k1>pfTagv˚<k2>pfTagv˚
+< {#pfTagv˚#}¦ {%Pṛthagv˚%}, <ab>i. e.</ab> {%pṛthak-%}, <lex>adj.</lex> various, <ls>Man. 1, 40</ls>.
+---
+> <L>13350.036<pc>0856-a<k1>pfTagviDa<k2>pfTagviDa
+> {#pfTagviDa#}¦ {%Pṛthagv˚%}, <ab>i. e.</ab> {%pṛthak-%}, <lex>adj.</lex> various, <ls>Man. 1, 40</ls>.
+66087,66088c66187,66188
+< <L>13350.038<pc>0856-a<k1>bahuviDA<k2>bahu-viDA
+< {#bahu-#} + {#viDA#}¦ {%Bahu-%} + {%vidhā%}, <lex>adj.</lex> various, multiform. {%˚dham%}, <lex>adv.</lex> in several directions, up and down, <ls>Vikr. 30, 17</ls>.
+---
+> <L>13350.038<pc>0856-a<k1>bahuviDa<k2>bahu-viDa
+> {#bahu-#} + {#viDa#}¦ {%Bahu-%} + {%vidha%}, <lex>adj.</lex> various, multiform. {%˚dham%}, <lex>adv.</lex> in several directions, up and down, <ls>Vikr. 30, 17</ls>.
+66090,66091c66190,66191
+< <L>13350.040<pc>0856-a<k1>madviDA<k2>mad-viDA
+< {#mad-#} + {#viDA#}¦ {%Mad-%} + {%vidhā%}, <lex>adj.</lex> such as {@I.@} <ls>Chr. 24, 40</ls>; <ls>Hit. iii. <ab>d.</ab> 100</ls>.
+---
+> <L>13350.040<pc>0856-a<k1>madviDa<k2>mad-viDa
+> {#mad-#} + {#viDa#}¦ {%Mad-%} + {%vidha%}, <lex>adj.</lex> such as {@I.@} <ls>Chr. 24, 40</ls>; <ls>Hit. iii. <ab>d.</ab> 100</ls>.
+66093,66094c66193,66194
+< <L>13350.042<pc>0856-a<k1>yaTAviDA<k2>yaTA-viDA
+< {#yaTA-#} + {#viDA#}¦ {%Yathā-%} + {%vidhā%}, <lex>adj.</lex> of what sort, how like.
+---
+> <L>13350.042<pc>0856-a<k1>yaTAviDa<k2>yaTA-viDa
+> {#yaTA-#} + {#viDa#}¦ {%Yathā-%} + {%vidha%}, <lex>adj.</lex> of what sort, how like.
+66096,66097c66196,66197
+< <L>13350.044<pc>0856-a<k1>viviDA<k2>vi-viDA
+< {#vi-#} + {#viDA#}¦ {%Vi-%} + {%vidhā%}, <lex>adj.</lex> various, of many sorts, <ls>Pañc. 192, 22</ls>; manifold, <ls>Vikr. <ab>d.</ab> 46</ls>.
+---
+> <L>13350.044<pc>0856-a<k1>viviDa<k2>vi-viDa
+> {#vi-#} + {#viDa#}¦ {%Vi-%} + {%vidha%}, <lex>adj.</lex> various, of many sorts, <ls>Pañc. 192, 22</ls>; manifold, <ls>Vikr. <ab>d.</ab> 46</ls>.
+66099,66100c66199,66200
+< <L>13350.046<pc>0856-a<k1>zaqviDaviDA<k2>zaqviDa-viDA
+< {#zaqviDa-#} + {#viDA#}¦ {%Ṣaḍvidha-%} + {%vidhā%}, <ab>i. e.</ab> {%ṣaṣ-%}, <lex>adj.</lex> of six sorts, <ls>Bhāṣāp. 34</ls>.
+---
+> <L>13350.046<pc>0856-a<k1>zaqviDA<k2>zaqviDa
+> {#zaqviDa#}¦ {%Ṣaḍvidha%}, <ab>i. e.</ab> {%ṣaṣ-%}, <lex>adj.</lex> of six sorts, <ls>Bhāṣāp. 34</ls>.
+66102,66103c66202,66203
+< <L>13350.048<pc>0856-a<k1>saviDA<k2>sa-viDA
+< {#sa-#} + {#viDA#}¦ {%Sa-%} + {%vidhā%}, <lex>adj.</lex> 1. of the same kind. 2. near, <ls>Mālat. 7, 14</ls>.
+---
+> <L>13350.048<pc>0856-a<k1>saviDa<k2>sa-viDa
+> {#sa-#} + {#viDa#}¦ {%Sa-%} + {%vidha%}, <lex>adj.</lex> 1. of the same kind. 2. near, <ls>Mālat. 7, 14</ls>.
+66108,66109c66208,66209
+< <L>13350.052<pc>0856-a<k1>suviDA<k2>su-viDA
+< {#su-#} + {#viDA#}¦ {%Su-%} + {%vidhā%}, {@I.@} <lex>adj.</lex> 1. of a good kind. 2. in a good or easy way. {@II.@} {%˚dham%}, <lex>adv.</lex> easily.
+---
+> <L>13350.052<pc>0856-a<k1>suviDa<k2>su-viDa
+> {#su-#} + {#viDa#}¦ {%Su-%} + {%vidha%}, {@I.@} <lex>adj.</lex> 1. of a good kind. 2. in a good or easy way. {@II.@} {%˚dham%}, <lex>adv.</lex> easily.
+66125c66225
+< <L>13352.004<pc>0857-a<k1>puMvatviDAna<k2>puMvat-viDAna
+---
+> <L>13352.004<pc>0857-a<k1>puMvadviDAna<k2>puMvat-viDAna
+66609,66610c66709,66710
+< <L>13463.002<pc>0863-a<k1>digvi˚<k2>digvi˚
+< {#digvi˚#}¦ {%Digvi˚%}, <ab>i. e.</ab> {%diś-%}, <lex>m.</lex> a quarter of the compass, direction, <ls>Vikr. 5, 14</ls>.
+---
+> <L>13463.002<pc>0863-a<k1>digviBAga<k2>digviBAga
+> {#digviBAga#}¦ {%Digvi˚%}, <ab>i. e.</ab> {%diś-%}, <lex>m.</lex> a quarter of the compass, direction, <ls>Vikr. 5, 14</ls>.
+67016,67017c67116,67117
+< <L>13569.002<pc>0868-b<k1>vAravilAsin<k2>vAra-vilAsin
+< {#vAra-#} + {#vilAsin#}¦ {%Vāra-%} + {%vilāsin%}, <lex>f.</lex> a harlot, <ls>Hit. iv. <ab>d.</ab> 130</ls>.
+---
+> <L>13569.002<pc>0868-b<k1>vAravilAsinI<k2>vAra-vilAsinI
+> {#vAra-#} + {#vilAsinI#}¦ {%Vāra-%} + {%vilāsinī%}, <lex>f.</lex> a harlot, <ls>Hit. iv. <ab>d.</ab> 130</ls>.
+67019,67020c67119,67120
+< <L>13569.004<pc>0868-b<k1>suravilAsin<k2>sura-vilAsin
+< {#sura-#} + {#vilAsin#}¦ {%Sura-%} + {%vilāsin%}, <lex>f.</lex> a courtesan of heaven, <ls>Lass. 82, 4</ls>.
+---
+> <L>13569.004<pc>0868-b<k1>suravilAsinI<k2>sura-vilAsinI
+> {#sura-#} + {#vilAsinī#}¦ {%Sura-%} + {%vilāsinī%}, <lex>f.</lex> a courtesan of heaven, <ls>Lass. 82, 4</ls>.
+68226,68227c68326,68327
+< <L>13840.004<pc>0885-a<k1>GanavITivITi<k2>Gana-vITi-vITi
+< {#Gana-vITi-vITi#}¦ {%Ghana-vīthi-vīthi%}, <lex>f.</lex> the road of the clouds, as if they were shops, <ls>Śiś. 9, 32</ls>.
+---
+> <L>13840.004<pc>0885-a<k1>GanavITi<k2>Gana-vITi
+> {#Gana-vITi#}¦ {%Ghana-vīthi%}, <lex>f.</lex> the road of the clouds, as if they were shops, <ls>Śiś. 9, 32</ls>.
+68407,68408c68507,68508
+< <L>13867.002<pc>0886-b<k1>UrDvavf<k2>UrDva-vf
+< {#UrDva-#} + {#vf#}¦ {%Ūrdhva-%} + {%vṛ%}, <lex>adj.</lex> worn over the shoulder, <ls>Man. 2, 44</ls>.
+---
+> <L>13867.002<pc>0886-b<k1>UrDvavfta<k2>UrDva-vfta
+> {#UrDva-#} + {#vfta#}¦ {%Ūrdhva-%} + {%vṛta%}, <lex>adj.</lex> worn over the shoulder, <ls>Man. 2, 44</ls>.
+68410,68411c68510,68511
+< <L>13867.004<pc>0886-b<k1>svayamvf<k2>svayam-vf
+< {#svayam-#} + {#vf#}¦ {%Svayam-%} + {%vṛ%}, <lex>adj.</lex> chosen by one's self, <ls>Vikr. <ab>d.</ab> 101</ls>.
+---
+> <L>13867.004<pc>0886-b<k1>svayamvfta<k2>svayam-vfta
+> {#svayam-#} + {#vfta#}¦ {%Svayam-%} + {%vṛta%}, <lex>adj.</lex> chosen by one's self, <ls>Vikr. <ab>d.</ab> 101</ls>.
+68585,68586c68685,68686
+< <L>13886.002<pc>0889-b<k1>Aryavft<k2>Arya-vft
+< {#Arya-#} + {#vft#}¦ {%Ārya-%} + {%vṛt%}, {@I.@} <lex>n.</lex> the conduct of an Ārya, laudable practice, <ls>Man. 4, 175</ls>. {@II.@} <lex>adj.</lex> one who behaves in a laudable manner, <ls>Man. 9, 253</ls>.
+---
+> <L>13886.002<pc>0889-b<k1>Aryavftta<k2>Arya-vftta
+> {#Arya-#} + {#vftta#}¦ {%Ārya-%} + {%vṛtta%}, {@I.@} <lex>n.</lex> the conduct of an Ārya, laudable practice, <ls>Man. 4, 175</ls>. {@II.@} <lex>adj.</lex> one who behaves in a laudable manner, <ls>Man. 9, 253</ls>.
+68588,68592c68688,68689
+< <L>13886.004<pc>0889-b<k1>itivft<k2>iti-vft
+< {#iti-#} + {#vft#}¦ {%Iti-%} + {%vṛt%}, <lex>n.</lex> event.
+< <LEND>
+< <L>13886.006<pc>0889-b<k1>kalyARavft<k2>kalyARa-vft
+< {#kalyARa-#} + {#vft#}¦ {%Kalyāṇa-%} + {%vṛt%}, <lex>adj.</lex>, <lex>f.</lex> {%tā%}, well-behaved, <ls>Rām. 3, 53, 54</ls>.
+---
+> <L>13886.004<pc>0889-b<k1>itivftta<k2>iti-vftta
+> {#iti-#} + {#vftta#}¦ {%Iti-%} + {%vṛtta%}, <lex>n.</lex> event.
+68594,68595c68691,68692
+< <L>13886.008<pc>0889-b<k1>kAmavft<k2>kAma-vft
+< {#kAma-#} + {#vft#}¦ {%Kāma-%} + {%vṛt%}, <lex>adj.</lex> debauched. <ls>Man. 5, 154</ls>.
+---
+> <L>13886.006<pc>0889-b<k1>kalyARavftta<k2>kalyARa-vftta
+> {#kalyARa-#} + {#vftta#}¦ {%Kalyāṇa-%} + {%vṛtta%}, <lex>adj.</lex>, <lex>f.</lex> {%tā%}, well-behaved, <ls>Rām. 3, 53, 54</ls>.
+68597,68598c68694,68695
+< <L>13886.010<pc>0889-b<k1>kimvft<k2>kim-vft
+< {#kim-#} + {#vft#}¦ {%Kim-%} + {%vṛt%}, <lex>adj.</lex> timid, afraid, <ls>Pañc. 9, 15</ls>.
+---
+> <L>13886.008<pc>0889-b<k1>kAmavftta<k2>kAma-vftta
+> {#kAma-#} + {#vftta#}¦ {%Kāma-%} + {%vṛtta%}, <lex>adj.</lex> debauched. <ls>Man. 5, 154</ls>.
+68600,68601c68697,68698
+< <L>13886.012<pc>0889-b<k1>guruvft<k2>guru-vft
+< {#guru-#} + {#vft#}¦ {%Guru-%} + {%vṛt%}, <lex>adj.</lex> one who treats [Page0890-b + 48] respectfully his parents and spiritual teacher, <ls>Rām. 4, 17, 36</ls>.
+---
+> <L>13886.010<pc>0889-b<k1>kiMvftta<k2>kim-vftta
+> {#kim-#} + {#vftta#}¦ {%Kim-%} + {%vṛtta%}, <lex>adj.</lex> timid, afraid, <ls>Pañc. 9, 15</ls>.
+68603,68604c68700,68704
+< <L>13886.014<pc>0889-b<k1>Candov˚<k2>Candov˚
+< {#Candov˚#}¦ {%Chandov˚%}, <ab>i. e.</ab> {%chandas-%}, <lex>n.</lex> metre, <ls>MBh. 1, 28</ls>.
+---
+> <L>13886.012<pc>0889-b<k1>guruvftta<k2>guru-vftta
+> {#guru-#} + {#vftta#}¦ {%Guru-%} + {%vṛtta%}, <lex>adj.</lex> one who treats [Page0890-b + 48] respectfully his parents and spiritual teacher, <ls>Rām. 4, 17, 36</ls>.
+> <LEND>
+> <L>13886.014<pc>0889-b<k1>Candovftta<k2>Candovftta
+> {#Candovftta#}¦ {%Chandov˚%}, <ab>i. e.</ab> {%chandas-%}, <lex>n.</lex> metre, <ls>MBh. 1, 28</ls>.
+68606,68607c68706,68707
+< <L>13886.016<pc>0889-b<k1>tejov˚<k2>tejov˚
+< {#tejov˚#}¦ {%Tejov˚%}, <ab>i. e.</ab> {%tejas-%}, <lex>n.</lex> power and behaviour, <ls>Man. 9, 303</ls>.
+---
+> <L>13886.016<pc>0889-b<k1>tejovftta<k2>tejovftta
+> {#tejovftta#}¦ {%Tejov˚%}, <ab>i. e.</ab> {%tejas-%}, <lex>n.</lex> power and behaviour, <ls>Man. 9, 303</ls>.
+68609,68610c68709,68710
+< <L>13886.018<pc>0889-b<k1>durvft<k2>dus-vft
+< {#dus-#} + {#vft#}¦ {%Dus-%} + {%vṛt%}, {@I.@} <lex>n.</lex> 1. a bad action, <ls>Cāṇ. 82</ls> in <ls>Berl. Monatsb. 1864, 412</ls>. 2. bad conduct, <ls>MBh. 1, 100</ls>. {@II.@} <lex>adj.</lex> <ab>sbst.</ab> 1. ill-behaved, a wicked person, <ls>Yājñ. 1, 335</ls>. 2. unhappy, <ls>Hit. ii. <ab>d.</ab> 165</ls>.
+---
+> <L>13886.018<pc>0889-b<k1>durvftta<k2>dus-vftta
+> {#dus-#} + {#vftta#}¦ {%Dus-%} + {%vṛtta%}, {@I.@} <lex>n.</lex> 1. a bad action, <ls>Cāṇ. 82</ls> in <ls>Berl. Monatsb. 1864, 412</ls>. 2. bad conduct, <ls>MBh. 1, 100</ls>. {@II.@} <lex>adj.</lex> <ab>sbst.</ab> 1. ill-behaved, a wicked person, <ls>Yājñ. 1, 335</ls>. 2. unhappy, <ls>Hit. ii. <ab>d.</ab> 165</ls>.
+68612,68613c68712,68713
+< <L>13886.020<pc>0889-b<k1>adurvft<k2>a-dus-vft
+< {#a-dus-#} + {#vft#}¦ {%A-dus-%} + {%vṛt%}, <lex>adj.</lex> unblameable, <ls>Rājat. 5, 293</ls>.
+---
+> <L>13886.020<pc>0889-b<k1>adurvftta<k2>a-dus-vftta
+> {#a-dus-#} + {#vftta#}¦ {%A-dus-%} + {%vṛtta%}, <lex>adj.</lex> unblameable, <ls>Rājat. 5, 293</ls>.
+68615,68616c68715,68716
+< <L>13886.022<pc>0889-b<k1>atidurvft<k2>ati-dus-vft
+< {#ati-dus-#} + {#vft#}¦ {%Ati-dus-%} + {%vṛt%}, <lex>adj.</lex> exceedingly wicked, <ls>Hit. 18, 4, <ab>M.M.</ab></ls>
+---
+> <L>13886.022<pc>0889-b<k1>atidurvftta<k2>ati-dus-vftta
+> {#ati-dus-#} + {#vftta#}¦ {%Ati-dus-%} + {%vṛtta%}, <lex>adj.</lex> exceedingly wicked, <ls>Hit. 18, 4, <ab>M.M.</ab></ls>
+68618,68619c68718,68719
+< <L>13886.024<pc>0889-b<k1>purAvft<k2>purA-vft
+< {#purA-#} + {#vft#}¦ {%Purā-%} + {%vṛt%}, {@I.@} <lex>adj.</lex> 1. done in times of yore. 2. lived in times of yore, <ls>MBh. 14, 2842</ls>. 3. referring to times of yore, <ab>ib.</ab> <ls n="MBh.">3, 12602</ls>. {@II.@} <lex>n.</lex> 1. history, <ab>ib.</ab> <ls n="MBh.">12, 2885</ls>. 2. any old or legendary event, <ls>Hit. iii. <ab>d.</ab> 105</ls>.
+---
+> <L>13886.024<pc>0889-b<k1>purAvftta<k2>purA-vftta
+> {#purA-#} + {#vftta#}¦ {%Purā-%} + {%vṛtta%}, {@I.@} <lex>adj.</lex> 1. done in times of yore. 2. lived in times of yore, <ls>MBh. 14, 2842</ls>. 3. referring to times of yore, <ab>ib.</ab> <ls n="MBh.">3, 12602</ls>. {@II.@} <lex>n.</lex> 1. history, <ab>ib.</ab> <ls n="MBh.">12, 2885</ls>. 2. any old or legendary event, <ls>Hit. iii. <ab>d.</ab> 105</ls>.
+68621,68622c68721,68722
+< <L>13886.026<pc>0889-b<k1>pUrvavft<k2>pUrva-vft
+< {#pUrva-#} + {#vft#}¦ {%Pūrva-%} + {%vṛt%}, {@I.@} <lex>n.</lex> 1. a previous occurrence, <ls>Śāk. 71, 3</ls>. 2. previous behaviour, <ls>Mārk. P. 20, 41</ls>. {@II.@} <lex>adj.</lex> relating to a previous occurrence, <ls>Hariv. 2976</ls>.
+---
+> <L>13886.026<pc>0889-b<k1>pUrvavftta<k2>pUrva-vftta
+> {#pUrva-#} + {#vftta#}¦ {%Pūrva-%} + {%vṛtta%}, {@I.@} <lex>n.</lex> 1. a previous occurrence, <ls>Śāk. 71, 3</ls>. 2. previous behaviour, <ls>Mārk. P. 20, 41</ls>. {@II.@} <lex>adj.</lex> relating to a previous occurrence, <ls>Hariv. 2976</ls>.
+68624,68625c68724,68725
+< <L>13886.028<pc>0889-b<k1>maNgalAdeSavft<k2>maNgalAdeSa-vft
+< {#maNgalAdeSa-#} + {#vft#}¦ {%Maṅgalādeśa-%} + {%vṛt%}, <ab>i. e.</ab> {%maṅgala-ādeśa-%}, <lex>m.</lex> a fortune-teller, <ls>Man. 9, 258</ls>.
+---
+> <L>13886.028<pc>0889-b<k1>maNgalAdeSavftta<k2>maNgalAdeSa-vftta
+> {#maNgalAdeSa-#} + {#vftta#}¦ {%Maṅgalādeśa-%} + {%vṛtta%}, <ab>i. e.</ab> {%maṅgala-ādeśa-%}, <lex>m.</lex> a fortune-teller, <ls>Man. 9, 258</ls>.
+68630,68631c68730,68731
+< <L>13886.032<pc>0889-b<k1>vedavft<k2>veda-vft
+< {#veda-#} + {#vft#}¦ {%Veda-%} + {%vṛt%}, <lex>n.</lex> the doctrine of the Vedas.
+---
+> <L>13886.032<pc>0889-b<k1>vedavftta<k2>veda-vftta
+> {#veda-#} + {#vftta#}¦ {%Veda-%} + {%vṛtta%}, <lex>n.</lex> the doctrine of the Vedas.
+68633,68634c68733,68734
+< <L>13886.034<pc>0889-b<k1>sadv˚<k2>sadv˚
+< {#sadv˚#}¦ {%Sadv˚%}, <ab>i. e.</ab> {%sant-%} (<ab>vb.</ab> 1. {%as%}), {@I.@} <lex>adj.</lex> 1. well-behaved. 2. virtuous. 3. well-rounded. {@II.@} <lex>n.</lex> good or amiable disposition.
+---
+> <L>13886.034<pc>0889-b<k1>sadvftta<k2>sadvftta
+> {#sadvftta#}¦ {%Sadv˚%}, <ab>i. e.</ab> {%sant-%} (<ab>vb.</ab> 1. {%as%}), {@I.@} <lex>adj.</lex> 1. well-behaved. 2. virtuous. 3. well-rounded. {@II.@} <lex>n.</lex> good or amiable disposition.
+68636,68637c68736,68737
+< <L>13886.036<pc>0889-b<k1>sADuvft<k2>sADu-vft
+< {#sADu-#} + {#vft#}¦ {%Sādhu-%} + {%vṛt%}, {@I.@} <lex>m.</lex> a virtuous person, <ls>Hit. i. <ab>d.</ab> 201, <ab>M.M.</ab></ls> {@II.@} <lex>n.</lex> virtue.
+---
+> <L>13886.036<pc>0889-b<k1>sADuvftta<k2>sADu-vftta
+> {#sADu-#} + {#vftta#}¦ {%Sādhu-%} + {%vṛtta%}, {@I.@} <lex>m.</lex> a virtuous person, <ls>Hit. i. <ab>d.</ab> 201, <ab>M.M.</ab></ls> {@II.@} <lex>n.</lex> virtue.
+68639,68640c68739,68740
+< <L>13886.038<pc>0889-b<k1>suvft<k2>su-vft
+< {#su-#} + {#vft#}¦ {%Su-%} + {%vṛt%}, <lex>adj.</lex> 1. virtuous, good, <ls>Pañc. ii. <ab>d.</ab> 74</ls>. 2. handsomely round, <ls>Pañc. iv. <ab>d.</ab> 78</ls>; i. <ab>d.</ab> 303. 3. well-conditioned, <ls>Pañc. ii. <ab>d.</ab> 74</ls>.
+---
+> <L>13886.038<pc>0889-b<k1>suvftta<k2>su-vftta
+> {#su-#} + {#vftta#}¦ {%Su-%} + {%vṛtta%}, <lex>adj.</lex> 1. virtuous, good, <ls>Pañc. ii. <ab>d.</ab> 74</ls>. 2. handsomely round, <ls>Pañc. iv. <ab>d.</ab> 78</ls>; i. <ab>d.</ab> 303. 3. well-conditioned, <ls>Pañc. ii. <ab>d.</ab> 74</ls>.
+68642,68643c68742,68743
+< <L>13886.040<pc>0889-b<k1>svavft<k2>sva-vft
+< {#sva-#} + {#vft#}¦ {%Sva-%} + {%vṛt%}, <lex>n.</lex> 1. one's own occupation, <ls>Daśak. in Chr. 183, 6</ls>. 2. occupation, <ls>Pañc. i. <ab>d.</ab> 79</ls>.
+---
+> <L>13886.040<pc>0889-b<k1>svavftta<k2>sva-vftta
+> {#sva-#} + {#vftta#}¦ {%Sva-%} + {%vṛtta%}, <lex>n.</lex> 1. one's own occupation, <ls>Daśak. in Chr. 183, 6</ls>. 2. occupation, <ls>Pañc. i. <ab>d.</ab> 79</ls>.
+68667,68668c68767,68768
+< <L>13893.002<pc>0894-a<k1>sadvf˚<k2>sadvf˚
+< {#sadvf˚#}¦ {%Sadvṛ˚%}, <ab>i. e.</ab> {%sant-%} (<ab>vb.</ab> 1. {%as%}), <lex>adj.</lex> having (heard) beautiful tales, <ls>Hit. 78, 3</ls>.
+---
+> <L>13893.002<pc>0894-a<k1>sadvfttAnta<k2>sadvfttAnta
+> {#sadvfttAnta#}¦ {%Sadvṛ˚%}, <ab>i. e.</ab> {%sant-%} (<ab>vb.</ab> 1. {%as%}), <lex>adj.</lex> having (heard) beautiful tales, <ls>Hit. 78, 3</ls>.
+68686c68786
+< <L>13894.010<pc>0894-a<k1>evamvftti<k2>evam-vftti
+---
+> <L>13894.010<pc>0894-a<k1>evaMvftti<k2>evam-vftti
+68704c68804
+< <L>13894.022<pc>0894-a<k1>tamasvftti<k2>tamas-vftti
+---
+> <L>13894.022<pc>0894-a<k1>tamovftti<k2>tamas-vftti
+68789c68889
+< <L>13902.004<pc>0895-b<k1>vayasvfdDa<k2>vayas-vfdDa
+---
+> <L>13902.004<pc>0895-b<k1>vayovfdDa<k2>vayas-vfdDa
+68792c68892
+< <L>13902.006<pc>0895-b<k1>vidyAvayasvfdDa<k2>vidyA-vayas-vfdDa
+---
+> <L>13902.006<pc>0895-b<k1>vidyAvayovfdDa<k2>vidyA-vayas-vfdDa
+68838,68839c68938,68939
+< <L>13906.002<pc>0896-a<k1>tapov˚<k2>tapov˚
+< {#tapov˚#}¦ {%Tapov˚%}, <ab>i. e.</ab> {%tapas-%}, <lex>adj.</lex> abounding in austerities, pious, <ls>Chr. 48, 2</ls>.
+---
+> <L>13906.002<pc>0896-a<k1>tapovfdDa<k2>tapovfdDa
+> {#tapovfdDa#}¦ {%Tapov˚%}, <ab>i. e.</ab> {%tapas-%}, <lex>adj.</lex> abounding in austerities, pious, <ls>Chr. 48, 2</ls>.
+68927,68928c69027,69028
+< <L>13921.002<pc>0897-b<k1>tikzRavfzaRa<k2>tikzRa-vfzaRa
+< {#tikzRa-#} + {#vfzaRa#}¦ {%Tikṣṇa-%} + {%vṛṣaṇa%}, <lex>m.</lex> a proper name, <ls>Pañc. 135, 20</ls>.
+---
+> <L>13921.002<pc>0897-b<k1>tIkzRavfzaRa<k2>tIkzRa-vfzaRa
+> {#tIkzRa-#} + {#vfzaRa#}¦ {%Tīkṣṇa-%} + {%vṛṣaṇa%}, <lex>m.</lex> a proper name, <ls>Pañc. 135, 20</ls>.
+69058c69158
+< <L>13949.002<pc>0899-a<k1>ekavenĬ<k2>eka-venĬ
+---
+> <L>13949.002<pc>0899-a<k1>ekavenI<k2>eka-venI
+69060a69161,69163
+> <L>13949.003<pc>0899-a<k1>ekaveni<k2>eka-veni
+> {{Lbody=13949.002}}
+> <LEND>
+69064c69167
+< <L>13949.006<pc>0899-a<k1>praveRĬ<k2>pra-veRĬ
+---
+> <L>13949.006<pc>0899-a<k1>praveRI<k2>pra-veRI
+69066a69170,69172
+> <L>13949.008<pc>0899-a<k1>praveRi<k2>pra-veRi
+> {{Lbody=13949.006}}
+> <LEND>
+69159,69160c69265,69266
+< <L>13965.002<pc>0900-b<k1>prasavavedana<k2>prasava-vedana
+< {#prasava-#} + {#vedana#}¦ {%Prasava-%} + {%vedana%}, <lex>f.</lex> pains in labour, <ls>Pañc. 228, 14</ls>.
+---
+> <L>13965.002<pc>0900-b<k1>prasavavedanA<k2>prasava-vedanA
+> {#prasava-#} + {#vedanA#}¦ {%Prasava-%} + {%vedanā%}, <lex>f.</lex> pains in labour, <ls>Pañc. 228, 14</ls>.
