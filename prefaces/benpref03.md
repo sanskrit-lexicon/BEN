@@ -46,9 +46,9 @@ adhy.  adhyâya.
 
  Çâk.  Çâkuntala, ed. Böhtlingk.
 
- Çântiç.  Çântiçataka, in Häberlin's Sanskrit Anthology.
+ Śântiś.  Çântiçataka, in Häberlin's Sanskrit Anthology.
 
- Çârṅg. Paddh.  Çârṅgadhara-Paddhati (MSS. used by Böhtl.).
+ Śârṅg. Paddh.  Çârṅgadhara-Paddhati (MSS. used by Böhtl.).
 
  Çatr.  Çatrum̄jayamâhâtmya, ed. A. Weber.
 
@@ -66,7 +66,7 @@ adhy.  adhyâya.
 
  Çiç.  Çiçupâlavadha, 2. ed. Calc.; the ninth book in my Chr.
 
- ÇKD.  Çabdakalpadruma.
+ ŚKD.  Çabdakalpadruma.
 
  Comp.  Compound.
 
@@ -74,13 +74,13 @@ adhy.  adhyâya.
 
  Çrut. and Çrutab.  Çrutabodha, ed. Brockhaus.
 
- Çukas.  Çukasaptati (MSS. of St. Petersburg).
+ Śukas.  Çukasaptati (MSS. of St. Petersburg).
 
- Çvet. Up.  Çvetâçvataropanishad, in Bibliotheca Indica.
+ Śvet. Up.  Çvetâçvataropanishad, in Bibliotheca Indica.
 
  d.  distich.
 
- Daçak.  Daçakumâracharita, ed. Wilson, partly in my Chr.
+ Daśak.  Daçakumâracharita, ed. Wilson, partly in my Chr.
 
  Daçar.  Daça-Rūpa, ed. Fitz-Edward Hall.
 
@@ -226,7 +226,7 @@ adhy.  adhyâya.
 
  Ssk. and Sskr.  Sanskrit.
 
- Suçr.  Suçruta, ed. Calc.; the first numeral denotes the vol., the second the page, the third the line.
+ Suśr.  Suçruta, ed. Calc.; the first numeral denotes the vol., the second the page, the third the line.
 
  Sund.  Sundopasundopâkhyâna, an episode of the MBh., ed. Bopp.
 
