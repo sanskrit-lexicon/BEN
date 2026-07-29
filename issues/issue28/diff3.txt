@@ -4234,7 +4234,7 @@
 < <L>14731.002<pc>0950-b<k1>vizamaSiz<k2>vizama-Siz
 < {#vizama-#} + {#Siz#}¦ {%Viṣama-%} + {%śiṣ%}, <lex>adj.</lex> unfair (division).
 ---
-> <L>14731.002<pc>0950-b<k1>vizamaSizwa<ak2>vizama-Sizwa
+> <L>14731.002<pc>0950-b<k1>vizamaSizwa<k2>vizama-Sizwa
 > {#vizama-#} + {#Sizwa#}¦ {%Viṣama-%} + {%śiṣṭa%}, <lex>adj.</lex> unfair (division).
 73012c73125
 < <L>14757.010<pc>0953-a<k1>dusSIla<k2>dus-SIla
