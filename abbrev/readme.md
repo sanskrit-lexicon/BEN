@@ -1,3 +1,5 @@
+_Created: 09-09-2021 · Last updated: 05-09-2026_
+
 ## Adding ab and ls markup to Benfey.
 
 Brief description of files
@@ -40,4 +42,4 @@ Used as basis of above files
 * redo.sh  Useful script for redoing the steps required to generate version
   of digitization with ab, ls markup
 
-
+_Dr. Mārcis Gasūns_

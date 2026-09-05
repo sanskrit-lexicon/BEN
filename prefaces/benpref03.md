@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for ben)
 source_page: CONTRACTIONS AND SIGNS.
@@ -265,3 +267,5 @@ adhy.  adhyâya.
  +  denotes grammatical elements of a word.
 
  *  denotes fictitious forms.
+
+_Dr. Mārcis Gasūns_

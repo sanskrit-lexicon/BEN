@@ -1,3 +1,5 @@
+_Created: 05-07-2026 · Last updated: 05-09-2026_
+
 # issue19: Convert BEN `<ls>` References to PWG-Style Format (Round-Trip)
 
 Converts BEN's `<ls>` markup from the CDSL standard style
@@ -112,3 +114,5 @@ python3 issues/issue19/revert_ls.py
 ```
 
 Outputs written to `temp_ben_1.txt` and `temp_ben_2.txt`.
+
+_Dr. Mārcis Gasūns_

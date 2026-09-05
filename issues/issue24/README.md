@@ -1,3 +1,5 @@
+_Created: 07-07-2026 · Last updated: 05-09-2026_
+
 # Issue 24 — Wrap bare source+ref patterns outside `<ls>` tags
 
 ## Problem
@@ -51,3 +53,5 @@ Lines changed: 20 (of 86,989)
 <ls n="..."> tags (issue22): unchanged (1,546)
 Original <ls> tags preserved: 100%
 ```
+
+_Dr. Mārcis Gasūns_

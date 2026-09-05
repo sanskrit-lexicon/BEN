@@ -1,3 +1,5 @@
+_Created: 30-06-2026 · Last updated: 05-09-2026_
+
 # issue15 — Study of `<ls>` tags in BEN
 
 Study of `<ls>…</ls>` tag occurrences in the Benfey Sanskrit-English Dictionary, and mapping them to expanded forms (text/author references).
@@ -32,3 +34,5 @@ python3 ls_coverage.py   # coverage comparison only
 
 - **49,234** total `<ls>` tag occurrences across **219** unique values in `ben.txt`.
 - **100%** coverage (all 219 unique values have entries in `ls_input.txt`).
+
+_Dr. Mārcis Gasūns_

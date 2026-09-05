@@ -1,6 +1,8 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — русский
 
-Per-page files: `benprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `benprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BEN/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -427,3 +429,5 @@ adhy.  adhyâya.
  +  обозначает грамматические элементы слова.
 
  *  обозначает фиктивные формы.
+
+_Dr. Mārcis Gasūns_

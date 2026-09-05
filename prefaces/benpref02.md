@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for ben)
 source_page: PREFACE.
@@ -131,3 +133,5 @@ which they have rendered to me while carrying this work through
 the press.
 
 GÖTTINGEN: Jan. 1, 1866.
+
+_Dr. Mārcis Gasūns_

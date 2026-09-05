@@ -1,3 +1,5 @@
+_Created: 30-04-2020 · Last updated: 05-09-2026_
+
 # issue14 — Study of `<ab>` tags in BEN
 
 Study of `<ab>…</ab>` tag occurrences in the Benfey Sanskrit-English Dictionary, and mapping them to expanded forms.
@@ -52,3 +54,5 @@ The `benab_input.txt` file was built from the upstream `csl-pywork` source (106 
 - **Scholar/author names**: `Böhtl.` (Böhtlingk), `Bopp.`, `Stenzl.` (Stenzler), `M.M.` (Max Müller), `Wils.` (Wilson), `Chezy.`/`C.` (Chezy), `Haug.`, `Brockh.` (Brockhaus), `Tacit.` (Tacitus), `T.` (Theodor Benfey), etc.
 - **Scholarly apparatus**: `ib.` (ibidem), `cf.` (confer), `q. v.` (quod vide), `sc.` (scilicet), `e. g.` (exempli gratia), `viz.` (videlicet), `ap.` (apud), etc.
 - **Text references**: `rec. orn.` (recensio ornatior), `Sch.`/`Schol.` (Scholiast), `sarg.` (sarga), `adhy.` (adhyāya), `MS.`/`MSS.` (manuscript).
+
+_Dr. Mārcis Gasūns_

@@ -1,6 +1,8 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # Front matter — English
 
-Per-page files: `benprefNN.md`. Index: [README.md](README.md).
+Per-page files: `benprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BEN/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -419,3 +421,5 @@ adhy.  adhyâya.
  +  denotes grammatical elements of a word.
 
  *  denotes fictitious forms.
+
+_Dr. Mārcis Gasūns_

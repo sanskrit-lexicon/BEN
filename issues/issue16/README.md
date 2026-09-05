@@ -1,3 +1,5 @@
+_Created: 04-07-2026 · Last updated: 05-09-2026_
+
 # issue16: `<ls>` Reference Analysis
 
 Analyses the consistency of literary source (`<ls>`) references across
@@ -105,3 +107,5 @@ Input is `temp_ben_1.txt` and output is `temp_ben_2.txt`.
 git diff --word-diff --no-index temp_ben_1.txt temp_ben_2.txt > diff2.txt
 
 c726170 is the commit which was made to csl-orig repository based on temp_ben_2.txt.
+
+_Dr. Mārcis Gasūns_

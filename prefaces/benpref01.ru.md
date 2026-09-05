@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for ben)
 source_page: A SANSKRIT-ENGLISH DICTIONARY
@@ -19,3 +21,5 @@ extraction: csldoc-html-text
 ГРЕЧЕСКОМ, ЛАТИНСКОМ, ГОТСКОМ И АНГЛОСАКСОНСКОМ
 
 ТЕОДОР БЕНФЕЙ
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 04-10-2021 · Last updated: 05-09-2026_
+
 # Step 1
 
 1. `https://github.com/sanskrit-lexicon/csl-devanagari/files/7272000/ben_Main.txt` copied as `ben_ab0.txt`. This file will not be changed.
@@ -17,4 +19,4 @@ This file will also not be changed.
 
 # Statistics
 
-
+_Dr. Mārcis Gasūns_

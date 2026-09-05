@@ -1,3 +1,5 @@
+_Created: 08-07-2026 · Last updated: 05-09-2026_
+
 # Issue 29: `<ab>` → `<lex>` tag conversion
 
 ## Files
@@ -42,3 +44,5 @@ Example: `<ls>.... <ab>n.</ab> ....</ls>`.
 python3 convert_lex_tags.py
 ```
 Output: `temp_ben_1.txt`.
+
+_Dr. Mārcis Gasūns_

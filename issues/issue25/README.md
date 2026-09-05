@@ -1,3 +1,5 @@
+_Created: 07-07-2026 · Last updated: 05-09-2026_
+
 # Issue 25 — Wrap bare semicolon-digit refs after `<ls>` tags
 
 ## Problem
@@ -75,3 +77,5 @@ Unwrapped '; DIGIT.' after </ls>:  170 → 0
 '<' in n= attribute values:           0
 Diff script vs manual correction:  610 lines
 ```
+
+_Dr. Mārcis Gasūns_

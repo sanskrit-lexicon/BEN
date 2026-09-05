@@ -1,3 +1,5 @@
+_Created: 29-06-2026 · Last updated: 05-09-2026_
+
 ben_main_L2a.txt file is provided by Andhrabharati on 02 May 2022 at <https://github.com/sanskrit-lexicon/csl-devanagari/issues/32#issuecomment-1115115483>.
 ben_addenda.txt file is provided by Andhrabharati on 18 February 2022 at <https://github.com/sanskrit-lexicon/BEN/issues/5#issuecomment-1044573674>.
 They may have been taken some days back from CDSL and enriched by Andhrabharati.
@@ -201,3 +203,5 @@ Date:   Tue Jun 30 14:37:02 2026 +0530
     csl-orig corrections from the diverging commit carried back into AB which is now on CDSL. See https://github.com/sanskrit-lexicon/BEN/issues/5
 
 ```
+
+_Dr. Mārcis Gasūns_
