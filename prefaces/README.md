@@ -11,6 +11,6 @@ Russian translations: add as `.ru.md` (Phase 4).
 | 01 | A SANSKRIT-ENGLISH DICTIONARY | [benpref01.md](https://github.com/sanskrit-lexicon/BEN/blob/main/prefaces/benpref01.md) |
 | 02 | PREFACE. | [benpref02.md](https://github.com/sanskrit-lexicon/BEN/blob/main/prefaces/benpref02.md) |
 | 03 | CONTRACTIONS AND SIGNS. | [benpref03.md](https://github.com/sanskrit-lexicon/BEN/blob/main/prefaces/benpref03.md) |
-| 04 | csldoc | [benpref04.md](benpref04.md) |
+| 04 | csldoc | benpref04.md |
 
 _Dr. Mārcis Gasūns_
